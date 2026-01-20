@@ -1,0 +1,201 @@
+COURT: High Court of Delhi at New Delhi
+CASE_TYPE: Arbitration
+CASE_NO: CS(COMM) 1059/2025
+DATE: 23rd December, 2025
+PLAINTIFF: Mr. Sourav Daspatnaik
+DEFENDENT: StratGrwoth Business Advisors LLP & Ors.
+JUDGE: Hon'ble Mr. Justice Purushaindra Kumar Kaurav
+
+--------JUDGEMENT---------
+
+This civil suit by the plaintiff is, essentially, against defendant nos. 1
+to 3 seeking permanent and mandatory injunction restraining them
+exercising any rights as shareholders or director of the defendant no.4-
+company.
+2. The fundamental grievance raised by the plaintiff is premised on the3
+ground that the defendant nos. 1 to 3 have, illegally and improperly,
+defrauded the plaintiff of huge sums of monies and have fraudulently
+grabbed and taken over the entire shareholding of the defendant no.4, and
+majority shareholding of the defendant no.5-companies. It is, thus, stated
+that defendant nos.4 and 5-companies have been caused significant wrongful
+loss.
+3. The defendants, in limine, have raised objections on the
+maintainability of the suit, essentially, relating to non-compliance with the
+mandate under Section 12A of the Commercial Courts Act, 2015, the suit
+being barred under Section 430 of the Companies Act, 2013 (hereinafter
+“Companies Act”), and the existence of an arbitration agreement between
+the parties.
+4. The case set up in the plaint is that the plaintiff is the Managing
+Director at the defendant no. 4-company, Swach Environment Pvt. Ltd.
+(hereinafter “Swach”). The defendant no. 5-company, Haldia Water
+Services Private Limited (hereinafter “HWSPL”) is a subsidiary of Swach.
+The defendant no.1 firm, StratGrwoth Business Advisors LLP (hereinafter
+“StratGrwoth”) along with its partners, being defendant nos. 2 and 3, were
+business advisors.
+5. Between the years 2018 and 2020, Swach appears to have availed
+loans exceeding Rs. 67,00,00,000/- (Rupees Sixty Seven Crore only) from a
+third-party creditor, SREI (hereinafter “SREI”). Swach defaulted in
+repayment of the said loans and SREI initiated proceedings under Section 7
+of the Insolvency and Bankruptcy Code, 2016. Thereafter, the plaintiff was
+introduced to StratGrwoth and defendant nos. 2 to 3 for availing business4
+advisory services for Swach. StratGrwoth and defendant nos. 2 to 3 were to
+help identify suitable investors for Swach and facilitate capital infusion.
+6. In furtherance of the aforesaid arrangement, the following agreements
+were executed:
+i. Loan-cum-Pledge Agreement dated 17.01.2025 between StratGrwoth,
+through defendant no. 2, and the plaintiff (hereinafter “Loan Agreement”);
+ii. Share Purchase Agreement dated 17.01.2025 between StratGrwoth,
+SREI, and Swach, (hereinafter “SPA”); and
+iii. One Time Settlement Agreement dated 31.03.2025 between Swach,
+SREI, and StratGrwoth (hereinafter “OTS”).
+7. The arrangement was that the plaintiff would advance a loan to
+StratGrwoth to acquire hundred per cent shareholding in Swach from SREI,
+under the Loan Agreement. The said acquisition of shares would be in terms
+of the SPA. Thereafter, the StratGrwoth and defendant nos. 2 to 3 would
+find suitable investors to facilitate the clearance of Swach‟s outstanding
+dues with SREI in terms of the OTS. Under the Loan Agreement, upon the
+transfer of hundred per cent shareholding to StratGrwoth, the shares were to
+be pledged in favour of the plaintiff, which he would invoke to gain control
+of Swach.
+8. However, Swach defaulted in its obligations under the OTS,
+allegedly, on account of defaults by defendant nos. 1 to 3. Further, the said
+defendants did not pledge the shares in favour of the plaintiff and have,
+instead, repaid the loan amount to him. On the other hand, they have set
+about to reconstitute the Board of Directors of Swach and HWSPL, and
+suspended the plaintiff as a director at Swach and HWSPL.5
+9. Mr. Tanmaya Mehta, learned counsel for defendant nos. 1 to 3,
+submits that the dispute, essentially, relates to the management of Swach,
+and therefore, ought to be raised before the NCLT under the Companies Act.
+As such, he submits, this Court does not have jurisdiction to entertain the
+suit in view of the bar under Section 430 of the Companies Act. Mr. Rishav
+Banerjee, learned counsel for defendant nos. 4 and 5, adopts the submissions
+of Mr. Mehta.
+10. Mr. J. Sai Deepak, learned senior counsel for the plaintiff, submits
+that the wrong sought to be remedied by way of the suit is not the
+management of Swach by defendant nos. 1 to 3, but the fraud played by
+them on Swach, in so far as they never had any intention to facilitate
+infusion of funds into Swach and had, on the basis of the fraudulent
+representations, induced the plaintiff and Swach to enter into the aforesaid
+arrangement with them. The dispute, he submits, involves serious questions
+of fraud, and as such, can only be adjudicated by a Civil Court.
+11. He further submits, without prejudice to his contentions, that the
+plaintiff being a non-shareholder director, is not a „member‟ for the purposes
+of Section 244 of the Companies Act so as to be able to move the NCLT
+under Section 241 thereof. Therefore, according to him, the dispute does not
+fall within the jurisdiction of the NCLT and therefore, the suit is not barred
+under Section 430 of the Companies Act.
+12. I have heard learned counsel for the parties and perused the record.
+13. If the plaint averments are perused in the context of the prayer, it is
+clear that plaintiff seeks to assert rights of Swach and HWSPL in his
+capacity as their director. The same is evident from a bare perusal of the
+alleged causes of action as claimed in paragraph no. 47 of the plaint, which6
+is extracted below, for reference:
+“The cause of action first arose in September 2023 when the Defendant
+Nos. 1 to 3 induced the Plaintiff at Indian Habitat Centre introduced by
+Dr. Ajay Pradhan, Independent Director of Swach in good faith and
+which meeting was also attended by Mr. Sundeep Malhotra and Mr.
+R.K. Srivastava, with false representations. The cause of action further
+arose when the Plaintiff acting for Defendant No.4 executed the
+Advisory Mandate/Engagement Letters dated 08.12.2023 and thereafter
+again on 03.02.2024. The cause of action further arose when believing
+upon the false representations, the Plaintiff was made to part ways with
+huge some of monies. The cause of action further arose on 17.01.2025,
+when Defendant Nos. 1 to 3 further induced Plaintiff into believing their
+false representations by executing a Loan-cum-Pledge Agreement for
+Rs. 15,00,000/- which was supposedly used for purchase of the shares.
+The cause of action further arose when Defendant Nos. 1 to 3 gave
+effect to their grand illegal design by executing a tripartite One Time
+Settlement Agreement dated 31.03.2025 between Swach, SEFL, and the
+Defendant No. 1 for settlement of Swach’s outstanding dues towards
+SEFL. The cause of action further arose on 28.05.2025, when parties
+held a meeting in the office of Swach, Avanta Business Centre, West
+End Saket, New Delhi when once again Plaintiff requested the
+Defendant Nos. 1 to 3 that the pledge agreement be executed at the
+earliest especially when the personal guarantee for the funding
+agencies for payment of OTS amount is being provided by him. The
+cause of action further arose on in August 2025, wherein Defendant
+Nos. 1 to 3 stated that Swach should make the payment from its internal
+accruals and gave effect to their final step of the grand illegal design to
+usurp control of Swach by convening an EGM. The cause of action last
+arose on 09.09.2025 when the Defendant Nos. 1 to 3 in furtherance of
+their mala-fide intention called for the Annual General Meeting of
+Board on 30.09.2025. As such the cause of action is still continuing.”
+(Emphasis supplied)
+14. It is seen that each cause of action relates to the defendants no. 1 to
+3‟s shareholding in Swach and their alleged grand illegal design to usurp
+control of the company. The only agreement with defendant nos. 1 to 3,
+which the plaintiff is privy to, is the Loan Agreement. However, with the
+loan amount under the said Agreement having been repaid to the plaintiff,
+no relief is claimed under the same. Therefore, there is no doubt that the7
+present suit is in the purported best interests of Swach and HWSPL.
+15. However, subsequent to the filing of the suit, the plaintiff has been
+suspended as the Managing Director of Swach vide resolution of the
+purported meeting of the Board of Directors dated 17.11.2025, and as a
+Whole-Time Director at HWSPL vide the resolution of the purported
+meeting dated 19.11.2025 of the Board of Directors. This position has been
+brought on record by the plaintiff vide I.A. 29148/2025.
+16. Even assuming that these two resolutions are non est in the eyes of
+law, the question as to whether the plaintiff can institute the civil suit being
+merely a director, on behalf of Swach and HWSPL, is an issue which
+assumes significance at the threshold.
+17. A company is a distinct entity, and it is the company which has to
+determine whether it will make anything that is wrong to the company a
+subject-matter of litigation, or whether it will take steps itself to prevent the
+wrong from being done. If a director is to institute a suit on its behalf, he has
+to be authorised to do so by the company. Reference can be made to the
+decision of the Calcutta High Court in Al Amin Seatrans Ltd v. Owners and
+Party Interested in Vessel M V Loyal Bird.1 The Bombay High Court took a
+similar view in its decision in Bsn (Uk) Ltd. and Others v. Janardan
+Mohandas Rajan Pillai and Ors. 2 The relevant portion of the said decision
+is extracted below, for reference:
+“27. A non-proprietary director is entitled to sue the company only in
+certain cases. In Pulbrook v. Richmond Consolidated Mining Co.
+[1878] 9 Ch 610, it was held that where a director who is improperly
+and without cause excluded by his brother directors from the board, he
+is entitled to an order restraining such directors from so excluding him.
+1AIR 1995 CAL 169.
+21993 (3) BOM CR 228.8
+The second plaintiff is not attempting to enforce any of his individual
+statutory rights. Like any other employee of a company a non-
+shareholder director owes duties to the company but has no right to
+exercise any of the powers which a shareholder who is a proprietor of
+the company can exercise. The case of Jackson v. Minister Bank Ltd.
+[1885] 15 LR Ir 356 relied upon by Mr. Chinoy is an Irish case. The
+case of Jackson (supra) and also the case of Joint Stock Discount Co. v.
+Brown [1869] LR Eq. Cases 381 also relied upon by Mr. Chinoy are
+contrary to settled Indian law and as such, have neither persuasive nor
+binding effect. These cases even do not hold that a non-shareholder
+director can maintain a derivative action on behalf of the company.
+Even the articles of association of a company constitute contract
+between the company and its members but do not confer any rights on a
+person other than a member. The articles of association do not confer
+any rights on a non-proprietary director of the company.”
+18. In view of the foregoing discussion, what follows is that the suit is not
+maintainable because the plaintiff does not have any locus standi to institute
+the same as he does not claim to have been authorised by Swach in this
+regard. Therefore, there is no cause of action for the plaintiff to institute the
+suit, and the plaint is liable to be rejected under Order VII Rule 11(a) of the
+Code of Civil Procedure, 1908.
+19. If the plaintiff seeks to assert any of his rights, the reliefs sought in the
+suit will have to be appropriately framed. The nature of the relief prayed in
+the present suit cannot be granted at the instance of the plaintiff, as the
+plaintiff seeks interference with the internal governance of separate legal
+entities i.e., Swach and HWSPL, which otherwise is to be in accordance
+with the wishes of the shareholders. The plaintiff, admittedly, does not have
+any shareholding in the companies. If he has any grievance, being a director,
+in respect of the suspension/termination of his directorship, he may take
+recourse to the appropriate legal remedies for enforcement of his terms of
+appointment/employment. In the absence of any express authorisation to do
+the same, he cannot be allowed to don the mantle of the company itself, and9
+file suits on its behalf. Swach and HWSPL, being distinct legal entities, are
+fully capable of protecting their interests through their shareholders, and
+their directors would be bound by the decisions of the shareholders; whether
+or not to institute an action, against any wrongdoing.
+20. In view of the foregoing delineation of law, the submissions made by
+learned counsel on the other issues are not being dealt with on their merits.
+21. Accordingly, the suit along with the pending applications stands
+dismissed.
+(PURUSHAINDRA KUMAR KAURAV)
+JUDGE
+DECEMBER 23, 2025
+P

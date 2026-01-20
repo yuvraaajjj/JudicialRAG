@@ -1,0 +1,851 @@
+COURT: Commercial Court, Delhi
+CASE_TYPE: Commercial Suit
+CASE_NO: RFA(COMM) 35/2023
+DATE: 07th JULY, 2025
+PLAINTIFF: SKY CABLE INDUSTRIES & ANR. 
+DEFENDANT: M/S KKM OVERSEAS PRIVATE LTD.
+JUDGE: Justice SUBRAMONIUM PRASAD & Justice HARISH VAIDYANATHAN SHANKAR
+
+----JUDGMENT-----
+
+The present appeal under Section 13 of the Commercial Courts Act, 2015
+has been preferred for setting aside the Impugned Judgment dated
+13.10.2022 passed by the Ld. District Judge (Commercial Courts), South
+East District, Saket Courts, New Delhi (hereinafter referred to as "Trial
+Court") in CS (COMM) No.28/2020.
+2. The Appellant No 1 (original Defendant No. 1) is a partnership firm
+engaged in the sale of electronic goods such as mobile phones and tablets,
+and Appellant No. 2 (original Defendant No. 2), is a partner in the said
+firm.
+3. The Respondent (original Plaintiff) is engaged in the business of
+providing freight forwarding services through air, sea and land, customs
+clearance and warehousing etc.
+4. Shorn of unnecessary details, the facts leading to the filing of the instant
+Appeal are as under:-
+a. The Appellants and Respondent were engaged in business with
+each other for several years. Appellant No.1 used to place orders
+through its partner i.e. Appellant No. 2 for freight forwarding
+services of the Respondent for delivery of cargo from various
+foreign countries to India. Payment for these services used to be
+made from time to time.
+b. The said service was availed by the Appellants in April 2019 for
+the purpose of consigning electronic items from Hong Kong to IGI
+Airport, Delhi. Three invoices were raised for this service by the
+Respondent. The details of those invoices are as follows:
+i. Invoice No.DELAI1920GST0022 (hereinafter referred
+to as “Invoice No.22”) dated 29.04.2019 for Rs.1,60,798/-
+ii. Invoice No. DELAI1920GST0023 (hereinafter referred
+to as “Invoice No.23”) dated 29.04.2019 for Rs.3,30,965/-
+iii. Invoice No. DELAI1920GST0048 (hereinafter referred
+to as “Invoice No.48”) dated 11.06.2019 for Rs.80,094/-
+The total outstanding amount claimed was Rs.5,71,857/-.
+c. As per the Respondent, the Appellant failed to make payments
+against these invoices in spite of repeated reminders. However, as
+per the Appellants, the goods were not delivered on time by the
+Respondent and as a result the Appellants suffered financial set
+back and issued two debit notes against Invoice No.22 and Invoice
+No.23.
+d. With respect to Invoice No.48 the Appellants, have averred that in
+spite of their willingness to pay the outstanding amount the
+Respondent never collected the cheque and no interest whatsoever
+is payable on the same.
+e. Thereafter the Respondent herein, filed a Commercial Suit bearing
+No. CS(Comm) 28/2020 before the Trial Court praying for a decree
+of Rs.6,23,324/- i.e. amount due for the three invoices along with
+Rs.51,467/- towards interest which was calculated at the rate of 18
+% from 11.06.2019 until filing of the suit along with pendente lite
+interest.
+f. The relevant portion of the written statement is being reproduced as
+under:
+“1. That the Plaintiff putting his evil mind to work, has
+manipulated the facts of the case with ill intent to
+harass the Defendants and malign the reputation and
+goodwill of the Defendants in the market. The correct
+facts of the case are:
+a. That the Defendants is a partnership firm, which has
+a well-established manufacturing unit, dealing
+primarily in electronic products such as Mobiles,
+Tablets etc. and it is having a strong and stable name
+in the electronic industry over the world.
+b.That the Defendants placed the order to the Plaintiff
+for providing the freight services on the basis of the
+goodwill of the Plaintiff in the market. The Plaintiff,
+even after the promises and assurances to deliver the
+goods on time, miserably failed to deliver the goods in
+the prescribed frame of time, as was agreed and
+promised, due to which the Defendants suffered not
+only the financial losses but also irreparable losses
+and injuries to the goodwill as well as to the reputation
+of the Defendants in the market as further
+clients/customers of the Defendants cancelled the order
+due to the delay and has also denied to place any
+further order of the goods to the Defendants. One of
+Defendants' client had issued the debit note to
+Defendants on account of failure to supply goods
+timely, which was on account of the failure on the part
+of the Plaintiff to deliver goods on time.
+c. It is pertinent to mention here that due to
+insufficiency in the services rendered by the Plaintiff to
+the Defendants, the Defendants have duly issued the
+Debit Note vide no.1 of the amount Rs.3,30,965/- dated
+14.05.2019, and Debit Note vide no. 2 of the amount
+Rs. 1,60,798/- dated 14.05.2019 against the Tax
+Invoices raised by the Plaintiff for the services vide ref
+no. DELAI1920GST0023 and vide ref no.
+DELAI1920GST0022 dated 29.04.2019, which was
+very well within the knowledge of the Plaintiff and is
+even apparent from the mail dated 15.10.2019,
+exchanged between the employees of Plaintiff and
+Defendants. Hence, there is no liability of the
+Defendants to pay towards the abovementioned
+Invoices to the Plaintiff. This act of the Plaintiff only
+depicts the malafide intent of Plaintiff to extract money
+from the Defendants without any rhyme and reason.
+d. That the Defendants, herein admit to make payment
+against the Invoice No. DELAI1920GST0048, dated
+11.06.2019 amounting Rs.80,094/- raised by the
+Plaintiff, about which the Defendants duly intimated
+the Plaintiff and requested the Plaintiff to collect the
+cheque of Rs.80,000/- from the office of the
+Defendants, which was kept ready by the Defendants
+long back. It is further evident from various occasions
+and communications between the employees of the
+Plaintiff and Defendants that the Defendants were
+willing to make payment for the Invoice
+No.DELAI1920GST0048 on time. However, for the
+reasons best known to the Plaintiff, inspite of collecting
+the cheque, the Plaintiff with malafide intent filed the
+present frivolous suit to harass the Defendants and to
+grab the interest from the Defendants. Hence, the
+Defendants are not liable to pay any interest
+whatsoever.
+e. However, despite the above categorical
+understanding and terms agreed between the parties
+regarding the Invoices and the Debit Notes, the
+Plaintiff with ill and malicious intent filed the present
+suit to illegally grab the amount and the interest from
+the Defendants, which the Defendants are not even
+liable to pay.
+f. Moreso, with the ill intent to harass the Defendants
+and to cheat the Defendants, the Plaintiff fraudulently
+provided manipulated and forged Airway Bill vide
+no.77545187995, which was serviced vide Service
+Order Nos. TW190426 & TW190428. The bare perusal
+of both the Service Orders, it can be clearly seen that
+in first Service Order vide No. TWI190426, it was
+mentioned that the total number of boxes were 242
+with gross weight of 2536 kg and in the other Service
+Order vide No.TI190428 the total number of boxes
+were 84 with gross weight of 1198 kg, whereas, the
+actual number of packages were 151 & 175
+respectively, which only came into the knowledge of
+the Defendants after they tracked the shipment on the
+custom site „ICEGATE‟. Hence, it is very well evident
+from this act of the Plaintiff that the Plaintiff not only
+wanted to harass the Defendants but also had an
+intention to surreptitiously make monetary benefits out
+of the Defendants by playing fraud on them.
+PRELIMINARY OBJECTIONS:
+1. That the present suit as filed by the Plaintiff against
+the Defendants, is not maintainable against the
+Defendants before this Hon'ble Court and liable to be
+returned to be presented to another court having
+competent jurisdiction; as Defendant No. 1 herein is a
+Partnership firm, having its registered office at Village
+Moginand, Tehsil Nahan, District Sirmour, Himachal
+Pradesh-173030 and neither the Defendant is situated
+within the jurisdiction of this Hon'ble Court nor any
+alleged cause of action arose within the jurisdiction of
+this Hon'ble Court.
+2. That the present suit for recovery of Rs.6,23,324/-
+arises out of malafide motive to coerce the Defendants
+in satisfying some baseless, frivolous and fictitious
+claims made by the Plaintiff Company against the
+Defendants. The Plaintiff is guilty of SuperessoVari
+and SuggetioFalsi and has suppressed & concealed
+very material facts with regard thereto from this
+Hon'ble Court with malafide motives.
+3. That the Plaintiff has not only fraudulently filed the
+suit against the Defendants but has also played fraud
+with this Hon'ble Court by misrepresenting and
+misleading this Hon ble Court by averring about the
+other two different firms i.e., Alpha Radios and Neo
+Enterprises, which do not even pertains to the present
+suit. Hence, the Plaintiff is just mixing and merging
+facts to take some benefit out of the Defendants, which
+is not legally permitted at all.
+4. That the present suit as filed by the Plaintiff
+Company against the Defendants is liable to be
+rejected/dismissed under the provisions of Order VII
+Rule 11 CPC, 1908 inasmuch as there exist no cause of
+action in favour of the Plaintiff and against the
+Defendants.
+5. It is submitted that the frivolous claim has been
+raised by the Plaintiff in his Plaint against the
+Defendants which is complete moonshine and nothing
+but an attempt to mislead, misguide and play fraud
+upon this Hon'ble Court as no averments raised by the
+Plaintiff.
+6. That the present suit is nothing but a blatant abuse
+and misuse of judicial process, just to harass
+defendants by dragging him before this Hon'ble court
+and also to tarnish the Image of the defendants. Thus,
+the present suit of the Plaintiff is bad in law and is
+thus, is liable to be dismissed with exemplary costs.
+REPLY ON MERITS
+1. That the contents of Para no.1 of the Plaint are
+denied for want of knowledge.
+2. That the contents of Para no.2 of the Plaint are
+denied for want of knowledge. The Plaintiff is put to
+strict proof of the same.
+3. That the contents of Para no.3 of the Plaint are a
+matter of record and need no reply.
+4. That the contents of Para no.4 of the Plaint are a
+matter of record and need no reply.
+5. That the contents of Para no.5 of the Plaint are a
+matter of record and need no reply.
+6. That the contents of Para no.6 of the Plaint are a
+matter of record and need no reply. However, only on
+the basis of the false promises and assurances given by
+the Plaintiff that the goods will be supplied to the
+Defendants within the usual frame of time after the
+despatch by the respective vendor from the respective
+country, the Defendants used to place order with the
+Plaintiff for providing services of forwarder. Moreso,
+this is an admitted fact that the Defendants used to
+make all the payments on time for the services
+rendered by the Plaintiff. The contents of preliminary
+objections/ submissions may be read as reply to Para
+under reply.
+7. That the contents of Para no.7 of the Plaint are
+admitted to the extent that the Defendant have been
+making payments to the Plaintiff firm from time to
+time. The contents of preliminary objections/
+submissions may be read as reply to Para under reply.
+8.
+8. That the contents of Para no, 8 of the Plaint are a
+matter of record and need no reply.
+9. That the contents of Para no. 9 of the Plaint are
+absolutely wrong and incorrect; being baseless and
+frivolous and are hence denied. It is denied that as on
+11.06.2019 an amount of Rs.5,71,857/- exclusive of
+interest, is due or outstanding against the Tax Invoices
+raised by the Plaintiff firm to the Defendants. It is
+submitted that due to insufficiency in the services
+rendered by the Plaintiff to the Defendants, the
+Defendants have duly issued the Debit Note vide no. 1
+of the amount Rs. 3,30,965/- dated 14.05.2019 and
+Debit Note vide no. 2 of the amount Rs. 1,60,798/-
+dated 14.05.2019 against the Tax Invoices raised by
+the Plaintiff for the services vide ref no.
+DELAI1920GST0023 and vide ref no.
+DELAI1920GST0022 dated 29.04.2019, which clearly
+shows that as on 11.06.2019 it was within the
+knowledge of the Plaintiff that the Defendants are not
+liable to pay for the abovesaid Invoices. The contents
+of preliminary objections/submissions may be read as
+reply to Para under reply.
+10. That the contents of Para no.10 of the Plaint are
+absolutely wrong and incorrect; being baseless and
+frivolous and are hence denied for want of knowledge.
+The Plaintiff is put to strict proof of the same. The
+contents of preliminary objections/ submissions may be
+read as reply to Para under reply.
+11. That the contents of Para no. 11 of the Plaint are
+absolutely wrong and incorrect; being baseless and
+frivolous and are hence denied for want of knowledge.
+The Plaintiff is put to strict proof of the same. The
+contents of preliminary objections/ submissions may be
+read as reply to Para under reply.
+12. That the contents of Para no. 12 of the Plaint are
+absolutely wrong and incorrect; being baseless and
+frivolous and are hence denied. It is denied that the
+Tax Invoice bearing No. DELA1920GST0048 for Rs.
+80,094/- dated 11.06.2019 with MAWB No.
+77545187995 and HAWB Nos. TW190426 was issued/
+provided to Defendants as Plaintiff received the Debit
+Note from the agent late and because of the agents
+mistake they printed wrong weight on the HAWB, It is
+further denied that alongwith the Tax Invoice Plaintiff
+provided Airline MAWB and Manifest which clearly
+proved the Chargeable weight difference. It is
+submitted that the Plaintiff has fraudulently taken a
+false contention to cover up their lacunas and
+lacklustre attitude in providing the services. The bare
+perusal of the mail dated 12.06.2019 reveals that the
+Defendants has duly investigated the documents and
+checked the weight which was correct and no
+difference, whatsoever was found by the Defendant in
+the weight. Infact, it is evident from the mail dated
+12.06.2019 that the Plaintiff has concocted a web by
+raising a wrong issue that too after a month of the
+transaction took place, just with the malafide intent to
+extort the money from the Defendants. Moreso, the ill
+intent to not only harass the Defendants but also, make
+monetary, benefits out of the Defendants, the Plaintiff
+fraudulently provided manipulated and forged Airway
+Bill vide no. 77545187995, which was serviced vide
+Service Order Nos. TW190426 & TW190428 to the
+Defendants. The bare perusal of both the Service
+Orders, it can be clearly seen that in first Service
+Order vide No. TWI190426, it was mentioned that the
+total number of boxes were 242, with gross weight of
+2536 kg and in the other Service Order vide No.
+TI190428 the total number of boxes were 84 with gross
+weight of 1198 kg, whereas, the actual number of
+packages were 151 175 respectively, which only came,
+into the knowledge of the Defendants after they tracked
+the shipment on the custom site 'ICEGATE'. The
+Defendant calls upon the Plaintiff to prove to the hilt
+the averments as are contained in Para No. 12 of the
+Plaint. The contents of preliminary objections/
+submissions may be read as reply to Para under reply.
+13. That the contents of Para no. 13 of the Plaint are
+absolutely wrong and incorrect; being baseless and
+frivolous and are hence denied. It is vehemently denied
+that the services provided by the Plaintiff to the
+Defendants were to the utmost satisfaction. The
+Defendant calls upon the Plaintiff to prove to the hilt
+the averments as are contained in Para No. 13 of the
+Plaint. The contents of preliminary abjections/
+submissions may be read as reply to Para under reply.
+14. That the contents of Para no. 14 of the Plaint are
+absolutely wrong and incorrect; being baseless and
+frivolous and are hence denied. It is denied that inspite
+of various written requests, demand and reminders
+made by the Plaintiff to the Defendants, the Defendants
+have failed and neglected to make the payment. The
+Defendant calls upon the Plaintiff to prove to the hilt
+the averments as are contained in Para No. 14 of the
+Plaint. The contents of preliminary objections/
+submissions may be read as reply to Para under reply.
+15. That the contents of Para no. 15 of the Plaint are
+absolutely wrong and incorrect; being baseless and
+frivolous and are hence denied. It is denied that the
+Defendants failed to make payment of the aforesaid
+amount to the Plaintiff. It is submitted that the
+Defendants has no liability to pay any amount except
+Rs.80,000/- against the Invoice No.DELAI19200048
+and nor has any liability to pay any kind of interest as
+alleged. The Defendant calls upon the Plaintiff to
+prove to the hilt the averments as are contained in
+Para No. 15 of the Plaint. The contents of preliminary
+objections/ submissions may be read as reply to Para
+under reply.
+16. That the contents of Para no. 16 of the Plaint are
+absolutely wrong and incorrect; being baseless and
+frivolous and are hence denied. It is denied that, the
+aforesaid emails were duly served upon the Defendants
+but inspite of that the Defendants has not complied
+with the same. It is an admitted fact that the emails
+were exchanged between the Plaintiff and Defendants
+but the Defendant out rightly denies and disputes the
+content of the emails and as such the Plaintiff is called
+upon to strictly prove the contents of the emails. It is
+further submitted that the Plaintiff has concocted a web
+by raising frivolous averments even after being well
+acquainted with the facts and circumstances as there
+was nothing in the emails to which the Defendants
+should have complied with in view of the objections
+and issuance of debit notes. The contents of
+preliminary objections/ submissions may be read as
+reply to Para under reply.
+17. That the contents of Para no. 17 of the Plaint are
+absolutely wrong and incorrect; being baseless and
+frivolous and are hence denied. It is submitted that the
+Plaintiff is trying to misrepresent this Hon'ble Court by
+averring about the other two different firms i.e., Alpha
+Radios and Neo Enterprises, which do not even
+concerns to the present suit. This averment is nothing
+but is merely an attempt to mislead, misguide and play
+fraud upon this Hon'ble Court. The Defendant calls
+upon the Plaintiff to prove to the hilt the averments as
+are contained in Para No. 17 of the Plaint. The
+contents of preliminary objections/ submissions may be
+read as reply to Para under reply.
+18, That the contents of Para no. 18 of the Plaint are
+absolutely wrong and incorrect; being baseless and
+frivolous and are hence denied. It is vehemently denied
+that the Defendants are liable to pay interest @18%
+p.a. as per. agreed terms between the parties and is
+otherwise also the prevailing rate of interest in similar
+commercial transactions. It is further denied that the
+Defendants are liable to pay to Plaintiff the total of
+Rs.6,23,324/-. The said... amount is not legally due and
+or payable to the Plaintiff from the Defendants as
+claimed or otherwise. It is submitted that since services
+provided by the Plaintiff was not within time which is
+the breach of contractually agreed terms, thus the
+Defendants is not liable to pay any amount to the
+Plaintiff let alone the interest amount. As mentioned
+above, the Defendants was unable to take the fruits of
+the services rendered by the Plaintiff, which lead to not
+only financial losses and damages but also loss of
+repute and inability to complete order within
+prescribed time. Therefore, it is submitted that the
+captioned suit has been filed as an afterthought to
+cover up for their own breach and as a way to harass
+and force the Defendants to make payment for the
+services which clearly did not meet the agreed terms.
+Hence, the Defendants are not liable to pay any
+interest whatsoever. The Defendant calls upon the
+Plaintiff to prove to the hilt the averments as are
+contained in Para No. 18 of the Plaint. The contents of
+preliminary objections/ submissions may be read as
+reply to Para under reply.
+19. That the contents of Para no. 19 of the Plaint are
+absolutely wrong and incorrect; being baseless and
+frivolous and are hence denied. It is submitted that no
+cause of action has arisen in favour of the Plaintiff and
+against the Defendant which warrants the Interference
+of court of law and hence the plaint is vexatious,
+malafide and made in error of law. Under these
+circumstances, the suit is liable to be rejected. As such
+provisions of Order VII Rule 11 CPC are applicable,
+for the reason that no cause of action has ever arisen
+against the Defendants. The contents of preliminary
+objections/ submissions may be read as reply to Para
+under reply.
+20. That the contents of Para no. 20 of the Plaint are
+absolutely wrong and incorrect; being baseless and
+frivolous and are hence denied. The Defendant calls
+upon the Plaintiff to prove to the hilt the averments as
+are contained in Para No. 20 of the Plaint. The
+contents of preliminary objections/ submissions may be
+read as reply to Para under reply.
+21. That the contents of Para no. 21 of the Plaint are
+absolutely wrong and incorrect; being baseless and
+frivolous and are hence denied. The Defendant calls
+upon the Plaintiff to prove to the hilt the averments as
+are contained in Para No. 21 of the Plaint. The
+contents of preliminary objections/ submissions may be
+read as reply to Para under reply.
+22. That the contents of Para no. 22 of the Plaint are
+absolutely wrong and incorrect; being baseless and
+frivolous and are hence denied. It is denied that the
+present suit is filed within the period of limitation as
+prescribed by law. The Defendant calls upon the
+Plaintiff to prove to the hilt the averments as are
+contained in Para No. 22 of the Plaint. The contents
+of: preliminary objections/ submissions may be read as
+reply to Para under reply.”
+g. Upon completion of pleadings the Respondent, filed an application
+under Order XII Rule 6 Civil Procedure Code, 1908 (hereinafter
+referred to as the “the Code”). The Trial Court while disposing off
+the said application held as under:
+"7. Following admissions have been made in
+preliminary submissions and para nos. 9 and 12 of
+reply on merits in written statement:
+(1 )The plaintiff is in the business of providing Freight
+Forwarding Services.
+(2) The defendants deal primarily in electronic items
+such as mobile phones and tablets.
+(3) The defendants used to place orders to the plaintiff
+for providing Freight Services from off shore to IGI
+Airport, Delhi.
+(4) For the freight services provided to the defendants
+from Hongkong to IGI Airport, the plaintiff had raised
+invoice no. 0023 dated 29.04.2019 of Rs. 3,30,965/-
+and invoice no. 0022, dated 29.04.2019 of Rs.
+1,60,798/-. But the plaintiff had committed following
+discrepancies:
+(I) The plaintiff did not transport goods on time due to
+which the defendants suffered not only the financial
+loss but injury to reputation also. Some customers
+cancelled their orders due to delay and refused to
+place further orders in future. One of its client had
+issued a debit note to the defendant due to non-supply
+of goods on time. Due to that reason, the defendant
+had raised a debit note no. 1 of Rs. 3,30,965/- against
+invoice no. 0023 and debit note o. 2 of Rs. 1,60,798/-
+against invoice no. 0022. (II)The plaintiff forged
+Airway bill no. 77545187995 and service orders nos.
+TW190426 and TW190428 by mentioning the number
+of boxes to be transported to the defendants as 242 and
+84. But when the defendants checked the custom site
+“ICEGATE”, it came to know that the number of boxes
+were 151 and 175 respectively.
+(5) The defendants were liable to pay Rs. 80,094/- in
+respect of invoice no. 0048 dated 11.06.2019 and
+hence, a cheque of Rs. 80,000/- was given to the
+plaintiff.
+8. The document Annexure 7 appearing at page no. 19
+has been described by the plaintiff as Master Airway
+Bill (MAWB) and its no. is 77545187995. Vide that
+consignment note, 326 boxes of the gross weight of
+3734 were consigned from Hongkong to IGI Airport in
+the container of Spice Jet and the plane flew on
+21.04.2019.
+The above MAWB was serviced through two notes
+Annexures 8 and 9 appearing at page no. 20 and 21.
+Those documents bearing nos. TW 190428 and TW
+190426 have been described by the plaintiff as Home
+Airway Bill (HAWB). The numbers of boxes written in
+Annexure 8 and 9 are 84 and 246. The gross weights of
+the 1198 and 2536 kgs respectively have also been
+mentioned therein. The total of boxes mentioned in
+Annexure 8 and 9 make 326 and total of the gross
+weight also make 3734 Kgs. The number of boxes and
+their weight correspond to the number and weight as
+mentioned in MAWB. It means that in all, the plaintiff
+was to transport 326 boxes of the weight of 3734 Kgs
+to the defendants and it transported those goods in two
+consignments on the same day.
+9. The defendants did not suffer any prejudice in
+transportation of their goods in two lots instead of one
+because they did not suffer any loss by that act of the
+plaintiff. Moreover, in order to show that as per the
+tracking report appearing on “ICEGATE”, the
+consignments were containing 151 and 176 boxes, the
+defendant did not file tracking report. Even if it is
+presumed that the tracking report is to that effect it
+would not make any difference because the total of
+those boxes as per that report, make 326 and it is the
+same number which the plaintiff had undertaken to
+transport to Delhi.
+10. The second discrepancy pointed out by the
+defendants is that the goods were not transported well
+in time due to which they suffered loss as their
+customers cancelled their orders and one of the
+customers raised a debit note.
+The defendants did not place on record any document
+to show that time was the essence in contract with the
+plaintiff for transporting their goods from Hongkong to
+Delhi. It is pertinent to mention that as per MAWB and
+I IAWB, the container was to come to Delhi on
+21.04.2019. The consignment included the mobile
+phones and laptop etc. As per the mail dated
+18.10.2019 sent by the plaintiff to defendants,
+appearing at page no. 31, it was intimated to the
+defendants that the flight was to leave Hongkong on
+21.04.2019. It left on time and the DO was handed
+over to the defendants on 23.04.2019. It is further
+mentioned that there was no agreement between them
+that shipment was to arrive at Delhi Airport exactly on
+time. It is next mentioned that there was a delay of one
+week in shipment but that delay was attributable to the
+shippers of the defendants because despite its best
+effort, the plaintiff could not reach to the shippers for
+almost a week as there was no response from them.
+In order to show that some of its customers had
+cancelled their orders due to late arrival of the
+consignment, the defendants did not place on file the
+copy of orders of those customers. The names of such
+customers have also not been mentioned. They did not
+place on file the consignment note raised against
+defendants by one of their customer due to late arrival
+of the consignment. So, the defense taken by the
+defendants is completely moonshine and cannot be
+taken into account because even if the case is allowed
+to go to the stage of trial, that would not make any
+difference.
+11. During arguments, learned counsel for defendants
+admitted that though the cheque of Rs. 80,000/- was
+given to the plaintiff regarding invoice no. 0048 dated
+11.06.2019 but the same has not been encashed. So,
+the plaintiff is entitled to that amount also from the
+defendants.
+12. In view of above discussion, the application u/o XII
+Rule 6 CPC is allowed. It is held that the plaintiff is
+entitled to an amount of Rs. 1,60,798/- + Rs. 3,30,965/-
++ Rs. 80,094/= Rs. 5,71,857/- from defendant no. 1. It
+is mentioned in Clause no. 5 of the invoices that
+interest @ 18 % p.a shall be payable if the payment
+was made beyond 15 days of the invoice. The
+transactions between the parties were commercial in
+nature. So, the plaintiff is entitled to interest on
+principal @ 18 % p.a from the date of last invoice i.e.
+from 11.06.2019 till the realization thereof. The
+plaintiff is entitled to cost also. "
+h. The Respondent herein was awarded a sum of RS. 5,71,857/- by the
+Trial Court vide the impugned judgement.
+i. Aggrieved by the said judgment, the Appellants have preferred the
+present appeal.
+5. It has been submitted on behalf of the learned Counsel for the Appellants
+that the impugned judgement passed by the Trial Court under Order XII Rule 6
+is unsustainable in law. The Ld. Counsel for the Appellants contends that there
+is no clear admission made by the appellants in their written statement, filed
+before the Trial Court. On the contrary he contends that the Trial Court has
+failed to appreciate multiple disputed averments which go to the root of the
+matter and there was a fundamental error on the part of the Trial Court to treat
+them as admissions.
+6. The learned Counsel for the Appellants further contends by pointing out
+that the Appellants had categorically denied their liability for Invoice No.22
+amounting to Rs.1,60,798/- and Invoice No.23 amounting to Rs.3,30,965/-
+before the Trial Court. The learned Counsel for the appellant further submits
+that as far as Invoice No.48 is concerned the Appellants have already handed
+over a cheque of Rs.80,000/- to the Respondents and the decretal amount has
+been passed on the basis of a conditional and qualified statement and the same
+would be in the teeth of Order XII Rule 6 of the Code.
+7. Additionally, the learned Counsel for the Appellant submits that a
+number of averments had been raised before the Trial Court. These averments
+pertained to the issues such as the liability of the Respondent for not delivering
+the consignment on time, allegations regarding the forging of airway bill by the
+Respondent and these issues are substantial in nature and it was imperative that
+these issues be dealt with and undertaken at the stage of the trial. Therefore,
+this was not a case fit for the exercise of discretion under Order XII Rule 6 by
+the Trial Court and a perusal of the pleadings would indicate that the
+Appellants have conditionally admitted to only a part of the payment and
+categorically and consistently denied any other liability.
+8. Per contra, the learned Counsel for the Respondent has argued that the
+admissions of the Appellants in their written statement filed before the Trial
+Court is clear, categorical and unambiguous and therefore the admissions are
+sufficient to pass a decree on the basis of Order 12 Rule 6 of the Code. He
+asserts that the Appellants have made categorical admissions in the pleadings
+with respect to payment of Invoice No.48. He also contends that the Appellants
+have also acknowledged that goods were transported by the Respondent. The
+learned Counsel for the Respondents has also argued that the Trial Court has
+noted that the Appellant has admitted that the total number of boxes received
+by them vide two separate consignments was 151 and 175. This adds up to
+about 326 boxes and the same corroborates with the details in the
+Respondent’s Master and House Airway Bills and thereby undermined the
+defence of the Appellant. Furthermore, the Trial Court has held that the
+Appellant has been unable to raise any substantial defence regarding the issue
+of delay by the Respondent in the delivery of goods and how such a delay
+caused any loss in business. Therefore, in view of these categorical findings
+taken in tandem with the clear and categorical admission of the Appellants
+with respect to their liability for payment of amount claimed by the
+Respondent in Invoice No.48, the Appellants admitted their liability towards
+the entire decretal amount and the impugned judgement of the Trial Court
+warrants no interference.
+9. Heard learned Counsel for the parties and perused the material on record.
+10. The principal question which emerges for the consideration of this Court
+is whether the Trial Court has exercised its discretion in a manner as mandated
+by the language of Order XII Rule 6, while passing the impugned judgement.
+An ancillary question which needs to be dealt with before answering the main
+question is whether there was an unequivocal, clear and categorical admission
+by the Appellants. It is the contention of the learned Counsel for the
+Respondent that the admission on behalf of the Appellants with respect to their
+liability towards the third invoice i.e. Invoice No.48 was a clear and categorical
+admission. Additionally, he argues that the Trial Court was justified in holding
+that there was no proper justification for non-payment of the disputed invoices
+or how late delivery of the consignment caused any prejudice to the
+Appellants. Therefore, the impugned judgement need not be interfered with.
+11. This Court is unable to agree with the contentions raised by the learned
+Counsel for the Respondent. Material on record indicates that the admission of
+liability, for the third invoice i.e. for Rs.80,094/-, by the Appellants tantamount
+to only a conditional and qualified statement acknowledging that they had
+issued a cheque for the payment of the said amount. It can in no way
+whatsoever be construed to be an admission under the language of Order XII
+Rule 6. Similarly, the said statement cannot be used to justify a decree for the
+entire disputed amount given the fact that there was categorical denial of
+liability by the Appellants with respect to the other two invoices.
+12. The Apex Court in Payal Vision Limited v. Radhika Choudhary, (2012)
+11 SCC 405, has explained the powers of a Court under this provision. The
+relevant excerpts read as under :
+"7. In a suit for recovery of possession from a tenant
+whose tenancy is not protected under the provisions of
+the Rent Control Act, all that is required to be
+established by the plaintiff landlord is the existence of
+the jural relationship of landlord and tenant between
+the parties and the termination of the tenancy either by
+lapse of time or by notice served by the landlord under
+Section 106 of the Transfer of Property Act. So long as
+these two aspects are not in dispute the court can pass
+a decree in terms of Order 12 Rule 6 CPC, which reads
+as under:
+“6. Judgment on admissions.—(1) Where admissions
+of fact have been made either in the pleading or
+otherwise, whether orally or in writing, the court
+may at any stage of the suit, either on the
+application of any party or of its own motion and
+without waiting for the determination of any other
+question between the parties, make such order or
+give such judgment as it may think fit, having regard
+to such admissions.
+(2) Whenever a judgment is pronounced under subrule (1) a decree shall be drawn up in accordance
+with the judgment and the decree shall bear the date
+on which the judgment was pronounced.”
+8. The above sufficiently empowers the court trying
+the suit to deliver judgment based on admissions
+whenever such admissions are sufficient for the grant
+of the relief prayed for. Whether or not there was an
+unequivocal and clear admission on either of the two
+aspects to which we have referred above and which are
+relevant to a suit for possession against a tenant is,
+therefore, the only question that falls for determination
+in this case and in every other case where the plaintiff
+seeks to invoke the powers of the court under Order 12
+Rule 6 CPC and prays for passing of the decree on the
+basis of admission. Having said that we must add that
+whether or not there is a clear admission upon the two
+aspects noted above is a matter to be seen in the fact
+situation prevailing in each case. Admission made on
+the basis of pleadings in a given case cannot obviously
+be taken as an admission in a different fact situation.
+That precisely is the view taken by this Court in Jeevan
+Diesels & Electricals Ltd. [(2010) 6 SCC 601 : (2010)
+2 SCC (Civ) 745] relied upon by the High Court where
+this Court has observed: (SCC p. 604, para 10)
+“10. … Whether or not there is a clear,
+unambiguous admission by one party of the case of
+the other party is essentially a question of fact and
+the decision of this question depends on the facts of
+the case. The question, namely, whether there is a
+clear admission or not cannot be decided on the
+basis of a judicial precedent. Therefore, even
+though the principles in Karam Kapahi [(2010) 4
+SCC 753 : (2010) 2 SCC (Civ) 262] may be
+unexceptionable they cannot be applied in the
+instant case in view of totally different fact
+situation.”
+(emphasis supplied)
+13. Similarly, in Hari Steel And General Industries Limited & Anr. v. Daljit
+Singh & Ors., (2019) 20 SCC 425, the Apex Court has expanded upon the
+need for categorical and unconditional admissions for passing a decree under
+Order XII Rule 6, The Apex Court has held as under:-
+"25. In the judgment in Himani Alloys Ltd. v. Tata
+Steel Ltd. [Himani Alloys Ltd. v. Tata Steel Ltd., (2011)
+15 SCC 273 : (2014) 2 SCC (Civ) 376] , nature and
+scope of Order 12 Rule 6 has been considered by this
+Court. In the aforesaid judgment this Court has held
+that the discretion conferred under Order 12 Rule 6
+CPC is to be exercised judiciously, keeping in mind
+that a judgment on admission is a judgment without
+trial which permanently denies any remedy to the
+defendant. Para 11 of the judgment read as under :
+(SCC pp. 276-77)
+“11. It is true that a judgment can be given on an
+“admission” contained in the minutes of a meeting.
+But the admission should be categorical. It should
+be a conscious and deliberate act of the party
+making it, showing an intention to be bound by it.
+Order 12 Rule 6 being an enabling provision, it is
+neither mandatory nor peremptory but
+discretionary. The court, on examination of the
+facts and circumstances, has to exercise its judicial
+discretion, keeping in mind that a judgment on
+admission is a judgment without trial which
+permanently denies any remedy to the defendant,
+by way of an appeal on merits. Therefore unless
+the admission is clear, unambiguous and
+unconditional, the discretion of the court should
+not be exercised to deny the valuable right of a
+defendant to contest the claim. In short the
+discretion should be used only when there is a clear
+“admission” which can be acted upon. (See also
+Uttam Singh Duggal & Co. Ltd. v. United Bank of
+India [Uttam Singh Duggal & Co. Ltd. v. United
+Bank of India, (2000) 7 SCC 120] , Karam Kapahi
+v. Lal Chand Public Charitable Trust [Karam
+Kapahi v. Lal Chand Public Charitable Trust,
+(2010) 4 SCC 753 : (2010) 2 SCC (Civ) 262] and
+Jeevan Diesels & Electricals Ltd. v. Jasbir Singh
+Chadha [Jeevan Diesels & Electricals Ltd. v. Jasbir
+Singh Chadha, (2010) 6 SCC 601 : (2010) 2 SCC
+(Civ) 745] .) There is no such admission in this
+case.”
+26. In the judgment in S.M. Asif v. Virender Kumar
+Bajaj [S.M. Asif v. Virender Kumar Bajaj, (2015) 9
+SCC 287 : (2015) 4 SCC (Civ) 589] , this Court has
+held that the power under Order 12 Rule 6 CPC is
+discretionary and cannot be claimed as a right. It is
+further held in the aforesaid case that where the
+defendants have raised objections, which go to the root
+of the case, it would not be appropriate to exercise
+discretion under Order 12 Rule 6 CPC. Para 8 of the
+judgment read as under : (SCC p. 291)
+“8. The words in Order 12 Rule 6 CPC “may” and
+“make such order …” show that the power under
+Order 12 Rule 6 CPC is discretionary and cannot
+be claimed as a matter of right. Judgment on
+admission is not a matter of right and rather is a
+matter of discretion of the court. Where the
+defendants have raised objections which go to the
+root of the case, it would not be appropriate to
+exercise the discretion under Order 12 Rule 6 CPC.
+The said rule is an enabling provision which
+confers discretion on the court in delivering a
+quick judgment on admission and to the extent of
+the claim admitted by one of the parties of his
+opponent's claim.”
+27. In the judgment in Balraj Taneja v. Sunil Madan
+[Balraj Taneja v. Sunil Madan, (1999) 8 SCC 396] ,
+while considering the scope of Order 8 Rule 10 and
+Order 12 Rule 6 CPC, this Court has held that the
+court is not to act blindly upon the admission of a fact
+made by the defendant in the written statement nor
+should the court proceed to pass judgment blindly
+merely because a written statement has not been filed
+by the defendant traversing the facts set out by the
+plaintiff in the plaint filed in the court."
+(emphasis supplied)
+14. The Apex Court in Karan Kapoor v. Madhuri Kumar, (2022) 10 SCC
+496, held as under:
+"23. Order 12 Rule 6 confers discretionary power to a
+court who “may” at any stage of the suit or suits on
+the application of any party or in its own motion and
+without waiting for determination of any other
+question between the parties makes such order or
+gives such judgment as it may think fit having regard
+to such admission.
+24. Thus, legislative intent is clear by using the word
+“may” and “as it may think fit” to the nature of
+admission. The said power is discretionary which
+should be only exercised when specific, clear and
+categorical admission of facts and documents are on
+record, otherwise the court can refuse to invoke the
+power of Order 12 Rule 6. The said provision has
+been brought with intent that if admission of facts
+raised by one side is admitted by the other, and the
+court is satisfied to the nature of admission, then the
+parties are not compelled for full-fledged trial and the
+judgment and order can be directed without taking
+any evidence. Therefore, to save the time and money
+of the court and respective parties, the said provision
+has been brought in the statute. As per above
+discussion, it is clear that to pass a judgment on
+admission, the court if thinks fit may pass an order at
+any stage of the suit. In case the judgment is
+pronounced by the court a decree be drawn
+accordingly and parties to the case is not required to
+go for trial.
+xxx
+26. On the issue of discretion of Court to pass
+judgment on admission, a three-Judge Bench of this
+Court in S.M. Asif v. Virender Kumar Bajaj [S.M.
+Asif v. Virender Kumar Bajaj, (2015) 9 SCC 287 :
+(2015) 4 SCC (Civ) 589] made the legislative intent
+clear to use the word “may” which clearly stipulates
+that the power under Order 12 Rule 6CPC is
+discretionary and cannot be claimed as a matter of
+right. In the said case, the suit for eviction was filed
+by the respondent landlord against the appellant
+tenant. The relationship of tenancy was admitted
+including the period of lease agreement. The
+plaintiffs' claim was resisted by the defendant setting
+up a plea that the property in question was agreed to
+be sold by an agreement and the advance of Rs
+82,50,000 was paid."
+(emphasis supplied)
+15. What emerges from the above discussion is that the language of Order
+XII Rule 6 allows the Court to pass a decree during any stage of the suit either
+upon application moved by any party or of its own accord for the entire dispute
+in question or any part thereof on the basis of admissions made by any party
+made in the pleadings or orally, taken as a whole. The purport of this provision
+is not to bypass a full-fledged trial but to preserve judicial time and resources
+when there are clear and unambiguous admissions. Similarly, the power
+granted to a Court under this provision is comprehensive but qualified by the
+use of the word “may” and it makes the exercise of this discretionary power
+contingent upon clear, categorical and unambiguous admissions that would
+enable the Court to pass a decree exclusively on the basis of those admissions.
+16. In the facts of the present case, the Trial Court has relied upon the
+Appellant’s limited and conditional admission of liability for Rs.80,094/- in
+relation to Invoice No.0048 dated 11.06.2019 and erroneously treated the same
+as sufficient to decree the entire claim of Rs.5,71,857/-. A perusal of the
+material on record indicates that the Appellants herein have consistently denied
+their liability with respect to Invoice No. 22 and Invoice No.23. The Appellant
+has also contested all the claims advanced by the Respondent. The defence
+advanced by the Appellant with respect to the two debit notes vis-à-vis the
+disputed invoices, that Airway Bills had been forged and manipulated by the
+Respondent are all triable issues which go to the root of the matter. It would be
+improper to adjudicate upon those issues without proper appreciation and
+discussion of evidence after determination and framing of triable issues. This is
+not a case fit for passing a decree on the basis of admission and the Trial Court
+has clearly applied the provision of Order XII Rule 6 erroneously.
+17. Therefore, the impugned judgement is liable to be set aside and the
+matter is remanded back to the Trial Court of competent jurisdiction. The
+appeal is disposed of. Pending applications, if any, also stand disposed.
+18. The observations made in this judgement shall have no bearing on the
+merits of the case and are limited to the correctness of the order passed by the
+Trial Court under Order XII Rule 6. 

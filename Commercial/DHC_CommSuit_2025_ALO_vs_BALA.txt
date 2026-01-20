@@ -1,0 +1,118 @@
+COURT: HIGH COURT OF DELHI AT NEW DELHI
+CASE_TYPE: Commercial Suit
+CASE_NO: CS(COMM) 206/2019
+DATE: 26.08.2025
+PLAINTIFF: Aircel Limited & Ors.
+DEFENDENT: Bharti Airtel Limited & Anr.
+JUDGE: Hon’ble Ms. Justice Jyoti Singh
+
+--------JUDGEMENT---------
+
+1. This application is filed on behalf of the Plaintiffs under Order XXIII
+Rule 1 CPC read with Section 14(3) of the Limitation Act, 1963 for
+permission to withdraw the suit and seeking leave to file fresh proceedings
+before the appropriate forum, on the same cause of action as also for a
+direction to exclude the time period from 15.04.2019 i.e. the date of
+institution of this suit till the disposal of the present application, for purpose
+of calculating limitation period to approach the appropriate forum.
+2. To decide this application, a short backdrop is necessary. Suit was
+instituted by the Plaintiffs inter alia for a decree against the Defendants
+towards costs incurred and/or loss suffered by the Plaintiffs on account of
+breach of contractual obligations by the Defendants in relation to Spectrum
+Trading Agreements etc. Plaintiffs are telecom service providers.This is a digitally signed order.
+The authenticity of the order can be re-verified from Delhi High Court Order Portal by scanning the QR code shown above.
+3. It is stated in the application that Plaintiffs and Defendants are
+licensees as defined under Section 2(1)(e) of the Telecom Regulatory
+Authority of India Act, 1997 (TRAI Act) read with Section 4 of Indian
+Telegraph Act, 1885 with licences to establish, maintain and operate
+telegraphs across India and thus qualify as service providers by virtue of
+Section 2(1)(j) of the TRAI Act. Present dispute arises out of Defendants’
+alleged failure to take over active infrastructure equipment from the
+Plaintiffs in terms of the Term Sheet for the specified consideration, as part
+of composite spectrum trading deal. Bonafidely believing that this Court was
+the appropriate forum, the present suit was filed in 2019.
+4. It is further averred that at the time of instituting the suit, Plaintiffs
+were subject to insolvency proceedings under Insolvency and Bankruptcy
+Code, 2016 (‘IBC’) before NCLT, Mumbai. By orders dated 12.03.2018 and
+19.03.2018, insolvency proceedings were commenced against the Plaintiffs
+under Section 10 of IBC due to inability of the Plaintiffs to pay off their
+debts. While the suit was at the stage of decision on the exemption
+application filed by the Plaintiffs to sue as an indigent person, Defendants
+filed an application being I.A. 1303/2021 under Order VII Rule 11(a) and
+(d) CPC for rejection of the plaint inter alia on the ground that this Court
+does not have jurisdiction to entertain the suit. It was stated in the
+application that only TDSAT has the jurisdiction to deal with disputes
+between two or more service providers. It is in light of this application
+raising objection to the jurisdiction of this Court that present application has
+been filed for withdrawal.
+5. Mr. Salman Khurshid, learned Senior counsel appearing for the
+Plaintiffs submits that when the suit was instituted, it was under the beliefThis is a digitally signed order.
+The authenticity of the order can be re-verified from Delhi High Court Order Portal by scanning the QR code shown above.
+that this Court has jurisdiction to adjudicate the disputes, however, upon due
+diligence and legal advice, Plaintiffs have realized that the appropriate
+forum for raising the disputes is TDSAT inasmuch as under Section 14(a)(ii)
+of TRAI Act, TDSAT is conferred with exclusive jurisdiction to adjudicate
+any dispute between two or more service providers. It is urged that
+Defendants cannot raise any objection to the present application since they
+have themselves sought rejection of the plaint on the ground that this Court
+lacks jurisdiction and moreover, under Order XXIII Rule 1(1) CPC,
+Plaintiffs have the right to seek permission to withdraw the suit with leave to
+initiate fresh proceedings before the appropriate forum. Reliance is placed in
+this regard on the judgment of the Madras High Court in K.P. Selvah v.
+Atlee, C.R.P. (NPD) No.3331/2019, passed on 22.10.2019.
+6. Learned counsel for the Defendants opposes the application on the
+ground that present suit was initially instituted as a commercial suit but with
+malafide intent, an application was filed subsequently to sue as an indigent
+and once again, Plaintiffs take a different stand and seek to withdraw the suit
+to approach TDSAT. Plaintiffs ought to have exercised due diligence and
+take a legal advice before instituting the suit as it is clear from reading of
+Section 14(a)(ii) of TRAI Act that TDSAT has the exclusive jurisdiction to
+adjudicate disputes between two or more service providers. In this backdrop,
+it is urged that Court should not exercise discretion in favour of the Plaintiffs
+permitting them to withdraw with leave to institute fresh proceedings before
+TDSAT.
+7. Heard learned Senior Counsel for the Plaintiffs and learned counsel
+for the Defendants.
+8. Order XXIII Rule 1(1) CPC provides that at any time after, theThis is a digitally signed order.
+The authenticity of the order can be re-verified from Delhi High Court Order Portal by scanning the QR code shown above.
+institution of the suit, Plaintiff may as against all or any of the Defendants
+abandon his suit or a part of his claim. Rule (3) provides that where the
+Court is satisfied that the suit must fail by reason of some formal defect or
+there are sufficient grounds for allowing the Plaintiff to institute a fresh suit
+for the subject matter of a suit or part of a claim, it may, on such terms as it
+thinks fit, grant the Plaintiff permission to withdraw from such suit or such
+part of the claim with liberty to institute a fresh suit. It is a common ground
+between the parties that the disputes raised by the Plaintiffs in the present
+suit can only be adjudicated by TDSAT by virtue of Section 14(a)(ii) of
+TRAI Act since TDSAT has the exclusive jurisdiction to adjudicate any
+dispute between two or more service providers. Therefore, admittedly, this
+Court lacks the jurisdiction to entertain the present suit and conscious of
+this, Defendants filed an application under Order VII Rule 11 CPC.
+9. In my view, there is no impediment in the Plaintiffs withdrawing this
+suit and taking recourse to filing fresh suit before TDSAT. Argument of the
+Defendants that Plaintiffs have been shifting stands by first filing a
+commercial suit and then seeking permission to sue an indigent or now
+seeking to withdraw the suit, cannot come in the way of the Plaintiffs
+withdrawing this suit when admittedly the disputes are amenable to the
+jurisdiction of TDSAT.
+10. Accordingly, this application is allowed to the extent of permitting the
+Plaintiffs to withdraw the suit with leave to file fresh proceedings before the
+appropriate forum.
+11. Application stands disposed of.
+CS(COMM) 206/2019, I.A. 12933/2019 & I.A. 1303/2021
+12. The suit is disposed of as withdrawn with leave to the Plaintiffs toThis is a digitally signed order.
+The authenticity of the order can be re-verified from Delhi High Court Order Portal by scanning the QR code shown above.
+institute fresh proceedings on the same cause of action before the
+appropriate forum. Insofar as the prayer for excluding the time period from
+date of filing of this suit till disposal of this application for purpose of
+computing the application in approaching the appropriate forum is
+concerned, this decision is left to the appropriate forum.
+13. It is made clear that this Court has not expressed any opinion either on
+the merits of the disputes or on exclusion of limitation period under Section
+14 of the Limitation Act, 1963.
+14. All pending applications stand disposed of.
+JYOTI SINGH, J
+AUGUST 26, 2025
+Ch/SSThis is a digitally signed order.
+The authenticity of the order can be re-verified from Delhi High Court Order Portal by scanning the QR code shown above.
+The Order is downloaded from the DHC Server on 02/09/2025 at 12:30:54

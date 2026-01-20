@@ -1,0 +1,236 @@
+COURT: Commercial Court, Delhi
+CASE_TYPE: Commercial Suit
+CASE_NO: ARB.P. 2132/2024 & I.A. 49580/2024
+DATE: 2024-05-12
+PLAINTIFF: GLOCAL THINKERS PVT LTD 
+DEFENDANT: INSTRUMENTATION AUTOMATION SURVEILLANCE COMMUNICATION SECTOR SKILL COUNCIL
+JUDGE: Justice PURUSHAINDRA KUMAR KAURAV
+
+----JUDGMENT-----
+
+The present petition has been filed under Section 11 of the Arbitration
+and Conciliation Act, 1996 (the Act), seeking appointment of an Arbitrator
+to adjudicate upon the disputes that have arisen between the parties.
+2. The dispute has arisen with respect to the Memorandum of
+Understanding dated 05.02.2020. It is stated that the petitioner received
+work orders from the respondent for online assessment, IT, and facilitation
+services, and after raising invoices, an amount of ₹39,18,840/- remained
+outstanding as of 22.07.2021. Despite repeated reminders, it is stated that the
+respondent failed to clear the dues, leading the petitioner to file Commercial
+Suit No. 25/2023 before the District Court, Gurugram for recovery of
+₹18,18,600/- with 12% interest. It further stated that in the suit, the
+respondent entered appearance and filed an application under Section 8 of
+the Act, and the same was allowed on 05.10.2023. The petitioner submits
+that despite raising the invoices, the full and final payment has not been paid
+by the respondent; therefore, it has filed the present petition.
+3. Per contra, learned counsel appearing for the respondent has raised
+various objections.
+4. However, it is seen that Clause 18(iv) provides for arbitration in
+accordance with the Act, which is extracted as under:
+―18. Other Conditions
+iv) In case of any dispute between the Parties under this Agreement with
+regard to interpretation or as to rights, duties or liabilities there under or
+otherwise the Parties will endeavour to resolve the matter through mutual
+negotiations . in case the dispute remains unresolved Jar a period of
+Thirty (30) days, the parties may refer the dispute to a sole Arbitrator to
+be mutually decided between the Parties under the Arbitration and
+Conciliation Act, 1996,. The place of arbitration shall be at New Delhi and
+the language arbitration shall be in English, the governing law of this
+Agreement shall be laws of India and the Courts of New Delhi shall have
+the exclusive jurisdiction to deal with this Agreement‖
+5. The law with respect to the scope and standard of judicial scrutiny
+under Section 11(6) of the Act is no longer res integra. This Court in
+Pradhaan Air Express Pvt Ltd v. Air Works India Engineering Pvt Ltd1
+,
+has extensively dealt with the scope of interference at the stage of Section
+11. Furthermore, in Axis Finance Limited Vs. Mr. Agam Ishwar Trimbak,2
+this Court has held that the scope of inquiry under Section 11 of the Act is
+limited to a prima facie examination of the existence of an arbitration
+
+1
+2025 SCC OnLine Del 3022
+2
+2025:DHC:7477
+agreement. Further, it was also reiterated that objections relating to the
+arbitrability of disputes are not to be entertained by a referral Court acting
+under Section 8 or 11 of the Act. The relevant extract of the aforesaid
+decision reads as under:-
+19.In In Re: Interplay , the Supreme Court confined the analysis under
+Section 11 of the Act to the existence of an arbitration agreement and
+under Section 8 of the Act to the existence and validity of an arbitration
+agreement. Under both the provisions, examination was to be made at
+the touchstone of Section 7 of the Act. Further, issues pertaining to the
+arbitrability of the dispute fell outside the scope of both Section 11(6A)
+and Section 8 of the Act. The material part of the judgement of the
+Supreme Court in In Re: Interplay reads as under:
+164. The 2015 Amendment Act has laid down different
+parameters for judicial review under Section 8 and Section 11.
+Where Section 8 requires the referral Court to look into the prima
+facie existence of a valid arbitration agreement. Section 11
+confines the Court’s jurisdiction to the examination of the
+existence of an arbitration agreement. Although the object and
+purpose behind both Sections 8 and 11 is to compel parties to
+abide by their contractual understanding, the scope of power of
+the referral Courts under the said provisions is intended to be
+different. The same is also evident from the fact that Section 37 of
+the Arbitration Act allows an appeal from the order of an arbitral
+tribunal refusing to refer the parties to arbitration under Section
+8, but not from Section 11. Thus, the 2015 Amendment Act has
+legislatively overruled the dictum of Patel Engineering (supra)
+where it was held that Section 8 and Section 11 are
+complementary in nature. Accordingly, the two provisions cannot
+be read as laying down a similar standard. 165. The legislature
+confined the scope of reference under Section 11(6A) to the
+examination of the existence of an arbitration agreement. The use
+of the term ―examination‖ in itself connotes that the scope of the
+power is limited to a prima facie determination. Since the
+Arbitration Act is a self-contained code, the requirement of
+―existence‖ of an arbitration agreement draws effect from
+Section 7 of the Arbitration Act. In Duro Felguera (supra), this
+Court held that the referral Courts only need to consider one
+aspect to determine the existence of an arbitration agreement –
+whether the underlying contract contains an arbitration
+agreement which provides for arbitration pertaining to the
+disputes which have arisen between the parties to the agreement.
+Therefore, the scope of examination under Section 11(6A) should
+be confined to the existence of an arbitration agreement on the
+basis of Section 7Similarly, the validity of an arbitration
+agreement, in view of Section 7, should be restricted to the
+requirement of formal validity such as the requirement that the
+agreement be in writing. This interpretation also gives true effect
+to the doctrine of competence-competence by leaving the issue of
+substantive existence and validity of an arbitration agreement to
+be decided by arbitral tribunal under Section 16. We accordingly
+clarify the position of law laid down in Vidya Drolia (supra) in
+the context of Section 8 and Section 11 of the Arbitration Act.
+166. The burden of proving the existence of arbitration
+agreement generally lies on the party seeking to rely on such
+agreement. In jurisdictions such as India, which accept the
+doctrine of competencecompetence, only prima facie proof of the
+existence of an arbitration agreement must be adduced before the
+referral Court. The referral Court is not the appropriate forum to
+conduct a minitrial by allowing the parties to adduce the
+evidence in regard to the existence or validity of an arbitration
+agreement. The determination of the existence and validity of an
+arbitration agreement on the basis of evidence ought to be left to
+the arbitral tribunal. This position of law can also be gauged
+from the plain language of the statute. 167. Section 11(6A) uses
+the expression ―examination of the existence of an arbitration
+agreement.‖ The purport of using the word ―examination‖
+connotes that the legislature intends that the referral Court has to
+inspect or scrutinize the dealings between the parties for the
+existence of an arbitration agreement. Moreover, the expression
+―examination‖ does not connote or imply a laborious or
+contested inquiry. On the other hand, Section 16 provides that the
+arbitral tribunal can ―rule‖ on its jurisdiction, including the
+existence and validity of an arbitration agreement. A ―ruling‖
+connotes adjudication of disputes after admitting evidence from
+the parties. Therefore, it is evident that the referral Court is only
+required to examine the existence of arbitration agreements,
+whereas the arbitral tribunal ought to rule on its jurisdiction,
+including the issues pertaining to the existence and validity of an
+arbitration agreement. A similar view was adopted by this Court
+in Shin-Etsu Chemical Co. Ltd. v. Aksh Optifibre Ltd.‖ [Emphasis
+supplied]
+20. The effect of In Re: Interplay was further explained by a Three Judge
+Bench of the Supreme Court in SBI General Insurance Co. Ltd. v. Krish
+Spinning3
+wherein the Court declared Vidya Drolia and NTPC Ltd.’s
+findings qua scope of inquiry under Section 8 and Section 11 of the Act to
+no longer be compatible with modern principles of arbitration. The
+material portions of the judgement read as under:
+―114. In view of the observations made by this Court in In Re :
+Interplay (supra), it is clear that the scope of enquiry at the stage
+of appointment of arbitrator is limited to the scrutiny of prima
+facie existence of the arbitration agreement, and nothing else.
+For this reason, we find it difficult to hold that the observations
+made in Vidya Drolia (supra) and adopted in NTPC v. SPML
+(supra) that the jurisdiction of the referral Court when dealing
+with the issue of ―accord and satisfaction‖ under Section 11
+extends to weeding out ex-facie non-arbitrable and frivolous
+disputes would continue to apply despite the subsequent decision
+in In Re : Interplay (supra). … 118. Tests like the ―eye of the
+needle‖ and ―ex-facie meritless‖, although try to minimise the
+extent of judicial interference, yet they require the referral Court
+to examine contested facts and appreciate prima facie evidence
+(however limited the scope of enquiry may be) and thus are not in
+conformity with the principles of modern arbitration which place
+arbitral autonomy and judicial non-interference on the highest
+pedestal.‖ [Emphasis supplied]
+21. Similarly, in BGM and M-RPL-JMCT (JV) v. Eastern Coalfields Ltd4
+the Supreme Court succinctly explained the effect of In Re: Interplay on a
+Referral Court’s powers under Section 11 of the Act. The relevant part of
+the judgement is as under:
+15. …
+(a) Section 11 confines the Court's jurisdiction to the examination
+regarding the existence of an arbitration agreement.
+(b) The use of the term ―examination‖ in itself connotes that the
+scope of the power is limited to a prima facie determination.
+(c) Referral Courts only need to consider one aspect to
+determine the existence of an arbitration agreement — whether
+the underlying contract contains an arbitration agreement which
+provides for arbitration pertaining to the disputes which have
+arisen between the parties to the agreement. Therefore, the scope
+of examination under Section 11(6-A) should be confined to the
+existence of an arbitration agreement on the basis of Section 7.
+Such a legal approach will help the Referral Court in weeding
+
+3
+2024 SCC OnLine SC 1754
+4
+2025 SCC OnLine SC 1471
+out prima facie non-existent arbitration agreements.
+(d) The purport of using the word ―examination‖ connotes that
+the legislature intends that the Referral Court has to inspect or
+scrutinise the dealings between the parties for the existence of an
+arbitration agreement. However, the expression ―examination‖
+does not connote or imply a laborious or contested inquiry.
+(e) The burden of proving the existence of arbitration agreement
+generally lies on the party seeking to rely on such agreement.
+Only prima facie proof of the existence of an arbitration
+agreement must be adduced before the Referral Court. The
+Referral Court is not the appropriate forum to conduct a minitrial by allowing the parties to adduce the evidence in regard to
+the existence or validity of an arbitration agreement. The
+determination of the existence and validity of an arbitration
+agreement on the basis of evidence ought to be left to the Arbitral
+Tribunal.
+(f) Section 16 provides that the Arbitral Tribunal can ―rule‖ on
+its jurisdiction, including the existence and validity of an
+arbitration agreement. A ―ruling‖ connotes adjudication of
+disputes after admitting evidence from the parties. Therefore,
+when the Referral Court renders a prima facie opinion, neither
+the Arbitral Tribunal, nor the Court enforcing the arbitral award
+is bound by such a prima facie view. If a prima facie view as to
+the existence of an arbitration agreement is taken by the Referral
+Court, it still allows the Arbitral Tribunal to examine the issue in
+depth.
+[Emphasis supplied]
+22. Thus from the above-mentioned authorities it is clear that a Court’s
+scope of inquiry under Section 11 of the Act has been limited to a prima
+facie examination of the existence of an arbitration agreement while the
+adjudication under Section 8 is to be made for both existence and
+validity. Further, the examination so undertaken under both the said
+provisions must be within the confines of Section 7 of the Act. Objections
+relating to arbitrability of disputes are not to be entertained by a referral
+Court acting under Section 8 or 11 of the Act.‖
+6. Considering that disputes have arisen between the parties and there is
+an arbitration clause in the contract, there is no impediment in the
+appointment of a Sole Arbitrator, reserving the right of the respondent to
+raise all objections therein.
+7. Accordingly, Ms. Anshika Saxena, Advocate (Mobile No. +91
+8377944021, e-mail id: anshikasaxena499@gmail.com ), is appointed as the
+Sole Arbitrator.
+8. The arbitration would take place under the aegis of the Delhi
+International Arbitration Centre (DIAC) and in terms of its rules and
+regulations. The Sole Arbitrator shall be entitled to fees as per the Schedule
+of Fees maintained by the DIAC.
+9. The Sole Arbitrator is also requested to file the requisite disclosure
+under Section 12 (2) of the Act within a week of entering on reference.
+10. All rights and contentions of the parties in relation to the
+claims/counter-claims are kept open, to be decided by the Sole Arbitrator on
+their merits, in accordance with law.
+11. Needless to say, nothing in this order shall be construed as an
+expression of opinion of this Court on the merits of the controversy between
+the parties. Let a copy of the instant order be sent to the Sole Arbitrator
+through electronic mode as well.
+12. Accordingly, the instant petition stands disposed of.

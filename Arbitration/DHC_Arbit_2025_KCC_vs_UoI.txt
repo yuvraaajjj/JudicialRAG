@@ -1,0 +1,194 @@
+COURT: High Court of Delhi at New Delhi
+CASE_TYPE: Arbitration
+CASE_NO: ARB.P. 2111/2025
+DATE: 22nd December, 2025
+PLAINTIFF: M/s Kisan Construction Co., Hisar
+DEFENDENT: Union of India
+JUDGE: Hon'ble Mr. Justice Subramonium Prasad
+
+--------JUDGEMENT---------
+
+1. This Petition has been filed under Section 11(6) of the Arbitration and
+Conciliation Act, 1996 seeking appointment of an Arbitrator to adjudicate
+upon the disputes which have arisen between the parties under the Contract
+Agreement dated 07.01.2021.
+2. It is stated that under the said Agreement, the Petitioner herein was
+entrusted with the work of Construction of Road Under Bridges in lieu of L-
+xing No. 49/C at Km 8215-7, L-Xing No. 58/C at Km 95/23-25 & L-xing
+No. 73/C at Km 127/19-21 on Delhi Ambala section of Delhi Division and
+Construction of one Limited Height Sub way (LHS) in lieu of L-xing No. 9
+at Km 12/1- 2 near Maman Halt station & Balance work of road approaches
+of LHS in lieu of L-xing No. 14 at Km 24/1-2 near Bulandshahar RailwayThis is a digitally signed order.
+The authenticity of the order can be re-verified from Delhi High Court Order Portal by scanning the QR code shown above.
+Station on Khurja-Meerut section of Moradabad Division of Northern
+Railway. It is stated that disputes arose between the parties regarding
+completion of the project. It is stated that Clause 64 of the General
+Conditions of Contract (GCC) contains an Arbitration Clause which
+provides that disputes arising between the parties under the Agreement shall
+be decided by means of Arbitration and the seat of Arbitration shall be
+Delhi. It is stated that Notice under Section 21 of the Arbitration Act was
+issued by the Petitioner on 12.08.2025. It is stated that the Respondent has
+failed to reply to the said Notice. The Petitioner has, thereafter, approached
+this Court by filing the present Petition.
+3. Issue Notice.
+4. Learned Counsel for the Respondent accepts notice. He states that no
+disputes have arisen between the parties. He draws the attention of this
+Court to Clause 64.1(v) of the GCC which reads as under:
+“64.(1)(v): If the Contractor(s) does/do not prefer
+his/their specific and final claims in writing, within a
+period of 90 days of receiving the intimation from the
+Railways that the final bill is ready for payment,
+he/they will be deemed to have waived his/their
+claim(s) and the Railway shall be discharged and
+released of all liabilities under the contract in respect
+of these claims.”
+5. Learned Counsel for the Respondent, therefore, states that in view of
+the abovementioned clause, the Petitioner cannot raise the disputes.
+6. The said contention of the learned Counsel for the Respondent cannot
+be accepted in view of the settled law that the referral Court under Section
+11 of the Arbitration & Conciliation Act, 1996, has to only examine the
+prima facie existence of an arbitration agreement and the determination ofThis is a digitally signed order.
+The authenticity of the order can be re-verified from Delhi High Court Order Portal by scanning the QR code shown above.
+the substantive rights, maintainability of claims, and the issue of limitation
+etc., should be left to the Arbitral Tribunal. The Apex Court in Interplay
+Between Arbitration Agreements under Arbitration, 1996 & Stamp Act,
+1899, In re, (2024) 6 SCC 1, has observed as under:-
+“165. The legislature confined the scope of reference
+under Section 11(6-A) to the examination of the
+existence of an arbitration agreement. The use of the
+term “examination” in itself connotes that the scope of
+the power is limited to a prima facie determination.
+Since the Arbitration Act is a self-contained code, the
+requirement of “existence” of an arbitration
+agreement draws effect from Section 7 of the
+Arbitration Act. In Duro Felguera [Duro Felguera,
+S.A. v. Gangavaram Port Ltd., (2017) 9 SCC 729 :
+(2017) 4 SCC (Civ) 764] , this Court held that the
+Referral Courts only need to consider one aspect to
+determine the existence of an arbitration agreement —
+whether the underlying contract contains an
+arbitration agreement which provides for arbitration
+pertaining to the disputes which have arisen between
+the parties to the agreement. Therefore, the scope of
+examination under Section 11(6-A) should be
+confined to the existence of an arbitration agreement
+on the basis of Section 7. Similarly, the validity of an
+arbitration agreement, in view of Section 7, should be
+restricted to the requirement of formal validity such
+as the requirement that the agreement be in writing.
+This interpretation also gives true effect to the
+doctrine of competence-competence by leaving the
+issue of substantive existence and validity of an
+arbitration agreement to be decided by Arbitral
+Tribunal under Section 16. We accordingly clarify
+the position of law laid down in Vidya Drolia [Vidya
+Drolia v. Durga Trading Corpn., (2021) 2 SCC 1 :
+(2021) 1 SCC (Civ) 549] in the context of Section 8
+and Section 11 of the Arbitration Act.This is a digitally signed order.
+The authenticity of the order can be re-verified from Delhi High Court Order Portal by scanning the QR code shown above.
+166. The burden of proving the existence of arbitration
+agreement generally lies on the party seeking to rely
+on such agreement. In jurisdictions such as India,
+which accept the doctrine of competence-competence,
+only prima facie proof of the existence of an
+arbitration agreement must be adduced before the
+Referral Court. The Referral Court is not the
+appropriate forum to conduct a mini-trial by allowing
+the parties to adduce the evidence in regard to the
+existence or validity of an arbitration agreement. The
+determination of the existence and validity of an
+arbitration agreement on the basis of evidence ought
+to be left to the Arbitral Tribunal. This position of law
+can also be gauged from the plain language of the
+statute.
+167. Section 11(6-A) uses the expression “examination
+of the existence of an arbitration agreement”. The
+purport of using the word “examination” connotes
+that the legislature intends that the Referral Court
+has to inspect or scrutinise the dealings between the
+parties for the existence of an arbitration agreement.
+Moreover, the expression “examination” does not
+connote or imply a laborious or contested inquiry. [
+P. Ramanatha Aiyar, The Law Lexicon (2nd Edn.,
+1997) 666.] On the other hand, Section 16 provides
+that the Arbitral Tribunal can “rule” on its
+jurisdiction, including the existence and validity of an
+arbitration agreement. A “ruling” connotes
+adjudication of disputes after admitting evidence from
+the parties. Therefore, it is evident that the Referral
+Court is only required to examine the existence of
+arbitration agreements, whereas the Arbitral Tribunal
+ought to rule on its jurisdiction, including the issues
+pertaining to the existence and validity of an
+arbitration agreement. A similar view was adopted byThis is a digitally signed order.
+The authenticity of the order can be re-verified from Delhi High Court Order Portal by scanning the QR code shown above.
+this Court in Shin-Etsu Chemical Co. Ltd. v. Aksh
+Optifibre Ltd. [Shin-Etsu Chemical Co. Ltd. v. Aksh
+Optifibre Ltd., (2005) 7 SCC 234]”
+(emphasis supplied)
+7. Similarly, the Apex Court in SBI General Insurance Co. Ltd. v. Krish
+Spinning, 2024 SCC OnLine SC 1754, has observed as under:-
+“122. Once an arbitration agreement exists between
+parties, then the option of approaching the civil court
+becomes unavailable to them. In such a scenario, if the
+parties seek to raise a dispute, they necessarily have to
+do so before the arbitral tribunal. The arbitral
+tribunal, in turn, can only be constituted as per the
+procedure agreed upon between the parties. However,
+if there is a failure of the agreed upon procedure, then
+the duty of appointing the arbitral tribunal falls upon
+the referral court under Section 11 of the Act, 1996. If
+the referral court, at this stage, goes beyond the scope
+of enquiry as provided under the section and examines
+the issue of “accord and satisfaction”, then it would
+amount to usurpation of the power which the parties
+had intended to be exercisable by the arbitral tribunal
+alone and not by the national courts. Such a scenario
+would impeach arbitral autonomy and would not fit
+well with the scheme of the Act, 1996.
+*****
+125. We are also of the view that ex-facie frivolity and
+dishonesty in litigation is an aspect which the arbitral
+tribunal is equally, if not more, capable to decide upon
+the appreciation of the evidence adduced by the
+parties. We say so because the arbitral tribunal has the
+benefit of going through all the relevant evidence and
+pleadings in much more detail than the referral court.
+If the referral court is able to see the frivolity in the
+litigation on the basis of bare minimum pleadings, thenThis is a digitally signed order.
+The authenticity of the order can be re-verified from Delhi High Court Order Portal by scanning the QR code shown above.
+it would be incorrect to doubt that the arbitral tribunal
+would not be able to arrive at the same inference, most
+likely in the first few hearings itself, with the benefit of
+extensive pleadings and evidentiary material.”
+8. Since it is well-settled that referral courts should normally follow the
+policy of ‘when in doubt, refer’ and in view of the fact that disputes have
+certainly arisen between the parties, this Court is inclined to appoint an
+Arbitrator to adjudicate upon the disputes between the parties.
+9. Accordingly, Justice Indira Banerjee, Former Judge of the Supreme
+Court (Mob. No: 9560808777) is appointed as the Sole Arbitrator to
+adjudicate upon the disputes between the parties.
+10. The arbitration would take place under the aegis of the Delhi
+International Arbitration Centre (DIAC) and would abide by its rules and
+regulations. The learned Arbitrator shall be entitled to fees as per the
+Schedule of Fees maintained by the DIAC.
+11. The learned Arbitrator is also requested to file the requisite disclosure
+under Section 12(2) of the 1996 Act within two weeks of entering on
+reference.
+12. All rights and contentions of the parties in relation to the
+claims/counter-claims are kept open, to be decided by the learned Arbitrator
+on their merits, in accordance with law.
+13. It is made clear that nothing in this order shall be construed as an
+expression of this Court on the merits of the contentions of the parties.
+14. It is further made clear that the observations made in this Order are
+squarely limited to the appointment of an Arbitrator. Needless to say, it is
+open for the Respondent to urge its contention regarding arbitrability etc.This is a digitally signed order.
+The authenticity of the order can be re-verified from Delhi High Court Order Portal by scanning the QR code shown above.
+before the Arbitrator.
+15. The petition stands disposed of in the above terms, along with
+pending application(s), if any.
+SUBRAMONIUM PRASAD, J
+DECEMBER 22, 2025
+RahulThis is a digitally signed order.
+The authenticity of the order can be re-verified from Delhi High Court Order Portal by scanning the QR code shown above.
+The Order is downloaded from the DHC Server on 26/12/2025 at 11:35:16

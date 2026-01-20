@@ -1,0 +1,589 @@
+COURT: Commercial Court, Delhi
+CASE_TYPE: Commercial Suit
+CASE_NO: CS(COMM) 1196/2025 & I.As.27765-68/2025
+DATE: 14.11.2025 
+PLAINTIFF: RI NETWORKS PRIVATE LIMITED
+DEFENDANT: WORLD PHONE INTERNET SERVICES PRIVATE LIMITED
+JUDGE: Justice PURUSHAINDRA KUMAR KAURAV 
+
+----JUDGMENT----
+
+The plaintiff, a Class ‗A‘ Internet Service Provider (‗ISP‘) has filed
+the instant commercial suit against defendant no.1, a Category ‗A‘ Internet
+Telephony Service Provider (‗ITSP‘), defendant nos. 2-4, who are the key
+managerial personnel of defendant no. 1, and defendant no. 5, which is the
+parent company of defendant no. 1, praying for, inter alia, a decree for
+recovery of money payable by the defendants in terms of an Operational
+Merger Agreement dated 11.09.2023 executed between the plaintiff and
+defendant no. 1.
+2. This case was first listed for hearing on 10.11.2025 and from the
+submissions made by the learned counsel for the parties it had appeared that
+there was a possibility of an amicable resolution to the dispute. Accordingly,
+the matter was adjourned to 12.11.2025. Despite sincere efforts being made
+by learned counsel for the parties, which the Court appreciates, no
+settlement could be arrived at. Resultantly, the parties were heard at length
+and the authorities relied upon them were examined in detail.
+3. The Court has accepted the preliminary objection raised by the
+learned counsel for defendant no. 1, and found that the present commercial
+suit is not maintainable owing to the provisions of the Telecom Regulatory
+Authority of India Act, 1997 (hereinafter ―TRAI Act‖), specifically Section
+14 of the said Act. The instant dispute arising out of an Operational Merger
+Agreement entered into between the plaintiff and defendant no. 1, both of
+which are service providers, falls for the adjudication of the Telecom
+Disputes Settlement and Appellate Tribunal (‗TDSAT‘). Defendants nos. 2-
+5 being made party to the instant suit does not, importantly, oust the
+jurisdiction of the TDSAT.
+4. Before delving into the substantive reasoning given by the Court the
+factual matrix shall be considered.
+FACTUAL MATRIX
+5. The facts as gleaned from the plaint are that on 11.09.2023 the
+plaintiff and defendant no. 1 entered into an Operational Merger Agreement
+(hereinafter ―OMA‖) with the participation/oversight of defendant no. 5, the
+parent company of defendant no. 1. The said agreement was entered into for
+the purposes of an operational merger for infrastructure, backend manpower
+costs, and with a view to share cashflows.
+6. In furtherance of the OMA, the plaintiff entered into the arrangement
+for sharing of its resources, including personnel, as well as IT assets and
+infrastructure with defendant no. 1, by way of shifting of the plaintiff‘s
+employees from its offices at Gurugram and moving them to defendant no.
+1‘s office at F-1/9, Pocket F, Okhla Phase I, Okhla Industrial Estate, New
+Delhi – 110020. Additionally, the plaintiff entrusted its network
+infrastructure and digital assets, including IP address pools, bandwidth
+allocations, routers, and servers, to be kept/maintained/controlled by
+defendant no. 1 for operational integration and management under the
+OMA.
+7. On 19.10.2025, the plaintiff communicated discovery of
+higher/undisclosed statutory and contingent liabilities of defendant no. 1 and
+sought to discuss next steps. Thereafter, on 23.10.2025, the defendants
+issued a communication titled ―WPI–RI Exit‖, purporting to terminate the
+operational merger with effect from 31.10.2025 and raising a demand of
+approximately ₹2.01 crore.
+8. The plaintiff on 28.10.2025, emailed defendant no. 5 proposing a
+structured/transition-based separation to avoid disruption. Subsequently, on
+29.10.2025, the plaintiff sent a letter/email proposing a 60-day orderly
+demerger and calling for handover of all administrative/network credentials.
+9. Soon thereafter, on 30.10.2025 and 31.10.2025, the plaintiff‘s staff
+were restrained from entering the shared Okhla premises and plaintiff‘s
+assets were detained. Further the defendants purportedly disabled/obstructed
+the plaintiff‘s network during the day and again later the same night, causing
+a service outage.
+10. Finally, on 05.11.2025 according to the plaintiff, with fresh
+disruptions being caused by the defendants to the plaintiff‘s network in
+Bhagalpur, Rewari, Patna, etc., by suspending the primary administrative
+account and retaining two-factor credentials, the present suit came to be
+filed.
+SUBMISSIONS MADE ON BEHALF OF THE PARTIES
+11. On the preliminary issue of maintainability, the submissions of the
+learned counsel for the parties were the following.
+12. Mr. Aditya Vaibhav Singh, learned counsel appearing on behalf of
+defendant no. 1 submitted that the instant dispute falls for the determination
+of TDSAT and is squarely covered by Section 14 of the TRAI Act. The
+submissions of the learned counsel may be summarized as under:
+(i) The dispute in the instant case primarily stems from the
+agreement between the plaintiff and defendant no. 1, both of
+which are service providers, and for the adjudication of disputes
+between them, the TDSAT has exclusive jurisdiction under
+Section 14(a)(ii) read with Section 15 of the TRAI Act.
+(ii) There is no splitting of the cause of action and defendant nos.
+2-4 have been arrayed in their official capacity. Them being
+made parties to the instant dispute therefore makes no
+difference to the lis needing to be adjudicated by the TDSAT.
+(iii) The learned counsel while stressing upon the averments made
+in the plaint argued that joint and several liability of the
+defendants have, apart from being mentioned in the prayer
+clause, not been detailed/narrated in the plaint.
+(iv) Reliance was placed on the decisions in Amrit Aneja, Sole
+Proprietor of AACL Enterprises v. Siti Network Ltd.1
+, World
+Phone Internet Services Pvt. Ltd. v. One OTT Intertainment
+Ltd. In Centre2
+, and Hathway Digital Pvt. Ltd. v. Dhanraj
+Datacom Services Pvt. Ltd. and Ors.3
+13. Mr. Tanmaya Mehta, learned counsel appearing on behalf of the
+plaintiff submitted that the instant dispute cannot be adjudicated upon by the
+TDSAT under Section 14 of the TRAI Act and it is the civil court that shall
+have jurisdiction over the present matter. The submissions of the learned
+counsel may be summarized as under:
+(i) The dispute concerns a private agreement entered into between
+the plaintiff and defendant no. 1 and does not concern the
+regulatory functions of the TDSAT, resultantly, it does not
+require specialized adjudication.
+
+1 Broadcasting Petition No. 429 of 2017, Telecom Disputes Settlement and Appellate Tribunal, New Delhi.
+2 Comm. Arbitration Application (L) No. 34646 of 2022, High Court of Bombay.
+3 MANU/TD/0012/2018, Telecom Disputes Settlement and Appellate Tribunal, New Delhi.
+(ii) Even if it were to be assumed that a part of the cause of action
+falls for the adjudication of the TDSAT, the same cannot confer
+jurisdiction upon the tribunal for the whole case. This court
+unlike the TDSAT has plenary powers, and is the only forum
+that can entertain the present lis.
+(iii) Significant emphasis was placed by the learned counsel on
+defendants nos. 2-5 not being service providers within the
+meaning of the TRAI Act, and the TDSAT, resultantly, not
+having jurisdiction over the same.
+(iv) In the alternative, it was submitted that if the Court were to
+conclude that TDSAT does have jurisdiction to determine the
+present case, leave may be granted to delete defendant no. 1
+from the array of parties, and the suit be allowed to continue
+against the remaining defendants.
+(v) Reliance was placed on the decisions in Union of India v.
+Association of Unified Telecom Service Providers of India
+etc.4
+, Hathway Digital Pvt. Ltd. v. Dhanraj Datacom Services
+Pvt. Ltd. and Ors.5
+, Amrit Aneja, Sole Proprietor of AACL
+Enterprises v. Siti Network Ltd.6
+
+4 Civil Appeal Nos. 6328, 6399 of 2015, Supreme Court of India.
+5 MANU/TD/0012/2018, Telecom Disputes Settlement and Appellate Tribunal, New Delhi.
+6 Broadcasting Petition No. 429 of 2017, Telecom Disputes Settlement and Appellate Tribunal, New Delhi.
+ANALYSIS
+14. The learned counsel appearing for the parties have been heard at
+length and the judgements relied upon by them have been perused.
+15. The primary submission of the contesting defendant relates to the
+maintainability of the instant suit in light of the provisions of the TRAI Act.
+Before delving into specific sections of the said Act, it is appropriate to
+consider the Statement of Object and Reasons (unamended) of the TRAI
+Act. It reads as under:
+“1. In the context of the National Telecom Policy, 1994,
+which amongst other things, stresses on achieving the
+universal service, bringing the quality of telecom services to
+world standards, provisions of wide range of services to meet
+the customers‟ demand at reasonable price,and participation
+of the companies registered in India in the area of basic as
+well as value added telecom services as also making
+arrangements for protection and promotion of consumer
+interest and ensuring fair competition, there is felt a need to
+separate regulatory functions from service providing
+functions which will be in keeping with the general trend in
+the world. In the multi-operator situation arising out of
+opening of basic as well as value added services in which
+private operators will be competing with government
+operators, there is a pressing need for an independent
+telecom regulatory body for regulation of telecom services
+for orderly and healthy growth of telecommunication
+infrastructure apart from protection of consumer interest.
+XXX XXX XXX
+4. The powers and functions of the Authority, inter alia, are—
+(i) ensuring technical compatibility and effective interrelationship between different service providers;
+(ii) regulation of arrangement amongst service providers of
+sharing their revenue derived from providing
+telecommunication service;
+(iii) ensuring compliance of licence conditions by all service
+providers;
+(iv) protection of the interest of the consumers of
+telecommunication service;
+(v) settlement of disputes between service providers;
+(vi) fixation of rates for providing telecommunication service
+within India and outside India;
+(vii) ensuring effective compliance of universal service
+obligations.
+5. The Authority shall have an inbuilt dispute settlement
+mechanism including procedure to be followed in this
+regard as well as a scheme of punishment in the event of
+non-compliance of its order.
+6. The Authority will have to maintain transparency while
+exercising its powers and functions. The powers and
+functions would enable the Authority to perform a role of
+watchdog for the telecom sector in an effective manner.
+7. In order that the Authority functions in a truly
+independent manner and discharges its assigned
+responsibilities effectively, it is proposed to vest the
+Authority with a statutory status.”
+[Emphasis supplied]
+16. The TRAI Act was amended by Act 2 of 2000. The amended
+preamble of the TRAI Act reads as under:
+“An Act to provide for the establishment of the Telecom
+Regulatory Authority of India and the Telecom Disputes
+Settlement and Appellate Tribunal to regulate the
+telecommunication services, adjudicate disputes, dispose of
+appeals and to protect the interests of service providers and
+consumers of the telecom sector, to promote and ensure
+orderly growth of the telecom sector and for matters
+connected therewith or incidental thereto.”
+[Emphasis supplied]
+17. Reflecting the object and purpose of the Act, Section 14 establishes
+the TDSAT and gives it powers to adjudicate upon disputes involving a
+defined category of persons. To make this authority the exclusive body,
+capable of entertaining a specialized lis, Section 15 of the TRAI Act bars the
+jurisdiction of civil courts over matters which the Appellate Tribunal is
+competent to adjudicate upon under the TRAI Act. The said provisions read
+as under:
+―14. Establishment of Appellate Tribunal.
+The Central Government shall, by notification, establish an
+Appellate Tribunal to be known as the Telecom Disputes
+Settlement and Appellate Tribunal to—
+(a) adjudicate any dispute—
+(i) between a licensor and a licensee;
+(ii) between two or more service providers;
+(iii) between a service provider and a group of
+consumers:
+Provided that nothing in this clause shall apply in respect of
+matters relating to—
+(A) the monopolistic trade practice, restrictive trade practice
+and unfair trade practice which are subject to the
+jurisdiction of the Monopolies and Restrictive Trade
+Practices Commission established under sub-section (1) of
+section 5 of the Monopolies and Restrictive Trade Practices
+Act, 1969(54 of 1969);
+(B) the complaint of an individual consumer maintainable
+before a Consumer Disputes Redressal Forum or a
+Consumer Disputes Redressal Commission or the National
+Consumer Redressal Commission established under section 9
+of the Consumer Protection Act, 1986(68 of 1986);
+(C) the dispute between telegraph authority and any other
+person referred to in sub-section (1) of section 7B of the
+Indian Telegraph Act, 1885 (13 of 1885);
+(b) hear and dispose of appeal against any direction,
+decision or order of the Authority under this Act.
+(c) exercise jurisdiction, powers and authority conferred
+on—
+(i) the Appellate Tribunal under the Information Technology
+Act, 2000 (21 of 2000); and (ii) the Appellate Tribunal under
+the Airports Economic Regulatory Authority of India Act,
+2008 (27 of 2008).
+15. Civil court not to have jurisdiction.
+No civil court shall have jurisdiction to entertain any suit or
+proceeding in respect of any matter which the Appellate
+Tribunal is empowered by or under this Act to determine and
+no injunction shall be granted by any court or other authority
+in respect of any action taken or to be taken in pursuance of
+any power conferred by or under this Act.
+[Emphasis supplied]
+18. The Supreme Court in Union of India v. Tata Teleservices
+Mahrarashtra Ltd.7
+, noted that powers of the adjudicating authority must
+not be interpreted in a manner that frustrates the object sought to be
+achieved by the Act. The material portions of the judgement reads as under:
+“17. Normally, when a specialised tribunal is constituted
+for dealing with disputes coming under it of a particular
+nature taking in serious technical aspects, the attempt must
+be to construe the jurisdiction conferred on it in a manner as
+not to frustrate the object sought to be achieved by the Act. In
+this context, the ousting of the jurisdiction of the civil court
+contained in Section 15 and Section 27 of the Act has also to
+be kept in mind. The subject to be dealt with under the Act
+has considerable technical overtones which normally a civil
+
+7
+2007 (7) SCC 517.
+court, at least as of now, is ill equipped to handle and this
+aspect cannot be ignored while defining the jurisdiction of
+TDSAT”
+19. This Court in Gaur Distributors v. Hathway Cable and Datacom
+Ltd.8
+, sat in adjudication of a Section 11 petition under the Arbitration and
+Conciliation Act, 1996 (hereinafter ―Arbitration Act‖), where the parties
+therein were service providers as defined under the TRAI Act. The Court
+concluded that the operation of the Arbitration Act has been barred by
+Sections 14 and 15 of the TRAI Act, which is the sole authority to decide
+upon the dispute between service providers. To reach this finding the Court
+relied upon two decisions—first, was a previous decision of this Court in
+Hathway Cable & Datacom Pvt. Ltd. v. Banjara Telelinks Pvt. Ltd.9
+and
+the other was the decision of the Appellate Tribunal in Aircel Digilink India
+Ltd. v. Union of India.
+10
+20. In Hathway Cable & Datacom Pvt. Ltd., this Court noted that
+disputes between two service providers should be adjudicated in the first
+instance only by the TDSAT. The material portion reads as under:
+“11. It was also held by the Bench of this Court that
+notwithstanding the decision dated 31st August 2005 passed
+by the TDSAT in Petition No. 52 (C) of 2005, in view of the
+law explained by the Supreme Court in Cellular Operators
+Association of India v. Union of India (2003) 3 SCC
+186 and Union of India v. Tata Teleservices (Maharashtra)
+Limited (2007) 7 SCC 517, disputes between two service
+providers should be adjudicated in the first instance only by
+the TDSAT. It may be noticed that against the decision of the
+
+8
+2016 SCC OnLine Del 4605.
+9 C.S. (OS) No. 1358/2006, Order Dt. 30th July, 2009, Delhi High Court.
+10 Petition No. 06/2003, Order dt. 6th January, 2005, Appellate Tribunal.
+TDSAT, an appeal is maintainable as a matter of right to the
+Supreme Court of India in terms of Section 18 of the TRAI
+Act.”
+[Emphasis supplied]
+21. Further, the Appellate Tribunal in Aircel Digilink India Ltd. v. Union
+of India,
+11 pertinently observed that disputes which may prima facie appear
+to be a simplicitor civil lis, may have broader ramifications potentially
+affecting consumers. The material portion of the judgement reads as under:
+“18. It is a matter of public policy laid in the public interest
+that telecom, broadcasting and cable services dispute which
+affect a large body of consumers all over the country should
+be amenable to one expert body. What will happen if in a
+dispute between two service providers in telecom sector
+arising out of an interconnection agreement, a service
+provider revokes the interconnection agreement. For these
+two, it may be dispute of recovery of money or damages or of
+technical nature but disconnection deprives consumers of
+access of one network to the other network. Consequences
+are not limited to the two service providers only but are of
+far reaching nature not difficult to imagine. Similarly, if in
+cable industry, a broadcaster and a multi-service operator
+sever their relations under alloyed breach of agreement, it
+affects again a large body of consumers who would not be
+able to avail the signals for various channels and yet having
+made payment. An arbitrator will find himself lacking
+jurisdiction to give relief to hapless consumers.
+19. The Act is a complete code. TDSAT has exclusive
+jurisdiction to adjudicate any dispute between the parties and
+also exercises exclusive appellate jurisdiction against any
+direction, decision or order of the TRAI. Sections 14 to 20 in
+Chapter IV of the Act deal with the jurisdiction and
+procedure of the TDSAT. Section 14M and 14N provides for
+
+11 Petition No. 06/2003, Order dt. 6th January, 2005, Appellate Tribunal.
+transfer of pending cases before TRAI and appeals in the
+High Court to TDSAT after its constitution by the amending
+Act 2 of 2000 which carne into force on 21.2.2002.
+Jurisdiction of civil courts is barred in respect of any matter
+which TDSAT is empowered by or under the Act to determine
+and no injunction shall be granted by any court or any
+authority which includes arbitrator in respect of any action
+taken or to be taken in pursuance of the powers conferred by
+this Act on TDSAT. Orders passed by the TDSAT are
+executable as a decree and provision also exists for
+imposition of penalty for wilful failure to comply with the
+orders of the TDSAT. Under Section 18 of the Act, appeal
+lies to the Supreme Court against any order not being an
+interlocutory order of TDSAT on one or more of the grounds
+specified in the Section 100of the Civil Procedure Code. The
+Supreme Court in the case of Cellular Operators Association
+of India v. Union of India (2003) 1 Comp LJ 1 (SC) : (2003)
+3 SCC 186 has observed that appeal lies to the Supreme
+Court against the order of TDSAT only on the substantial
+question of law. The Preamble of the Act discloses as well the
+intent and object of the Legislature to confer exclusive
+jurisdiction to TDSAT to the exclusion of any court or
+authority.
+20. The Arbitration Act, 1996, is a general Act and it will
+apply to all the arbitration agreements but the Act, i.e., TRAI
+Act is Special Act and applies to telecom sector and by
+notification issued on 9 January, 2004, also applies to
+broadcasting and cable services. The intention of the
+Legislature in ousting the jurisdiction of all other courts and
+all other authorities is quite apparent and it is to ensure and
+enable one single authority, i.e., TDSAT, to uniformly
+regulate this vital telecom sector which includes
+broadcasting and cable TV sector. Proper functioning of
+various stakeholders in this telecom sector is vital to the
+development and to safeguard interest of the consumers at
+large who are the beneficiaries of these services. It may also
+be noticed that telecom sector is subject to various
+regulations issued by TRAI which even monitors the
+interconnection between various service providers. In
+the Cellular Operators Association of India v. Union of
+India (2003) 1 Comp LJ 1 (SC) : (2003) 3 SCC 186, the
+Supreme Court has held that jurisdiction of TDSAT under
+Section 14 cannot be held merely to be supervisory
+jurisdiction and that it is the only forum for addressing the
+grievances of aggrieved party inasmuch as the appellate
+jurisdiction to the Supreme Court is only on the substantial
+question of law and jurisdiction of Civil Courts for filing a
+suit is ousted. TDSAT has power to adjudicate any dispute.
+The Supreme Court in the case of West Bengal [Telecom]
+Regulatory Commission v. CESE Ltd. : (2002) 8 SCC
+715 has even recommended the establishment of a similar
+expert Tribunal like TDSAT in telecom sector in other similar
+regulatory bodies. The question of exclusive jurisdiction of
+an expert body like TDSAT has recently been discussed in a
+decision of Supreme Court in the case of Clariant
+International Ltd. v. Securities and Exchange Board of
+India (2004) 4 Comp LJ 52 (SC) : (2004) 8 SCC 524 (paras
+64 to 82).”
+22. The instant dispute fundamentally arises from the purported breaches
+of the OMA, as also the losses caused to the plaintiff during the execution of
+the said agreement. Upon carefully scrutinising the plaint, it is observed that
+the primary grievances which the plaintiff has agitated are:
+22.1. Under the heading ―Flagrant and Deliberate Breaches of the
+Agreement [i.e., the OMA]‖, the plaintiff has narrated commercial
+and financial breaches of the defendants. These include, inter alia,
+non-disclosure of liabilities and long-standing legal violations,
+including unpaid voice license fees under the Department of
+Telecommunications.
+22.2. Further, it is the alleged that under the OMA, the plaintiff is
+entitled to recover from defendant no. 1 Rs. 52,41,994. It is also
+claimed that the defendants unilaterally terminated the OMA and
+raised an arbitrary demand of Rs. 2,01,22,070 /-.
+22.3. Under the heading ―Disruption of Business‖, the plaintiff claims,
+inter alia, that in violation of the OMA—(1) the defendants
+wrongfully restrained employees of the Plaintiff from entering the
+shared premises; (2) disabled all internet access to the plaintiff‘s
+network customers, leading to widespread service disruption; (3)
+shutting down servers and network nodes without authorisation;
+(4) misleading customers and channel partners by issuing false
+communications; and (5) blocking monitoring and remote access
+tools of the plaintiff.
+23. Importantly, the above-acts have, according to the plaintiff, severely
+affected its customers. Paragraph no. 18.18 of the plaint states that 570
+corporate clients, 14,919 retain clients and 283 network partners were
+affected. This portion of the plaint is reproduced as under:
+“18.18. It is further submitted that due to the unauthorised
+and malicious disruption in the network infrastructure of RI
+Networks by Defendant No. 1, the Plaintiff‟s entire
+operational framework across India was severely impacted.
+As a direct consequence of the Defendants‟ unlawful
+interference:
+A. 570 corporate client links were affected;
+B. 14,919 retail client links were disrupted; and
+C. 283 network partners suffered complete service outage.”
+24. The plaintiff has further highlighted the seriousness of the
+Defendant‘s breaches at paragraph no. 21 of the plaint wherein it states that
+approximately 19,000 residential users including hospitals, schools and
+government institutions have been affected. The material portion is
+reproduced as under:
+“21. While discussions regarding the handover of assets
+were ongoing, the Defendants deliberately interrupted the
+Plaintiff‟s network, blocked IP addresses, and restricted
+email domain access, thereby paralysing the Plaintiff‟s
+services to approximately 19,000 residential users and
+hundreds of commercial users, including hospitals, schools,
+government institutions, and corporate clients. This
+deliberate network obstruction resulted in a total service
+outage, causing grave operational losses. It was only upon
+repeated intervention by the Plaintiff that partial network
+access was temporarily restored.”
+25. Indeed, Mr. Mehta had further, during the course of the hearing,
+vociferously contended that customers of the plaintiff have been seriously
+affected owing to the acts of the defendants. It is, therefore, clear that the
+dispute which has arisen between the parties to the instant suit, does in fact
+affect customers, and if the numbers given by the plaintiff are to be
+accepted, a substantial number of them.
+26. If the object and purpose of the TRAI Act is to be given effect, the
+instant lis which is between service providers and admittedly affects
+customers, ought to be decided by the TDSAT. The specialised tribunal
+under the TRAI Act, enacted for protecting and promoting consumer
+interest, ought to be allowed to adjudicate upon the instant dispute.
+27. Further, it is also seen that the present dispute has, at its core, the
+OMA entered into between the plaintiff and defendant no. 1 for the purpose
+of merging their operations and enhancing their business capabilities. This
+agreement between two service providers, directly concerns the services that
+they provide to the customers. The alleged wrongful acts of the defendants
+in the instant case have their basis in the OMA, which relates to their
+operation as service providers.
+28. An argument similar to that being raised by the learned counsel for
+the plaintiff had been put before the Bombay High Court in World Phone
+Internet Services Pvt. Ltd.. The petitioner therein argued that the dispute
+therein arises from a private agreement which does not warrant the
+application of the TRAI Act or the TDSAT. The argument as recorded at
+paragraph no. 27 reads as under:
+“27. In the present case, Advocate Harit has submitted
+strenuously that the MOU between the parties, is a purely
+private arrangement entered between themselves, and in any
+case, the dispute do not involve the TRAI so as to warrant it‟s
+reference to TDSAT. He would submit that the business
+arrangement worked out between the parties amongst
+themselves, with OIL in the business of providing broadband,
+internet, bandwidth. True it is. That the parties decided to
+explore the possibility of coming on a joint platform, to scale
+up the business in Pan-India by providing State of Art
+Services to the subscribers by keeping the charges at the best
+minimum, but they also agreed for, if certain obligations
+which are to be discharged under the MOU or it‟s addendum
+and contemplated „event of default‟. In such case, the clause
+having been invoked, they should be left to themselves to
+resolve their dispute through the mechanism prescribed
+under the MOU itself.”
+29. The said argument was rejected by the Bombay High Court in the
+following words:
+“28. …In short, the dispute which has arisen between the
+parties is ultimately likely to affect the customers/subscribers
+of the internet services, and it is incomprehensible to assume
+that the dispute is only between two parties”
+30. In the instant case, it has been admitted by the plaintiff that consumers
+in fact have been affected. That being the case, the TDSAT under Section 14
+read with Section 15 of the TRAI Act shall have exclusive jurisdiction to
+adjudicate upon the present dispute which arises between two service
+providers.
+31. Two specific arguments of the learned counsel of the plaintiff may
+now be considered. First, Mr. Mehta claims that the TDSAT cannot, under
+Section 14 of the TRAI Act, adjudicate upon claims made by the plaintiff
+against non-service providers i.e., defendant nos. 2-5. That being the case,
+the cause of action which has accrued against defendant nos. 2-5 needs to be
+split from that which arises against defendant no. 1. The TDSAT being
+incapable from adjudicating upon the former, this Court must entertain the
+present plaint. For this argument he relies upon the judgement of the
+Supreme Court in Association of Unified Telecom Service Providers of
+India etc..
+32. The argument pertaining to the splitting of cause of action can only
+hold ground if the causes of action can be shown to have accrued distinctly
+and independently. Meaning thereby, that if the plaintiff had agitated such
+issues against defendant nos. 2-5, which have their own independent
+existence, in exclusion to the complaints against defendant no. 1, the
+argument could have possibly been accepted.
+33. However, in the instant case, very many paragraphs of the plaint
+narrate defendant nos. 2-4 acting on behalf of defendant no. 1. It is also
+appropriate to lay stress on who defendant nos. 2-4 are in the instant case.
+The plaint at paragraph no. 9 describes them in the following manner:
+“9. Defendant Nos. 2 to 4 are the key managerial personnel
+of Defendant No. 1. Mr. Aditya Singh Ahluwalia (Defendant
+No. 2) and Mr. Venkatramanan (Defendant No. 3) are
+Directors of Defendant No. 1, while Mr. Jeevan
+Singh(Defendant No. 4) serves as the Head of Network of the
+said company. All the aforesaid Defendants have their
+office at the same address as Defendant No. 1 and are
+responsible for the overall management, operations, and
+decision-making of the company.”
+[Emphasis Supplied]
+A bare perusal of the plaint describes defendant nos. 2-4 as those responsible
+for the acts of the company. Naturally, an artificial legal entity cannot act on
+its own. To that extent merely because defendant nos. 2-4 have been arrayed
+as a party, TDSAT‘s jurisdiction would not get ousted.
+34. Further, qua the role of defendant no. 5, the plaintiff has, inter alia,
+stated that it is being arrayed on grounds of it being vicariously liable for the
+acts of defendant no. 1. The material portion of the plaint reads as under:
+“18.8 However, instead of cooperating, the Defendant No. 5
+through Defendant No. 2 initiated their wrongful acts
+abruptly….
+XXX XXX XXX
+32. Without prejudice to the foregoing, it is further submitted
+that the relationship between Defendant No. 5 and Defendant
+No. 1 squarely attracts the doctrine of agency or
+instrumentality as recognized under Indian law. Where a
+parent company directs, dominates, and benefits from the
+actions of its subsidiary, such subsidiary is deemed to act as
+the agent or instrumentality of the parent, rendering the
+parent company jointly and severally liable for the acts so
+committed. In the present case, Defendant No. 5 conceived
+and directed the operational merger, appointed its promoter
+to exercise oversight under Clause 15 of the agreement, and
+permitted Defendant No. 1 to implement the operational
+integration in India for its commercial benefit. The acts of
+interference, obstruction, and disruption carried out by
+Defendant No. 1 were in furtherance of Defendant No. 5‟s
+business arrangement and within the scope of its control.
+Accordingly, Defendant No. 5 is vicariously and jointly liable
+in India for the conduct, breaches, and wrongful acts of its
+wholly-owned subsidiary, Defendant No. 1.”
+35. There is, therefore, no separate or independent cause of action qua a
+non-service provider that would warrant ouster of TDSAT‘s jurisdiction
+under Section 14 of the TRAI Act. To that extent, while the judgement of
+Association of Unified Telecom Service Providers of India etc.. cannot be
+doubted, it is not found relevant to the instant dispute.
+36. The second argument of Mr. Mehta pertains to subject-matter bar. It is
+submitted by him that the instant dispute cannot be adjudicated upon by the
+TDSAT owing to the subject-matter of the instant dispute. For this
+argument, reliance was placed on the decisions of the TDSAT in Amrit
+Aneja and Hathway Digital Pvt. Ltd..
+37. In Amrit Aneja, the TDSAT found that it did not have jurisdiction to
+adjudicate upon a dispute between a master and servant. The petitioner
+therein was, further, not a service provider, licensor, licensee, or a group of
+consumers, as is required by Section 14 of the TRAI Act. The judgement is,
+therefore, distinguishable on facts. Similarly, in Hathway Digital Pvt. Ltd.,
+paragraph no. 12 of the judgement narrates that the primary respondents had
+not been sued in their capacity of service providers, and resultantly the
+petition was not found maintainable. This judgement also is distinguishable
+on facts.
+38. From the discussion above, it can be safely concluded that the dispute
+in the instant case originating from the OMA between the plaintiff and the
+defendant no. 1, both being service providers, and further affecting a
+substantial number of customers/subscribers is to fall for the exclusive
+adjudication of the TDSAT under Section 14 read with Section 15 of the
+TRAI Act.
+39. The present commercial suit is, therefore, to be adjudicated by the
+TDSAT under the provisions of the TRAI Act. The instant suit is barred by
+law and the plaint deserves to be rejected.
+40. Ordered accordingly. Pending applications also stand disposed of.

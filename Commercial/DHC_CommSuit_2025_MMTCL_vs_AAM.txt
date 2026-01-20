@@ -1,0 +1,969 @@
+COURT: Commercial Court, Delhi
+CASE_TYPE: Commercial Suit
+CASE_NO: CS(COMM) 959/2024 & I.A. 43586/2024, I.A. 43587/2024, I.A.43588/2024, I.A. 43589/2024, I.A. 43590/2024
+DATE: 29.07.2025
+PLAINTIFF: MMTC LIMITED 
+DEFENDANT: ANGLO-AMERICAN METALLURGICAL PTY LIMITED AND ORS.
+JUDGE: Justice JASMEET SINGH
+
+----JUDGMENT-----
+
+Filing of the present suit by the plaintiff herein is a classic case of
+abuse of the process of law. Having exhausted all the remedies as
+available under the law, the present suit has been filed seeking to relitigate the issues already adjudicated upon by the Arbitral Tribunal in
+the Arbitral Award which has been upheld by the Hon‟ble Supreme
+Court, on a ground of fraud not upon the Court but by the officials of
+the plaintiff itself. The issue which is before me is: Can a “suit” be
+maintainable to declare an Arbitral Award a nullity. In my view, if this
+is allowed, then the very purpose and object of the Arbitration and
+Conciliation Act, 1996 (“1996 Act”) will be rendered
+infructuous/otiose.
+2. The present suit filed by the plaintiff has claimed the following
+reliefs:-
+“a) To pass a decree of declaration in favour of the Plaintiff
+and against the Defendants to declare and hold that the
+Addendum No. 2 dated 20.11.2008 executed between the
+Plaintiff and the Defendants is vitiated by fraud and tainted
+by corruption and is thus void ab initio;
+b) Pass a decree of declaration to declare that the Award
+dated 12.05.2014 passed by the International Chamber of
+Commerce, International Court of Arbitration in ICC
+Arbitration Reference 18968/CYK titled as Anglo-American
+Coal Metallurgical Coal Pty Limited versus MMTC Limited
+is obtained/tainted by fraud as it is based on the Addendum
+No. 2 dated 20.11.2008, which itself is void ab initio and
+thus the Award dated 12.05.2014 itself is void and
+unenforceable and is liable to be set aside;
+c) Pass a decree of declaration to declare and set aside the
+Award dated 12.05.2014 and all/any consequential orders
+based on the said Award on the ground that the Award is
+obtained/tainted by fraud and/or was vitiated by the acts of
+corruption of the Defendants in securing the Plaintiff’s
+consent to enter into the Addendum No.2 dated 20.11 .2008;
+d) To pass a decree in favour of the Plaintiff and against the
+Defendants, jointly and severally, for recovery of a sum of
+Rs. 8,95,29,612/- (Rupees Eight Crores Ninety-Five Lakhs
+Twenty-Nine Thousand Six Hundred and Twelve Only)
+along with interest @ 18% per annum calculated from the
+date of commencement of cause of action i.e. 16.08.2022 till
+date of its realization;
+e) To pass a decree of Permanent injunction in favour of the
+Plaintiff and against the Defendants, its legal heirs,
+successors, legal representatives, administrators, executors,
+nominees and assigns or anybody acting on their behalf,
+thereby restraining the Defendants from acting/ relying
+upon the Addendum No.2 dated 20.11.2008 and the Award
+dated 12.05.2014 in any manner whatsoever;”
+BREIF FACTS AS PER THE PLAINT
+3. The plaintiff is a Central/Public Sector Enterprise, the entire
+shareholding is held by the Central Government. The plaintiff is under
+the pervasive control of the Ministry of Commerce and Industry.
+Amongst other things, the plaintiff is engaged in the business of
+export and import of mineral ores and essential metals whereas the
+defendant No. 1 is the international supplier of the coking coal.
+4. In the year 2003, the plaintiff approached the defendant No. 1 for
+supply of coking coal. On 07.03.2007, the plaintiff with the defendant
+No. 1 entered into an Long Term Agreement (“LTA”) for the supply
+of hard coking coal intended for use by Neelachal Ispat Nigam
+Limited (“NINL”) in which the plaintiff was holding 49.78% shares at
+the contemporaneous time. The LTA incorporated provisions relating
+to pricing and performance. Further, the LTA had three one-year
+delivery periods starting on July 1, 2004, and ending on June 30, 2007
+and by virtue of Clause 1.3 of LTA, the plaintiff was given an option
+to extend the LTA for two more delivery periods through mutually
+executed addendums based on mutually agreed price and quantity
+which was later exercised by the plaintiff.
+5. The LTA contains an arbitration clause which reads as under:-
+“PARA 20: ARBITRATION:
+20.1 All disputes arising in connection with the present
+Agreement shall be finally settled under the Rules of
+Arbitration of the International Chamber of Commerce,
+Paris by one or more Arbitrators appointed in accordance
+with the said Rules and the Award made in pursuance
+thereof shall be binding on the parties. The Arbitrator shall
+give a reasoned award. The venue of arbitration shall be
+New Delhi, India.”
+6. On 28.06.2007, Addendum No. 1 was executed between the parties
+for the period 01.07.2007 to 30.06.2008, extending the arrangement to
+a fourth delivery period. Thereafter, before execution of Addendum
+No. 2, the defendant No. 5, the then GM (Coking Coal) in accordance
+with his role in/duty to the plaintiff, prepared a Note dated 03.06.2008
+for finalization of price for LTA for the fifth delivery period at the rate
+of US$ 300 per MT. The said note recorded that the supplies against
+the fourth delivery period from 01.07.2007 to 30.6.2008 had not been
+completed and had been extended till 30.09.2008. The note sought
+sanction of Sale/Purchase Committee of Directors (“SPCOD”) for
+entering into a binding contract for the period 01.07.2008 to
+30.06.2009. The note did not mention the quality of coking coal to be
+supplied during the fifth delivery period.
+7. Upon the said note dated 03.06.2008 being put up before the
+defendant No.6, the then Director (Marketing) of the plaintiff, the
+defendant No.6 on 04.06.2008, noted that the plaintiff “should try to
+avoid/defer US$ 300 price coal to be finalized for 2008-2009” till
+March, 2009. The said defendant No. 6 was aware of the requirements
+of NINL for coking coal and that NINL had sufficient stocks of
+coking coal, a fact that was subsequently confirmed by NINL. The
+defendant No.6 thus expressed his opinion that considering the state of
+the international markets, the plaintiff should not commit to the price
+of US$ 300 per MT in advance, before the need for supplies of coal
+arose.
+8. After much deliberation and communications between the plaintiff
+and defendant No. 1, on 20.11.2008, Addendum No. 2 was executed
+whereby the LTA was extended to cover a fifth delivery period from
+01.07.2008 to 30.06.2009. Under this Addendum, a fixed price of US$
+300 per MT was stipulated for a contracted quantity of 466,000 MT.
+This Addendum forms the crux of the dispute between the parties.
+9. The plaintiff alleges that the price of US$ 300 per MT was arbitrarily
+and fraudulently determined through collusion between plaintiff‟s key
+managerial personnel, arrayed as Defendant Nos. 4 to 7, and
+representatives of defendant No. 1, namely defendant Nos. 2 and 3, at
+a time when global coal prices had significantly declined owing to the
+2008 global economic downturn (Lehman Brothers Crash).
+10. It is also stated that the consent of the plaintiff for this Addendum was
+obtained by fraudulent means. The Addendum was also opposed to
+public policy since the acts and omissions of the defendants amounted
+to commission of a criminal offence of corruption under the
+Prevention of Corruption Act, 1988. The plaintiff was acting through
+the defendant Nos. 4 to 7, who made the plaintiff consent to
+committing for price of US$ 300 per MT which was more than 3 times
+the price fixed for the fourthdelivery period i.e. 96.40 US$ per MT
+and caused a massive loss to the public exchequer, for the next year,
+when the prevalent trend was of fall in prices and when there was no
+immediate requirement of coking coal.
+11. The Addendum No. 2 specified a different quality of coal to what was
+mentioned in the Agreement. The quality of the Coal as mentioned in
+the Addendum No. 2 is extracted below:-
+“1. Prime Washed Isaac Coking Coal Brand (Blend of 65%
+Moranbah North and 35% German Creek Coking Coals)
+SIZE 0-50 MM
+2. Dawson Valley Blend Coking Coal (Blend of 80%
+Dawson MV 20% Capricorn Coking Coal) shipment subject
+to technical clearance from Neelachal Plant.”
+12. The aforesaid quality of Coking Coal was different from that
+mentioned in the Agreement, which was only the Blend of 65%
+Moranbah North and 35% German Creek Coking Coal. This shows
+that with regard to each delivery period, a separate Addendum was to
+be executed to mutually settle and decide the price as well as the
+quality and quantity of Coal.
+13. The officials of plaintiff, despite being fully aware that the price of
+Coking Coal had drastically fallen, proceeded to execute the
+Addendum No. 2. It is important to note that on 20.11.2008 i.e. date of
+signing of the Addendum, officials of the plaintiff knew about the
+drastic fall in price, which is evident from the letter of defendant No.4.
+Thus, the communication dated 20.11.2008 is a demonstrable proof of
+the breach of fiduciary duty by the defendant Nos. 4 to 7 for their own
+protection and that they had acted in a manner to cause a loss to the
+public sector undertaking with the intent and motive to cause a
+wrongful gain in favour of defendant No. 1.
+14. There was no reason whatsoever for the plaintiff, which was
+purchasing coking coal from the defendant No.1 till 30.09.2008 at
+USD 96.40, to agree to the price of USD 300 per MT for the same
+period. The execution of the Addendum No. 2 was the catalyst, which
+drove the defendant No.1 to an ever-dominating position in the
+transaction. On the other hand, the defendant No. 1 in News Release
+dated 20.02.2009 made an unambiguous admission that in the second
+half of 2008, as a result of global economic slowdown, there had been
+a significant decline of prices of commodities including coking coal.
+15. On said price, when the plaintiff was unable to make purchases, the
+defendant No.1 invoked the arbitration clause of the LTA and
+obtained an Arbitral Award dated 12.05.2014 against the plaintiff for
+damages on account of alleged non-lifting of 4,54,034 MT out of the
+contractual 4,66,000 MT of coking coal by the plaintiff and the
+defendant No.1 was held to be entitled to recover damages to the tune
+of US$ 78,720,414.92 along with pre-award interest @ 7.5% inthe
+sum of US$ 27,329,420.29, along with costs of US$ 977,395,
+amounting to US$ 107,027,230.21 (approximately Rs. 716 crores),
+and interest @ 15% on the principal sum from the date of the Award
+until payment.
+16. In execution of said Arbitral Award, the plaintiff has been made to
+deposit a sum of Rs. 1087,76,44,465.40, (though the calculation of
+thisamount is disputed by the plaintiff), apart from the original title
+deeds of 36 immovable properties vested with or owned by the
+plaintiff totalling to a sum of Rs. 1,275.51 crores with the registry of
+this Hon‟ble Court.
+17. These aforesaid facts itself speaks that there was neither any plausible
+reason nor circumstance, prevalent in the market justifying in any
+manner, procurement of 4.66 lakh MT and that too at a price of US$
+300 per MT. Fraud is evident and apparent on the face of record, since
+the execution of the Addendum No. 2 on 20.11.2008 was the result of
+fraud, collusion, conspiracy and corruption. This conspiracy led to
+wrongful gain to the defendant No.1 and wrongful loss to the plaintiff
+and is a case of an egregious fraud.
+18. The defendant No. 4 i.e. Sh. Ved Prakash, Chief General Manager,
+who addressed the communication dated 20.11.2008, subsequently
+became the Director (Mktg) on 19.02.2010 and thereafter promoted to
+the role of Chairman cum Managing Director (“CMD”) of the
+plaintiff on 14.03.2015 and remained until his superannuation on
+29.02.2020. The said officer remained in control of the arbitral
+proceedings, the hearing of the objections as well as appeal under
+section 37 of 1996 Act. Post superannuation of Shri Ved Prakash,
+upon enquiry, it surfaced that he is doing business in Dubai and Mr.
+Sanjeev Batra, who was the CMD during the period when the
+addendum was signed, is presently doing business in Singapore.
+19. On 24.02.2021, the then CMD, MMTC for the first time issued a
+confidential note addressed to Joint Secretary, FT(ST), Department of
+Commerce with a copy to CVO, MMTC, requesting the CVO to seek
+Govt. of India permission for the enquiry into the matter. On
+25.03.2021, the said Department gave permission to initiate enquiry.
+20. Pursuant to the letter dated 25.03.2021, the plaintiff examined the case
+related to supply of coking coal and dispute pertaining to the fifth
+delivery period and submitted a factual report dated 27.09.2021.
+Thereafter the matter was examined and on 16.08.2022, a decision
+was taken to refer the matter to the CBI vide Office Memorandum
+No.C-13011/06/2020-21-VIG issued by the Under Secretary
+(Vigilance), Department of Commerce, conveying the approval of the
+Hon‟ble Commerce and Industry Minister for handing over the case to
+CBI for detailed investigation of the matter. On 02.09.2022, a
+Complaint was registered with the CBI by the plaintiff.
+21. After getting sanction, on 09.01.2023, the CBI registered a
+Preliminary Enquiry bearing No. PE2172023A0001. The plaintiff has
+also moved an application under Section 156(3) of the Criminal
+Procedure Code, 1973 seeking registration of FIR in the subject
+matter. Learned Special Judge, CBI vide order dated 09.05.2024
+dismissed the said application as not maintainable on the ground that
+the Court of Learned Special Judge, CBI does not have the powers to
+direct the CBI to register an FIR. Against the said order, Criminal
+Revision Petition No. 1060 of 2024 has been filed and notice has been
+issued.
+22. This conspiracy is therefore, currently under further investigation by
+the CBI. The seeds of the commercial relationship between the exofficials of the plaintiff and the defendant No. 1 leading to the
+execution of the Addendum No. 2 dated 20.11.2008 is a product of
+fraud, and as such, the Agreement and the ensuing entire Arbitral
+proceedings, leading to the culmination of the Award dated
+12.05.2014 are infected by poison of fraud.
+23. The plaintiff has already invoked the criminal remedies by filing
+complaint before the CBI and is also independently invoking the civil
+remedy by way of filing the present suit.
+SUBMISSIONS
+On behalf of the Plaintiff
+24. Mr. Harish Salve, learned senior counsel appearing for the plaintiff,
+on maintainability, submits that the averments made in the plaint are
+to be taken on a demurrer and the merits of the case and the defence
+available to the defendants are irrelevant to decide the question,
+whether or not to reject the plaint. The defendant No. 1 has attempted
+to make oral submissions with regard to the merits of the case, which
+is impermissible in law as at this stage, the averments made in the
+plaint are to be considered as true and correct. Reliance is placed on
+P.V. Guru Raj Reddy v. P. Neeradha Reddy, (2015) 8 SCC 331.
+25. The defendant No. 1 has urged that prayers and more particularly (b)
+and (c) are barred in terms of Section 5 of 1996 Act. However, the
+case of the plaintiff is that section 5 does not bar the institution of the
+present suit. Even if it is presumed that prayers (b) and (c) are not
+maintainable, it is not the case of the defendant No. 1 that prayers (a),
+(d) and (e) are not maintainable. Section 5 of 1996 Act nowhere states
+that the aforementioned reliefs i.e. (a), (d) and (e) cannot be sought by
+way of a separate suit.
+26. Mr. Salve, learned senior counsel while relying on Central Bank of
+India vs. Smt. Prabha Jain and Others, (2025) 4 SCC 38, submits
+that even if prayers (b) and (c) as contended by the defendant No. 1 to
+be barred by law, the said issue cannot be decided under Order VII
+Rule 11 of Code of Civil Procedure, 1908 (“CPC”) since the plaint
+cannot be rejected partially and no observations with regard to the
+prayers (b) and (c) can be made.
+27. Admittedly, no application has been filed under section 8 of 1996 Act
+by defendant No. 1. The plaintiff has clearly pleaded that the Award
+passed by the AT is tainted by fraud and corruption and the former
+employees of the plaintiff i.e. defendants Nos. 4-7 colluded with
+officials of defendant No. 1, causing a substantial loss exceeding Rs.
+1,000 crores to the public exchequer. Such serious allegations having
+broader implications for the public interest must be adjudicated by a
+Civil Court and are not arbitrable in nature.
+28. Reliance is placed on Interplay Between Arbitration Agreements
+under Arbitration, 1996 & Stamp Act, 1899, In re, (2024) 6 SCC 1
+and more particularly on paragraph 276. Reliance is also placed on
+National Projects Construction Corporation v. Royal Construction
+Co. Pvt. Ltd., 2017 SCC OnLine Del 10944 wherein it was held that a
+suit is maintainable to set aside an Arbitral Award, which is obtained
+by fraud and the proceedings pursuant thereto are tainted by fraud.
+29. Learned senior counsel while placing reliance on M. Hariharasudhan
+v. R. Karmegam, (2019) 10 SCC 94 and more particularly on paras 5-
+6, submits that the jurisdiction of a Civil Court to entertain the suit has
+to be determined whether the Act provides an adequate final remedy
+to what the Civil Court would normally do in a suit, such that the
+jurisdiction of the Civil Court must necessarily be inferred to have
+been ousted. It is submitted that 1996 Act does not provide for a
+situation, as pleaded in the plaint. As the 1996 Act does not provide
+any remedy in such scenario wherein the fraud has been discovered
+post conclusion of the arbitration proceedings, the plaintiff cannot be
+rendered remediless and thus the present suit is maintainable.
+30. On merits, Mr. Salve, learned senior counsel submits that the cause of
+action to file the present suit arose for the first time on 16.08.2022,
+whenafter examining the entire material available and discovered, a
+decision was taken to refer the matter to the CBI vide Memorandum
+dated 16.08.2022 issued by the Under Secretary (Vigilance),
+Department of Commerce, conveying the approval of the Commerce
+and Industry Minister for handing over the case to the CBI for a
+detailed investigation in the matter. The plea of fraud was never taken
+by the plaintiff before the Arbitral Tribunal or in the Objections under
+section 34 and 37 as well as before the Hon‟ble Supreme Court as the
+arbitration proceedings were conducted under the supervision of
+defendant No. 4.
+31. Reliance is placed on United India Insurance Co. Ltd. versus
+Rajendra Singh and Others, (2000) 3 SCC 581 wherein the Hon‟ble
+Supreme Court has observed that the party cannot be rendered
+remediless, in the event, it learns about the newly discovered facts
+amounting to fraud of high degree.
+32. A decree obtained by fraud can be set aside by filing a separate suit.
+Reliance is placed on Indian Bank v. Satyam Fibres (India) (P) Ltd.,
+(1996) 5 SCC 550. The LTA, in the present case, is unlawful and
+immoral in terms of section 23 of Contract Act, 1872 and the Arbitral
+Tribunal having not been apprised about the Agreement being
+unlawful or in ignorance of the said statutory provision, has passed an
+Arbitral Award.
+33. Learned senior counsel urges that the Arbitrator becomes functus
+officio once the Award is signed and no recourse can be made before
+the Arbitral Tribunal. In the absence of fraud not being discovered at
+that stage when the Award was assailed in section 34, will the
+aggrieved party be constrained to suffer the enforcement of the said
+unlawful Award? To this, it is submitted that no Court would permit
+the Award holder to enforce an unlawful Award. The 1996 Act does
+not expressly or impliedly bar the jurisdiction of a Civil Court to
+challenge such an unlawful Award by filing a separate suit. Reliance
+is placed on Union of India v. Ramesh Gandhi, (2012) 1 SCC 476
+and more particularly on paragraph 23.
+34. Mr. Salve, learned senior counsel further argues that the fixation of
+price of coking coal for the fifth delivery period at US$ 300 per MT
+and the subsequent discovery of fraud leading to the execution of the
+Addendum No. 2 was not the subject matter before the learned
+Arbitral Tribunal and neither before the Hon‟ble Supreme Court.
+On behalf of the Defendant No. 1
+35. Mr. Jayant Mehta, learned senior counsel appears for the defendant
+No. 1 and vociferously submits that the present suit is ex-facie barred
+by law, and non-maintainable, apart from being an abuse of process. It
+deserves rejection at the very threshold, without issuance of summons.
+36. He submits that the plaintiff had breached the terms of the LTA by
+failing to lift the bulk of the required quantity of coal which led to
+invocation of the arbitration clause. The Arbitral Tribunal entered
+reference and thereafter, the Award was passed on 12.05.2014. The
+Award was finally upheld by the Hon‟ble Supreme Court, vide its
+judgment dated 17.12.2020, the plaintiff filed a Review Petition,
+which was disposed of vide Order dated 29.07.2021. MMTC then
+filed an application seeking clarification, which was also disposed of
+vide order dated 19.04.2022.
+37. The present suit has been filed by the plaintiff after the hearing in
+Enforcement Petition was concluded. The plaintiff moved an
+objection under section 47 of CPC on the same grounds taken in the
+present suit i.e. fraud. The said objections were dismissed by this
+Court on 09.05.2025.
+38. Learned senior counsel argues that the pith and substance of the
+present suit is to question an International Award, which has attained
+finality till the Hon‟ble Supreme Court. The plaintiff seeks
+nullification of the Award, by way of a commercial suit which is
+unknown to law. Such recourse is barred by law under sections 5 and
+34 of 1996 Act.
+39. Mr Mehta argues that in view of non obstante clause in section 5, the
+jurisdiction of Civil Court is ousted. The 1996 Act is a complete code
+in itself. The 1996 Act categorically provides challenge to an Arbitral
+Award i.e. section 34. Hence, the present suit seeking to challenge the
+Award (prayer b) is clearly barred by section 5 read with section 34 of
+1996 Act and is evidently “barred by law” within the meaning of
+Order 7 Rule 11 (d) of CPC.
+40. The contention raised by the plaintiff that suit is maintainable by
+placing reliance on judgment that a decree may be challenged at the
+stage of execution (under section 47 of CPC) or by way of a separate
+suit is fundamentally flawed for the reason that the plaintiff has not
+shown that the alleged fraud was played on the Court or a decree was
+passed by a Court which inherently lacked jurisdiction. A bare reading
+of the plaint does not show that either of these grounds are pleaded or
+made out. An arbitral Award is only enforceable “as if it were a
+Act. The said deeming fiction does not convert the Award into a
+decree but only provides a mechanism for execution.
+41. Learned senior counsel urges that section 34 of 1996 Act is the sole
+and exclusive remedy against an Arbitral Award. Applicability of all
+other laws are barred. If the present suit is held to be maintainable,
+Arbitral Awards and section 34 proceedings would lose all sanctity,
+and every Award Debtor shall seek to come up with a „new ground‟ to
+challenge the Award, by way of a suit. Holding such an action to be
+maintainable shall completely defeat the objectives of the 1996 Act.
+42. On reading the plaint, the plaintiff has admitted that the disputes arose
+between the parties, in relation to Addendum No. 2. These disputes
+were referred to arbitration, leading to the Award dated 12.05.2014.
+The said Award has attained finality. The plaintiff cannot now seek to
+raise a new challenge to the said Addendum. The cause of action in
+relation to the Addendum stands merged into the said Award. There
+exists no cause of action in relation to the Addendum independent of
+or outside the Award.
+43. Hence, the present suit is therefore not just barred by law, but an
+abuse of the process, seeking to reopen facts which stand settled, and
+through a process unknown to law. None of the prayers sought by the
+plaintiff in the present suit can stand in the face of the Award. Each
+one of them, to be granted, would require the Award to first be set
+aside, which cannot be done by way of a suit. Therefore, the present
+suit is ex facie vexatious and deserves to be dismissed at the very
+threshold.
+On behalf of the Defendant Nos. 4-7
+44. Ms. Shyel Trehan, learned senior counsel for the defendant Nos. 4-7
+adopts the submissions advanced by Mr. Mehta, learned senior
+counsel for the defendant No. 1 and in furtherance thereof, she
+submits that the present suit is barred by the limitation as the
+Addendum No. 2 is dated 20.11.2008 and the delivery of coal as per
+the Addendum No. 2 was scheduled between 01.07.2008 to
+30.06.2009. The plaint discloses the purported cause of action as
+16.08.2022, the date the plaintiff preferred a Complaint with the
+Central Bureau of Investigation alleging fraud by defendants 4 to 7. It
+is noteworthy that no such allegation was made prior to this time. The
+said act of submitting a complaint cannot give rise to an independent
+cause of action.
+45. In this view, a suit, that is on the face of it, barred by limitation is
+liable to dismissed at the threshold. Reliance is placed on Nikhila
+Divyang Mehta v. Hitesh P. Sanghvi, 2025 SCC OnLine SC 779 and
+Shri Mukund Bhavan Trust v. Shrimant Chhatrapati Udayan Raje
+Pratapsinh Maharaj Bhonsle, 2024 SCC OnLine SC 3844.
+46. She further submits that the prayers in the present suit disclose the
+purpose of the suit which is to garner another opportunity at
+challenging the Arbitral Award while unfairly seeking to place a claim
+of fraud on its own officers, a claim that is belied by a plain reading of
+the plaint and the accompanying documents.
+47. Ms. Trehan while relying on Clause 1 and 2 of LTA, submits that the
+price and quantity were pre-determined under the terms of the MoU
+and LTA. The transaction was approved by the SPCoD in its meeting
+dated 06.10.2008. It is pertinent to point out that the SPCoD that
+approved the proposal for the import of coking coal for NINL and
+fixed the quantity and price, consisted of approximately 10 Directors
+and General Managers, however, only 4 have been arrayed as
+defendants herein.
+ANALYSIS
+48. Heard learned senior counsels for the parties and considered the
+material placed on record.
+49. The issue for determination in this judgment is can a civil suit be
+maintainable to nullify an Arbitral Award when the same has attained
+finality as per the 1996 Act.
+50. Order VII Rule 11 of CPC reads as under:-
+“ORDER VII
+Plaint
+11. Rejection of plaint.— The plaint shall be rejected in the
+following cases:—
+(a) where it does not disclose a cause of action;
+(b) where the relief claimed is undervalued, and the
+plaintiff, on being required by the Court to correct the
+valuation within a time to be fixed by the Court, fails to do
+so;
+(c) where the relief claimed is properly valued, but the
+plaint is returned upon paper insufficiently stamped, and the
+plaintiff, on being required by the Court to supply the
+requisite stamp-paper within a time to befixed by the Court,
+fails to do so;
+(d) where the suit appears from the statement in the plaint
+to be barred by any law;
+(e) where it is not filed in duplicate;
+(f) where the plaintiff fails to comply with the provisions of
+rule 9:
+Provided that the time fixed by the Court for the correction
+of the valuation or supplying of the requisite stamp-paper
+shall not be extended unless the Court, for reasons to be
+recorded, is satisfied that the plaintiff was prevented by any
+cause of an exceptional nature from correcting the
+valuation or supplying the requisite stamp-paper, as the
+case may be, within the time fixed by the Court and that
+refusal to extend such time would cause grave injustice to
+the plaintiff.”
+(Emphasis added)
+51. On perusal, the said rule provides 6 grounds to reject the plaint.
+Amongst others, when the plaint is barred by any law or the plaint
+does not disclose any cause of action, then the Court shall reject the
+plaint. The Hon‟ble Supreme Court in Dahiben v. Arvindbhai
+Kalyanji Bhanusali, (2020) 7 SCC 366 has exhaustively explained
+the applicability of the said provision in paragraph 23 which is
+extracted below:-
+“23.2. The remedy under Order 7 Rule 11 is an independent
+and special remedy, wherein the court is empowered to
+summarily dismiss a suit at the threshold, without
+proceeding to record evidence, and conducting a trial, on
+the basis of the evidence adduced, if it is satisfied that the
+action should be terminated on any of the grounds
+contained in this provision.
+23.3. The underlying object of Order 7 Rule 11(a) is that if
+in a suit, no cause of action is disclosed, or the suit is
+barred by limitation under Rule 11(d), the court would not
+permit the plaintiff to unnecessarily protract the
+proceedings in the suit. In such a case, it would be
+necessary to put an end to the sham litigation, so that
+further judicial time is not wasted.
+23.4. In Azhar Hussain v. Rajiv Gandhi [Azhar Hussain v.
+Rajiv Gandhi, 1986 Supp SCC 315. Followed in
+Manvendrasinhji Ranjitsinhji Jadeja v. Vijaykunverba, 1998
+SCC OnLine Guj 281 : (1998) 2 GLH 823] this Court held
+that the whole purpose of conferment of powers under this
+provision is to ensure that a litigation which is meaningless,
+and bound to prove abortive, should not be permitted to
+waste judicial time of the court, in the following words :
+(SCC p. 324, para 12)
+“12. … The whole purpose of conferment of such
+powers is to ensure that a litigation which is
+meaningless, and bound to prove abortive should not
+be permitted to occupy the time of the court, and
+exercise the mind of the respondent. The sword of
+Damocles need not be kept hanging over his head
+unnecessarily without point or purpose. Even in an
+ordinary civil litigation, the court readily exercises the
+power to reject a plaint, if it does not disclose any
+cause of action.”
+…..…… ………..…. ……..……
+23.6. Under Order 7 Rule 11, a duty is cast on the court to
+determine whether the plaint discloses a cause of action by
+scrutinising the averments in the plaint [Liverpool &
+London S.P. & I Assn. Ltd. v. M.V. Sea Success I, (2004) 9
+SCC 512], read in conjunction with the documents relied
+upon, or whether the suit is barred by any law.
+…..…… ………..…. ……..……
+23.10. At this stage, the pleas taken by the defendant in the
+written statement and application for rejection of the plaint
+on the merits, would be irrelevant, and cannot be adverted
+to, or taken into consideration. [Sopan Sukhdeo Sable v.
+Charity Commr., (2004) 3 SCC 137]
+23.11. The test for exercising the power under Order 7 Rule
+11 is that if the averments made in the plaint are taken in
+entirety, in conjunction with the documents relied upon,
+would the same result in a decree being passed. This test
+was laid down in Liverpool & London S.P. & I Assn. Ltd. v.
+M.V. Sea Success I [Liverpool & London S.P. & I Assn. Ltd.
+v. M.V. Sea Success I, (2004) 9 SCC 512] which reads as :
+(SCC p. 562, para 139)
+“139. Whether a plaint discloses a cause of action or
+not is essentially a question of fact. But whether it does
+or does not must be found out from reading the plaint
+itself. For the said purpose, the averments made in the
+plaint in their entirety must be held to be correct.
+Thetest is as to whether if the averments made in the
+plaint are taken to be correct in their entirety, a decree
+would be passed.”
+23.12. In Hardesh Ores (P) Ltd. v. Hede & Co. [Hardesh
+Ores (P) Ltd. v. Hede & Co., (2007) 5 SCC 614] the Court
+further held that it is not permissible to cull out a sentence
+or a passage, and to read it in isolation. It is the substance,
+and not merely the form, which has to be looked into. The
+plaint has to be construed as it stands, without addition or
+subtraction of words. If the allegations in the plaint prima
+facie show a cause of action, the court cannot embark upon
+an enquiry whether the allegations are true in fact. D.
+Ramachandran v. R.V. Janakiraman [D. Ramachandran v.
+R.V. Janakiraman, (1999) 3 SCC 267; See also Vijay Pratap
+Singh v. Dukh Haran Nath Singh, AIR 1962 SC 941]”
+52. On perusal, the Court is only required to see whether the averments
+made in the plaint along with the documents annexed with the plaint
+does not disclose any cause of action or the suit is barred by any law
+and if the answer is in affirmative, then it is the duty of the Court to
+put an end to sham litigation so that further judicial time is not wasted.
+The Court is not required to look into the averments made in the
+application under Order VII Rule 11 of CPC or the written statement
+filed by the defendant. The test for Order VII Rule 11 of CPC is if the
+averments made in the plaint are taken as correct in their entirety, then
+a decree would be passed. If the plaint lacks the essential ingredients
+of a proper plaint, the Court should, at the threshold, nip in the bud
+when such bogus litigation appears to be a clear abuse of process. The
+said rule prevents frivolous, vexatious or legally untenable suits from
+consuming judicial time.
+53. It is also a settled law that plaint cannot be rejected partially. If one of
+the relief claimed by the plaintiff is barred and the other one is not,
+then in that case, the Court shall not make any observation against the
+relief which is barred.
+1
+54. The Hon‟ble Supreme Court in T. Arivandandam v. T.V. Satyapal,
+(1977) 4 SCC 467 categorically urged the Courts to use Order VII
+Rule 11 of CPC as a tool to nip in the bud when the plaintiff by clever
+drafting abuses the process of law. The Courts should scrutinize the
+plaint to ensure that meritless litigation is put to rest immediately.
+Relevant paragraph from the said judgment is extracted below:-
+“5. We have not the slightest hesitation in condemning the
+petitioner for the gross abuse of the process of the court
+repeatedly and unrepentently resorted to. From the
+statement of the facts found in the judgment of the High
+Court, it is perfectly plain that the suit now pending before
+the First Munsif's Court, Bangalore, is a flagrant misuse of
+the mercies of the law in receiving plaints. The learned
+Munsif must remember that if on a meaningful — not formal
+— reading of the plaint it is manifestly vexatious, and
+
+1
+Central Bank of India (supra) and more particularly paragraphs 23 and 24.
+meritless, in the sense of not disclosing a clear right to sue,
+he should exercise his power under Order 7, Rule 11 CPC
+taking care to see that the ground mentioned therein is
+fulfilled. And, if clever drafting has created the illusion of a
+cause of action, nip it in the bud at the first hearing by
+examining the party searchingly under Order 10, CPC. An
+activist Judge is the answer to irresponsible law suits. The
+trial courts would insist imperatively on examining the party
+at the first hearing so that bogus litigation can be shot down
+at the earliest stage. The Penal Code is also resourceful
+enough to meet such men, (Cr. XI) and must be triggered
+against them….”
+(Emphasis added)
+55. At the stage of issuance of summon, the Court can suo moto invoke
+Order VII Rule 11 of CPC. The said provision does not provide that
+the Court is to discharge its duty of rejecting the plaint only on an
+application.
+2
+56. The Hon‟ble Supreme Court in Samar Singh v. Kedar Nath, 1987
+Supp SCC 663 has categorically observed that the Court is to be
+satisfied that suit is maintainable and the plaint discloses cause of
+action, and if satisfied, only then the Court should proceed further to
+issue summons.3
+57. To sum up, the Court should not allow the sword of damocles to be
+kept hanging on the head of the defendant when there is unwarranted
+
+2 Patil Automation (P) Ltd. v. Rakheja Engineers (P) Ltd., (2022) 10 SCC 1 and more particularly
+paragraph 94.3.
+litigation which serves no purpose. Hence, the Court should be
+vigilant to not waste judicial time on vexatious and irresponsible law
+suits.
+58. Having discussed the threshold, I shall now proceed to deal with the
+submissions advanced by the learned counsel for the parties.
+59. Mr Salve, learned senior counsel for the plaintiff has argued that as
+per the defendant No. 1, prayers (b) and (c) are barred by section 5 of
+1996 Act but section 5 of 1996 Act does not bar filing of a suit. Even
+assuming without admitting, that prayers (b) and (c) are barred,
+prayers (a), (d), and (e) still remain valid and are not restricted by
+section 5 of 1996 Act. Relying on Central Bank of India (supra), he
+submits that even if some prayers are barred, the plaint cannot be
+rejected in piecemeal. Further, fraud-related issues are to be decided
+by a Civil Court and are not arbitrable in nature.
+60. Much reliance is place on National Projects Construction
+Corporation (supra) to urge that a civil suit is maintainable to
+challenge an Arbitral Award obtained by fraud. Reliance is also
+placed on M. Hariharasudhan (supra).
+61. Section 5 of 1996 Act reads as under:-
+“5. Extent of judicial intervention.—Notwithstanding
+anything contained in any other law for the time being in
+force, in matters governed by this Part, no judicial authority
+shall intervene except where so provided in this Part.”
+(Emphasis added)
+62. On perusal, the said section starts with non obstante clause which
+indicates that no other law will prevail over Part I. Further, no judicial
+authority shall intervene except where it is so provided in Part I. The
+main purpose and intent behind this section is “limited judicial
+interference”. The Hon‟ble Supreme Court in Interplay (supra) has
+interpreted the said section in detail and the relevant paragraphs are
+extracted below:-
+“81. One of the main objectives of the Arbitration Act is to
+minimise the supervisory role of Courts in the arbitral
+process. Party autonomy and settlement of disputes by an
+Arbitral Tribunal are the hallmarks of arbitration law.
+Section 5 gives effect to the true intention of the parties to
+have their disputes resolved through arbitration in a quick,
+efficient and effective manner by minimising judicial
+interference in the arbitral proceedings. [Food Corpn. of
+India v. Indian Council of Arbitration, (2003) 6 SCC 564.]
+Parliament enacted Section 5 to minimise the supervisory
+role of Courts in the arbitral process to the bare minimum,
+and only to the extent “so provided” under the Part I of the
+Arbitration Act.
+In doing so, the legislature did not altogether exclude the
+role of Courts or judicial authorities in arbitral
+proceedings, but limited it to circumstances where the
+support of judicial authorities is required for the successful
+implementation and enforcement of the arbitral process.
+………
+82……. It is of a wide amplitude and sets forth the
+legislative intent of limiting judicial intervention during the
+arbitral process. In the context of Section 5, this means that
+the provisions contained in Part I of the Arbitration Act
+ought to be given full effect and operation irrespective of
+any other law for the time being in force. It is now an
+established proposition of law that the legislature uses non
+obstante clauses to remove all obstructions which might
+arise out of the provisions of any other law, which stand in
+the way of the operation of the legislation which
+incorporates the non obstante clause. [State of Bihar v.
+Bihar Rajya M.S.E.S.K.K. Mahasangh, (2005) 9 SCC 129 :
+2005 SCC (L&S) 460]
+83. A non obstante clause is appended in a provision to give
+such provision overriding effect over other provisions of the
+law.……….
+84. Although a non obstante clause must be allowed to
+operate with full vigour, its effect is limited to the extent
+intended by the legislature. In Icici Bank Ltd. v. Sidco
+Leathers Ltd. [Icici Bank Ltd. v. Sidco Leathers Ltd., (2006)
+10 SCC 452] a two-Judge Bench of this Court held that a
+non obstante clause must be interpreted by confining it to
+the legislative policy. Thus, even if a non obstante clause
+has wide amplitude, the extent of its impact has to be
+measured in view of the legislative intention and legislative
+policy. [JIK Industries Ltd. v. Amarlal V. Jumani, (2012) 3
+SCC 255 : (2012) 2 SCC (Civ) 82 : (2012) 2 SCC (Cri) 125]
+In view of this settled legal position, the issue that arises for
+our consideration is the scope of the non obstante clause
+contained in Section 5 of the Arbitration Act.
+85. In Morgan Securities & Credit (P) Ltd. v. Modi Rubber
+Ltd. [Morgan Securities & Credit (P) Ltd. v. Modi Rubber
+Ltd., (2006) 12 SCC 642] , the issue before the two-Judge
+Bench was whether the provisions of the Arbitration Act
+would prevail over the provisions of the Sick Industrial
+Companies (Special Provisions) Act, 1985 (SICA). While
+noting the non obstante clause contained in Section 5 of the
+Arbitration Act, this Court held that the non obstante clause
+has “limited application aiming at the extent of judicial
+intervention”. It was held that the Arbitration Act would not
+prevail over SICA since the latter enactment seeks to
+“achieve a higher goal”. In other words, the scope of the
+non obstante clause is limited to prohibiting the intervention
+of judicial authorities, unless it has been expressly provided
+for under Part I of the Arbitration Act.
+…..…… ………..…. ……..……
+88. One of the main objectives behind the enactment of the
+Arbitration Act was to minimise the supervisory role of
+Courts in the arbitral process by confining it only to the
+circumstances stipulated by the legislature……
+89. Section 5 contains a general rule of judicial noninterference. Therefore, every provision of the Arbitration
+Act ought to be construed in view of Section 5 to give true
+effect to the legislative intention of minimal judicial
+intervention.”
+63. Section 5 of 1996 Act is the fundamental principle for ensuring
+minimal judicial interference only to the extent “so provided” under
+Part I of the 1996 Act. By featuring limited judicial intervention, the
+role of Court is not excluded in the arbitral proceedings but limited to
+the circumstances where the aid is required for implementation and
+enforcement of arbitration process. The non obstante clause gives
+overriding effect with the conflicting/inconsistent provisions under
+other statutes which means that the provisions in Part I of 1996 Act
+ought to be given full effect irrespective of any other law for the time
+being in force. The use of non obstante clause is to remove all
+obstructions which might arise out of the provisions of any other law,
+which stand in the way of the operation of the legislation which
+incorporates the non obstante clause.
+64. In addition, the 1996 Act is a self-contained code which provides a
+complete framework for arbitrationfrom reference to enforcement;
+thus, the applicability of general law is to be excluded. Unless the
+1996 Act specifically permits it, the provisions of another legislation
+cannot be used to override it. Hence, the procedure set forth in the
+1996 Act must be strictly followed.4
+65. It is also relevant to note that section 19 of 1996 Act states that the
+Arbitral Tribunal shall not be bound by the CPC or the Evidence Act
+making clear that arbitral proceedings are meant to be more flexible,
+informal, and party-driven.
+
+4
+Interplay (supra) and more particularly paragraph 92.
+66. In the present case, the Arbitral Award dated 12.05.2014 passed by the
+learned AT has been upheld by the Hon‟ble Supreme Court vide
+judgment dated 02.03.2020. The present suit has been framed seeking
+declaration, recovery of money, and permanent injunction, however,
+in essence and substance, the plaintiff has made a collateral challenge
+to the said Award which has already attained finality.
+67. The plaintiff herein seeks to declare the said Award as void and
+unenforceable and to set aside in prayers (b) and (c) quoted above.
+The prayer (e) seeks to grant permanent injunction restraining the
+defendants from relying upon the Addendum No. 2 and the Award.
+Prayer (a) seeks declaration that Addendum No. 2 is vitiated by fraud
+and corruption and is void ab initio and prayer (d) seeks recovery of
+an amount from the date of cause of action.
+68. Section 34 of 1996 Act provides a remedy to challenge an Award
+which the plaintiff did after the Award was passed by the Arbitral
+Tribunal. All the remedies as available to the plaintiff under the 1996
+Act have been exhausted with respect to challenge to the present
+Arbitral Award. For the sake of perusal, section 34 of 1996 Act is
+extracted below:-
+“34. Application for setting aside arbitral award.—(1)
+Recourse to a Court against an arbitral award may be made
+only by an application for setting aside such award in
+accordance with sub-section (2) and sub-section (3).
+(2) An arbitral award may be set aside by the Court only
+if—
+(a) the party making the application [establishes on the
+basis of the record of the arbitral tribunal that]
+…………”
+(Emphasis added)
+69. On perusal, the said section clearly specifies that the Arbitral Award
+can “only” be set aside by an application in accordance with subsection (2) and sub-section (3) of section 34 1996 Act. It further states
+that the Arbitral Award may be set aside “only” on the grounds
+mentioned there under. By using the word “only” twice, section 34 of
+1996 Act makes it clear that no challenge to an Award can be
+launched outside of the said section and beyond the grounds specified
+therein. This means that section 34 of 1996 Act offers an exhaustive
+and exclusive remedy to contest an Arbitral Award.
+70. Reliance placed on M. Hariharasudhan (supra) is misconceived, for
+the reasons noted above, in view of section 5 read with section 34 of
+1996 Act as it expressly bars a suit and further provides a final remedy
+which the plaintiff has already exhausted.
+71. It is contended by the plaintiff that fraud came to light only in 2022
+upon internal investigation when Mr. Ved Prakash superannuated and
+thereafter a CBI reference. However, assuming these allegations as
+true, section 34 of 1996 Act already includes the ground of “award
+induced or affected by fraud or corruption” as a basis for challenge,
+which the plaintiff failed to raise timely. Alleged new discovery does
+not revive a remedy that is otherwise barred by law.
+72. Even assuming that the alleged fraud gives rise to a fresh cause of
+action then also the Addendum was executed on 08.11.2008 and the
+Award was rendered in 2014. The present suit, filed in 2024, is
+hopelessly time barred. Mere filing of a CBI complaint in 2022 won‟t
+revive a dormant claim.
+73. It is not in dispute that the Award has not been obtained by fraud or
+corruption upon the Arbitral Tribunal rather the core contention of the
+plaintiff is that Addendum No. 2 executed on 20.11.2008 was vitiated
+by fraud and collusion amongst its own officers i.e. defendants 4 to 7
+in collusion with the representatives of defendant No. 1, thereby
+rendering the subsequent Arbitral Award dated 12.05.2014 void ab
+initio. There is a clear distinction between the fraud played upon the
+Court and fraud inter se among the parties.
+74. It is further argued by the plaintiff that even if prayers (b) and (c) are
+barred, others (a), (d), and (e) still survive and plaint cannot be
+rejected in piecemeal. However, all reliefs are linked to the
+nullification of the Arbitral Award. Without first setting aside the
+Arbitral Award (which this Court cannot do), no independent relief
+can be granted. Even otherwise the said reliefs are arbitrable in nature
+as the arbitration clause between the parties is not in dispute.
+75. The Hon‟ble Supreme Court in Rashid Raza v. Sadaf Akhtar, (2019)
+8 SCC 710, while relying on A. Ayyasamy v. A. Paramasivam, (2016)
+10 SCC 386, observed as under:-
+“4. The principles of law laid down in this appeal make a
+distinction between serious allegations of
+forgery/fabrication in support of the plea of fraud as
+opposed to “simple allegations”. Two working tests laid
+down in para 25 are: (1) does this plea permeate the entire
+contract and above all, the agreement of arbitration,
+rendering it void, or (2) whether the allegations of fraud
+touch upon the internal affairs of the parties inter se having
+no implication in the public domain.”
+76. A co-ordinate bench of this Court in Amrish Gupta v. Gurchait Singh
+Chima, 2022 SCC OnLine Del 1116, after analyzing catena of
+judgments of the Hon‟ble Supreme Court, observed as under:-
+37. It is clear from a reading of the various judgments of the
+Supreme Court that the jurisprudence has evolved to limit
+the exclusion of disputes that are non-arbitrable on the
+ground of fraud. A clear distinction is drawn in respect of
+the disputes that may result in penal consequences or
+conviction of an offence under criminal law. Clearly, such
+cases are required to be adjudicated by Courts of law. An
+arbitral tribunal cannot convict a person of an offence
+punishable under the Penal Code, 1860 or render decision
+in the realm of public law as these matters are squarely
+reserved for Courts of competent jurisdiction. However,
+there is no reason to exclude contractual disputes that can
+be tried by a Trial Court, as nonarbitrable.
+39. As a working rule, it must be accepted that where a
+challenge is made to an agreement on the ground of fraud,
+it must be assumed that the challenge is to the main
+agreement and not specifically to the arbitration agreement.
+Thus, in such cases, the arbitral tribunal would have the
+jurisdiction to adjudicate disputes regarding validity of an
+agreement, which is impeached on the ground of fraud, as it
+must be assumed that such a challenge is to the main
+agreement and not to the arbitration agreement.
+……………. ………………. ……………...
+42. It is material to note that the A&C Act does not exclude
+any dispute as non-arbitrable. However, certain disputes
+are intrinsically non-arbitrable, either for the reason that
+they cannot be confined as private disputes between parties
+or there are special statutes, which provide a separate
+mechanism for adjudication of such disputes. In the former
+category would be cases such as grant of probate, which
+are matters in rem. In the latter category are cases such as
+landlord-tenant disputes covered under the Rent Control
+Act, matrimonial disputes relating to divorce, etc. Such
+disputes are intrinsically non-arbitrable and thus, cannot be
+referred to arbitration, notwithstanding, the agreement
+between the parties.
+43. The allegations regarding fraud, forgery or inducement
+relating to an agreement, do not fall in either of the two
+categories as stated above. Such disputes, however serious
+the allegations may be, cannot be stated to be inherently
+non-arbitrable. If the parties voluntarily agree that said
+disputes be decided by arbitration, there is no reason to
+exclude such disputes from arbitration. The guiding
+principle is that if a civil court can decide the disputes in a
+trial, so can an arbitral tribunal. The complexity of the
+questions or the volume of evidence involved, does not
+render any dispute inherently non-arbitrable.”
+77. In the present case, there is no dispute to the execution of the main
+agreement i.e. LTA containing the Arbitration Clause, the only dispute
+is with regard to the execution of the Addendum No. 2 which the
+plaintiff alleges that the same has been executed fraudulently in
+collusion between the officials of the plaintiff i.e. defendant No. 4-7
+and the officials of the defendant No. 1. In view of the said judgments,
+as there is no dispute to the arbitration agreement i.e. LTA, the plea of
+fraud raised by the plaintiff qua Addendum No. 2 is arbitrable in
+nature.
+78. At this juncture, it is also relevant to refer section 9 of CPC which
+reads as under:-
+“9. Courts to try all civil suits unless barred.—The Courts
+shall (subject to the provisions herein contained) have
+jurisdiction to try all suits of a civil nature excepting suits of
+which their cognizance is either expressly or impliedly
+barred.
+(Emphasis added)
+79. On perusal, the said section clearly states that the civil courts shall try
+all suits except the suits which are expressly and impliedly barred.
+Section 5 read with section 34 of 1996 Act constitutes such a bar to
+challenge an Arbitral Award by way of filing a suit which is supposed
+to be done in the present case. The non-obstante clause of section 5 of
+1996 Act makes it amply clear that the civil court cannot entertain
+suits relating to matters governed by the 1996 Act unless specifically
+permitted. The plaintiff in the present plaint by cleverly and
+eschewedly is seeking to nullify and set aside an Arbitral Award
+which squarely falls within the ambit of Order VII Rule 11(d) of CPC
+which mandates rejection of a plaint where the suit is barred by law.
+80. The Hon‟ble Supreme Court in Interplay (supra) observed as under:-
+“75. Section 9 of the Code of Civil Procedure, 1908
+provides that the Courts shall have jurisdiction to try all
+suits of a civil nature excepting suits of which cognizance is
+either expressly or impliedly barred. Section 28 of the
+Contract Act states that agreements that restrict a party to a
+contract absolutely from enforcing their rights under or in
+respect of any contract by way of usual legal proceedings
+are void. However, the provision expressly saves contracts
+by which two or more persons agree to refer to arbitration
+any dispute which may arise between them in respect of any
+subject or class of subjects. By choosing to settle their
+disputes through arbitration, parties surrender their right to
+litigate before the national courts in favour of the Arbitral
+Tribunal. By surrendering their right to litigate in national
+courts, parties also surrender their right to be bound by
+national procedural laws in favour of expedition,
+informality, and efficiency of the arbitral process. The
+Arbitral Tribunal is not subject to the procedural laws of a
+country. For instance, Section 19 of the Arbitration Act
+expressly provides that the Arbitral Tribunal shall not be
+bound by the Code of Civil Procedure, 1908 or the Evidence
+Act, 1872. Moreover, it stipulates that an Arbitral Tribunal
+may conduct the proceedings in any manner it deems
+appropriate if the parties fail to agree on the procedure to
+be followed by the Tribunal. Although Arbitral Tribunals
+have autonomy in the procedural and substantive sense,
+they are not completely independent of the law of the
+country in which the Arbitral Tribunal has its juridical seat,
+as discussed in the following segments.”
+81. As noted above, the Courts have to be vigilant and strike down the
+clever drafting which seeks to circumvent statutory restrictions. If
+such suits are permitted, then it would open a floodgate of litigation,
+undermining the core objectives of the 1996 Act which are finality
+and efficiency. Arbitration, chosen by consent, cannot be overridden
+by post-facto civil suits on allegedly rediscovered facts otherwise
+arbitration will turn into a never-ending cycle of challenges.
+82. To my mind, challenging an Award, which has already been upheld
+by the Hon‟ble Supreme Court, in the present suit is not only an abuse
+of the process of law but will be a travesty of justice if the said
+challenge is allowed by way of filing of the present suit and would
+render the 1996 Act nugatory, and undermine public confidence in
+Arbitration. The Court is bound to give full effect to the legislative
+scheme and uphold the sanctity of finality.
+83. In addition, if the present suit is allowed then no Arbitral Award after
+being upheld by the Hon‟ble Supreme Court will ever be executed.
+Thus, judicial time must be preserved for genuine disputes.
+84. Reliance placed on National Projects Construction Corporation
+(supra) is misplaced as the said judgment is prior to the judgment of
+Interplay (supra) wherein the Hon‟ble Supreme Court has clearly and
+unequivocally elucidated the scope of section 5 of 1996 Act and
+section 9 of CPC and more particularly para reproduced above. Once
+the Hon‟ble Supreme Court has clarified the law, the same is binding
+on this Court. In addition, the said judgment does not deal with the
+ambit and scope of section 9 of CPC.
+85. Reliance placed on United India Insurance Co. Ltd. (supra) is
+misplaced as the Hon‟ble Supreme Court observed that the remedy to
+move for recalling the order on the basis of the newly-discovered facts
+amounting to fraud of high degree, cannot be foreclosed in such a
+situation. However, in the present case, after newly discovered facts,
+the plaintiff has filed a seperate suit which is expressly barred by
+section 5 read with section 34 of 1996 Act.
+86. Reliance placed on Indian Bank (supra) is also misconceived as it is
+was observed therein that Court has inherent powers under section 151
+of CPC to recall its judgment or order if it is obtained by fraud on
+Court whereas in the present case, fraud is not upon the Court but
+inter se among the parties. Union of India (supra) is also on the same
+lines and hence, the reliance placed on this judgment is also
+misplaced.
+CONCLUSION
+87. For the foregoing reasons, the prayers already quoted above are not
+maintainable in view of section 5 read with section 34 of 1996 Act.
+Hence, the plaint filed by the plaintiff stands rejected by exercising
+powers under Order VII Rule 11 of CPC.
+88. Pending applications, if any, are disposed of accordingly.

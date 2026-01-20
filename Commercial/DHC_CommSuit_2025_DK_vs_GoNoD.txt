@@ -1,0 +1,712 @@
+COURT: Commercial Court, Delhi
+CASE_TYPE: Commercial Suit
+CASE_NO: FAO (COMM) 206/2025 & CM APPL. 47787/2025
+DATE: 20.08.2025
+PLAINTIFF: DILSHAD KHAN
+DEFENDANT: GOVT OF NCT OF DELHI
+JUDGE: Justice ANIL KSHETARPAL & Justice HARISH VAIDYANATHAN SHANKAR
+
+
+----JUDGMENT-----
+
+The present appeal has been filed under Section 37 of the
+Arbitration and Conciliation Act, 19961
+read with Section 13(1A) of
+the Commercial Courts Act, 20152
+, inter alia, assailing the Order
+dated 04.02.20253
+passed by the learned District Judge
+(Commercial Court), North-East District, Karkardooma Courts,
+
+1 A&C Act.
+2 CC Act.
+3
+Impugned Order.
+Delhi4
+, in OMP (COMM) 2/2023. By the Impugned Order, the
+Petition under section 34 of the A&C Act filed by the Respondent
+herein was allowed and the Arbitral Award dated 02.03.2023, passed
+in case No. ARB/RM/15 by the learned sole Arbitrator was set aside.
+2. At the very outset, the learned counsel for the Appellant was
+posed with the question as to whether the present appeal is
+maintainable, considering that it appears to have been filed beyond the
+prescribed period of limitation.
+3. The aforesaid query arose on the basis of the averments
+contained in the application, accompanied with the appeal, seeking
+condonation of delay, which reads as follows:
+“3. The appellant submit that the Impugned order was passed
+on 04.02.2025 and 60 days expired on 05.04.2025. Thereafter
+the appellant had applied for certified copy of order on
+06.05.2025 in which the date of delivery was given as
+14.05.2025 when again new date of delivery was given as
+24.05.2025. However, the applicant had received the copy on
+23.05.2025, hence date from 06.05.2025 to 23.05.2025 i.e., 18
+days was taken by registry to provide certified copy and
+thereafter the vacation starts from 01.06.2025 to 30 June 2025
+i.e. for 30 days. The total time taken for filing the present appeal
+was 147 days, out of which 60 days granted by Act 1996 for
+filing appeal, 18 days taken by Registry to supply certified copy
+and 30 days summer vacations period is to be deducted from the
+total time of 147 days i.e. 147-(60+18+30) = 39 days, i.e. there
+is delay in filing the present appeal after three months was only
+9 days beyond three months in terms of period provided under
+Section 34 of Act and the same can be condoned under law.
+4. It is further submitted that three months expires on
+04.05.2025 and thereafter the appeal also can be filed within
+extended period of 30 days and the same shall expire on
+03.06.2025, however, the summer vacation starts from
+01.06.2025. the Period of 18 days also to be deducted from the
+period of 27 days i.e. after 04.05.2025 till 31.05.2025 and hence
+the total delay beyond three months was only 9 days and the
+same can be condoned in terms of Law.
+
+4 District Judge.
+5. It is further submitted that the delay was caused due to
+marriage of son of appellant on 15.04.2025 and therefore the
+appellant could not be able to file the present appeal in time.
+6. It is only after the marriage of son of appellant, the appellant
+son had applied for copy of order dated 04.02.2025 from the
+Registry at Karkardooma courts and the same was received by
+him on 23.05.2025, though the copy was ready on 19.05.2025 as
+per date given on certified copy. However, the date of delivery
+on the receipt was extended from 14.05.2025 to 24.05.2025 and
+it is therefore only the certified copy was received on
+23.05.2025
+7. The delay is due to marriage of son of appellant and the
+same is within the extended period of 30 days beyond three
+months as per total time 120 days as provided by Hon’ble
+Supreme Court of India.
+8. That delay of total 87 days, however after deducting the
+period of 18 days towards registry and 30 days of summer
+vacation, there was a delay of 09 days beyond the period of 90
+days but well within period of 120 days in filing the present
+accompanying appeal, which was neither intentional nor
+deliberate but due to sufficient reasons of marriage of son of
+appellant as stated above. No prejudice shall be caused to the
+respondent if the delay in filing the appeal is condoned,
+however, the appellant would be prejudiced if the delay is not
+condoned.”
+4. On a conjoint reading of the provisions of the CC Act and the
+Limitation Act, 19635
+, as interpreted by a three-Judge Bench of the
+Hon’ble Supreme Court in Government of Maharashtra (Water
+Resources Department) v. Borse Brothers Engineers & Contractors
+Pvt. Ltd.6
+, and contrasted with the earlier two-Judge decision in N.V.
+International v. State of Assam7
+, the settled legal position is that the
+prescribed limitation for filing an appeal under Section 37 of the A&C
+Act in respect of commercial disputes of “Specified Value” is sixty
+days, in terms of Section 13(1A) of the CC Act. In the present case, it
+is an undisputed fact that the “Specified Value” exceeded the
+
+5 Limitation Act.
+6
+(2021) 6 SCC 460.
+prescribed threshold. Section 2(1)(i) of the CC Act defines “Specified
+Value” as follows:
+“(i) “Specified Value”, in relation to a commercial dispute, shall
+mean the value of the subject matter in respect of a suit as
+determined in accordance with section 12 which shall not be less
+than three lakh rupees or such higher value, as may be notified by
+the Central Government.”
+5. In N.V. International (supra), the Hon’ble Supreme Court had
+proceeded on the premise that, in the absence of a specific provision
+prescribing limitation for appeals under Section 37, the limitation
+applicable to Section 34(3) proceedings would also govern such
+appeals. On that reasoning, it was held that delay in filing an appeal
+under Section 37 could not be condoned beyond thirty days. However,
+in Borse Brothers Engineers (supra), the Hon’ble Supreme Court
+undertook a detailed examination of the statutory framework under the
+A&C Act, the CC Act and the Limitation Act, and concluded that the
+reasoning in N.V. International (supra) was rendered per incuriam as
+it failed to consider the interplay of these enactments. The relevant
+paragraphs of Borse Brothers Engineers (supra) are produced herein
+below:
+“23. Section 37 of the Arbitration Act, when read with Section
+43 thereof, makes it clear that the provisions of the Limitation
+Act will apply to appeals that are filed under Section 37. This
+takes us to Articles 116 and 117 of the Limitation Act, which
+provide for a limitation period of 90 days and 30 days,
+depending upon whether the appeal is from any other court to a
+High Court or an intra-High Court appeal. There can be no
+doubt whatsoever that Section 5 of the Limitation Act will apply
+to the aforesaid appeals, both by virtue of Section 43 of the
+Arbitration Act and by virtue of Section 29(2) of the Limitation
+Act.
+*****
+
+7
+(2020) 2 SCC 109.
+25. When the Commercial Courts Act is applied to the aforesaid
+appeals, given the definition of “specified value” and the
+provisions contained in Sections 10 and 13 thereof, it is clear
+that it is only when the specified value is for a sum less than
+three lakh rupees that the appellate provision contained in
+Section 37 of the Arbitration Act will be governed, for the
+purposes of limitation, by Articles 116 and 117 of the Limitation
+Act. Shri Deshmukh's argument that depending upon which
+court decides a matter, a limitation period of either 30 or 90
+days is provided, which leads to arbitrary results, and that,
+therefore, the uniform period provided by Article 137 of the
+Limitation Act should govern appeals as well, is
+rejected…………
+*****
+27. Even in the rare situation in which an appeal under Section
+37 of the Arbitration Act would be of a specified value less than
+three lakh rupees, resulting in Article 116 or 117 of the
+Limitation Act applying, the main object of the Arbitration Act
+requiring speedy resolution of disputes would be the most
+important principle to be applied when applications under
+Section 5 of the Limitation Act are filed to condone delay
+beyond 90 days and/or 30 days depending upon whether Article
+116(a) or 116(b) or 117 applies. As a matter of fact, given the
+timelines contained in Sections 8, 9(2), 11(4), 11(13), 13(2)-(5),
+29-A, 29-B, 33(3)-(5) and 34(3) of the Arbitration Act, and the
+observations made in some of this Court's judgments, the object
+of speedy resolution of disputes would govern appeals covered
+by Articles 116 and 117 of the Limitation Act.
+*****
+32. Thus, from the scheme of the Arbitration Act as well as the
+aforesaid judgments, condonation of delay under Section 5 of
+the Limitation Act has to be seen in the context of the object of
+speedy resolution of disputes.
+33. The bulk of appeals, however, to the appellate court under
+Section 37 of the Arbitration Act, are governed by Section 13 of
+the Commercial Courts Act. Sub-section (1-A) of Section 13 of
+the Commercial Courts Act provides the forum for appeals as
+well as the limitation period to be followed, Section 13 of the
+Commercial Courts Act being a special law as compared with
+the Limitation Act which is a general law, which follows from a
+reading of Section 29(2) of the Limitation Act. Section 13(1-A)
+of the Commercial Courts Act lays down a period of limitation
+of 60 days uniformly for all appeals that are preferred under
+Section 37 of the Arbitration Act. [As held in BGS SGS SOMA
+JV v. NHPC Ltd., (2020) 4 SCC 234, whereas Section 37 of the
+Arbitration Act provides the substantive right to appeal, Section
+13 of the Commercial Courts Act provides the forum and
+procedure governing the appeal (see para 13).]
+34. The vexed question which faces us is whether, first and
+foremost, the application of Section 5 of the Limitation Act is
+excluded by the scheme of the Commercial Courts Act, as has
+been argued by Dr George. The first important thing to note is
+that Section 13(1-A) of the Commercial Courts Act does not
+contain any provision akin to Section 34(3) of the Arbitration
+Act. Section 13(1-A) of the Commercial Courts Act only
+provides for a limitation period of 60 days from the date of the
+judgment or order appealed against, without further going into
+whether delay beyond this period can or cannot be condoned.
+35. It may also be pointed out that though the object of
+expeditious disposal of appeals is laid down in Section 14 of the
+Commercial Courts Act, the language of Section 14 makes it
+clear that the period of six months spoken of is directory and not
+mandatory. By way of contrast, Section 16 of the Commercial
+Courts Act read with the Schedule thereof and the amendment
+made to Order 8 Rule 1 CPC, would make it clear that the
+defendant in a suit is given 30 days to file a written statement,
+which period cannot be extended beyond 120 days from the date
+of service of the summons; and on expiry of the said period, the
+defendant forfeits the right to file the written statement and the
+court cannot allow the written statement to be taken on record.
+This provision was enacted as a result of the judgment of this
+Court in Salem Advocate Bar Assn. (2) v. Union of India, (2005)
+6 SCC 344.
+*****
+39. Unlike the scheme of the Central Excise Act relied upon in
+CCE v. Hongo (India) (P) Ltd., (2009) 5 SCC 791, there are no
+other provisions in the Commercial Courts Act which provide
+for a period of limitation coupled with a condonation of delay
+provision which is either open-ended or capped. Also, the period
+of 180 days provided was one indicia which led the Court to
+exclude the application of Section 5 of the Limitation Act, as it
+was double and triple the period provided for appeals under the
+other provisions of the same Act. Section 13(1-A) of the
+Commercial Courts Act, by way of contrast, applies an
+intermediate period of 60 days for filing an appeal, that is, a
+period that is halfway between 30 days and 90 days provided by
+Articles 116 and 117 of the Limitation Act.
+*****
+43. The next important argument that needs to be addressed is
+as to whether the hard-and-fast rule applied by this Court in
+N.V. International v. State of Assam, (2020) 2 SCC 109 is
+correct in law. Firstly, as has correctly been argued by Shri
+Shroti, N.V. International v. State of Assam, (2020) 2 SCC 109,
+does not notice the provisions of the Commercial Courts Act at
+all and can be said to be per incuriam on this count. Secondly, it
+is also correct to note that the period of 90 days plus 30 days
+and not thereafter mentioned in Section 34(3) of the Arbitration
+Act cannot now apply, the limitation period for filing of appeals
+under the Commercial Courts Act being 60 days and not 90
+days. Thirdly, the argument that absent a provision curtailing
+the condonation of delay beyond the period provided in Section
+13 of the Commercial Courts Act would also make it clear that
+any such bodily lifting of the last part of Section 34(3) into
+Section 37 of the Arbitration Act would also be unwarranted.
+We cannot accept Shri Navare's argument that this is a mere
+casus omissus which can be filled in by the Court.
+*****
+52. For all these reasons, given the illuminating arguments
+made in these appeals, we are of the view that N.V.
+International v. State of Assam, (2020) 2 SCC 109 has been
+wrongly decided and is therefore overruled.
+53. However, the matter does not end here. The question still
+arises as to the application of Section 5 of the Limitation Act to
+appeals which are governed by a uniform 60-day period of
+limitation. At one extreme, we have the judgment in N.V.
+International v. State of Assam, (2020) 2 SCC 109 which does
+not allow condonation of delay beyond 30 days, and at the other
+extreme, we have an open-ended provision in which any amount
+of delay can be condoned, provided sufficient cause is shown. It
+is between these two extremes that we have to steer a middle
+course.
+*****
+55. Reading the Arbitration Act and the Commercial Courts Act
+as a whole, it is clear that when Section 37 of the Arbitration
+Act is read with either Article 116 or 117 of the Limitation Act
+or Section 13(1-A) of the Commercial Courts Act, the object and
+context provided by the aforesaid statutes, read as a whole, is
+the speedy disposal of appeals filed under Section 37 of the
+Arbitration Act. To read Section 5 of the Limitation Act
+consistently with the aforesaid object, it is necessary to discover
+as to what the expression “sufficient cause” means in the
+context of condoning delay in filing appeals under Section 37 of
+the Arbitration Act.
+*****
+63. Given the aforesaid and the object of speedy disposal sought
+to be achieved both under the Arbitration Act and the
+Commercial Courts Act, for appeals filed under Section 37 of
+the Arbitration Act that are governed by Articles 116 and 117 of
+the Limitation Act or Section 13(1-A) of the Commercial Courts
+Act, a delay beyond 90 days, 30 days or 60 days, respectively, is
+to be condoned by way of exception and not by way of rule. In a
+fit case in which a party has otherwise acted bona fide and not
+in a negligent manner, a short delay beyond such period can, in
+the discretion of the court, be condoned, always bearing in mind
+that the other side of the picture is that the opposite party may
+have acquired both in equity and justice, what may now be lost
+by the first party's inaction, negligence or laches.”
+(emphasis supplied)
+6. The Hon’ble Supreme Court in Borse Brothers Engineers
+(supra) categorically held that the limitation period prescribed under
+Section 34(3) of the A&C Act does not apply to appeals under Section
+37. The Court explained that the “hard stop” applicable to Section 34
+proceedings cannot be mechanically extended to Section 37 appeals.
+Instead, such appeals are governed either by Articles 116 and 117 of
+the Limitation Act or by Section 13(1A) of the CC Act, depending on
+whether the dispute qualifies as a commercial dispute of “Specified
+Value”. Accordingly, from Borse Brothers Engineers (supra), the
+following legal position emerges:
+(i) For commercial disputes of “Specified Value” under the CC
+Act, the limitation period for filing an appeal under Section 37
+is sixty days, as provided in Section 13(1A) of the CC Act; and
+(ii) In all other cases, for filing an appeal under Section 37, the
+limitation periods prescribed under Articles 116 and 117 of the
+Limitation Act, will apply.
+7. In the said Judgement, the Hon’ble Court further emphasised
+that while Section 5 of the Limitation Act permits condonation of
+delay, such discretion must be exercised with caution. It is confined to
+“short delays” and is to be invoked only where the appellant
+demonstrates bona fide conduct, absence of negligence, and lack of
+prejudice to the respondent.
+8. Having regard to the object of both the CC Act and the A&C
+Act, namely, ensuring speedy resolution of commercial disputes,
+condonation of delay is permissible only upon establishing “sufficient
+cause”, i.e., circumstances genuinely beyond the party’s control, and
+not arising from negligence, inaction, or wilful indifference. This
+principle has also been succinctly reiterated by a Coordinate Bench of
+this Court in Union of India vs. Rajiv Agarwal8
+. The relevant
+paragraphs of the said Judgement are as follows:
+“9. Under Section 37(1)(c) of the Act, an appeal would be
+maintainable against an order setting aside or refusing to set
+aside an arbitral award. However, the time period for filing
+such an appeal is governed by Section 13 of the Commercial
+Courts Act, 2015. The period provided for filing of an appeal as
+per Section 13(1) of the Commercial Courts Act, 2015 is 60 days
+from the date of judgment/order, however, by way of judicial
+decisions, the provisions of the Limitation Act, 1963 have also
+been held to be applicable to such appeals.
+10. The time period within which an appeal under Section 37 of
+the Act can be filed has been discussed and laid down in detail
+by the decision of the Supreme Court in Government of
+Maharashtra (Water Resources Department) Represented By
+Executive Engineer v. Borse Brothers Engineers &
+Contractors Pvt. Ltd., (2021) 6 SCC 460. In the said judgment
+the Supreme Court has considered the decisions in N.V.
+International v. State of Assam, (2020) 2 SCC 109 and Union
+of India v. Varindera Constructions Ltd., (2020) 2 SCC 111.
+11. In Varindera Constructions (Supra), the Court had held that
+a total of 120 days would be available for filing of such an
+appeal.
+12. In Borse Brothers (Supra), the Supreme Court was dealing
+with three cases arising from judgments of the Bombay High
+Court, the Delhi High Court and the Madhya Pradesh High
+Court. The former two High Courts had taken a view that delay
+in filing of an appeal under Section 37 of the Act beyond 120
+days would not be condonable, however, the Madhya Pradesh
+
+8
+2025 SCC Online Del 3810.
+High Court had taken a view that a delay of 57 days would be
+liable to be condoned. While dealing with these cases, the
+Supreme Court observed as under:
+“58. Given the object sought to be achieved under both
+the Arbitration Act and the Commercial Courts Act, that
+is, the speedy resolution of disputes, the expression
+“sufficient cause” is not elastic enough to cover long
+delays beyond the period provided by the appeal provision
+itself. Besides, the expression “sufficient cause” is not
+itself a loose panacea for the ill of pressing negligent and
+stale claims.
+xxxx
+63. Given the aforesaid and the object of speedy disposal
+sought to be achieved both under the Arbitration Act and
+the Commercial Courts Act, for appeals filed under
+Section 37 of the Arbitration Act that are governed by
+Articles 116 and 117 of the Limitation Act or Section 13(1-
+A) of the Commercial Courts Act, a delay beyond 90 days,
+30 days or 60 days, respectively, is to be condoned by way
+of exception and not by way of rule. In a fit case in which
+a party has otherwise acted bona fide and not in a
+negligent manner, a short delay beyond such period can,
+in the discretion of the court, be condoned, always bearing
+in mind that the other side of the picture is that the
+opposite party may have acquired both in equity and
+justice, what may now be lost by the first party's inaction,
+negligence or laches.”
+13. A conjoint reading of the above two extracts of the judgment
+in Borse Brothers (Supra) would show that the object of speedy
+disposal under the Act would only be achieved by making such
+appeals also bound by the limitation period which is prescribed
+for filing of petitions under Section 34 of the Act. The delay
+beyond the prescribed period has been held to be not
+condonable. Under such circumstances, the Supreme Court
+refused to condone delay of 131 days in State of Maharashtra v.
+Borse Bros. Engineers & Contractors (P) Ltd., 2020 SCC
+OnLine Bom 427 days in Union of India v. Associated
+Constructions Co., 2019 SCC OnLine Del 10797 as also 75
+days in Borse Brothers (Supra).
+14. Coming to the facts of the present case, the present petition
+has been filed by the Union of India with an application for
+condonation of delay of 613 days. The reasons given in the
+application are that the matter was initially marked to different
+panel Counsel of the Railways and the file movement constitutes
+sufficient cause for condoning the delay. The relevant portion of
+the application is set out below:
+“3. It is respectfully submitted that the Appellant received
+the Impugned Order passed by the Ld. District Judge,
+Commercial Court, Delhi, on 05.06.2023. After, receipt of
+the said order, necessary steps were promptly initiated in
+relation to the present matter. The case file was thereafter
+forwarded to the Sr. Law Officer/DLI, Railway, along, and
+the contesting advocate was requested to furnish a legal
+opinion on the Impugned order. The legal opinion from
+the learned counsel was received on 07.08.2023.
+Subsequently, the Sr. Law Officer/DLI, Railway, also
+opined in favour of preferring an appeal against the said
+order. Accordingly, the file was processed for obtaining
+the requisite approval from the competent authority for
+filing the appeal. After, grant of the necessary approval,
+the Appellant approached the Litigation Cell, Delhi High
+Court, for the nomination of counsel to represent the
+Union of India in the matter. The Litigation Cell, further
+sought the opinion of the Deputy DGM/Law, Northern
+Railway Headquarters, through proper official channels.
+The said Opinion was duly obtained and forwarded to the
+Litigation Cell, Delhi High Court. Thereafter, the counsel
+was nominated by the Litigation Cell for drafting and
+filing the appeal. Thereafter, the complete set of relevant
+documents was provided to the nominated counsel on
+18.03.2024. However, due to certain administrative issues,
+the previously nominated counsel was changed, and a new
+counsel was detailed for filing the appeal. The draft
+appeal was then prepared, processed, checked, and legally
+vetted. The same was duly signed and handed over to the
+present counsel for filing before this Hon'ble Court.
+4. That in view of above mentioned obligatory and
+unavoidable circumstances, there is some delay in filling
+of the aforesaid appeal which is neither intentional, nor
+deliberate either on the part of department or any
+authorities rather due to movement of file and also due to
+compliance of official procedure by the authorities which
+was beyond the control of the appellant.”
+15. The Court has considered the matter. The law in this regard
+is quite well settled and clear. Recently, in a similar case
+involving an appeal under Section 37 of the Act, a Co-ordinate
+Bench of this Court in Delco Infrastructure Projects Pvt. Ltd. v.
+Intec Capital Ltd., 2025 SCC OnLine Del 2158 has also
+refused to condone the delay under Section 13(1)(a) of the
+Commercial Courts Act, 2015 in the following terms:
+“10. In N.V. International v. State of Assam, (2020) 2
+SCC 109, the Supreme Court had taken a view that the
+delay in filing an appeal under Section 37 of the Act
+cannot be condoned beyond a period of thirty days.
+However, this decision was overruled by the Supreme
+Court in a subsequent decision in Government of
+Maharashtra (Water Resources Department)
+Represented By Executive Engineer v. Borse Brothers
+Engineers & Contractors Pvt. Ltd., (2021) 6 SCC 460.
+The Supreme Court held that the power of the court to
+condone the delay in filing the appeal under Section 37 (1)
+of the Act was not restricted to a period of thirty days as
+specified under the proviso to Section 34(3) of the A&C
+Act. However, the Supreme Court also observed as under:
+58. Given the object sought to be achieved
+under both the Arbitration Act and the
+Commercial Courts Act, that is, the speedy
+resolution of disputes, the expression
+“sufficient cause” is not elastic enough to
+cover long delays beyond the period provided
+by the appeal provision itself. Besides, the
+expression “sufficient cause” is not itself a
+loose panacea for the ill pressing negligent
+and stale claims…
+***
+63. Given the aforesaid and the object of
+speedy disposal sought to be achieved both
+under the Arbitration Act and the Commercial
+Courts Act, for appeals under section 37 of the
+Arbitration Act that are governed by Articles
+116 and 117 of the Limitation Act or Section
+13(1-A) of the Commercial Courts Act, a delay
+beyond 90 days, 30 days or 60 days,
+respectively, is to be condoned by way of
+exception and not by way of rule….”
+11. It is essential to adhere to time lines in matters
+involving commercial disputes. Any delay in filing appeals
+under Section 13(1A) of the Commercial Courts Act, 2015
+cannot be condoned unless the court is satisfied that the
+appellants were prevented from sufficient cause from
+filing the appeal within the stipulated time. The court must
+be satisfied that such cause is genuine and not an illusion
+to disguise lack of diligence.
+12. In the facts of the present case, we are unable to
+accept that the appellants have shown any sufficient cause
+for condoning the delay in filing the present appeal.”
+9. It would also be apposite to refer herein to the Judgment of the
+Coordinate Bench in Delco Infrastructure vs. Intech Capital9
+; the
+relevant paras whereof read as follows:
+“9. The application filed by the appellants for seeking condonation
+of delay in filing the application for setting aside the impugned
+order dated 14.02.2023 was rejected by the learned Commercial
+Court by an order dated 27.04.2024. However, the appellants did
+not take any immediate steps to file the present appeal. The present
+appeal was filed on 25.07.2024, that is, almost ninety days after
+the order dated 27.04.2024. There is no explanation whatsoever as
+to the cause that prevented the appellants from preferring the
+appeal immediately after 27.04.2024.
+10. In N.V. International v. State of Assam, (2020) 2 SCC 109, the
+Supreme Court had taken a view that the delay in filing an appeal
+under Section 37 of the Act cannot be condoned beyond a period of
+thirty days. However, this decision was overruled by the Supreme
+Court in a subsequent decision in Government of Maharashtra
+(Water Resources Department) Represented By Executive
+Engineer v. Borse Brothers Engineers & Contractors Pvt. Ltd.,
+(2021) 6 SCC 460. The Supreme Court held that the power of the
+court to condone the delay in filing the appeal under Section 37(1)
+of the Act was not restricted to a period of thirty days as specified
+under the proviso to Section 34(3) of the A&C Act. However, the
+Supreme Court also observed as under:
+“58. Given the object sought to be achieved under both
+the Arbitration Act and the Commercial Courts Act, that
+is, the speedy resolution of disputes, the expression
+“sufficient cause” is not elastic enough to cover long
+delays beyond the period provided by the appeal provision
+itself. Besides, the expression “sufficient cause” is not
+itself a loose panacea for the ill pressing negligent and
+stale claims…
+* * *
+63. Given the aforesaid and the object of speedy disposal
+sought to be achieved both under the Arbitration Act and
+the Commercial Courts Act, for appeals under section 37
+of the Arbitration Act that are governed by Articles 116
+and 117 of the Limitation Act or Section 13(1-A) of the
+Commercial Courts Act, a delay beyond 90 days, 30 days
+or 60 days, respectively, is to be condoned by way of
+exception and not by way of rule….”
+11. It is essential to adhere to time lines in matters involving
+commercial disputes. Any delay in filing appeals under Section
+13(1A) of the Commercial Courts Act, 2015 cannot be condoned
+
+9
+2025 SCC OnLine Del 2158.
+unless the court is satisfied that the appellants were prevented from
+sufficient cause from filing the appeal within the stipulated time.
+The court must be satisfied that such cause is genuine and not an
+illusion to disguise lack of diligence.
+12. In the facts of the present case, we are unable to accept that the
+appellants have shown any sufficient cause for condoning the delay
+in filing the present appeal.”
+(emphasis supplied)
+10. As is evident from the Appellant’s own averments, and in light
+of the settled legal position, it is clear that the present appeal, arising
+from a commercial dispute of a “Specified Value” under the CC Act,
+was required to be filed within sixty days from the date of the
+impugned order, i.e., on or before 05.04.2025.
+11. However, the Appellant failed to do so. The appeal was
+instituted only on 01.07.2025, much beyond the statutory limit.
+Accordingly, there exists a delay of 87 days from the expiry of the 60-
+day limitation period. The computation is set out herein below for
+ready reference:
+Event Date Remarks
+Impugned Order
+passed by the
+learned District
+Judge
+04.02.2025
+Starting point for limitation under
+Section 13(1A) of the CC Act.
+Expiry of the 60-
+day limitation
+05.04.2025 Last date for filing appeal, without
+seeking condonation of delay.
+Actual date of
+filing
+01.07.2025 87 days beyond expiry of limitation
+(i.e., from 05.04.2025).
+12. The sole issue that arises for determination is whether the
+Appellant has shown “sufficient cause” to justify condonation of the
+87-day delay beyond the prescribed limitation period. It is settled law
+that such discretion is to be exercised sparingly and only in
+exceptional circumstances. The burden rests squarely on the Appellant
+to furnish a clear, cogent, and convincing explanation for the delay.
+Condonation is neither a matter of right nor to be granted as a matter
+of routine.
+13. The averments in the application for condonation of delay,
+already extracted hereinabove, reveal that the Appellant is proceeding
+on a manifest misconception with respect to the computation of
+limitation.
+14. The first ground urged, that the period of court vacation should
+be excluded under Section 4 of the Limitation Act, is wholly
+untenable. As held by the Hon’ble Supreme Court in Ajay Gupta v.
+Raju @ Rajendra Singh Yadav10
+, the benefit of Section 4 cannot be
+extended where the Registry remains functional during the court
+vacation. The relevant portion of Ajay Gupta (supra) states as under: -
+“3. Section 4 of the Limitation Act, 1963 (hereinafter referred to
+as “the Act”), dealing with “Expiry of prescribed period when
+court is closed”, no doubt, applies to suits as well, and in case
+the prescribed period for any suit, appeal or application expires
+on a day when the court is closed, the suit, appeal or application
+may be instituted, preferred or made on the day when the court
+reopens.
+4. The Explanation under Section 4 of the Act also makes it
+clear that:
+“Explanation. —A court shall be deemed to be
+closed on any day within the meaning of this section
+if during any part of its normal working hours it
+remains closed on that day.”
+5. There is no case for anybody that even for part of the day, the
+Registry was closed. But Section 5 of the Act which deals with
+“Extension of prescribed period in certain cases”, applies only
+to appeals or applications and not to suits. Therefore, no court
+or tribunal can extend the period of limitation for filing a suit.
+Even if any cause, beyond the control of the plaintiff is shown
+
+10 (2016) 14 SCC 314.
+also, the only extension is what is permitted under Section 4 of
+the Act, the period coming under court holiday.
+6. Thus, both the trial court and the High Court have gravely
+gone wrong on the first principles on the law of limitation.
+Therefore, the impugned order is set aside. The application filed
+by the appellant under Order 7 Rule 11 of the Code of Civil
+Procedure, 1908 is allowed. Recovery Suit No. 1 of 2011 on the
+file of the ADJ, Gwalior, Madhya Pradesh is dismissed.”
+15. Since it is an undisputed fact that the Registry of this Court
+remained functional during the summer vacation, the Appellant’s
+reliance on Section 4 of the Limitation Act is misconceived and
+cannot be accepted.
+16. The second justification advanced by the Appellant is that the
+certified copy of the impugned order was applied for only after 31
+days beyond the statutory 60-day period, and that the additional 18
+days consumed in preparation of the copy should also be excluded.
+This contention too is misplaced. In this regard, observations of the
+Hon’ble Supreme Court in Jharkhand Urja Utpadan Nigam Ltd. &
+Anr. v. M/s Bharat Heavy Electricals Limited11 are relevant, which
+state as under: -
+“10. We are afraid it is difficult for us to take the view that the
+provision referred to above is mandatory. It comes to this that
+till the Registry does not provide the copy of the judgment,
+though not demanded, the period of limitation would not
+commence from the date of the pronouncement of the judgment.
+*****
+13. Although in Housing Board, Haryana (supra) this Court
+had held that where the provisions enjoin a duty of
+communicating any order or judgment that has been
+pronounced, the limitation for challenging the same would begin
+from the date of such communication, yet the aforesaid
+observations cannot be construed devoid of the context in which
+they were made. A close reading of the decision would indicate
+that in the said case, after the pronouncement of the order, the
+
+11 2025 INSC 533
+appellants therein had made active efforts for procuring the said
+order, and this is evident from the fact that few days after the
+pronouncement, the counsel of the appellants therein had made
+inquires as regards the unavailability of the order in response to
+which he was informed that the order was yet to be signed.
+14. Thus, when this Court in Housing Board, Haryana (supra)
+held that the limitation for challenging the same would begin
+from the date of such communication, the same would be
+applicable only where despite best of efforts at the end of the
+parties in procuring the order the same could not be obtained
+and thereby resulting in unavoidable delay in the filing of
+appeals. One of the core tenets of the law of limitation is to
+enthuse diligence amongst parties as to their rights. The law of
+limitation cannot be read in such a manner whereby parties stop
+showing any modicum of regard for their own rights and on the
+pre-text of untimely communication continue to litigate without
+being vigilante themselves.
+15. Similarly, we find that the reliance by the appellants on the
+decision of Sagufa Ahmed (supra) is also misplaced. In the said
+case, this Court while considering Section 421 sub-section (3) of
+the Companies Act, 2013 held that the period of limitation
+prescribed therein would start running only from the date on
+which a copy of the order is made available to the person
+aggrieved. However, yet again in the said case, the appellants
+therein had made some efforts to procure a certified copy of the
+order to be assailed during the period of limitation.
+16. In the present case we find that after the order in question
+came to be pronounced by the Commercial Court, Ranchi, the
+appellants herein during the limitation period did not bother to
+even inquire as to why the said order was not available. It was
+only eight-months after the pronouncement of the said order and
+almost 150-days after the expiry of the limitation period, that the
+realization suddenly dawned upon the appellants herein to apply
+for the certified copy.
+17. One of the avowed objects of the provisions of the
+Commercial Courts Act read with amended provisions of CPC
+applicable to the Commercial Courts is to ensure that there is
+no unnecessary delay in disposal of the commercial suit. Once
+specific time lines are fixed and there is a strict procedure
+provided in terms of the Commercial Courts Act, parties are by
+the statute put to notice that they have to very carefully contest
+the suits filed as commercial suits and that failing to comply
+with statutory timelines and a strict procedure, certain adverse
+consequences may flow on account of lack of application by a
+contesting party.
+18. Thus, merely because Order XX Rule I enjoins a duty upon
+the commercial courts to provide the copies of the judgment that
+does not mean that the parties can shirk away all responsibility
+of endeavoring to procure the certified copies thereof in their
+own capacity. Any such interpretation would result in
+frustrating the very fundamental cannons of law of limitation
+and the salutary purpose of the Act, 2015 of ensuring timely
+disposals.”
+(emphasis supplied)
+17. Thus, the belated application for a certified copy, filed 31 days
+after the expiry of the statutory period, coupled with the untenable
+reliance on court vacation, leaves significant portions of the 87-day
+delay wholly unexplained. In the context of a commercial matter
+governed by strict timelines under the CC Act, such explanation is
+neither credible nor sufficient to overcome the bar of limitation.
+18. We are, therefore, of the considered view that the application
+for condonation of delay filed with the present Appeal is bereft of any
+cogent or persuasive grounds. The explanation tendered is specious
+and does not constitute “sufficient cause” in law.
+19. Accordingly, without entering into the merits of the case, the
+appeal stands dismissed on the ground of delay and limitation alone.
+20. The present Appeal, along with pending application(s), if any, is
+disposed of in the above terms.
+21. No order as to costs.

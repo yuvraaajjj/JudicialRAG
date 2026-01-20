@@ -1,0 +1,2461 @@
+COURT: Commercial Court, Delhi
+CASE_TYPE: Arbitration
+CASE_NO: W.P.(C) 10431/2020 & CM APPL. 33016/2020
+DATE: 9th January, 2026 
+PLAINTIFF: TATA STEEL LIMITED 
+DEFENDANT: MINISTRY OF CORPORATE AFFAIRS, THROUGH SECRETARY & ANR
+JUDGE: Justice AMIT SHARMA
+
+----JUDGMENT-----
+
+The present petition under Articles 226 and 227 of the Constitution of
+India, 1950, seeks the following prayers: -
+“1. To issue an appropriate writ, order or direction in the nature
+of Mandamus to the First Respondent, i.e. Ministry of Corporate
+Affairs, being the supervisory ministry in the implementation of
+IBC, to provide clarification to the questions of law raised in the
+present Writ Petition qua the IBC and confirm/declare that the
+approved Resolution Plan is binding on all creditors of the
+Petitioner, including the Second Respondent herein;
+2. To issue an appropriate writ, order or direction in the nature
+of Certiorari setting aside the Order dated October 07.2020 passed
+by the Arbitral Tribunal;
+3. To issue an appropriate writ, order or direction in the nature
+of Mandamus directing the Arbitral Tribunal to terminate the
+arbitration proceedings in Arbitration-I/Matter of 2009 and
+Arbitration II/Matter of 2006 as there being no cause of action
+surviving in favour of the Second Respondent and alleged claim of
+the Second Respondent having been extinguished abated and
+withdrawn;
+4. To issue any other suitable writ, order or direction which the
+Hon'ble Court may deem fit and proper in the circumstances of the
+case;
+5. To award cost of this writ petition to the Petitioner.”
+2. Relevant facts, as stated by the Petitioner, necessary for adjudication of
+the present petition are as under: -
+i. Tata Steel Limited, being the successor-in-interest of Angul Energy
+Limited (formerly known as Bhushan Energy Limited) (hereinafter
+referred to as the “Petitioner”) has preferred the present petition for the
+purposes of setting aside of the impugned order dated 07.10.2020
+(hereinafter referred to as the “Impugned Order”), passed by the
+Learned Arbitral Tribunal, on an application preferred on behalf of the
+Petitioner (Respondent/Applicant therein), under Section 32(2)(c) read
+with Section 16 of the Arbitration and Conciliation Act, 1996
+(hereinafter referred to as the “Arbitration Act”) seeking termination
+of the Arbitral proceedings on the ground that the Resolution Plan
+dated 11.06.2018 extinguishes the claim filed against the Petitioner in
+the said proceedings;
+ii. The Petitioner was incorporated under the provisions of the Companies
+Act, 1956 (hereinafter referred to as the “Companies Act”) and is an
+unlisted public limited company within the meaning of the Companies
+Act;
+iii. On 09.06.2006, the Petitioner entered into the following contracts with
+ISGEC Heavy Engineering Limited, i.e., Respondent No. 2, who is a
+public listed company registered under the Companies Act: -
+(a) Contract Ref. No. 8/BEL/09-10/039 dated 28.11.2009 for supply
+of 2x425 TPH CFBC Boilers for a total value of Rs.178 Crores
+excluding all taxes, duties and levies;
+(b) Contract dated 09.06.2006 as amended on 12.03.2007 for supply
+of 4x250TPH CFBC Boilers for a total value of Rs. 175.10
+crores excluding all taxes, duties and levies;
+(c) Work Order Ref. No. 8/BEL/09-10/041 dated 21.12.2009 for
+Erection and Commissioning of the 2x425 TPH CFBC Boilers
+for a total value of Rs. 30 Crores excluding all taxes, duties and
+levies.
+iv. On account of various disputes pertaining to non-performance of the
+contractual obligations by the Petitioner, Respondent No. 2 initiated
+Arbitral proceedings against the Petitioner before the learned Arbitral
+Tribunal, comprising of Hon’ble Mr. Justice (Retd.) R.C. Lahoti,
+Hon’ble Mr. Justice (Retd.) Vijendra Kumar Jain and Hon’ble Mr.
+Justice (Retd.) Manmohan Sarin. The said Arbitral proceedings were
+bifurcated by the learned Arbitral Tribunal into two separate
+arbitrations, namely Arbitration-I/Matter of 2009 and ArbitrationII/Matter of 2006 and both the proceedings were conducted by the
+learned Arbitral Tribunal simultaneously as the disputes between the
+parties were interconnected and inter-dependent;
+v. During the pendency of the Arbitral proceedings, Corporate Insolvency
+Resolution Process (hereinafter referred to as “CIRP”) under Section 7
+of the Insolvency and Bankruptcy Code, 2016 (hereinafter referred to
+as “IBC”) was initiated against the Petitioner by the State Bank of
+India, on 22.11.2017 before the Adjudicating Authority, National
+Company Law Tribunal (hereinafter referred to as “Adjudicating
+Authority”) by way of a Company Petition bearing No. (IB)-
+530(PB)/2017;
+vi. The aforesaid petition was admitted by the Adjudicating Authority vide
+order dated 08.01.2018, whereby a moratorium was imposed and an
+Interim Resolution Professional (hereinafter referred to as the “IRP”)
+was appointed to look after the affairs of the Petitioner in terms of
+Section 13 of IBC;
+vii. Subsequently, vide public announcement dated 10.01.2018, the IRP
+invited claims from all the creditors of the Petitioner;
+viii. In view thereof, Respondent No. 2 submitted its claim before the IRP
+contending to be an Operational Creditor of the Petitioner, vide its
+affidavit and Form-B dated 22.01.2018 for an amount of INR
+80,29,27,121/- (INR Eighty Crores Twenty Nine Lakhs Twenty Seven
+Thousand One Hundred and Twenty One Only);
+ix. Subsequent thereof, the IRP vide e-mail dated 17.04.2018,
+communicated Respondent No. 2 that the claim of the latter is pending
+adjudication before the Learned Arbitral Tribunal and the said claim
+cannot be considered to be a crystalised liability of the Petitioner and is
+only a “contingent liability”. The said communication is reproduced as
+under:
+x. Subsequently, a List of Creditors for the Petitioner was prepared, and in
+the said list, Respondent No. 2 was mentioned in List B titled as
+Category: Operational Creditors other than Workmen and Employees,
+whereby the claim of Respondent No. 2 was kept as “contingent” for
+the time being;
+xi. On 11.06.2018 a Resolution Plan came to be submitted by Tata Steel
+Limited (hereinafter referred to as “TSL”) before the Resolution
+Professional (hereinafter referred to as the “RP”);
+xii. In response to the IRP’s e-mail dated 17.04.2018, Respondent No. 2,
+vide its reply dated 06.06.2018, disputed the categorization of its claim
+as contingent and asserted that the claim was not disputed and was
+payable on account of non-payment of supplied goods and services.
+The said communication is reproduced as under: -
+
+xiii. Subsequently, the RP, vide letter dated 30.07.2018, reiterated that the
+claim of Respondent No. 2 was disputed and uncrystallised, had been
+categorized as a “contingent liability”, duly disclosed in the List of
+Creditors, and that its treatment in the Resolution Plan would be
+determined by the resolution applicant and the Committee of Creditors
+(hereinafter referred to as “CoC”). The said communication is as under:
+-
+(emphasis supplied)
+xiv. The Resolution Plan submitted by TSL was approved by 100% voting
+by the CoC of the Petitioner, by virtue of the voting held on 15.09.2018
+and 16.09.2018;
+xv. Subsequent thereto, the RP preferred an application bearing CA No.
+929(PB)/2018 under Section 30(6) and 31 of IBC read with Regulation
+39 of Insolvency and Bankruptcy Board of India (Insolvency
+Resolution Process for Corporate Persons) Regulations, 2016
+(hereinafter referred to as “Regulations, 2016”) praying for acceptance
+of the aforesaid Resolution Plan. The said application was allowed by
+the learned Adjudicating Authority vide its order dated 30.05.2019 and
+the Resolution Plan was accepted;
+xvi. On 01.06.2019 the new management took charge of the Petitioner after
+successful completion of the CIRP;
+xvii. On 27.02.2020 the name of the Petitioner was changed from “Bhushan
+Energy Limited” to “Angul Energy Limited” and a fresh certificate of
+incorporation was issued by the Registrar of Companies, Delhi. The
+said certificate is reproduced as under: -
+xviii. In view of completion of the Insolvency proceedings of the Petitioner
+and upon lifting of the moratorium, Respondent No. 2 sent a
+communication dated 19.06.2019 to the learned Arbitral Tribunal for
+resuming the Arbitral proceedings;
+xix. On 27.07.2019 the learned Arbitral Tribunal informed the parties that
+since the mandate of the tribunal had expired, parties may seek
+extension from the Court;
+xx. Subsequently, the Respondent No. 2 preferred an O.M.P.(Misc.)
+(Comm.) No. 305/2019 before this Court, in which an order dated
+08.11.2019 was passed and mandate of the learned Arbitral Tribunal
+was extended by this Court for a period of 9 months;
+xxi. During the course of the Arbitral proceedings, two separate
+applications were preferred on behalf of the Petitioner under Section
+32(2)(c) of the Arbitration Act, in Arbitration-I/Matter of 2009 and
+Arbitration-II/Matter of 2006 before the learned Arbitral Tribunal inter
+alia praying for termination of the Arbitral proceedings, wherein the
+impugned order was passed, and accordingly, the present petition was
+preferred.
+SUBMISSIONS ON BEHALF OF THE PETITIONER
+3. Learned Senior Counsel appearing on behalf of the Petitioner drew
+attention of this Court to the impugned order and submitted that the same is
+contrary to the terms of the approved Resolution Plan and the intent and
+scheme of IBC. It was further submitted that the law is settled that the liability
+of the corporate debtor stands frozen upon the approval of the Resolution Plan
+and all claims which are not a part of the approved Resolution Plan stand
+extinguished and the same cannot be recovered thereafter.
+4. Learned Senior Counsel appearing on behalf of the Petitioner further
+placed reliance on the decision of the Hon’ble Supreme Court in
+Ghanashyam Mishra and Sons Private Limited through Authorized
+Signatory v. Edelweiss Asset Reconstruction Company Limited Through the
+Director and Ors1
+, and contended that once a Resolution Plan is approved
+under Section 31 of the IBC, all claims stand frozen in terms of the
+Resolution Plan and any claim not forming part thereof, stands extinguished.
+The relevant portion of the judgment reads as under: -
+“102. In the result, we answer the questions framed by us as under:
+102.1. That once a resolution plan is duly approved by the
+Adjudicating Authority under sub-section (1) of Section 31, the
+claims as provided in the resolution plan shall stand frozen and will
+be binding on the Corporate Debtor and its employees, members,
+creditors, including the Central Government, any State Government
+or any local authority, guarantors and other stakeholders. On the
+date of approval of resolution plan by the Adjudicating Authority,
+all such claims, which are not a part of resolution plan, shall stand
+extinguished and no person will be entitled to initiate or continue
+any proceedings in respect to a claim, which is not part of the
+resolution plan.
+102.2. 2019 amendment to Section 31 of the I&B Code is
+clarificatory and declaratory in nature and therefore will be
+effective from the date on which I&B Code has come into effect.
+102.3. Consequently, all the dues including the statutory dues owed
+to the Central Government, any State Government or any local
+authority, if not part of the resolution plan, shall stand extinguished
+and no proceedings in respect of such dues for the period prior to
+the date on which the Adjudicating Authority grants its approval
+under Section 31 could be continued.”
+5. It was further contended by the learned Senior Counsel that the
+impugned order undermines the binding value of the approved Resolution
+Plan and the law is well settled that a corporate debtor cannot be made to face
+undecided claims after the approval of the Resolution Plan. It was further
+submitted that if the impugned order is sustained, the effect of it will militate
+1
+ (2021 SCC Online SC 313)
+against the entire insolvency resolution process undergone by the Petitioner.
+6. Learned Senior Counsel drew the attention of this Court to Section
+5(21) of the IBC, and submitted that the said provision defines “operational
+debt” as a claim in respect of provision of the goods and services, including
+employment, or a debt in respect of the dues arising under any law for the
+time being in force and payable to the Central Government, any State
+Government or any local authority. It was further submitted that the term
+“claim”, as defined under Section 3(6) in the IBC, includes a right to
+payment, whether or not such right is reduced to judgment, fixed, matured,
+unmatured, disputed, undisputed, secured or unsecured. The said provisions
+are reproduced as under: -
+“3. Definitions.—In this Code, unless the context otherwise
+requires,—
+…(6) “claim” means—
+(a) a right to payment, whether or not such right is reduced to
+judgment, fixed, disputed, undisputed, legal, equitable, secured or
+unsecured;
+(b) right to remedy for breach of contract under any law for
+the time being in force, if such breach gives rise to a right to
+payment, whether or not such right is reduced to judgment, fixed,
+matured, unmatured, disputed, undisputed, secured or unsecured;
+*** *** ***
+5. Definitions.— In this Part, unless the context otherwise
+requires,—
+…(21) “operational debt” means a claim in respect of the provision
+of goods or services including employment or a debt in respect of
+the 1 [payment] of dues arising under any law for the time being in
+force and payable to the Central Government, any State
+Government or any local authority;”
+7. It was thus contended that a conjoint reading of Sections 5(21) and 3(6)
+of the IBC clearly establishes that an operational debt includes all claims,
+whether or not such claims are reduced to judgment, fixed, matured,
+unmatured, disputed, undisputed secured or unsecured. All such claims shall
+fall under the definition of “operational debt” and all or any person to whom
+such disputed claims are owed, shall fall under the category of “operational
+creditors”.
+8. Learned Senior Counsel further submitted that the alleged claims of
+Respondent No. 2, as being sought in the Arbitral Proceedings, were for
+supply of goods and services, and further, since the alleged claims of
+Respondent No. 2, which were under dispute in the Arbitral Proceedings, the
+same fell under the definition of “claim” as defined under Section 3(6) of the
+IBC, and therefore, the alleged claims of Respondent No. 2 were to be
+considered as operational debt, which would make Respondent No. 2 an
+operational creditor to the Petitioner.
+9. It was further submitted by the learned Senior Counsel that a conjoint
+reading of Sections 5(20), 5(21) and 3(6) of the IBC, would place Respondent
+No. 2 under the category of an operational creditor of the Petitioner, who
+willingly participated in the CIRP of the Petitioner by duly submitting its
+claims before the IRP.
+10. It was contended that since the learned Arbitral Tribunal had ventured
+into the interpretation of terms and provisions as defined under the IBC,
+despite a categorical bar to that effect under Section 63 of the IBC, the
+impugned order is patently illegal and beyond the jurisdiction of the learned
+Arbitral Tribunal and the same is liable to be set aside. The said provision is
+reproduced as under: -
+“63. Civil court not to have jurisdiction.—No civil court or
+authority shall have jurisdiction to entertain any suit or proceedings
+in respect of any matter on which National Company Law Tribunal
+or the National Company Law Appellate Tribunal has jurisdiction
+under this Code.”
+11. It was further submitted that by virtue of the non obstante clause
+contained in Section 238 of the IBC, the provisions of the Code have an
+overriding effect over all other laws. The said provision is reproduced as
+under: -
+“238. Provisions of this Code to override other laws.—The
+provisions of this Code shall have effect, notwithstanding anything
+inconsistent therewith contained in any other law for the time being
+in force or any instrument having effect by virtue of any such law.”
+12. Learned Senior Counsel further submitted that the impugned order
+passed by the learned Arbitral Tribunal failed to appreciate the letter dated
+30.07.2018 sent by the RP to Respondent No. 2 in its reply to letter dated
+06.06.2018, whereby the RP categorically informed Respondent No. 2 that its
+claim was not a crystalized liability, but was a contingent claim, and the
+treatment of the same would depend upon the terms of the Resolution Plan
+which would finally be approved. It was submitted that the findings of the
+learned Arbitral Tribunal were limited to the communications dated
+17.04.2018 and 06.06.2018, vide which the RP had informed Respondent No.
+2 that the treatment of its alleged claims was entirely up to the successful
+resolution applicant and the decision of the CoC, and thus, the learned
+Arbitral Tribunal failed to appreciate that the RP had performed its duties in
+terms of the mandate as prescribed in the IBC.
+13. It was further submitted by the learned Senior Counsel that the learned
+Arbitral Tribunal wrongly gave finding on the working of the RP, and
+ventured beyond its jurisdiction when commenting upon the working of the
+RP of the Petitioner. It was submitted that the RP performed his duties as per
+law and within the scope of IBC. It was further contended, without prejudice,
+that any grievance or comments on the working RP were to be made only
+before the Adjudicating Authority/Appellate Forum, as provided under the
+IBC, and hence the learned Arbitral Tribunal lacked jurisdiction in this
+regard, and therefore, as any grievance against the functioning of the RP is
+within the statutory domain of the IBC, and the finding of the learned Arbitral
+Tribunal is in contravention of law and the impugned order is liable to be set
+aside.
+14. Learned Senior Counsel further submitted that the terms and provisions
+of a Resolution Plan submitted by a prospective resolution applicant are based
+upon the viability of the corporate debtor, and it is purely a commercial
+document. It was further submitted that the resolution applicant in the
+Resolution Plan stipulates its intention of taking over the corporate debtor
+based upon the assets and liabilities thereof, thus taking into consideration the
+commercial nature of the transaction.
+15. It was submitted that the impugned order wrongly recorded that the
+claim of Respondent No. 2 was not a part of the Information Memorandum,
+whereas the name of Respondent No. 2 is duly reflected in the List of
+Operational Creditors of the Petitioner. It was further submitted that the
+approved Resolution Plan categorically bears the name of Respondent No. 2
+in its Clause 8.6.2, whereby the claims of Respondent No. 2 had been
+extinguished, and thus, if the claim of Respondent No. 2 had not been a part
+of the Information Memorandum, then the name of Respondent No. 2 would
+have neither featured in the List of Creditors, nor in the approved Resolution
+Plan.
+16. Learned Senior Counsel further placed reliance on the decision of the
+Hon’ble Supreme Court in K. Sashidhar v. Indian Overseas Bank2
+, and
+submitted that the CoC may accept or reject a Resolution Plan submitted by a
+resolution applicant and the commercial wisdom, as applied by the CoC in
+either accepting or rejecting the said plan, is non-justiciable. It was further
+submitted that in the event of approval of a Resolution Plan by the CoC, the
+treatment given to the creditors of the corporate debtor, both financial and
+operational, cannot be put to challenge by any person in any Court of law or
+authority. The commercial wisdom employed by the CoC is supreme and the
+said commercial wisdom is duly in play while considering the claims of the
+creditors of the corporate debtor. The relevant paragraph of the said judgment
+is reproduced as under: -
+“52. As aforesaid, upon receipt of a “rejected” resolution plan the
+adjudicating authority (NCLT) is not expected to do anything more;
+but is obligated to initiate liquidation process under Section 33(1)
+of the I&B Code. The legislature has not endowed the adjudicating
+authority (NCLT) with the jurisdiction or authority to analyse or
+evaluate the commercial decision of CoC much less to enquire into
+the justness of the rejection of the resolution plan by the dissenting
+2
+ (2019) 12 SCC 150
+financial creditors. From the legislative history and the background
+in which the I&B Code has been enacted, it is noticed that a
+completely new approach has been adopted for speeding up the
+recovery of the debt due from the defaulting companies. In the new
+approach, there is a calm period followed by a swift resolution
+process to be completed within 270 days (outer limit) failing which,
+initiation of liquidation process has been made inevitable and
+mandatory. In the earlier regime, the corporate debtor could
+indefinitely continue to enjoy the protection given under Section 22
+of the Sick Industrial Companies Act, 1985 or under other such
+enactments which has now been forsaken. Besides, the commercial
+wisdom of CoC has been given paramount status without any
+judicial intervention, for ensuring completion of the stated
+processes within the timelines prescribed by the I&B Code. There
+is an intrinsic assumption that financial creditors are fully informed
+about the viability of the corporate debtor and feasibility of the
+proposed resolution plan. They act on the basis of thorough
+examination of the proposed resolution plan and assessment made
+by their team of experts. The opinion on the subject-matter
+expressed by them after due deliberations in CoC meetings through
+voting, as per voting shares, is a collective business decision. The
+legislature, consciously, has not provided any ground to challenge
+the “commercial wisdom” of the individual financial creditors or
+their collective decision before the adjudicating authority. That is
+made non-justiciable.”
+17. Learned Senior Counsel contended that the impugned order challenges
+the commercial wisdom of the CoC and the same is contrary to the settled
+position of law. It was further contended that the CoC was aware of the
+treatment being given to the alleged claims of Respondent No. 2, however,
+despite the same, proceeded with the approval of the Resolution Plan applying
+its commercial wisdom. The learned Arbitral Tribunal, therefore, was
+precluded from questioning the commercial wisdom of the CoC and the
+approval of the treatment given to the claims of Respondent No. 2.
+18. It was further submitted by the learned Senior Counsel that TSL,
+keeping in view the financial status of the Petitioner, submitted its Resolution
+Plan subject to certain conditions, including that it would not assume any
+liability towards claims pertaining to a period prior to the approval of the
+Resolution Plan, save and except those admitted by the RP. It was submitted
+that TSL had put a specific clause namely Clause 8.10.12 in the Resolution
+Plan, and in terms of the said clause, all claims pertaining to the Petitioner,
+including those arising out of Arbitral proceedings, stand fully discharged and
+settled. The said clause is reproduced as under: -
+“8.10.12. Effect on Operational Creditors and Other Creditors
+Upon approval of the Plan by the Adjudicating Authority, the
+provisions set out below shall be binding on the Operational
+Creditors and the Other Creditors, under Section 3 l (I) of the IBC:
+(i) Except to the extent of the Operational Creditors Settlement
+Amount proposed to be paid (without an obligation to pay) to the
+relevant Operational Creditors or the Liquation Value due to the
+Operational Creditors in accordance with the terms of Sections 8.2
+and 8.4, the Company shall have no Liability towards any
+Operational Creditors and Other Creditors with regard to any
+claims (as defined under the IBC) relating in any manner to the
+period prior to the Closing Date (whether under Annexures 8, 9, 10,
+11 or otherwise). Any such Liability shall be deemed to be owed
+and due as of the Insolvency Commencement Date, the Liquidation
+Value of which is NIL and therefore no amount is payable in
+relation thereto. All such Liabilities shall immediately,
+irrevocably and unconditionally stand fully and finally
+discharged and settled with there being no further claims
+whatsoever, and all forms of security created or suffered to
+exist, or rights to create such a security, to secure any
+obligations towards the Operational Creditors and Other
+Creditors (whether by way of guarantee, bank guarantee,
+letters of credit or otherwise) shall immediately, irrevocably
+and unconditionally stand released and discharged, and the
+Operational Creditors and Other Creditors shall waive all
+rights to invoke or enforce the same. In accordance with the
+foregoing, all claims (whether final or contingent, whether
+disputed or undisputed, and whether or not notified to or
+claimed against the Company) of all Governmental Authorities
+(including in relation to Taxes and all other dues and statutory
+payments to any Governmental Authority), relating to the
+period prior to the Closing Date, shall stand fully and finally
+discharged and settled.”
+(emphasis supplied)
+19. Learned Senior Counsel submitted that the TSL while submitting its
+Resolution Plan, provided for claims which were recognized/categorized by
+the RP as “sub-judice claims” and TSL vide its Resolution Plan stipulated that
+all claims categorized as “sub-judice” shall be considered as full, due and
+payable as on the insolvency commencement date and not merely as
+contingent claims. It was further submitted that the Resolution Plan provided
+that since the liquidation value of the Petitioner, as available to the
+operational creditors, was assumed to be NIL, no amount was due and
+payable towards such “sub-judice claims”, and the said division was taken
+keeping in view the commercial viability of Petitioner. Attention of this Court
+was drawn to Clause 8.6 of the Resolution Plan which deals with “Treatment
+of Claims on Matters that are Sub Judice”, and specifically to Clause 8.6.2.
+The said clause is reproduced as under: -
+“8.6.2. In respect of Sub Judice Claims from Operational
+Creditors (including without limitation, claims made by ISGEC
+Heavy Engineering Limited), each such Sub Judice Claim is a
+"claim" and "debt", each as defined under the IBC, and would
+consequently qualify as "operational debt" (as defined under
+the TBC) and therefore the full amount of such Sub Judice
+Claims shall be deemed to be owed and due as of the Insolvency
+Commencement Date, the Liquidation Value of which is
+assumed to be NIL, and therefore no amount is payable in
+relation thereto. Please also refer to Section 8.2.1 (iii) regarding
+additional claims from Operational Creditors relating to a period
+prior to the Insolvency Commencement Date and Section 8.
+10.12(iv) regarding no claims being initiated by the Operational
+Creditors during the period from the Effective Date until the
+Closing Date.”
+(emphasis supplied)
+20. It was submitted that the Resolution Plan of TSL, as approved by the
+CoC, was further approved by the Adjudicating Authority vide order dated
+30.05.2019 and thus the same is a binding document in terms of Section 31(1)
+of the IBC. It was further submitted that the Adjudicating Authority had also
+approved the treatment given by TSL to the creditors of the Petitioner. The
+said provision of the IBC reads as under: -
+“31. Approval of resolution plan.—(1) If the Adjudicating
+Authority is satisfied that the resolution plan as approved by the
+committee of creditors under sub-section (4) of section 30 meets
+the requirements as referred to in sub-section (2) of section 30, it
+shall by order approve the resolution plan which shall be binding on
+the corporate debtor and its employees, members, creditors,
+[including the Central Government, any State Government or any
+local authority to whom a debt in respect of the payment of dues
+arising under any law for the time being in force, such as authorities
+to whom statutory dues are owed,] guarantors and other
+stakeholders involved in the resolution plan.
+[Provided that the Adjudicating Authority shall, before
+passing an order for approval of resolution plan under this subsection, satisfy that the resolution plan has provisions for its
+effective implementation.]”
+21. Learned Senior Counsel submitted that a successful resolution
+applicant cannot be saddled with additional liability beyond the liability
+undertaken by it in the approved Resolution Plan. The Petitioner was acquired
+by TSL, keeping in view of the financial viability of its assets. Once the
+TSL’s Resolution Plan was approved by the Adjudicating Authority, the
+financial exposure/obligation of TSL has to be governed by the approved
+Resolution Plan only and thus, as a direct consequence of the CIRP and the
+approved Resolution Plan, no amount towards any claim of Respondent No. 2
+is due and payable by the Petitioner.
+22. Learned Senior Counsel submitted that though the appellate/statutory
+remedies have been provided, however, jurisdiction of a Civil Court and
+Authorities (including the Arbitral Tribunal) have expressly been barred
+under the IBC by virtue of Section 63 of the IBC. The IBC being a complete
+Code, the legislature has consciously enacted the said provision to ensure that
+the functioning of the adjudicatory forums is not hindered and interfered with
+by other judicial and quasi-judicial bodies.
+23. It was further submitted that the findings of the learned Arbitral
+Tribunal in the impugned order are in contravention to the fundamental
+principles and the legislative intent of the IBC. In terms of Section 63 of the
+IBC, the learned Arbitral Tribunal was not empowered to adjudicate upon the
+functioning of the RP or the interpretation of the term “creditor” and such
+issues fall exclusively within the jurisdiction of the Adjudicating Authority
+and the National Company Law Appellate Tribunal (hereinafter referred to as
+“NCLAT”). Therefore, the impugned order suffers from lack of inherent
+jurisdiction and is liable to be set aside.
+24. It was further submitted by the learned Senior Counsel that the
+impugned order is perverse and there exists a patent lack of jurisdiction of the
+learned Arbitral Tribunal in returning the findings as given in the impugned
+order. It was further contended by the learned Senior Counsel that the
+findings of the Arbitral Tribunal are against the provisions of the approved
+Resolution Plan and the IBC.
+25. Learned Senior Counsel placed reliance upon the judgment of the
+Hon’ble Supreme Court in Deep Industries Limited v. Oil and Natural Gas
+Corporation Limited and Anr. 3
+ and the relevant paragraphs of the said
+judgment are as under: -
+10. Mr K.M. Nataraj, the learned Additional Solicitor General
+appearing on behalf of the respondent, took us through the facts and
+was at pains to point out that under the relevant clause of the
+contract, which is Clause 27.1, the notice invoking the arbitration
+must specify all points of dispute with the details of the amount
+claimed at the time of invocation of arbitration and not thereafter.
+He stressed the fact that even a cursory reading of the notice dated
+2-11-2017 would show that it was confined to illegal termination
+and did not raise any plea as to the ban that was imposed for two
+years. He further went on to distinguish SBP & Co. [SBP & Co. v.
+Patel Engg. Ltd., (2005) 8 SCC 618] stating that it only applied at a
+stage where an order of the Arbitral Tribunal was sought to be
+interfered with directly under Articles 226/227, in which context
+the seven-Judge Bench made its observations. The present is a case
+where the Tribunal's orders had travelled to the first appellate court,
+which appeal was then dismissed, as a result of which the first
+appellate court's order came directly under the supervisory
+jurisdiction of the High Court under Article 227. He then referred
+to Punjab Agro Industries Corpn. Ltd. v. Kewal Singh Dhillon
+[Punjab Agro Industries Corpn. Ltd. v. Kewal Singh Dhillon,
+(2008) 10 SCC 128] which is a judgment which distinguished SBP
+& Co. [SBP & Co. v. Patel Engg. Ltd., (2005) 8 SCC 618] in a case
+in which an Article 227 petition was held to be maintainable against
+an order rejecting a Section 11 application for appointment of an
+3
+(2020) 15 SCC 706
+arbitrator. He then referred to several judgments stating that the
+power under Article 227, though to be sparingly exercised, can
+certainly be exercised in cases of patent lack of jurisdiction, and
+that the present case is one such. He then defended the judgment
+under appeal stating that the judgment under appeal correctly held
+that in the circumstances of the present case no stay order could
+possibly have been granted by the arbitrator under Section 17 on
+the basis of fundamental principles contained in the Specific Relief
+Act, in that damages could always be granted, and that therefore,
+the injunction granted in the facts of the present case should have
+been denied.
+*** *** ***
+17. This being the case, there is no doubt whatsoever that if
+petitions were to be filed under Articles 226/227 of the Constitution
+against orders passed in appeals under Section 37, the entire arbitral
+process would be derailed and would not come to fruition for many
+years. At the same time, we cannot forget that Article 227 is a
+constitutional provision which remains untouched by the non
+obstante clause of Section 5 of the Act. In these circumstances,
+what is important to note is that though petitions can be filed under
+Article 227 against judgments allowing or dismissing first appeals
+under Section 37 of the Act, yet the High Court would be extremely
+circumspect in interfering with the same, taking into account the
+statutory policy as adumbrated by us hereinabove so that
+interference is restricted to orders that are passed which are patently
+lacking in inherent jurisdiction.
+*** *** ***
+21. It is true that in Punjab Agro Industries Corpn. Ltd. [Punjab
+Agro Industries Corpn. Ltd. v. Kewal Singh Dhillon, (2008) 10
+SCC 128], this Court distinguished SBP & Co. [SBP & Co. v. Patel
+Engg. Ltd., (2005) 8 SCC 618] stating that it will not apply to a
+case of a non-appointment of an arbitrator. This Court held:
+(Punjab Agro Industries Corpn. Ltd. case [Punjab Agro Industries
+Corpn. Ltd. v. Kewal Singh Dhillon, (2008) 10 SCC 128], SCC p.
+132, para 9)
+“9. We have already noticed that though the order under
+Section 11(4) is a judicial order, having regard to Section
+11(7) relating to finality of such orders and the absence of any
+provision for appeal, the order of the Civil Judge was open to
+challenge in a writ petition under Article 227 of the
+Constitution. The decision in SBP & Co. [SBP & Co. v. Patel
+Engg. Ltd., (2005) 8 SCC 618] does not bar such a writ
+petition. The observations of this Court in SBP & Co. [SBP &
+Co. v. Patel Engg. Ltd., (2005) 8 SCC 618] that against an
+order under Section 11 of the Act, only an appeal under
+Article 136 of the Constitution would lie, is with reference to
+the orders made by the Chief Justice of a High Court or by the
+designate Judge of that High Court. The said observations do
+not apply to a subordinate court functioning as designate of
+the Chief Justice.”
+(emphasis in original)
+What is important to note is that the observations of this Court
+in Punjab Agro Industries Corpn. Ltd. [Punjab Agro Industries
+Corpn. Ltd. v. Kewal Singh Dhillon, (2008) 10 SCC 128] were for
+the reason that no provision for appeal had been given by statute
+against the orders passed under Section 11, which is why the High
+Court's supervisory jurisdiction should first be invoked before
+coming to this Court under Article 136. Given the facts of the
+present case, this case is equally distinguishable for the reason that
+in this case the Article 227 jurisdiction has been exercised by the
+High Court only after a first appeal was dismissed under Section 37
+of the Act.”
+26. Further reliance was placed upon the judgment of the Hon’ble Supreme
+Court in Punjab State Power Corporation Limited v. Emta Coal Limited and
+Anr.4
+. The relevant paragraph of the judgment is reproduced as under: -
+“4. We are of the view that a foray to the writ court from a
+Section 16 application being dismissed by the arbitrator can only be
+if the order passed is so perverse that the only possible conclusion
+is that there is a patent lack in inherent jurisdiction. A patent lack of
+inherent jurisdiction requires no argument whatsoever — it must be
+the perversity of the order that must stare one in the face.”
+4
+(2020) 17 SCC 93
+27. Learned Senior Counsel further contended that the instant petition is
+maintainable and in support of the same, reliance was placed upon the
+judgment of this Court in Surender Kumar Singal and Ors. v. Arun Kumar
+Bhalotia and Ors.5
+, wherein while relying upon the decisions of the Hon’ble
+Supreme Court in Deep Industries (supra) and Punjab State Power
+Corporation (supra), this Court had held that a Writ petition under Articles
+226 and 227 of the Constitution of India, 1950 would be maintainable against
+an order passed by an Arbitral Tribunal. The relevant paragraph of the said
+judgment is as under: -
+“25. A perusal of the above-mentioned decisions, shows that the
+following principles are well settled, in respect of the scope of
+interference under Article 226/227 in challenges to orders by an
+arbitral tribunal including orders passed under Section 16 of the
+Act.
+(i) An arbitral tribunal is a tribunal against which a petition under
+Article 226/227 would be maintainable;
+(ii) The non-obstante clause in section 5 of the Act does not apply
+in respect of exercise of powers under Article 227 which is a
+Constitutional provision;
+(iii) For interference under Article 226/227, there have to be
+‘exceptional circumstances’;
+(iv) Though interference is permissible, unless and until the order is
+so perverse that it is patently lacking in inherent jurisdiction, the
+writ court would not interfere;
+(v) Interference is permissible only if the order is completely
+perverse i.e., that the perversity must stare in the face;
+(vi) High Courts ought to discourage litigation which necessarily
+interfere with the arbitral process;
+52021 SCC OnLine Del 3708
+(vii) Excessive judicial interference in the arbitral process is not
+encouraged;
+(viii) It is prudent not to exercise jurisdiction under Article
+226/227;
+(ix) The power should be exercised in ‘exceptional rarity’ or if
+there is ‘bad faith’ which is shown;
+(x) Efficiency of the arbitral process ought not to be allowed to
+diminish and hence interdicting the arbitral process should be
+completely avoided.”
+28. Learned Senior Counsel further contended that the impugned order
+undermines the binding value of the approved Resolution Plan. It was
+submitted that the law is now well settled that a corporate debtor cannot be
+made to face undecided or residual claims after the approval of a resolution
+plan, as the same would defeat the very object of the IBC. In support of the
+said contention, reliance was placed on the judgment of the Hon’ble Supreme
+Court in Committee of Creditors of Essar Steel India Limited v. Satish
+Kumar Gupta 6
+, and the relevant paragraphs of the said judgment are
+reproduced as under: -
+“41. At the first meeting of the Committee of Creditors, which shall
+be held within 7 days of its constitution, the Committee, by
+majority vote of not less than 66% of the voting share of financial
+creditors, must immediately resolve to appoint the interim
+resolution professional as a resolution professional, or to replace
+the interim resolution professional by another resolution
+professional — see Sections 22(1) and (2) of the Code. Under
+Section 23(1), the resolution professional shall conduct the entire
+CIRP and manage the operations of the corporate debtor during the
+same. Importantly, all meetings of the Committee of Creditors are
+to be conducted by the resolution professional, who shall give
+notice of such meetings to the members of the Committee of
+6
+ (2020) 8 SCC 531
+Creditors, the members of the suspended Board of Directors, and
+operational creditors, provided the amount of their aggregate dues
+is not less than 10% of the entire debt owed. Like the duties of the
+interim resolution professional under Section 18 of the Code, it
+shall be the duty of the resolution professional to preserve and
+protect assets of the corporate debtor including the continued
+business operations of the corporate debtor — see Section 25(1) of
+the Code. For this purpose, he is to maintain an updated list of
+claims; convene and attend all meetings of the Committee of
+Creditors; prepare the information memorandum in accordance
+with Section 29 of the Code; invite prospective resolution
+applicants; and present all resolution plans at the meetings of the
+Committee of Creditors — see Sections 25(2)(e) to (i) of the Code.
+42. Under Section 29(1) of the Code, the resolution professional
+shall prepare an information memorandum containing all relevant
+information, as may be specified, so that a resolution plan may then
+be formulated by a prospective resolution applicant. Under Section
+30 of the Code, the resolution applicant must then submit a
+resolution plan to the resolution professional, prepared on the basis
+of the information memorandum. After this, the resolution
+professional must present to the Committee of Creditors, for its
+approval, such resolution plans which conform to the conditions
+referred to in Section 30(2) of the Code — see Section 30(3) of the
+Code. If the resolution plan is approved by the requisite majority of
+the Committee of Creditors, it is then the duty of the resolution
+professional to submit the resolution plan as approved by the
+Committee of Creditors to the Adjudicating Authority —
+see Section 30(6) of the Code.
+*** *** ***
+86. Financial creditors are in the business of lending money. The
+RBI Report on Trend and Progress of Banking in India, 2017-2018
+reflects that the net interest margin of Indian banks for Financial
+Year 2017-2018 is averaged at 2.5%. Likewise, the global trend for
+net interest margin was at 3.3% for banks in the USA and 1.6% for
+banks in the UK in the year 2016, as per the data published on the
+website of the bank. Thus, it is clear that financial creditors earn
+profit by earning interest on money lent with low margins,
+generally being between 1 to 4%. Also, financial creditors are
+capital providers for companies, who in turn are able to purchase
+assets and provide a working capital to enable such companies to
+run their business operation, whereas operational creditors are
+beneficiaries of amounts lent by financial creditors which are then
+used as working capital, and often get paid for goods and services
+provided by them to the corporate debtor, out of such working
+capital. On the other hand, market research carried out by India
+Brand Equity Foundation, a trust established by the Ministry of
+Commerce and Industry, as regards the oil and gas sector, has
+stated that the business risk of operational creditors who operate
+with higher profit margins and shorter cyclical repayments must
+needs be higher. Also, operational creditors have an immediate exit
+option, by stopping supply to the corporate debtor, once corporate
+debtors start defaulting in payment. Financial creditors may exit on
+their long-term loans, either upon repayment of the full amount or
+upon default, by recalling the entire loan facility and/or enforcing
+the security interest which is a time consuming and lengthy process
+which usually involves litigation. Financial creditors are also part
+of a regulated banking system which involves not merely declaring
+defaulters as non-performing assets but also involves restructuring
+such loans which often results in foregoing unpaid amounts of
+interest either wholly or partially.
+*** *** ***
+88. By reading para 77 (of Swiss Ribbons [Swiss Ribbons (P)
+Ltd. v. Union of India, (2019) 4 SCC 17]) dehors the earlier
+paragraphs, the Appellate Tribunal has fallen into grave error. Para
+76 clearly refers to the Uncitral Legislative Guide which makes it
+clear beyond any doubt that equitable treatment is only of similarly
+situated creditors. This being so, the observation in para 77 cannot
+be read to mean that financial and operational creditors must be
+paid the same amounts in any resolution plan before it can pass
+muster. On the contrary, para 77 itself makes it clear that there is a
+difference in payment of the debts of financial and operational
+creditors, operational creditors having to receive a minimum
+payment, being not less than liquidation value, which does not
+apply to financial creditors. The amended Regulation 38 set out in
+para 77 again does not lead to the conclusion that financial and
+operational creditors, or secured and unsecured creditors, must be
+paid the same amounts, percentage wise, under the resolution plan
+before it can pass muster. Fair and equitable dealing of operational
+creditors' rights under the said regulation involves the resolution
+plan stating as to how it has dealt with the interests of operational
+creditors, which is not the same thing as saying that they must be
+paid the same amount of their debt proportionately. Also, the fact
+that the operational creditors are given priority in payment over all
+financial creditors does not lead to the conclusion that such
+payment must necessarily be the same recovery percentage as
+financial creditors. So long as the provisions of the Code and the
+Regulations have been met, it is the commercial wisdom of the
+requisite majority of the Committee of Creditors which is to
+negotiate and accept a resolution plan, which may involve
+differential payment to different classes of creditors, together with
+negotiating with a prospective resolution applicant for better or
+different terms which may also involve differences in distribution
+of amounts between different classes of creditors.
+*** *** ***
+107. For the same reason, the impugned NCLAT judgment
+[Standard Chartered Bank v. Satish Kumar Gupta, 2019 SCC
+OnLine NCLAT 388] in holding that claims that may exist apart
+from those decided on merits by the resolution professional and by
+the Adjudicating Authority/Appellate Tribunal can now be decided
+by an appropriate forum in terms of Section 60(6) of the Code, also
+militates against the rationale of Section 31 of the Code. A
+successful resolution applicant cannot suddenly be faced with
+“undecided” claims after the resolution plan submitted by him has
+been accepted as this would amount to a hydra head popping up
+which would throw into uncertainty amounts payable by a
+prospective resolution applicant who would successfully take over
+the business of the corporate debtor. All claims must be submitted
+to and decided by the resolution professional so that a prospective
+resolution applicant knows exactly what has to be paid in order that
+it may then take over and run the business of the corporate debtor.
+This the successful resolution applicant does on a fresh slate, as has
+been pointed out by us hereinabove. For these
+reasons, NCLAT judgment must also be set aside on this count.
+29. Further, reliance was placed upon the judgment of the Hon’ble
+Supreme Court in Ghanashyam Mishra & Sons (P) Ltd. v. Edelweiss Asset
+Reconstruction Co. Ltd.7
+, and the relevant portion of the said judgment is
+reproduced as under: -
+“Conclusion
+102. In the result, we answer the questions framed by us as under:
+102.1. That once a resolution plan is duly approved by the
+adjudicating authority under sub-section (1) of Section 31, the
+claims as provided in the resolution plan shall stand frozen and will
+be binding on the corporate debtor and its employees, members,
+creditors, including the Central Government, any State Government
+or any local authority, guarantors and other stakeholders. On the
+date of approval of resolution plan by the adjudicating authority, all
+such claims, which are not a part of resolution plan, shall stand
+extinguished and no person will be entitled to initiate or continue
+any proceedings in respect to a claim, which is not part of the
+resolution plan.
+102.2. The 2019 Amendment to Section 31 of the I&B Code is
+clarificatory and declaratory in nature and therefore will be
+effective from the date on which the I&B Code has come into
+effect.
+102.3. Consequently all the dues including the statutory dues owed
+to the Central Government, any State Government or any local
+authority, if not part of the resolution plan, shall stand extinguished
+and no proceedings in respect of such dues for the period prior to
+the date on which the adjudicating authority grants its approval
+under Section 31 could be continued.”
+30. Learned Senior Counsel further submitted that the law as enunciated in
+Ghanashyam Mishra (supra), has been reiterated by the Hon’ble Supreme
+Court in Ruchi Soya Industries Limited v. Union of India and Ors.
+8
+and the
+relevant portion of the said judgment is reproduced as under: -
+7
+ (2021) 9 SCC 657
+8
+ 2022 SCC OnLine SC 455
+“10. We find that the present appeals are squarely covered by the
+law laid down by this Court in Ghanashyam Mishra & Sons (P)
+Ltd. [Ghanashyam Mishra & Sons (P) Ltd. v. Edelweiss Asset
+Reconstruction Co. Ltd., (2021) 9 SCC 657 : (2021) 4 SCC (Civ)
+638] It will be relevant to refer to para 102 of the said judgment
+which reads as under : (SCC p. 716)
+“102. In the result, we answer the questions framed by us as under:
+102.1. That once a resolution plan is duly approved by the
+adjudicating authority under sub-section (1) of Section 31, the
+claims as provided in the resolution plan shall stand frozen and will
+be binding on the corporate debtor and its employees, members,
+creditors, including the Central Government, any State Government
+or any local authority, guarantors and other stakeholders. On the
+date of approval of resolution plan by the adjudicating authority, all
+such claims, which are not a part of resolution plan, shall stand
+extinguished and no person will be entitled to initiate or continue
+any proceedings in respect to a claim, which is not part of the
+resolution plan.
+102.2. The 2019 Amendment to Section 31 of the I&B Code is
+clarificatory and declaratory in nature and therefore will be
+effective from the date on which the I&B Code has come into
+effect.
+102.3. Consequently all the dues including the statutory dues owed
+to the Central Government, any State Government or any local
+authority, if not part of the resolution plan, shall stand extinguished
+and no proceedings in respect of such dues for the period prior to
+the date on which the adjudicating authority grants its approval
+under Section 31 could be continued.”
+11. Admittedly, the claim in respect of the demand which is the
+subject-matter of the present proceedings was not lodged by
+Respondent 2 after public announcements were issued under
+Sections 13 and 15 IBC. As such, on the date on which the
+resolution plan was approved by the learned NCLT, all claims
+stood frozen, and no claim, which is not a part of the resolution
+plan, would survive.
+12. In that view of the matter, the appeals deserve to be allowed
+only on this ground. It is held that the claim of the respondent,
+which is not part of the resolution plan, does not survive. The
+amount deposited by the appellant at the time of admission of the
+appeals along with interest accrued thereon is directed to be
+refunded to the appellant.”
+31. Learned Senior Counsel further placed reliance upon the Counter
+Affidavit dated 15.06.2021, filed on behalf of Respondent No. 1/MCA, and
+contended that the same supports the case of the Petitioner. In view thereof,
+reliance was placed upon paragraph No. 3 of the said affidavit, which is
+reproduced as under: -
+“3. That in response to the contents of Para 6, it is submitted that
+section 31(1) of the Code provides that once the resolution plan is
+approved by the Adjudicating Authority, the same is binding on all
+the stakeholders including the Central Government, any State
+Government or any local authority to whom a debt in respect of
+payment of dues arising under any law for the time being in force,
+such as authorities to whom statutory dues are owed, including tax
+authorities. The Hon'ble Supreme Court, in the matter of Committee
+of Creditors of Essar Steel India Limited Vs. Satish Kumar Gupta
+& Ors. [Civil Appeal No. 8766-67/2019 and other petitions], also
+observed that a successful resolution applicant cannot suddenly be
+faced with "undecided" claims after the resolution plan submitted
+by him has been accepted as this would amount to a hydra head
+popping up which would throw into uncertainty amounts payable
+by the successful resolution applicant. All claims must be submitted
+to and decided by the resolution professional so that a prospective
+resolution applicant knows exactly what is to be paid in order that it
+may then take over and run the business of the CD. It is submitted
+that the dispute is between two parties and provisions of the Code
+are self explanatory and complete Code in itself. Further, the
+Arbitral Tribunal is not empowered to decide the issues relating to
+the Code, as under section 60(5)(c) of the Code the Adjudicating
+Authority/ NCLT is empowered to deal with such issues.”
+32. Learned Senior Counsel further drew the attention of this Court to the
+Resolution Plan dated 11.06.2018, and in particular to Clause 8.1.4 thereof,
+which deals with the “Remaining Financial Debt”:
+8.1.4. Remaining Financial Debt
+(i) The Remaining Financial Debt shall be transferred from the
+Financial Creditors to the Resolution Applicant by way of
+novation on the Closing Date, and the aggregate consideration
+shall be the Debt Consideration. Upon completion of this step,
+the Resolution Applicant shall hold all rights in respect of the
+Remaining Financial Debt, which shall be payable by the
+Company to the Resolution Applicant. Nothing set out in
+Section 8.1.3 shall apply to the rights of the Resolution
+Applicant (or limit the same in any manner) in respect of the
+Remaining Financial. Debt, with regard to the period
+commencing as of the Closing Date; and
+(ii) The Remaining Financial Debt shall be unsecured and
+subordinated debt, and the rights of the Resolution Applicant
+with regard to the Remaining Financial Debt shall be
+subordinated to any new borrowings of the Company and any
+other instruments issued by the Company (other than equity
+shares) with effect from the Closing Date, as set out in
+Annexure 5 and as shall be provided in the Novation
+Agreement proposed to be executed in this regard. Further,
+the Resolution Applicant shall not be entitled to repayment of
+the principal amounts of the Remaining Financial Debt
+(excluding conversion of such subordinated debt into equity),
+or be entitled to payment of interest prior to payment,
+repayment or redemption of the entire debt due to the
+Financial Creditors. The Remaining Financial Debt shall be
+classified as "standard assets" in the books of the Resolution
+Applicant.
+The provisions of this Section 8.1.4 shall be read harmoniously
+with the provisions of Section 8.11.3(vi) relating to the Guarantees
+(as defined therein) issued by the Guarantors (as defined therein).
+33. Learned Senior Counsel further placed reliance on the judgment on the
+Hon’ble Supreme Court in Kalyani Transco v. Bhushan Power & Steel Ltd.
+9
+,
+and the relevant portion of the judgment is reproduced as under: -
+“172. We now examine the contentions raised by the appellantJaldhi. It is submitted that the appellant was the largest OC of the
+corporate debtor-BPSL and has been wrongly classified as a
+“contingent creditor”. It is submitted that the appellant holds four
+international arbitral awards in its favour and the RP has admitted
+its claims to the tune of Rs. 1,51,37,57,761.65. It is submitted that
+such a reclassification of the appellant is against settled law is
+hugely detrimental to it as OCs were eligible to 50 per cent. of their
+crystallised claims whereas contingent creditors were to be paid
+only 10 per cent. as per the resolution plan. Per contra, the SRAJSW submitted that Jaldhi has been rightly classified as a
+contingent creditor as it has treated itself as a contingent creditor
+before the NCLT and had later changed its stance. It is further
+submitted that the appellant withdrew various proceedings filed for
+enforcement by it before the Calcutta High Court in order to pursue
+an alternative remedy and therefore, the foreign awards could not
+be deemed to be binding under Indian law.
+173. We must firstly examine the stand taken by the appellantJaldhi before the NCLT from the approval order passed by the
+NCLT on September 5, 2019 [ See page 636 of 233 Comp Cas.] :
+“The contentions raised by Mr. A. S Chadha, learned senior
+counsel appointed by the Adjudicating Authority-NCLT to
+represent the cause of the operational creditors, have been that
+the resolution plan has illegally classified ‘Jaldhi’ as
+contingent creditor entitling to be paid only 10 per cent. of its
+claim subject to a cap of Rs. 35 crores, if it crystallised within
+two years from the date of approval of the resolution plan by
+the CoC. It is evident that Jaldhi is an operational creditor and
+its claim has been admitted by the resolution professional to
+the extent of Rs. 151.3 crores. Jaldhi has been maintaining
+that it has made a claim of Rs. 151.9 crores on the basis of 3
+arbitration awards in its favour and against the corporate
+debtor and that it has initiated execution proceeding by filing
+9
+ 2025 SCC OnLine SC 2093
+3 execution petitions before the hon'ble High Court of
+Calcutta. Those proceedings were pending when the CIRP
+was initiated on July 26, 2017. Later on, different submissions
+were made and it was claimed that its claim is contingent
+liability but not an operational debt and that contingent
+liability can never be resolved under a resolution plan. It was
+thus argued that the resolution applicant has to assume a risk
+to contingent liability devolving on the corporate debtor in
+future. In a separate application filed, Jaldhi again shifted
+which is stand by arguing that although its claim had been
+admitted by the RP but the resolution plan categorises its
+claim has an identified contingent liability.
+It was contended that it is the operational creditor and its
+claim as a contingent liability then it cannot be dealt within
+the resolution plan.”
+174. It can thus be seen that the stance adopted by the appellant is
+varying and inconsistent. On one hand, the appellant-Jaldhi had
+claimed to be a contingent creditor and raised the contention that its
+dues could not have been settled under the resolution plan and that
+SRA-JSW would have to assume the risk in case the contingent
+liability crystallises in the future. On the other hand, subsequently,
+the appellant shifted its stand and claimed itself to be an OC which
+was entitled to equal treatment with other OCs under the resolution
+plan.
+175. Before we examine whether the international arbitral awards
+would be treated as contingent or crystallised debts, we must first
+examine the status of foreign awards in light of the provisions of
+the Arbitration and Conciliation Act, 1996 [ “Arbitration Act” for
+short.] . Section 49 of the Arbitration Act reads thus:
+“49. Enforcement of foreign awards.—Where the court is satisfied
+that the foreign award is enforceable under this Chapter, the award
+shall be deemed to be a decree of that court.”
+176. It can thus be seen that the foreign award will be deemed to be
+a decree of the court only when the court is satisfied that the foreign
+award is enforceable under Part II, Chapter I of the Arbitration Act.
+Therefore, a foreign award would not be automatically enforceable
+in India. For it to be enforceable in India, the court is required to be
+satisfied that such an award is enforceable under Part II, Chapter I
+of the Arbitration Act.
+177. It is relevant to note that though the appellants had initiated
+proceedings for the execution of international arbitral award in its
+favour before the Calcutta High Court, the appellants did not
+prosecute the said proceedings, and the said proceedings were
+dismissed as withdrawn. Had the appellants pursued the said
+proceedings before the Calcutta High Court, the SRA-JSW would
+have had an opportunity of contesting the said proceedings. Not
+permitting the said proceedings to proceed in accordance with law,
+in our view, would not permit the appellants to contend that their
+claims had crystallised and settled as OCs entitling them to claim
+under the resolution plan.
+178. It is further to be noted that the provisions of the IBC only
+differentiate between the OCs and the FCs. This was the reason
+that the RP in the present case admitted the claim raised by the
+appellant-Jaldhi as an OC of the corporate debtor. However,
+after the admission of a claim, the SRA-JSW had classified the
+appellant as a contingent creditor. Even though such a
+classification was made by the SRA-JSW, the same had been
+duly approved by the CoC who has the power to sanction the
+resolution plan or enter into negotiations to modify it prior to
+its approval. Such a decision squarely falls under the protected
+umbrella of the “commercial wisdom” of the CoC which has
+been given paramount status by this court in the case of K.
+Sashidhar v. Indian Overseas Bank [(2019) 213 Comp Cas 356
+(SC); (2019) 12 SCC 150; (2019) 4 SCC (Civ) 222; 2019 SCC
+OnLine SC 257.] . It will be relevant to take note of the relevant
+paragraphs of the said judgment which read thus [ See page
+394 of 213 Comp Cas.] :
+“As aforesaid, upon receipt of a ‘rejected’ resolution plan the
+Adjudicating Authority (NCLT) is not expected to do
+anything more; but is obligated to initiate liquidation process
+under section 33(1) of the Insolvency and Bankruptcy Code.
+The Legislature has not endowed the Adjudicating Authority
+(NCLT) with the jurisdiction or authority to analyse or
+evaluate the commercial decision of the CoC much less to
+enquire into the justness of the rejection of the resolution plan
+by the dissenting financial creditors. From the legislative
+history and the background in which the Insolvency and
+Bankruptcy Code, has been enacted, it is noticed that a
+completely new approach has been adopted for speeding up
+the recovery of the debt due from the defaulting companies. In
+the new approach, there is a calm period followed by a swift
+resolution process to be completed within 270 days (outer
+limit) failing which, initiation of liquidation process has been
+made inevitable and mandatory. In the earlier regime, the
+corporate debtor could indefinitely continue to enjoy the
+protection given under section 22 of the Sick Industrial
+Companies (Special Provisions) Act, 1985 or under other such
+enactments which has now been forsaken. Besides, the
+commercial wisdom of the CoC has been given paramount
+status without any judicial intervention, for ensuring
+completion of the stated processes within the timelines
+prescribed by the Insolvency and Bankruptcy Code. There is
+an intrinsic assumption that financial creditors are fully
+informed about the viability of the corporate debtor and
+feasibility of the proposed resolution plan. They act on the
+basis of thorough examination of the proposed resolution plan
+and assessment made by their team of experts. The opinion on
+the subject-matter expressed by them after due deliberations
+in the CoC meetings through voting, as per voting shares, is a
+collective business decision. The Legislature, consciously, has
+not provided any ground to challenge the ‘commercial
+wisdom’ of the individual financial creditors or their
+collective decision before the Adjudicating Authority. That is
+made non-justiciable…
+Whereas, the discretion of the Adjudicating Authority
+(NCLT) is circumscribed by section 31 limited to scrutiny of
+the resolution plan ‘as approved’ by the requisite per cent. of
+voting share of financial creditors. Even in that enquiry, the
+grounds on which the Adjudicating Authority can reject the
+resolution plan is in reference to matters specified in section
+30(2), when the resolution plan does not conform to the stated
+requirements. Reverting to section 30(2), the enquiry to be
+done is in respect of whether the resolution plan provides : (i)
+the payment of the insolvency resolution process costs in a
+specified manner in priority to the repayment of other debts of
+the corporate debtor, (ii) the repayment of the debts of the
+operational creditors in prescribed manner, (iii) the
+management of the affairs of the corporate debtor, (iv) the
+implementation and supervision of the resolution plan, (v)
+does not contravene any of the provisions of the law for the
+time being in force, (vi) conforms to such other requirements
+as may be specified by the Board. The Board referred to is
+established under section 188 of the Insolvency and
+Bankruptcy Code. The powers and functions of the Board
+have been delineated in section 196 of the Insolvency and
+Bankruptcy Code. None of the specified functions of the
+Board, directly or indirectly, pertain to regulating the manner
+in which the financial creditors ought to or ought not to
+exercise their commercial wisdom during the voting on the
+resolution plan under section 30(4) of the Insolvency and
+Bankruptcy Code. The subjective satisfaction of the financial
+creditors at the time of voting is bound to be a mixed baggage
+of variety of factors. To wit, the feasibility and viability of the
+proposed resolution plan and including their perceptions about
+the general capability of the resolution applicant to translate
+the projected plan into a reality. The resolution applicant may
+have given projections backed by normative data but still in
+the opinion of the dissenting financial creditors, it would not
+be free from being speculative. These aspects are completely
+within the domain of the financial creditors who are called
+upon to vote on the resolution plan under section 30(4) of the
+Insolvency and Bankruptcy Code…
+Indubitably, the inquiry in such an appeal would be limited to
+the power exercisable by the resolution professional under
+section 30(2) of the Insolvency and Bankruptcy Code or, at
+best, by the Adjudicating Authority (NCLT) under section
+31(2) read with section 31(1) of the Insolvency and
+Bankruptcy Code. No other inquiry would be permissible.
+Further, the jurisdiction bestowed upon the appellate authority
+(NCLAT) is also expressly circumscribed. It can examine the
+challenge only in relation to the grounds specified in section
+61(3) of the Insolvency and Bankruptcy Code, which is
+limited to matters ‘other than’ enquiry into the autonomy or
+commercial wisdom of the dissenting financial creditors.
+Thus, the prescribed authorities (NCLT/ NCLAT) have been
+endowed with limited jurisdiction as specified in the
+Insolvency and Bankruptcy Code and not to act as a court of
+equity or exercise plenary powers.
+In our view, neither the Adjudicating Authority (NCLT) nor
+the Appellate Authority (NCLAT) has been endowed with the
+jurisdiction to reverse the commercial wisdom of the
+dissenting financial creditors and that too on the specious
+ground that it is only an opinion of the minority financial
+creditors. The fact that substantial or majority per cent. of the
+financial creditors have accorded approval to the resolution
+plan would be of no avail, unless the approval is by a vote of
+not less than 75 per cent. (after amendment of 2018, with
+effect from June 6, 2018, 66 per cent.) of voting share of the
+financial creditors. To put it differently, the action of
+liquidation process postulated in Chapter III of the Insolvency
+and Bankruptcy Code, is avoidable, only if approval of the
+resolution plan is by a vote of not less than 75 per cent. (as in
+October, 2017) of voting share of the financial creditors.
+Conversely, the legislative intent is to uphold the opinion or
+hypothesis of the minority dissenting financial creditors. That
+must prevail, if it is not less than the specified per cent. (25
+per cent. in October 2017; and now after the amendment with
+effect from June 6, 2018, 44 per cent.). The inevitable
+outcome of voting by not less than requisite per cent. of
+voting share of financial creditors to disapprove the proposed
+resolution plan, de jure, entails in its deemed rejection…
+The argument, though attractive at the first blush, but if
+accepted, would require us to rewrite the provisions of the
+Insolvency and Bankruptcy Code. It would also result in
+doing violence to the legislative intent of having consciously
+not stipulated that as a ground—to challenge the commercial
+wisdom of the minority (dissenting) financial creditors.
+Concededly, the process of resolution plan is necessitated in
+respect of corporate debtors in whom their financial creditors
+have lost hope of recovery and who have turned into nonperformer or a chronic defaulter. The fact that the corporate
+debtor concerned was still able to carry on its business
+activities does not obligate the financial creditors to postpone
+the recovery of the debt due or to prolong their losses
+indefinitely. Be that as it may, the scope of enquiry and the
+grounds on which the decision of ‘approval’ of the resolution
+plan by the CoC can be interfered with by the Adjudicating
+Authority (NCLT), has been set out in section 31(1) read with
+section 30(2) and by the Appellate Tribunal (NCLAT) under
+section 32 read with section 61(3) of the Insolvency and
+Bankruptcy Code. No corresponding provision has been
+envisaged by the Legislature to empower the resolution
+professional, the Adjudicating Authority (NCLT) or for that
+matter the Appellate Authority (NCLAT), to reverse the
+‘commercial decision’ of the CoC much less of the dissenting
+financial creditors for not supporting the proposed resolution
+plan. Whereas, from the legislative history there is contra
+indication that the commercial or business decisions of the
+financial creditors are not open to any judicial review by the
+Adjudicating Authority or the Appellate Authority.”
+(emphasis supplied)
+179. It can thus be seen that this court has held that the
+Legislature purposefully did not include a means to challenge
+the commercial wisdom exercised by the CoC. This makes a
+challenge to the same non-justiciable. It has been further held
+that a challenge cannot be raised against the decision making of
+the CoC unless and until the grounds for challenge as given in
+the Code are satisfied. Any interference in the paramount
+objective of the CoC of exercising its commercial wisdom would
+amount to the court rewriting the law and going against the
+very objectives of the IBC.”
+(emphasis supplied)
+34. Learned Senior Counsel had further placed reliance upon the judgment
+of the Hon’ble Supreme Court in Electrosteel Steel Ltd. v. Ispat Carrier (P)
+Ltd.10, and had contended that the facts of the said case are similar to that of
+the present case.
+35. Learned Senior Counsel further submitted that the Hon’ble Supreme
+10 (2025) 7 SCC 773
+Court, in Swiss Ribbons (P) Ltd. v. Union of India 11 , had held that
+insolvency proceedings under the IBC are proceedings in rem, having effect
+against the world at large. The relevant paragraphs of the said judgment are
+reproduced as under: -
+“43. A financial creditor may trigger the Code either by itself or
+jointly with other financial creditors or such persons as may be
+notified by the Central Government when a “default” occurs. The
+Explanation to Section 7(1) also makes it clear that the Code may
+be triggered by such persons in respect of a default made to any
+other financial creditor of the corporate debtor, making it clear that
+once triggered, the resolution process under the Code is a collective
+proceeding in rem which seeks, in the first instance, to rehabilitate
+the corporate debtor. Under Section 7(4), the adjudicating authority
+shall, within the prescribed period, ascertain the existence of a
+default on the basis of evidence furnished by the financial creditor;
+and under Section 7(5), the adjudicating authority has to be
+satisfied that a default has occurred, when it may, by order, admit
+the application, or dismiss the application if such default has not
+occurred. On the other hand, under Sections 8 and 9, an operational
+creditor may, on the occurrence of a default, deliver a demand
+notice which must then be replied to within the specified period.
+What is important is that at this stage, if an application is filed
+before the adjudicating authority for initiating the corporate
+insolvency resolution process, the corporate debtor can prove that
+the debt is disputed. When the debt is so disputed, such application
+would be rejected.
+*** *** ***
+82. It is clear that once the Code gets triggered by admission of a
+creditor's petition under Sections 7 to 9, the proceeding that is
+before the adjudicating authority, being a collective proceeding, is a
+proceeding in rem. Being a proceeding in rem, it is necessary that
+the body which is to oversee the resolution process must be
+consulted before any individual corporate debtor is allowed to settle
+its claim. A question arises as to what is to happen before a
+11 (2019) 4 SCC 17
+Committee of Creditors is constituted (as per the timelines that are
+specified, a Committee of Creditors can be appointed at any time
+within 30 days from the date of appointment of the interim
+resolution professional). We make it clear that at any stage where
+the Committee of Creditors is not yet constituted, a party can
+approach NCLT directly, which Tribunal may, in exercise of its
+inherent powers under Rule 11 of NCLT Rules, 2016, allow or
+disallow an application for withdrawal or settlement. This will be
+decided after hearing all the parties concerned and considering all
+relevant factors on the facts of each case.”
+36. In support of the aforesaid submissions, learned Senior Counsel further
+placed reliance on the following judgments: -
+i. Anuptech Equipment Pvt. Ltd. v. Ganpati Co-Op Housing Society Ltd.
+and Ors.12;
+ii. Karad Urban Cooperative Bank Ltd. v. Swapnil Bhingardevay and
+Ors.13;
+iii. Ebix Singapore Pvt. Limited v. Committee of Creditors of Educomp
+Solutions Limited14;
+iv. Bhushan Power & Steel Ltd. v. Union of India & Ors.15;
+v. Tata Steel Ltd. v. CIT16;
+vi. Paschimanchal Vidyut Vitran Nigam Limited v. Raman Ispat Pvt. Ltd.
+and Ors.17;
+vii. RPS Infrastructure Limited v. Mukul Kumar and Anr.18;
+viii. Ultra Tech Nathdwara Cement Ltd. v. Union of India and Ors.19;
+ix. Sirpur Paper Mills Limited & Anr. v. Union of India20;
+x. Adhunik Metaliks Ltd. v. State of Odisha & Ors. W.P.(C) No.1553 of
+2022;
+12 1999(2) Mh.L.J. 161
+13 (2020) 9 SCC 729
+14 (2022) 2 SCC 401
+15 2022 SCC OnLine Del 2337
+16 2023 SCC OnLine Del 6987
+17 (2023) 10 SCC 60
+18 2023 SCC OnLine SC 1147
+19 2020 SCC Online Raj 1097
+20 2022 SCC OnLine TS 130
+xi. Sree Metaliks Ltd. v. Additional Director General & Ors.21;
+xii. Commissioner of Central Excise Pune II v. SS Engineers Civil Appeal
+No. 5700 of 2019;
+xiii. Patna Highway Projects Ltd. v. State of Bihar and Ors.22;
+xiv. Pr. Commissioner of Income Tax v. Monnet Ispat and Energy Ltd.,
+Order dated 10.08.2018 in SLP (C) No. 6483/2018;
+xv. Innoventive Industries Ltd. v. ICICI Bank and Ors.23;
+xvi. Duncan Industries Limited v. A.J.Agrochem24;
+xvii. Unigreen Global Private Limited v. Punjab National Bank and Ors.25;
+xviii. Solidaire India Ltd. v. Fairgrowth Financial Services Ltd. and Ors.26;
+xix. Jotun India Private Limited v. PSL Limited 201827;
+xx. State of Haryana Ors. v. Vinod Kumar and Ors.28;
+xxi. Srei Infrastructure Finance Ltd. v. Tuff Drilling Private Limited29;
+xxii. Pratap Technocrats (P) Ltd. and Others v. Monitoring Committee of
+Reliance Infratel Limited and Another30;
+SUBMISSIONS ON BEHALF OF RESPONDENT NO. 1/MCA
+37. Learned CGSC appearing on behalf of Respondent No. 1/MCA
+submitted that the IBC had been enacted to consolidate and amend the laws
+pertaining to reorganisation and insolvency resolution of corporate persons, in
+a time-bound manner, for maximisation of value of assets, promotion of
+21 2023 SCC OnLine Del 941
+22 2024 SCC OnLine Pat 4238
+23 (2018) 1 SCC 407
+24 (2019) 9 SCC 725
+25 2017 SCC Online NCLAT 566
+26 (2001) 3 SCC 71
+27 2018 SCC OnLine Bom 20570
+28 1986 P&H 407
+29 2018 (11) SCC 470
+30 (2021) 10 SCC 623
+entrepreneurship and availability of credit, and balancing the interests of all
+stakeholders. It was submitted that the IBC envisages a creditor-in-control
+model, wherein the CIRP is undertaken through a Resolution Plan.
+38. It was further submitted that under the CIRP, the Resolution
+Professional is mandated to verify claims as on the insolvency
+commencement date in terms of Regulation 13 of the CIRP Regulations, and
+to maintain a list of creditors. The Resolution Professional is also required to
+prepare the Information Memorandum under Regulation 36(2) of the CIRP
+Regulations, which contains, inter alia, details of the corporate debtor, the list
+of creditors with the amounts claimed and admitted, and particulars of
+material litigations.
+39. Learned CGSC further submitted that once a Resolution Plan submitted
+by a prospective resolution applicant is approved by the CoC, and thereafter
+by the Adjudicating Authority under Section 31(1) of the IBC, the same
+becomes binding on the corporate debtor and all stakeholders, including the
+Central Government, State Governments and local Authorities. In this regard,
+reliance was placed on the decision of the Hon’ble Supreme Court in Swiss
+Ribbons (supra).
+40. It was further submitted that the IBC is a complete Code in itself.
+Reliance had been placed on the judgment of the Hon’ble Supreme Court in
+Innoventive Industries (supra) and the relevant portion of the said judgment
+is reproduced as under: -
+“55. It is settled law that a consolidating and amending Act like the
+present Central enactment forms a code complete in itself and is
+exhaustive of the matters dealt with therein. In Ravula Subba
+Rao v. CIT [Ravula Subba Rao v. CIT, 1956 SCR 577 : AIR 1956
+SC 604] , this Court held: (SCR p. 585 : AIR p. 610, para 10)
+“10. … The Act is, as stated in the Preamble, one to
+consolidate and amend the law relating to income tax. The rule of
+construction to be applied to such a statute is thus stated by Lord
+Herschell in Bank of England v. Vagliano Bros. [Bank of
+England v. Vagliano Bros., 1891 AC 107 (HL)] : (AC pp. 144-45)
+‘… I think the proper course is in the first instance to examine
+the language of the statute, and to ask what is its natural meaning,
+uninfluenced by any considerations derived from the previous state
+of the law, and not to start with inquiring how the law previously
+stood, and then, assuming that it was probably intended to leave it
+unaltered.…’
+We must therefore construe the provisions of the Indian
+Income Tax Act as forming a code complete in itself and
+exhaustive of the matters dealt with therein, and ascertain what
+their true scope is.”
+*** *** ***
+58. There can be no doubt, therefore, that the Code is a
+Parliamentary law that is an exhaustive code on the subject-matter
+of insolvency in relation to corporate entities, and is made under
+Entry 9, List III in the Seventh Schedule which reads as under:
+“9. Bankruptcy and insolvency”
+41. Learned CGSC had further relied upon the judgment of the Hon’ble
+Supreme Court in Embassy Property Developments (P) Ltd. v. State of
+Karnataka31, wherein it was observed as under: -
+11. It is beyond any pale of doubt that the IBC, 2016 is a complete
+code in itself. As observed by this Court in Innoventive Industries
+Ltd. v. Icici Bank [Innoventive Industries Ltd. v. Icici Bank, (2018)
+1 SCC 407 : (2018) 1 SCC (Civ) 356 : AIR 2017 SC 4084] it is an
+31 (2020) 13 SCC 308
+exhaustive code on the subject-matter of insolvency in relation to
+corporate entities and others. It is also true that the IBC, 2016 is a
+single Unified Umbrella Code, covering the entire gamut of the law
+relating to insolvency resolution of corporate persons and others in
+a time-bound manner. The Code provides a three-tier mechanism,
+namely, (i) the NCLT, which is the adjudicating authority, (ii)
+the Nclat, which is the appellate authority, and (iii) this Court as the
+final authority, for dealing with all issues that may arise in relation
+to the reorganisation and insolvency resolution of corporate
+persons. Insofar as insolvency resolution of corporate debtors and
+personal guarantors are concerned, any order passed by the NCLT
+is appealable to Nclat under Section 61 of the IBC, 2016 and the
+orders of the Nclat are amenable to the appellate jurisdiction of this
+Court under Section 62. It is in this context that the action of the
+State of Karnataka in bypassing the remedy of appeal to Nclat and
+the act of the High Court in entertaining the writ petition against the
+order [Vasudevan v. State of Karnataka, 2019 SCC OnLine NCLT
+681] of the NCLT are being questioned.
+42. It was further submitted by the Learned CGSC that Sections 60(5) and
+63 of the IBC confer exclusive jurisdiction on the National Company Law
+Tribunal, in respect of any question of law or fact arising out of or in relation
+to insolvency resolution proceedings and bar the jurisdiction of Civil Courts
+and other fora. It was contended that issues pertaining to the CIRP, the
+Resolution Plan and the functioning of the Resolution Professional, fall within
+the domain of the Adjudicating Authority and cannot be adjudicated by any
+other fora, including an Arbitral Tribunal.
+43. It was further submitted that the IBC provides a complete appellate
+mechanism under Sections 61 and 62, enabling any aggrieved person to prefer
+an appeal before the NCLAT and thereafter before the Hon’ble Supreme
+Court, and therefore, questions arising out of insolvency proceedings are
+required to be addressed only within the statutory framework of the IBC. The
+said provisions are reproduced as under: -
+“61. Appeals and Appellate Authority.—(1) Notwithstanding
+anything to the contrary contained under the Companies Act 2013
+(18 of 2013), any person aggrieved by the order of the Adjudicating
+Authority under this part may prefer an appeal to the National
+Company Law Appellate Tribunal.
+(2) Every appeal under sub-section (1) shall be filed within thirty
+days before the National Company Law Appellate Tribunal:
+Provided that the National Company Law Appellate Tribunal
+may allow an appeal to be filed after the expiry of the said period of
+thirty days if it is satisfied that there was sufficient cause for not
+filing the appeal but such period shall not exceed fifteen days.
+(3) An appeal against an order approving a resolution plan under
+section 31 may be filed on the following grounds, namely:—
+(i) the approved resolution plan is in contravention of the
+provisions of any law for the time being in force;
+(ii) there has been material irregularity in exercise of the
+powers by the resolution professional during the corporate
+insolvency resolution period;
+(iii) the debts owed to operational creditors of the corporate
+debtor have not been provided for in the resolution plan in the
+manner specified by the Board;
+(iv) the insolvency resolution process costs have not been
+provided for repayment in priority to all other debts; or
+(v) the resolution plan does not comply with any other criteria
+specified by the Board.
+(4) An appeal against a liquidation order passed under section 33
+may be filed on grounds of material irregularity or fraud committed
+in relation to such a liquidation order.
+62. Appeal to Supreme Court.—(1) Any person aggrieved by an
+order of the National Company Law Appellate Tribunal may file an
+appeal to the Supreme Court on a question of law arising out of
+such order under this Code within forty-five days from the date of
+receipt of such order. (2) The Supreme Court may, if it is satisfied
+that a person was prevented by sufficient cause from filing an
+appeal within forty-five days, allow the appeal to be filed within a
+further period not exceeding fifteen days.”
+44. Learned CGSC further placed reliance on the judgment of the Hon’ble
+Supreme Court in Committee of Creditors of Essar Steel India Limited
+(supra) to submit that a successful resolution applicant cannot be faced with
+undecided claims after approval of the Resolution Plan, as that would amount
+to a hydra head popping up and the same would defeat the objective of the
+IBC. It was submitted that all claims were required to be submitted to and
+dealt with during the CIRP so that the resolution applicant was made aware of
+the exact liabilities at the time of taking over the corporate debtor.
+45. Learned CGSC placed reliance on the order dated 23.06.2020 in
+Company Appeal (AT)(Insolvency) No. 319/2020 passed by the learned
+NCLAT in State of Haryana v. Uttam Strips Ltd. and Ors., while dealing
+with issue of raising belated claims by the creditors of the corporate debtor
+after the implementation of the Resolution Plan. It was submitted that a
+successful resolution applicant cannot be saddled with past liabilities beyond
+what is provided in the approved Resolution Plan.
+46. It was submitted by the learned CGSC that once a claim has been
+considered during the CIRP and provided for in the Resolution Plan, which
+has been approved by the Adjudicating Authority, such creditor cannot
+thereafter seek to recover any amount from the resolution applicant and any
+grievance against the Resolution Plan is required to be raised before the
+NCLAT in accordance with the statutory remedies under the IBC.
+47. It was submitted that in view of the binding nature of the approved
+Resolution Plan under Section 31 read with Section 238 of the IBC, and the
+exclusive jurisdiction vested in the Adjudicating Authority, any adjudication
+by an Arbitral Tribunal on issues arising out of or relating to the CIRP, the
+Resolution Plan or claims dealt with therein, would be without jurisdiction
+and hence the impugned order is liable to be set aside.
+SUBMISSIONS ON BEHALF OF RESPONDENT NO. 2
+48. Learned counsel appearing on behalf of Respondent No. 2 submitted
+that the remedy under Articles 226 and 227 of the Constitution of India, is not
+available to the Petitioner in the present case, since an alternate and more
+efficacious remedy is presently available under the Arbitration Act.
+49. It was further submitted by the learned counsel that the law is well
+settled that if a statute provides an alternate remedy, which is equally
+efficacious, a Writ should ordinarily not be entertained. In support of the said
+proposition, reliance was placed on the judgment of the Hon’ble Supreme
+Court in Seth Chand Ratan v. Pandit Durga Prasad32. The relevant portion
+of the judgment is reproduced as under: -
+“13. Even otherwise, the view taken by the Division Bench of the
+High Court for repelling the objection of the appellant regarding the
+maintainability of the writ petition that an alternative remedy does
+not divest the High Court of its powers to entertain petitions under
+Articles 226 and 227 of the Constitution, has hardly any application
+on the facts of the present case. It has been settled by a long catena
+32 (2003) 5 SCC 399
+of decisions that when a right or liability is created by a statute,
+which itself prescribes the remedy or procedure for enforcing the
+right or liability, resort must be had to that particular statutory
+remedy before seeking the discretionary remedy under Article 226
+of the Constitution. This rule of exhaustion of statutory remedies is
+no doubt a rule of policy, convenience and discretion and the court
+may in exceptional cases issue a discretionary writ of certiorari.
+Where there is complete lack of jurisdiction for the officer or
+authority or tribunal to take action or there has been a contravention
+of fundamental rights or there has been a violation of rules of
+natural justice or where the Tribunal acted under a provision of law,
+which is ultra vires, then notwithstanding the existence of an
+alternative remedy, the High Court can exercise its jurisdiction to
+grant relief. In the present case, the alternative remedy of
+challenging the judgment of the court was not before some other
+forum or tribunal. On the contrary, by virtue of sub-section (3) of
+Section 27 of the Act, the order passed by the court amounted to a
+decree against which an appeal lay to the High Court. When the
+party had statutory remedy of assailing the order passed by the
+District Court by filing an appeal to the High Court itself, he could
+not bypass the said remedy and take recourse to proceedings under
+Articles 226 and 227 of the Constitution. Such a course of action
+may enable a litigant to defeat the provisions of the statute which
+may provide for certain conditions for filing the appeal, like
+limitation, payment of court fee or deposit of some amount or
+fulfilment of some other conditions for entertaining the appeal.
+50. It was contended by the learned counsel for Respondent No. 2 that the
+Arbitration Act provides for a remedy to the Petitioner under Section 34, and
+a challenge under the said provision can be raised once the Petitioner
+ultimately suffers from an award. The Court exercising powers under Section
+34 of the Act is adequately empowered to do complete justice between the
+parties, and therefore, interference under Article 226 of the Constitution of
+India is not warranted by this Court.
+51. It was further submitted that the Hon’ble Supreme Court in Lalitkumar
+V. Sanghavi v. Dharamdas V. Sanghavi33, had held that the question as to
+whether or not the mandate of the Arbitrator stands terminated under Section
+12(2)(c) of the Arbitration Act, can be examined by the Court only under
+Sections 14(2) of the Arbitration Act. Relevant portion of the judgment reads
+as under: -
+“12. On the facts of the present case, the applicability of clauses (a)
+and (b) of Section 32(2) is clearly ruled out and we are of the
+opinion that the order dated 29-10-2007 by which the Tribunal
+terminated the arbitral proceedings could only fall within the scope
+of Section 32, sub-section (2), clause (c) i.e. the continuation of the
+proceedings has become impossible. By virtue of Section 32(3), on
+the termination of the arbitral proceedings, the mandate of the
+Arbitral Tribunal also comes to an end. Having regard to the
+scheme of the Act and more particularly on a cumulative reading of
+Section 32 and Section 14, the question whether the mandate of the
+arbitrator stood legally terminated or not can be examined by the
+court “as provided under Section 14(2)”.”
+52. Reliance was placed on the judgment of the Hon’ble Supreme Court in
+Bhaven Construction v. Sardar Sarovar Narmada Nigam Ltd.,34. It was
+submitted that in view of the remedy enshrined in both Section 34 and Section
+14 of the Arbitration Act, the present petition is not warranted and is liable to
+be dismissed. Relevant portion of the said judgment reads as under: -
+“18. In any case, the hierarchy in our legal framework, mandates
+that a legislative enactment cannot curtail a constitutional right.
+In Nivedita Sharma v. COAI [Nivedita Sharma v. COAI, (2011) 14
+SCC 337 : (2012) 4 SCC (Civ) 947] , this Court referred to several
+judgments and held : (SCC p. 343, para 11)
+“11. We have considered the respective
+arguments/submissions. There cannot be any dispute that the power
+33 (2014) 7 SCC 255
+34(2022) 1 SCC 75
+of the High Courts to issue directions, orders or writs including
+writs in the nature of habeas corpus, certiorari, mandamus, quo
+warranto and prohibition under Article 226 of the Constitution is a
+basic feature of the Constitution and cannot be curtailed by
+parliamentary legislation — L. Chandra Kumar v. Union of
+India [L. Chandra Kumar v. Union of India, (1997) 3 SCC 261 :
+1997 SCC (L&S) 577] . However, it is one thing to say that in
+exercise of the power vested in it under Article 226 of the
+Constitution, the High Court can entertain a writ petition against
+any order passed by or action taken by the State and/or its
+agency/instrumentality or any public authority or order passed by a
+quasi-judicial body/authority, and it is an altogether different thing
+to say that each and every petition filed under Article 226 of the
+Constitution must be entertained by the High Court as a matter of
+course ignoring the fact that the aggrieved person has an effective
+alternative remedy. Rather, it is settled law that when a statutory
+forum is created by law for redressal of grievances, a writ petition
+should not be entertained ignoring the statutory dispensation.”
+(emphasis supplied)
+It is therefore, prudent for a Judge to not exercise discretion to
+allow judicial interference beyond the procedure established under
+the enactment. This power needs to be exercised in exceptional
+rarity, wherein one party is left remediless under the statute or a
+clear “bad faith” shown by one of the parties. This high standard set
+by this Court is in terms of the legislative intention to make the
+arbitration fair and efficient.
+*** *** ***
+21. Viewed from a different perspective, the arbitral process is
+strictly conditioned upon time limitation and modelled on the
+“principle of unbreakability”. This Court in P. Radha Bai v. P.
+Ashok Kumar [P. Radha Bai v. P. Ashok Kumar, (2019) 13 SCC
+445 : (2018) 5 SCC (Civ) 773] , observed : (SCC p. 459, paras 36-
+37)
+“36.3. Third, Section 34(3) reflects the principle of
+unbreakability. Dr Peter Binder in International Commercial
+Arbitration and Conciliation in Uncitral Model Law Jurisdictions,
+2nd Edn., observed:
+‘An application for setting aside an award can only be made
+during the three months following the date on which the party
+making the application has received the award. Only if a
+party has made a request for correction or interpretation of
+the award under Article 33 does the time-limit of three
+months begin after the tribunal has disposed of the request.
+This exception from the three month time-limit was subject to
+criticism in the working group due to fears that it could be
+used as a delaying tactics. However, although “an
+unbreakable time-limit for applications for setting aside” was
+sought as being desirable for the sake of “certainty and
+expediency” the prevailing view was that the words ought to
+be retained “since they presented the reasonable consequence
+of Article 33.’
+According to this “unbreakability” of time-limit and true to
+the “certainty and expediency” of the arbitral awards, any grounds
+for setting aside the award that emerge after the three month timelimit has expired cannot be raised.
+37. Extending Section 17 of the Limitation Act would go
+contrary to the principle of “unbreakability” enshrined under
+Section 34(3) of the Arbitration Act.”
+(emphasis in original)
+If the courts are allowed to interfere with the arbitral process
+beyond the ambit of the enactment, then the efficiency of the
+process will be diminished.”
+53. It was further submitted that a Writ Court cannot interfere in an
+Arbitral proceeding, as a matter of course, and that Writ jurisdiction may be
+invoked only in the event an Arbitral Tribunal acts in gross excess of its
+jurisdiction. It was further submitted that the said threshold is not met in the
+present factual circumstances.
+54. Reliance was placed on the order dated 18.09.2020 in SLP (C) No.
+8482/2020 passed in Punjab State Power Corporation Limited (supra). It
+was further submitted that the impugned order does not disclose any patent
+lack of jurisdiction and the application on which the impugned order came to
+be passed, did not allege that the Arbitral Tribunal lacked jurisdiction. It was
+further contended that the plea raised before the learned Arbitral Tribunal was
+merely that the Arbitral proceedings had become unnecessary on account of
+subsequent events, and therefore, even on the Petitioner’s own showing, the
+case was never one of lack of jurisdiction.
+55. It was submitted that the petitioner had submitted to the jurisdiction of
+the learned Arbitral Tribunal on two occasions. First, during the proceedings
+under Section 29A of the Arbitration Act, as no plea as to lack of jurisdiction
+was raised by the Petitioner, despite the Resolution Plan being in force.
+Second, the application itself, filed under Section 16 and Section 32 of the
+Arbitration Act, was in substance merely an application under Section 32 of
+the Arbitration Act.
+56. It was further submitted that a detailed order had been passed by the
+learned Arbitral Tribunal after considering all relevant facts and
+circumstances, and therefore, no ex-facie conclusion can be drawn with regard
+to any alleged lack of jurisdiction. Without prejudice to the above, it was
+submitted that even if the impugned order is assumed to be incorrect, the
+same would, at best, amount to an incorrect exercise of jurisdiction and not a
+case of inherent lack of jurisdiction.
+57. It was further submitted that the “clean slate doctrine” applies in cases
+where claims are admitted or rejected, and in cases where claims are not filed.
+The said doctrine would not apply where a claim is preferred, but is kept
+artificially contingent. Therefore, it was submitted that the present case is not
+covered by the clean slate doctrine as expounded in by the Hon’ble Supreme
+Court in Committee of Creditors of Essar Steel (supra).
+58. It was contended that it is an admitted position that the claim of
+Respondent No. 2 was never accepted and was classified as a “contingent
+liability”. It was submitted that as a result, Respondent No. 2 was effectively
+excluded from the CIRP process and, therefore, the approved Resolution Plan
+cannot be made binding upon Respondent No. 2.
+59. It was further submitted by the learned counsel that a Resolution Plan
+cannot create a legal fiction, contrary to the Information Memorandum. It was
+contended that since the IRP treated Respondent No. 2 as a contingent
+creditor, the Resolution Plan could not thereafter treat Respondent No. 2 as an
+operational creditor and reduce its claim to nil.
+60. It was further submitted that under Sections 3(10) and 3(11) of the IBC,
+a contingent liability does not constitute a “debt” and, therefore, a contingent
+creditor is no creditor in the eyes of law, and consequently, the rigor of
+Section 31 of the IBC does not apply in the present case. The said provisions
+are reproduced as under: -
+“3. Definitions.—In this Code, unless the context otherwise
+requires,—
+…(10) “creditor” means any person to whom a debt is owed
+and includes a financial creditor, an operational creditor, a secured
+creditor, an unsecured creditor and a decree-holder;
+(11) “debt” means a liability or obligation in respect of a
+claim which is due from any person and includes a financial debt
+and operational debt;”
+61. It was submitted that under Regulation 37(f) of the Regulations, 2016, a
+Resolution Plan may provide for a “reduction in the amount payable to the
+creditors”, and therefore, it implies that a Resolution Plan can deal only with
+crystalized liabilities of creditors. The said provision is reproduced as under: -
+“Regulation 37: Resolution plan.
+[37. A resolution plan shall provide for the measures, as may be
+necessary, for insolvency resolution of the corporate debtor for
+maximization of value of its assets, including but not limited to the
+following:-
+…(f) reduction in the amount payable to the creditors;”
+62. Learned counsel for Respondent No. 2 further placed reliance upon
+Clause (iv) and Clause 6.1.2 of the Resolution Plan to contend that the
+Resolution Plan itself contemplates settlement of claims of operational
+creditors based on the amounts admitted and due as on the Closing Date. The
+said clauses are reproduced as under: -
+“(iv) Operational Creditors Settlement Amount to Operational
+Creditor (other than employees and workmen) - 50% of the amount
+admitted and due to them as on the Closing Date, subject to a
+maximum aggregate amount of< 50 crore, to be paid within a
+period of 2 (two) months from the Closing Date.
+*** *** ***
+6.1.2. The total Outstanding Operational Debt of the Company
+(excluding claims of workmen and employees) admitted towards its
+Operational Creditors, as of August 30, 2018, is < 98, 12, 15,611
+(Indian Rupees Ninety Eight Crore Twelve Lakh Fifteen Thousand
+Six Hundred and Eleven only) and details of the same are set out in
+Annexure 8 of this Plan.”
+63. Attention of this Court was drawn to the List of Creditors (pursuant to
+claims received and updated as on 13.09.2018), wherein the name of
+Respondent No. 2 finds mention at Serial No. 3. It was further noted that a
+corresponding remark had been recorded against the said entry, categorizing
+the claim of Respondent No. 2 as contingent. The said list is reproduced as
+under: -
+64. Reliance was placed on the judgment of the Hon’ble Supreme Court in
+Jaypee Kensington Boulevard Apartments Welfare Assn. v. NBCC (India)
+Ltd.
+35, and it was submitted that the position in relation to claims that are
+pending crystallization, owing to an ongoing litigation, are covered by the
+said judgment. The relevant portion of the judgment is as under: -
+“145. Apart from the aforesaid, the reliefs and concessions as
+sought for by the resolution applicant in relation to YEIDA in
+Clauses 4, 14 and 27 of Schedule 3 are also required to be
+disapproved. We are unable to countenance the proposition that by
+way of a resolution plan, it could be enjoined upon an agency of the
+Government like YEIDA to give up or withdraw from a pending
+litigation. Similarly, extinguishment of existing liability
+qua YEIDA is not a relief that could be given to the resolution
+35 (2022) 1 SCC 401
+applicant for askance. For the same reason, the resolution applicant
+cannot seek extension of time period of the concession agreement
+by way of a clause of “relief” in the resolution plan without the
+consent of a governmental body like YEIDA.”
+65. Learned counsel for Respondent No. 2 relied on the order dated
+24.03.2023 in Civil Appeal No. 1741/2023 passed by the Hon’ble Supreme
+Court in Adani Power Limited v. Shapoorji Pallonji And Co. Pvt. Ltd. &
+Ors.36 and submitted that even where a claim is categorized as a contingent
+liability in the resolution process, Arbitral proceedings may continue for
+adjudication and quantification of such claim. The relevant portion of the said
+judgment reads as under: -
+“2. In our opinion, there is no ambiguity in the above
+observations and directions recorded by the NCLAT, as they reflect
+that the Resolution Plan, as approved, is binding on all and cannot
+be made subject matter of arbitration or any other proceedings. The
+claim of respondent no. 1 - Shapoorji Pallonji and Co. Pvt. Ltd. has
+been categorized by the Resolution Professional as a ‘contingent
+liability’. Respondent no. 1 - -Shapoorji Pallonji and Co. Pvt. Ltd.
+may continue with the arbitration proceedings for adjudication of
+its claim and quantification thereof, if they so wish and choose to
+do so.
+3. However, the claim even if allowed in favour of M/s
+Shapoorji Pallonji and Co. Pvt. Ltd. will have no bearing on the
+rights and obligations of the appellant - M/s. Adani Power Limited,
+which are in terms of the Resolution Plan. It has been held by the
+judgment dated 23.02.2023, that the appellant cannot be saddled
+with any liability except what is mentioned in the Resolution Plan.
+4. Recording the aforesaid, the appeal is dismissed on the
+ground that the appellant has no grievance.”
+66. It was submitted that Arbitration proceedings in respect of disputed or
+36 2023 SCC OnLine SC 2377
+contingent claims may continue, notwithstanding the approval of a Resolution
+Plan, for the purposes of adjudication and quantification thereof, and in
+support of the said submission, reliance was placed on the order dated
+21.01.2022 passed by the Hon’ble Supreme Court in Fourth Dimension
+Solutions Ltd. v. Ricoh India Ltd. & Ors37
+., in Civil Appeal No. 5908 of
+2021. The relevant portion of the said order reads as under: -
+“2. …During the hearing of the stated appeal, it was brought to
+the notice of the Court that the appellant had preferred some appeal
+before the National Company Law Appellate Tribunal (in short
+"NCLAT") and it was still pending at the relevant time. This Court,
+in paragraph 160 of the judgment, therefore, directed that the said
+appeal shall proceed on merits. Pursuant to that liberty, the
+concerned appeal has now been decided by the NCLAT vide
+impugned judgment.
+3. In our opinion, it was sufficient for the NCLAT to dispose of
+the appeal before it by restating the factual position noted while
+considering the Plan submitted for approval before the Committee
+of Creditors. In paragraph 48 of the impugned judgment, the
+NCLAT has noted thus:
+"... The name of the Appellant was mentioned in the list of
+Operational Creditors. On 29.11.2018 the RP published updated list of
+Creditors of the Corporate Debtor, wherein the admitted claims of the
+Appellant was indicated as 'Nil' with an appended note: "2. The claims
+pertaining to FDSL have been disputed and are proceedings before the
+Arbitrators/Appellate Authorities. The liability is subjected to outcome of
+these proceedings".
+4. In light of this factual position, in our opinion, the appeal
+needs to be disposed of by restating the said fact with liberty to the
+parties to pursue all contentions available to them in the
+proceedings pending at the relevant time, if any.
+5. It is stated that some arbitration proceedings were pending
+between the parties. If so, all contentions available to both sides be
+372022 SCC OnLine SC 2379
+decided in the said proceedings on its own merits in accordance
+with law.”
+67. In order to support the aforesaid submissions, learned counsel further
+placed reliance upon the following judgments:
+i. Fourth Dimension Solutions Ltd. v. Ricoh India Ltd. & Ors.38;
+ii. Indian Oil Corporation Ltd. v. Arcelor Mittal Nippon Steel India
+Limited39;
+iii. Indian Oil Corporation Limited v. Arcelor Mittal Nippon Steel India
+Limited40;
+iv. Hindustan Petroleum Corporation Limited v. Om Construction &
+Ors.41;
+v. PME Power Solutions (India) Ltd. v. Airen Metals Pvt. Ltd.42;
+vi. Siddhast Intellectual Property Innovations Pvt Ltd vs Controller
+General of Patents, Designs and Trademarks43;
+vii. Easy Trip Planners Ltd. v. One 97 Communications Ltd.44;
+viii. Ambience Projects & Infrastructure Pvt. Ltd. vs Neeraj Bindal45;
+ix. Binani Industries Limited v. Bank of Baroda, Order dated 14.11.2018
+in Company Appeal (AT) (Insolvency) No. 82 of 2018.
+REJOINER SUBMISSIONS ON BEHALF OF THE PETITIONER
+68. At the outset, learned Senior Counsel for the Petitioner submitted that
+the averments made by Respondent No. 2 in its Counter Affidavit are
+misconceived, misleading and liable to be rejected.
+69. Learned Senior Counsel submitted that the present petition is
+38 2021 SCC OnLine NCLAT 2142
+39 (2024) ibclaw.in 57 SC
+40 2023:DHC:7365
+41 2023 SCC OnLine Bom 2219
+42 (2024) ibclaw.in 1348 HC
+43 2022 SCC OnLine Del 2556
+44 2022 SCC OnLine Del 2186
+45 2021 SCC OnLine Del 4023
+maintainable, and the impugned order passed by the learned Arbitral Tribunal
+suffers from patent lack of inherent jurisdiction. It was further contended that
+the learned Arbitral Tribunal had ventured into a domain expressly barred by
+Sections 63 and 231 of the IBC, and had rendered findings contrary to the
+binding effect of an approved Resolution Plan under Section 31(1) of the IBC.
+70. It was further submitted by the learned Senior Counsel that the
+approved Resolution Plan constitutes a final and binding document governing
+all rights and liabilities of the Petitioner for the period prior to its approval.
+Any claim, whether admitted, disputed contingent or sub-judice, stands
+extinguished, abated and withdrawn, except to the extent expressly provided
+for in the Resolution Plan.
+71. It was further submitted that the Claim of Respondent No. 2 was duly
+categorized as a “contingent liability” and the Resolution Applicant expressly
+dealt with the same in the approved Resolution Plan. It was submitted that the
+contention of Respondent No. 2 that the claim was excluded from the CIRP
+was factually incorrect and contrary to the record.
+72. Learned Senior Counsel further contended that mere categorization of a
+claim as contingent does not take it outside the purview of the Resolution
+Plan, and once the Resolution Plan is approved by the Adjudicating
+Authority, the treatment accorded to such claim becomes final and binding,
+and the same cannot be re-agitated before any other fora, including an
+Arbitral Tribunal.
+73. It was submitted that the continuation of the Arbitral proceedings is
+legally impermissible, as the claims as sought therein stand extinguished by
+the approved Resolution Plan. It was further submitted that if the impugned
+order is not set aside, then the same shall render the entire IBC regime otiose
+and mere a paper legislation.
+74. Learned Senior Counsel further reiterated that the IBC mandates that a
+successful resolution applicant takes over the corporate debtor on a “clean
+slate” and permitting Respondent No. 2 to continue Arbitration, would saddle
+the Petitioner with additional liabilities.
+75. It was further submitted that any grievance regarding the conduct of the
+RP or the treatment of claims under the Resolution Plan could only have been
+raised before the statutory fora under the IBC. It was submitted that the
+learned Arbitral Tribunal lacked jurisdiction to adjudicate the matter touching
+upon the CIRP, the Resolution Plan or its binding effects.
+ANALYSIS AND FINDINGS
+76. While passing the impugned order, the learned Arbitral Tribunal after
+examining the contentions of both the parties, held that the claim of the
+Respondent No. 2 was kept as “contingent” by the IRP in terms of the
+Resolution Plan, therefore, the same did not form part of the Information
+Memorandum in terms of the Section 29 of the IBC. It was further held that
+since the claim was not crystalized, the Arbitral proceedings would continue.
+The observations of the learned Arbitral Tribunal are as under: -
+“18. Mr. Datta, Ld. Counsel for the Claimant submitted that the RP
+having classified the Claimant as a Contingent Creditor. the RP has
+in effect denied the status of creditor to the Claimant. Mr.
+Bhatnagar, Ld. Sr. Counsel for the Respondent submitted that the
+determination of the RP is immaterial, and the Claimant is indeed a
+Creditor, irrespective of what the RP may say. The submission of
+Mr. Bhatnagar cannot be accepted. The RP, under Regulation
+13,14 and 15 of the IBBI (Corporate Insolvency Resolution
+Process) Regulations, 2016 is obligated to verify the claims
+submitted by individuals and affording them the status of
+Creditor, if he deems fit. Those claims are then as per
+Regulation 36 made part and parcel of the information
+memorandum which is in effect all the data pertaining to the
+Corporate Debtor (the Respondent in the present case). Finally,
+a Resolution Plan submitted is governed by Section 30(1) of the
+IBC. Section 30(1) makes it clear that a Resolution Plan is to be
+prepared on the basis of the information memorandum.
+19. Reading together the provisions as stated above, it is clear
+that a Resolution Plan cannot be submitted contrary to the
+Information Memorandum. The Information Memorandum is
+based on the RPs decision on verification of claims. In the
+present case, since the RP did not verify the claim of the
+Claimant and merely treated the Claimant as a Contingent
+Creditor, the Claimant could not have been a part of the
+Information Memorandum (as a creditor). Therefore, a
+Resolution Plan based on the very same information
+memorandum could not treat the Claimant as anything but a
+Contingent Creditor, and a Contingent Creditor not being a
+creditor at all, the plan cannot bind the Claimant.
+20. A Creditor is defined in the IBC as "any person to whom a
+debt is owed". A debt is defined as a liability or obligation in
+respect of a claim that is due. On a conjoint reading of the two
+definitions, it is apparent that a creditor is any person to whom
+the Corporate Debtor owes money. A Contingent Creditor is a
+creditor to whom money could be due and payable on the
+occurrence of a certain event. Therefore, till the occurrence of
+that event a contingent creditor, is under the IBC, not
+recognized as a creditor.
+21. In view of the Claimant having not been classified as an
+Operational Creditor, Financial Creditor or a Creditor, the
+Claimant has been denied the opportunity of being a part of or
+consideration in the CIRP on account of the present pending
+arbitrations between the parties and on the premise that the
+claims of ISGEC are disputed and are non-crystallized. ln the
+opinion of the Tribunal. the Resolution Plan and entire process
+cannot be made binding on the Claimant as the Claimant is not
+part of the CIRP.
+22. Under Regulation 37 (f) of the CIRP Regulations a Resolution
+Plan may cause "reduction in the amount if payable to the
+creditors." This also implies that a Resolution Plan can only deal
+with crystallized liabilities of creditors. Alternatively, the RP could
+have considered the claim of the Claimant and reduced the amount
+of claim. But the RP has simply not considered the claim of the
+Claimant.
+23. It is basic to the civil law and jurisprudence that wherever there
+is a right, there is a remedy. A wrong done has to be vindicated by
+resort to appropriate legal proceedings. A legitimate right claimed
+and asserted by a person cannot be refused to be adjudicated upon
+and cannot just be buried except by a valid and express provisions
+of law.
+*** *** ***
+25. We have exan1ined the scheme of IBC and have taken into
+consideration all the relevant provisions of IBC in addition to those
+to which our attention was specifically invited. There is no
+provision in the IBC which can support the proposition that in
+spite of a creditor having applied to the RP and the RP having
+refused to consider the claim of the creditor yet it would stand
+wiped out in spite of the fact that the creditor had invoked the
+jurisdiction of appropriate civil forum (arbitral Tribunal), in
+the present matter and his claim would not be permitted to be
+crystallized as per law and would simply stand nullified.
+*** *** ***
+29. Mr. Datta, Ld. Counsel for the Claimant submitted that the
+Resolution Plan only binds creditors and stakeholders. In the
+present matter, it is an admitted fact that the claim of the Claimant
+was disputed by Respondent and never admitted. Therefore, there
+can be no question of the Resolution Plan being binding upon the
+Claimant.
+30. On behalf of the Respondent, Mr. A nil Bhatnagar, Ld. Sr.
+Counsel placed reliance on the judgment of the Supreme Court in
+Committee of Creditors of Essar Steel India Ltd. v. Satish Kumar
+Gupta, 2019 SCC Online SC 1478. Their Lordships have rejected
+the contention that claims may exist apart from those decided on
+merits by the Resolution Professional and can be decided by an
+appropriate forum as such contention militates against the rationale
+of Section 31 of the IBC. However, their Lordships have further
+held - 'all claims must be submitted to and decided by the
+Resolution Professional'. The case before the Supreme Court was
+of the members of the Promoter Group, who were guarantors and
+were not parties to the Resolution Plan. The contention was that the
+Resolution Plan cannot bind them to take away rights of
+subrogation which they may have if they were ordered to pay
+amounts guaranteed by them in the pending legal proceedings. Mr.
+K. Dutta Ld. Counsel for the Claimant submitted that the
+observations made in the case of Essar Steel (Supra) pertains to the
+claims by creditors which are admitted, collated and verified by the
+RP. Those observations would not cover a case like the present one
+where the RP of the Respondent failed to admit the claim of the
+Claimant though the Claimant was ready and willing to substantiate
+its claim.
+31. In the case before us, the Claimant did approach the RP but the
+RP did not adjudicate the claim and treated it as contingent
+obviously in view of the fact that the present arbitral proceedings
+were pending.
+32. For all the forgoing reasons, we are of the opinion that the
+Application filed by the Respondent is devoid of merit. It is liable
+to be rejected and is rejected, accordingly. This Order shall govern
+the two arbitral disputes pending before this arbitral Tribunal
+between the parties, hereat. One copy each of this Order shall be
+placed on record of both the matters.”
+(emphasis supplied)
+77. Before this Court proceeds further, it would be apposite to refer to the
+judgment of the Hon’ble Supreme Court in Electrosteel Steel Limited
+(supra), since the factual matrix therein is similar to the present case. The
+relevant facts of the said judgment are as under: -
+i. The Hon’ble Supreme Court dealt with a dispute arising out of claims
+preferred by the Respondent therein, before the West Bengal Micro,
+Small and Medium Facilitation Council under the provisions of Micro,
+Small and Medium Enterprises Development Act, 2006 (hereinafter
+referred to as the “MSME Act”).
+ii. The Respondent therein had supplied telescopic and truck mounted
+cranes, crawler cranes, etc to the Appellant therein, on a hire basis
+pursuant to purchase orders dated 02.06.2011 and 06.06.2011.
+iii. The Respondent therein alleged non-payment of the amounts due under
+the invoices raised and subsequently, the Respondent preferred two
+claim petitions bearing Case No. 330/2014 and Case No. 331/2024
+respectively.
+iv. As per the requirement of the MSME Act, conciliation proceedings
+were initiated, but were failed. Subsequent thereto, arbitration
+proceedings between the parties commenced on 07.06.2017.
+v. During the pendency of the said Arbitral proceedings, financial
+creditors of the Appellant initiated proceedings under Section 7 of the
+IBC before the learned National Company Law Tribunal, Kolkata
+Bench, and the same was registered as C.P. (IB) No. 361/KB/2017.
+Vide order dated 21.07.2017, the learned National Company Law
+Tribunal imposed a moratorium under Section 14 of the IBC and
+appointed an Interim Resolution Professional. Pursuant thereto, a
+public announcement dated 24.07.2017 was issued by the Interim
+Resolution Professional, calling upon all creditors to submit their
+claims. In view of the moratorium, the Arbitral proceedings before the
+Facilitation Council were kept in abeyance. Subsequent thereto, the
+Respondent submitted its claim before the Resolution Professional,
+which was partly admitted.
+vi. On 29.03.2018, a Resolution Plan was submitted by Vedanta Limited,
+and the same was placed before the Committee of Creditors, and
+ultimately got approved by the learned National Company Law
+Tribunal, vide order dated 17.04.2018, under Section 31 of the IBC. In
+terms of the said approved Resolution Plan, the claims of operational
+creditors were settled at nil value and the claim of the Respondent,
+however, was not provided for in the resolution plan.
+vii. The said order dated 17.04.2018, was challenged before the learned
+National Company Law Tribunal, New Delhi (hereinafter referred to as
+the NCLAT) in Company Appeal (AT) (Insolvency) No. 175/2018, by
+some of the operational creditors and the same was dismissed by the
+learned NCLAT vide order dated 10.08.2018.
+viii. Subsequently, other creditors also approached the learned NCLAT in
+Company Appeal (AT) (Insolvency) No. 265/2018 and in analogous
+appeals, on grounds that in the Resolution Plan, the Resolution
+Applicant had not taken proper care of the operational creditors. The
+said appeals were also dismissed by the learned NCLAT vide order
+dated 20.08.2018. The said matter was then carried forward to the
+Hon’ble Supreme Court in Civil Appeal No. 1133/2019; however, the
+said appeal was dismissed by the Hon’ble Supreme Court vide order
+dated 27.11.2019.
+ix. Upon lifting of the moratorium, the Facilitation Council resumed the
+Arbitral proceedings and the Appellant, did not participate in the said
+proceedings. An Arbitral award dated 06.07.2018 came to be passed by
+the Facilitation Council, directing the Appellant to pay a sum of INR
+1,59,09,214.00/-, along with interest to the Respondent, in terms of
+Section 16 of the MSME Act. The said Award was not challenged by
+the appellant.
+x. Subsequent thereto, the Respondent instituted execution proceedings,
+which was initially registered as Execution Case No. 77/2018 and
+thereafter, as Commercial Execution Case No. 21/2022 before the
+Executing Court. During the pendency of the said execution
+proceedings, the Appellant preferred a petition dated 14.05.2019,
+contending that the Arbitral Award was a nullity, and hence, not
+executable as the claim of the Respondent was already settled at nil as
+per the Resolution Plan, and therefore, no sum was payable to the
+Respondent.
+xi. The said petition was dismissed by the Executing Court, vide order
+dated 03.03.2023 and directed the Appellant to comply with the Award
+dated 06.07.2018, within a period of 15 days. The said order was
+challenged before the Hon’ble High Court, under Article 227 of the
+Constitution of India, 1950. The Hon’ble High Court had framed the
+following questions for consideration:
+a. The arbitral award having not been challenged under
+Section 34 of the Act of 1996, whether the objection to
+execution of the arbitral award referrable to Section 47 of
+the Civil Procedure Code, 1908 (CPC) was maintainable
+by alleging that the arbitral award itself was a nullity and
+hence non-executable?
+b. Whether the arbitral award in the present case could be
+assailed as a nullity and hence non-executable within the
+permissible grounds of raising such a plea?
+c. Irrespective of maintainability of the objection to the
+arbitral award under Section 47 of the CPC, whether on
+facts, the Facilitation Council lost its jurisdiction to
+proceed and pronounce the arbitral award in view of the
+insolvency resolution plan of the petitioner which was
+duly approved under Section 31 of the IBC?
+xii. Insofar as the first question was concerned, the Hon’ble High Court
+was of the opinion that the plea of nullity qua an Arbitral Award can be
+raised in an execution proceeding under Section 47 of the Code of Civil
+Procedure. However, the scope of interference would be very narrow.
+As regards to the second question, the Hon’ble High Court rejected the
+contention of the Appellant that that since the award suffered from
+patent or inherent lack of jurisdiction and therefore was a nullity, it can
+be questioned at the stage of execution without challenging the award
+under Section 34 of the Arbitration Act.
+xiii. The Hon’ble High Court answered the third question by holding that
+the Facilitation Council did not lose its jurisdiction to proceed with and
+pronounce the Arbitral Award, notwithstanding the approval of the
+resolution plan by the National Company Law Tribunal under Section
+31 of the IBC. The Hon’ble High Court reasoned that the Arbitral
+proceedings had been initiated prior to the commencement of the
+insolvency resolution process, and were kept in abeyance during the
+period of moratorium, and were resumed after the lifting of the
+moratorium. It was further observed that the approved resolution plan
+merely determined the claim of the Respondent at nil value and did not,
+by itself, render the arbitral proceedings without jurisdiction.
+Accordingly, the Hon’ble High Court had dismissed the petition filed
+by the Appellant and hence, the appeal was preferred before the
+Hon’ble Supreme Court.
+77.1. The relevant submissions on behalf of the parties, made before the
+Hon’ble Supreme Court, for the purposes of the present petition are as under:-
+“22. Learned senior counsel for the appellant submits that the High
+Court had erroneously held that the resolution plan did not
+determine the claim of the respondent at nil and, therefore, the
+Facilitation Council had the jurisdiction to decide on the claim of
+the respondent.
+22.1. He submits that the High Court had misread and
+misinterpreted the resolution plan which would be evident from a
+perusal of the relevant paragraphs of the resolution plan.
+Respondent had submitted its claim as an operational creditor to the
+resolution professional. Such claim was the same claim which
+formed the subject matter of the proceedings before the Facilitation
+Council. Resolution applicant had submitted a resolution plan in
+respect of the appellant (corporate debtor) in accordance with the
+provisions of Section 30 of the IBC to enable the appellant to
+continue as a going concern. A reading of the relevant paragraphs
+of the resolution plan i.e. paragraphs 3.2(v), 3.4(ii) and 3.8(i) would
+indicate that the claims of the operational creditors including the
+debt of the respondent were settled at nil and, therefore, they were
+not entitled to any payment.
+*** *** ***
+22.3. Learned senior counsel submits that on 17.04.2018 when the
+NCLT had approved the resolution plan, claims of the operational
+creditors were settled at nil. This became binding on the respondent
+and all other authorities as per Section 31(1) of the IBC. In this
+connection, learned senior counsel has referred to and relied upon
+the decision of this Court in Ajay Kumar Radheshyam Goenka Vs.
+Tourism Finance Corporation of India Ltd.1
+ In the said decision,
+this Court had made it abundantly clear that the creditor has no
+option but to join the process under the IBC. Once the plan is
+approved, it would bind everyone under the sun. He contended that
+the respondent had submitted its claim before the resolution
+professional but the same was not included in the resolution plan as
+was approved by the committee of creditors and then by the
+adjudicating authority i.e. NCLT which became binding on the
+respondent. Even if the respondent had not submitted its claim
+before the resolution professional, the approved resolution plan
+would still have been binding on the respondent.
+*** *** ***
+23.4. Learned senior counsel for the respondent distinguished the
+case of Ghanshyam Mishra (supra) by contending that the said
+judgment was rendered in a distinguishable factual situation where
+the creditor had failed to lodge its claim upon public announcement
+by the resolution professional. Therefore, this Court held that such
+a creditor cannot file its claim thereafter and such claim gets
+extinguished. This judgment does not deal with claims filed before
+the interim resolution professional or resolution professional and
+not included in the resolution plan. High Court had noticed this fact
+and has rightly observed that since the respondent does not fall in
+the category of operational creditors whose claims were rendered
+nil, there was no occasion for the respondent to challenge the
+resolution plan.
+*** *** ***
+23.6 He has referred to various provisions of the IBC as well as to
+the decision of this Court in Ghanshyam Mishra (supra) and
+submits that imposition of moratorium and consequential approval
+of resolution plan does not terminate or put an end to pending
+proceedings but those were merely stayed. Legislature has not
+provided that upon approval of a resolution plan, all pending
+proceedings would get extinguished. Therefore, post expiry of the
+moratorium period, pending proceedings such as arbitral
+proceedings would stand revived and taken to their logical
+conclusion.
+23.7 Learned senior counsel submits that in the present case,
+respondent had lodged its claim before the interim resolution
+professional and had also informed about the pendency of
+proceedings before the Facilitation Council. Interim resolution
+professional had published an information memorandum on
+20.10.2017 mentioning therein a list of claimants which did not
+include operational creditors whose claims were sub-judiced
+before different judicial fora. Validity of such claims would be
+decided after the judicial proceedings were complete. He
+submits that after lifting of moratorium, notices were duly
+issued to the appellant by the Facilitation Council but the
+appellant decided not to appear and contest the proceedings.
+After the award was passed, appellant did not challenge the
+same under Section 34 of the 1996 Act. Having not challenged
+the award in the forum designated by law, he could not have
+challenged the same by filing objections to the arbitral award in
+a proceeding under Section 47 of the CPC. Learned counsel
+asserts that Section 34 of the 1996 Act is the only acknowledged
+remedy available to challenge an award. Appellant had the
+opportunity to assail the award under Section 34 of the 1996 Act
+but he did not do so. Therefore, filing of application to declare the
+award a nullity in execution proceedings instituted by the
+respondent for execution of the award is a clear abuse of the
+process of law and was rightly rejected by the Executing Court
+which decision has been upheld by the High Court. Learned
+counsel further submits that since the claim of the respondent was
+pending before the Facilitation Council and in view of the
+information memorandum issued by the interim resolution
+professional, there was no need for the respondent to have
+challenged the resolution plan. Therefore, the High Court was fully
+justified in rejecting the petition filed by the appellant under Article
+227 of the Constitution of India. The appeal is devoid of any merit
+and should, therefore, be dismissed.”
+77.2. The Hon’ble Supreme Court after noticing the relevant provisions of
+the IBC, judicial precedents and upon applying the same to the factual matrix
+of the said case, observed and held as under: -
+“35. Respondent had supplied telescopic and type mounted cranes,
+75 ton crawler cranes, hydra and trailors on hiring basis to the
+appellant pursuant to two purchase orders dated 02.06.2011 and
+06.06.2011. Case No. 330 of 2014 pertains to 138 numbers of bills
+under eight work orders in which the disputed amount was Rs.
+1,36,69,981.33; on the other hand Case No. 331 of 2014 pertains to
+158 numbers of bills under nine work orders where the disputed
+amount was Rs. 22,39,233.00. Thus, the total disputed amount was
+Rs. 1,59,09,214.33. Buyer (appellant) did not make any payment so
+the entire amount was claimed as outstanding and due. Initially
+conciliation proceedings were initiated by the Facilitation Council
+but the buyer unit was not present though it had filed written
+submissions stating that on the request of the supplier it had
+appointed an arbitrator whereafter arbitration proceedings had
+commenced. As an independent arbitration agreement existed
+between the parties, Facilitation Council should not proceed under
+Section 18(3) of the MSME Act. Already arbitration process was
+going on as per the arbitration agreement. Facilitation Council in its
+proceedings dated 31.07.2017 noted that it appeared from
+newspaper reports and order copy of the NCLT that moratorium
+was declared under Section 14 of IBC in the matter of State Bank of
+India Vs. Electrosteel Steels Ltd. It was decided that the matter
+should be kept in abeyance till the moratorium period was over.
+36. We shall now deal with the resolution plan and revert back to
+the proceedings of the Facilitation Council thereafter. The
+resolution plan was submitted by Vedanta Ltd. as resolution
+applicant and is dated 29.03.2018. Clause 3 contained the
+mandatory contents of the resolution plan. Clause 3.2(v) declared
+that while the liquidation value of the corporate debtor was Rs.
+2,899.98 crores, the admitted debts of the financial creditors
+aggregated to approximately Rs.13,395.25 crores. The liquidation
+value was not sufficient to cover the debts of the financial creditors
+in full. Therefore, the liquidation value of the operational creditors
+or the other creditors or stakeholders of the corporate debtor
+including dues of the employees (other than workmen), government
+dues, taxes etc. and other creditors and stakeholders was nil. As
+such, they would not be entitled to any payment. The dissenting
+financial creditors would be entitled to receive 21.65 percent of the
+value of their admitted debt which would be paid in priority to any
+payment to the assenting financial creditors.
+37. Clause 3.2(xii)(A) is relevant. It says that notwithstanding
+what is contained in the mandatory contents of the resolution plan,
+upon approval of the resolution plan by the NCLT under Section 31
+of the IBC, on and from the effective date all pending proceedings
+relating to the winding up of the company i.e. the corporate debtor
+shall stand irrevocably and unconditionally abated in perpetuity and
+claims in connection with all violation or breach of any agreement
+by the corporate debtor shall be settled at nil value at par with
+operational creditors.
+38. Clause 3.4 provides for a proposal for operational creditors
+(excluding employees and workmen). Sub-clause (ii) says that since
+the liquidation value is not sufficient to cover the debts of the
+financial creditors in full, therefore, the liquidation value of the
+operational creditors or the other creditors etc. was taken as nil.
+Thus nil payment was proposed under the resolution plan towards
+claims of operational creditors whether filed or not, whether
+admitted or not and whether or not set out in the provisional
+balance sheet or the list of creditors etc. Thus, no source was
+identified for such payment under the resolution plan.
+39. Heading of Clause 3.8 is treatment of amounts claimed under
+ongoing litigations. Clause 3.8(i) states that all claims arising out of
+enquiries, investigations, notices, causes of action, suits, litigations,
+arbitrations, claims of the top 30 operational creditors against the
+corporate debtor in relation to any period prior to the effective date
+etc. shall be settled at nil.
+40. The resolution plan as submitted by Vedanta Ltd. was
+examined by NCLT and by order dated 17.04.2018 approved the
+same. It was mentioned in the said order that the resolution plan
+had the approval of the committee of creditors with a voting share
+of 100 percent. It was clarified that the moratorium order passed
+under Section 14 IBC would cease to have effect as the approved
+resolution plan had come into force with immediate effect.
+Adjudicating authority i.e. NCLT declared that the approved
+resolution plan would be binding on the corporate debtor, its
+employees members, creditors, coordinators and stakeholders
+involved in the resolution plan.
+*** *** ***
+50. In so far the second and third issues are concerned, it is by
+now well settled that once a resolution plan is duly approved by
+the adjudicating authority under sub-section (1) of Section 31,
+all claims which are not part of the resolution plan shall stand
+extinguished and no person will be entitled to initiate or
+continue any proceeding in respect to a claim which is not part
+of the resolution plan. In fact, this Court in Essar Steel India
+Ltd. (supra) had categorically declared that a successful
+resolution applicant cannot be faced with undecided claims
+after the resolution plan is accepted. Otherwise, this would
+amount to a hydra head popping up which would throw into
+uncertainty the amount payable by the resolution applicant. In
+so far the resolution plan is concerned, the resolution professional,
+the committee of creditors and the adjudicating authority noted
+about the claim lodged by the respondent in the arbitration
+proceeding. However, the respondent was not included in the top
+30 operational creditors whose claims were settled at nil. This can
+only mean that the three authorities conducting the corporate
+insolvency resolution process did not deem it appropriate to include
+the respondent in the top 30 operational creditors. If the claims of
+the top 30 operational creditors were settled at nil, it goes without
+saying that the claim of the respondent could not be placed higher
+than the said top 30 operational creditors. Moreover, the resolution
+plan itself provides that all claims covered by any suit, cause of
+action, arbitration etc. shall be settled at nil. Therefore, it is crystal
+clear that in so far claim of the respondent is concerned, the same
+would be treated as nil at par with the claims of the top 30
+operational creditors.
+50.1 Lifting of the moratorium does not mean that the claim of
+the respondent would stand revived notwithstanding approval
+of the resolution plan by the adjudicating authority.
+Moratorium is intended to ensure that no further demands are
+raised or adjudicated upon during the corporate insolvency
+resolution process so that the process can be proceeded with
+and concluded without further complications. View taken by the
+High Court cannot be accepted in the light of the clear cut
+provisions of the IBC as well as the law laid down by this Court. In
+view of the resolution plan, as approved, the claim of the
+respondent stood extinguished. Therefore, the Facilitation
+Council did not have the jurisdiction to arbitrate on the said
+claim. Since the award was passed without jurisdiction, the
+same could be assailed in a proceeding under Section 47 CPC.
+View taken by the High Court that because the appellant did
+not challenge the award under Section 34 of the 1996 Act,
+therefore, it was precluded from objecting to execution of the
+award at the stage of Section 47 of CPC is wholly
+unsustainable.
+51. Consequently, the view taken by the High Court that
+notwithstanding approval of the resolution plan by the NCLT,
+the Facilitation Council did not lose jurisdiction to proceed and
+pronounce the arbitral award, is erroneous and contrary to the
+law laid down by this Court.
+52. In that view of the matter, we have no hesitation to hold
+that upon approval of the resolution plan by the NCLT, the
+claim of the respondent being outside the purview of the
+resolution plan stood extinguished. Therefore, the award dated
+06.07.2018 is incapable of being executed. Consequently, the order
+dated 03.03.2023 passed by the Presiding Officer, Commercial
+Court/District Judge-1, Bokaro in Commercial Execution Case No.
+21 of 2022 (Execution Case No. 77 of 2018) is hereby set aside.
+Execution proceedings in Commercial Execution Case No. 21 of
+2022 (Execution Case No. 77 of 2018) pending in the Court of
+Presiding Officer, Commercial Court/District Judge-1, Bokaro, are
+hereby quashed. Resultantly, impugned order of the High Court
+dated 17.07.2023 is also set aside.”
+(emphasis supplied)
+78. In the present case, the RP, vide letter dated 30.07.2018 addressed to
+Respondent No. 2, categorically stated that the treatment of the claims of
+Respondent No. 2 would depend upon the terms of the Resolution Plan, as
+may be approved. The Resolution Plan dealt with contingent liabilities in
+terms of Clause 8.7, which reads as under: -
+“8. 7. Treatment of Contingent Liabilities
+In addition, Tata Steel understands that the Company has
+recognized certain contingent liabilities towards certain persons in
+the FY 17 Annual Financials aggregating to approximately ₹ 64.36
+crores (Indian Rupees Sixty Four point Three Six Crore only).
+Particulars of such contingent liabilities are set out in Part A of
+Annexure 10 hereto, and set out in Part B of Annexure 10 hereto
+are particulars of other potential contingent liabilities of the
+Company. The matters set out in Annexure 10, together with all
+other contingent liabilities of the Company (whether known or
+unknown) until the Closing Date, are collectively the “Contingent
+Liabilities”. Such Contingent Liabilities shall be treated as follows:
+8.7.1. In respect of Contingent Liabilities which are in the
+nature of financial debt or are towards Financial Creditors (for
+instance any outstanding guarantees issued by the Financial
+Creditors, counter guarantee by the Company in connection with
+the letter(s) of credit), no further payments from the Resolution
+Applicant shall be due in respect of any Contingent Liabilities
+which are capable of being crystallised prior to the Closing Date.
+Please refer to Section 8. I l.3(ii) regarding effect of the Plan on and
+from the Closing Date with respect to guarantees provided by the
+Company.
+8.7.2. In respect of Contingent Liabilities which are in the
+nature of operational debt or are towards Operational
+Creditors, then to the extent that the same are capable of being
+crystallized as of the Closing Date, each such Contingent
+Liability is a "claim" and "debt'', each as defined under the
+IBC, and would consequently qualify as "operational debt" (as
+defined under the IBC) and therefore the full amount of such
+Contingent Liability shall be deemed to be owed and due as of
+the lnsolvency Commencement Date, the Liquidation Value of
+which is assumed to be NIL, and therefore no amount is
+payable in relation thereto.
+8.7.3. In respect of Contingent Liabilities which are not in the
+nature of financial debt or operational debt, or are towards Other
+Creditors, then to the extent that the same have/are capable of being
+crystallized as of the Closing Date, no amount shall be payable in
+relation thereto as set out in Section 8.4.1 above.”
+(emphasis supplied)
+79. In the considered opinion of this Court, the claim of the Petitioner was
+duly considered and dealt with in the Resolution Plan. It is also observed that
+the Resolution Plan categorically deals with sub judice matters in the
+following manner: -
+“8.6.2. In respect of Sub Judice Claims from Operational
+Creditors (including without limitation, claims made by ISGEC
+Heavy Engineering Limited), each such Sub Judice Claim is a
+"claim" and "debt", each as defined under the IBC, and would
+consequently qualify as "operational debt" (as defined under
+the TBC) and therefore the full amount of such Sub Judice
+Claims shall be deemed to be owed and due as of the Insolvency
+Commencement Date, the Liquidation Value of which is
+assumed to be NIL, and therefore no amount is payable in
+relation thereto. Please also refer to Section 8.2.1 (iii) regarding
+additional claims from Operational Creditors relating to a period
+prior to the Insolvency Commencement Date and Section 8.
+10.12(iv) regarding no claims being initiated by the Operational
+Creditors during the period from the Effective Date until the
+Closing Date.”
+(emphasis supplied)
+80. Thus, even if the claim of the Respondent No. 2 was considered to be
+contingent in terms of the communications dated 17.04.2018 and 30.07.2018
+by the RP, the fact that their said claims were duly considered and rejected in
+the Resolution Plan, which was ultimately approved by the Adjudicating
+Authority, is a matter of record.
+81. The order relied upon by learned counsel for Respondent No. 2 in
+Adani Power Limited (supra), cannot be of any assistance, in as much as the
+Hon’ble Supreme Court, while passing the said order, clearly observed as
+under: -
+“3. However, the claim even if allowed in favour of M/s
+Shapoorji Pallonji and Co. Pvt. Ltd. will have no bearing on the
+rights and obligations of the appellant - M/s. Adani Power Limited,
+which are in terms of the Resolution Plan. It has been held by the
+judgment dated 23.02.2023, that the appellant cannot be saddled
+with any liability except what is mentioned in the Resolution Plan.”
+82. Thus, it is noted that the Hon’ble Supreme Court reiterated the
+principle of law, that once a Resolution Plan has been approved, no further
+claims can be raised or pursued with respect to the corporate debtor.
+83. Furthermore, the Hon’ble Supreme Court in Essar Steel India Limited
+(supra) reiterated that a successful resolution applicant cannot be made to
+face undecided claims after the Resolution Plan is approved. It was further
+held therein that lifting of moratorium would not mean that the claim would
+stand revived notwithstanding the approval of such a plan by the Adjudicating
+Authority. As already noted, the Respondent therein, despite having filed a
+claim as an operational creditor, had its claim treated as nil in the Resolution
+Plan, at par with the claims of other operation creditors. In the said judgment
+it was further noted that since the liquidation value was insufficient to cover
+the debts of financial creditors in full, the liquidation value of the operational
+creditors was taken as nil. In the present case, it is pointed out by the learned
+Senior Counsel for the Petitioner that as per order dated 30.05.2019 passed by
+the learned Adjudicating Authority in CA No. 929(PB)/2018, the total debt
+upon the Petitioner was to the tune of INR 2878 Crores and the liquidation
+value of the Petitioner was INR 721 Crores.
+84. The contention advanced on behalf of the Respondent No. 2, which was
+approved by the learned Arbitral Tribunal, was that since RP failed to classify
+it as an operational creditor/financial creditor or a creditor, it was effectively
+removed from the CIRP, which was confirmed by the RP in his
+communications dated 17.04.2018 and 30.07.2018. It was contended that the
+claim of Respondent No. 2 was classified as a “contingent liability”, and
+therefore, the Resolution Plan could not have dealt with a future liability. In
+these circumstances, it was contended that the Petitioner’s Resolution Plan,
+insofar as it sought treatment of claim of Respondent No. 2 as an operational
+debt due in praesenti and thereafter proceeded to reduce the same to nil, was
+not permissible in law. It was further contended that a “contingent creditor” is
+no creditor in the eyes of law, and, on such a classification, the Respondent
+No. 2 was removed from the CIRP, and therefore, the Resolution Plan would
+not be binding on it.
+85. At this stage, it would be apposite to refer to the judgment of the
+Hon’ble Supreme Court in Kalyani Trasport (supra). In the said case, the
+Resolution Professional had admitted the claim raised by the Appellant
+therein, as an Operational Creditor of the Corporate Debtor. However, after
+admission of the claim, the Resolution Professional had classified the
+Appellant as a contingent creditor and the said classification was duly
+approved by the CoC, who had the power to sanction the Resolution Plan or
+to enter into negotiations to modify it by its approval. It was held that such a
+decision would squarely fall under the protected umbrella of “commercial
+wisdom” of the CoC, and after considering the judgment of the Hon’ble
+Supreme Court in K. Shasidhar (supra), it was held as under: -
+“179. It can thus be seen that this court has held that the
+Legislature purposefully did not include a means to challenge
+the commercial wisdom exercised by the CoC. This makes a
+challenge to the same non-justiciable. It has been further held
+that a challenge cannot be raised against the decision making of
+the CoC unless and until the grounds for challenge as given in
+the Code are satisfied. Any interference in the paramount
+objective of the CoC of exercising its commercial wisdom would
+amount to the court rewriting the law and going against the
+very objectives of the IBC.”
+(emphasis supplied)
+86. In the present case, as already noted hereinabove, the Resolution Plan
+in Clause no. 8.6.2, has duly considered the sub-judice claim of Respondent
+No. 2, and has duly noted that the sub-judice claim is a “claim” and “debt”, as
+defined in the IBC, and would consequently qualify as “operational debt.”
+This, as per record, was duly approved by the CoC, and subsequent approval
+was granted by the Adjudicating Authority. It is also pertinent to note that
+TSL had submitted its Resolution Plan to the RP on 11.06.2018, and on
+01.09.2018 an amended and restated Resolution Plan was submitted based
+upon negotiations and consultation with CoC and RP. It is only thereafter on
+30.07.2018, a letter was sent by RP as noted hereinbefore, wherein it was
+stated that the claim of Respondent No. 2 cannot be treated as a crystallised
+liability and can only be treated as a “contingent liability”. In the said letter, it
+was clearly stated and informed to Respondent No. 2 that the treatment of
+contingent liability in the Resolution Plan will be entirely up to the said
+resolution applicant and subject to the decision of CoC while considering the
+Resolution Plan in accordance with law. Thus, in these circumstances there
+was a full disclosure, and Respondent No. 2 was put to notice of the same.
+The Petitioner had contended that subsequent to the approval of the
+Resolution Plan by the Adjudicating Authority, Respondent No. 2 had
+preferred an appeal against the same before the learned NCLAT, under the
+provisions of the IBC, however, in the Counter Affidavit filed by Respondent
+No. 2 the same is denied and it is averred that no appeal is pending before the
+learned NCLAT. Thus, the Resolution Plan had attained finality and would be
+binding in terms of Section 31(1) of the IBC.
+87. Insofar as the objection with regard to the maintainability of the present
+petition is concerned, useful reference can be made to the decisions of the
+Hon’ble Supreme Court in Deep Industries (supra), Punjab State Power
+Corporation (supra) and decision of this Court in Surender Kumar Singal
+(supra), wherein it has been held that the Court can exercise jurisdiction
+under Articles 226 and 227 of the Constitution of India, 1950, against an
+order passed by an Arbitral Tribunal, if such order is completely perverse, or
+is patently lacking in inherent jurisdiction. In the present case, in view of the
+Resolution Plan being approved by the Adjudicating Authority, the claim of
+Respondent No. 2 stood extinguished, and therefore, in terms of the judgment
+of the Hon’ble Supreme Court in Electrosteel (supra), the learned Arbitral
+Tribunal did not have the jurisdiction to proceed further with the adjudication
+of the said claim.
+88. In view of the aforesaid discussion, the impugned order dated
+07.10.2020 is hereby set aside. The arbitral proceedings before the learned
+Arbitral Tribunal stands terminated.
+89. The present petition is allowed in the aforesaid terms.
+90. Pending application(s), if any, also stand disposed of.
+91. Judgment be uploaded on the website of this Court, forthwith.

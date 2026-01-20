@@ -1,0 +1,513 @@
+COURT: Commercial Court, Delhi
+CASE_TYPE: Arbitration
+CASE_NO: O.M.P.(I) (COMM.) 6/2026 & I.A. 289/2026
+DATE: 06th January, 2026 
+PLAINTIFF: M/S KGK ENGINEERS PVT LTD 
+DEFENDANT: NATIONAL HIGHWAYS AUTHORITY OF INDIA NHAI & ANR.
+JUDGE: Justice MINI PUSHKARNA
+
+----JUDGMENT-----
+
+he present petition has been filed under Section 9 (1) (ii) (e) of the
+Arbitration and Conciliation Act, 1996 (“Arbitration Act”) seeking
+injunction for restraining the respondent no.1 from terminating the Contract
+Agreement dated 30th June, 2023 executed between the parties, and
+consequently restraining the respondents from invoking the Bank
+Guarantees provided by the petitioner.
+2. As per the case put forth by the petitioner, the petitioner had emerged
+as the successful bidder in the „Request For Proposal‟ (“RFP”) for
+permanent rectification of black spot by construction of a light vehicular
+underpass at Poottuthakku Junction in Krishnagiri-Walajapet Section of
+NH-48 in Tamil Nadu. The Contract Agreement was formally executed on
+30
+th June, 2023, with the appointed date declared as 12th September, 2023,
+and the Scheduled Completion date fixed at 11th September, 2024.
+3. As per Clause 7 of the Contract Agreement dated 30th June, 2023,
+between the parties, the petitioner was liable to furnish an irrevocable and
+unconditional Bank Guarantee to the tune of 3% of the contract value. The
+petitioners in compliance of the same, furnished the following Bank
+Guarantees:
+i. Performance Security bearing 065571123000017 dated 22nd June,
+2023 to the tune of Rs. 24,89,800/-.
+ii. Performance Security bearing 065571123000019 dated 26th July,
+2023 to the tune of Rs. 24,89,720/-.
+iii. Additional Performance Guarantee bearing 065571123000018
+dated 22nd June, 2023 to the tune of Rs. 1,19,232/- was in addition
+to the Bank Guarantees already furnished.
+4. Further, the said Contract Agreement in Clause 26.3, contains an
+arbitration clause, which reads as under:
+“26.3 Arbitration
+26.3.1 Any Dispute resolved amicably by conciliation as provided in
+Clause 26.2 shall be finally settled by arbitrations set forth below:
+(i) The Dispute shall be finally referred to Society for Affordable
+Resolution of disputes (hereinafter called as SAROD), a Society
+registered under Society's Act, 1860 vide Registration no.
+S/RS/SW1049/2013 duly represented by Authority and National
+Highways Builders Federation (NHBF). The dispute shall be dealt
+with in terms of Rules of SAROD. The detailed procedure for
+conducting Arbitration shall be governed by the Rules of SAROD
+and Provisions of Arbitration & Conciliation Act, 1996, as
+amended from time to time. The Dispute shall be governed by
+Substantive Law of India.
+(ii) The appointment of Tribunal, Code of conduct for Arbitrators
+and fees and expenses of SAROD and Arbitral Tribunal shall also
+be governed by the Rules of SAROD as amended from time to time.
+(iii) Subject to the provisions of THE LIMITATION ACT, 1963, as
+amended from time to time, Arbitration may be commenced during
+or after the Contract Period, provided that the obligations of
+Authority and the Contractor shall not be altered by reason of the
+Arbitration being conducted during the Contract Period.
+(iv) The venue of Arbitration shall be New Delhi or a place selected
+by governing body of SAROD and the language for all documents
+and communications between the parties shall be English.
+(v) The expenses incurred by each party in connection with the
+preparation, presentation, etc., of arbitral proceedings shall be
+shared by each party itself.
+26.3.2 The Arbitrators shall make a reasoned award (the "Award").
+Any Award made in any arbitration held pursuant to this Article 26
+shall be final and binding on the Parties as from the date it is made,
+and the Contractor and the Authority agree and undertake to carry
+out such Award without delay.
+26.3.3 The Contractor and the Authority agree that an Award may be
+enforced against the Contractor and/or the Authority, as the case may
+be, and their respective assets wherever situated.
+26.3.4 This Agreement and the rights and obligations of the Parties
+shall remain in full force and effect, pending the Award in any
+arbitration proceedings hereunder. Further, the parties
+unconditionally acknowledge and agree that notwithstanding any
+dispute between them, each Party shall proceed with the performance
+of its respective obligations, pending resolution of Dispute in
+accordance with this Article.
+xxx xxx xxx”
+5. Subsequently, various disputes arose between the parties, as the
+request of the petitioner for extension of time for completion of work under
+the Contract Agreement, without levy of any damages, was rejected by the
+respondent no.1. It is the case of the petitioner that the respondent no.1
+failed to handover the critical land parcel to the petitioner, resulting in delay
+in the contractual work, and the same amounted to a fundamental breach by
+the respondent no.1 of its reciprocal contractual obligations under the
+Contract Agreement.
+6. In view of the various disputes between the parties, the petitioner vide
+its letter dated 31st October, 2025, requested the respondent no.1 to
+constitute a Dispute Resolution Board under Clause 26.1.3 of the Contract
+Agreement to settle the disputes between them.
+7. However, the Regional Officer of the respondent no.1 issued an
+„Intention To Terminate Notice‟ dated 15th December, 2025. The said Notice
+recited that the Contract Agreement dated 30th June, 2023, would be
+terminated due to the petitioner‟s failure in ensuring compliance of its
+obligations. It is the case of the petitioner that the said Notice was addressed
+to the petitioner on E-mail ID bearing hr@kgkepl.com, despite a
+communication regarding change of E-mail ID on behalf of the petitioner as
+early as 07th August, 2023. Thus, as per the petitioner, the said E-mail
+communicating the Notice was never received by the petitioner.
+Furthermore, the aforesaid Intention to Terminate Notice dated 15th
+December, 2025, was received physically by the petitioner only on 22nd
+December, 2025.
+8. Pursuant to the aforesaid, the petitioner submitted a detailed reply on
+31st December, 2025, stating that mandatory cure period for defaults had not
+been granted to the petitioner. Thus, the petitioner sought time till 16th
+January, 2026, to submit a reply regarding the remedial measures taken by
+the petitioner.
+9. However, the respondent no.1 issued a Termination Notice on 31st
+December, 2025 to the petitioner, which as per the petitioner, was issued
+within a period of 9 days from receipt of the Intent To Terminate Notice,
+and was thus, in violation of Clause 23.1 (ii) of the Contract Agreement
+which provided for a mandatory 15 day period from the receipt of Intention
+To Terminate Notice. Further, as per the case put forth by the petitioner, the
+said Termination Notice was also addressed to the E-mail ID bearing
+hr@kgkepl.com, despite a communication regarding change of E-mail ID on
+behalf of the petitioner as early as 07th August, 2023.
+10. Furthermore, on the same day, i.e., 31st December, 2025, the
+respondent no.1 also issued a letter to the Branch Manager, Indian Overseas
+Bank, seeking the invocation of the Bank Guarantees issued by the
+petitioner.
+11. Thus, the present petition has been filed seeking to restrain the
+respondent no.1 from giving effect to the Termination Notice dated 31st
+December, 2025, and restraining the encashment of the Bank Guarantees.
+12. Responding to the present petition, learned counsel appearing for the
+respondent no.1 submitted that the Contract Agreement between the parties
+is determinable, and pursuant to the termination of the Contract Agreement,
+the project in question has already been taken over by the respondent no.1.
+He submitted that no work had been executed by the petitioner for the last
+four months, and that the work had been completely abandoned by the
+petitioner.
+13. Learned counsel for respondent no. 1 further submitted that the Bank
+Guarantees in question are unconditional, and have validly been invoked by
+the respondent no.1.
+14. He further submitted that the various communications by the
+petitioner on its Letter Head to the respondent no.1, reflects only one E-mail
+ID bearing hr@kgkepl.com, and the Intention To Terminate Notice issued
+on 15th December, 2025, was duly sent on the said E-mail ID. Thus, the said
+Notice was duly received by the petitioner on 15th December, 2025, and the
+termination of the Contract Agreement on 31st December, 2025, is in
+consonance with the Contract Agreement between the parties.
+15. Learned counsel for the respondent no.1 also relied upon Clause 10.3
+(iii) of the Contract Agreement dated 30th June, 2023, to submit that, in case,
+the damages exceeded 10% of the contract price, the contractor shall be
+deemed to be in default of the Contract Agreement having no cure, and that
+the respondent no.1 shall be entitled to terminate the Contract Agreement by
+issuing a Termination Notice, in accordance with provisions of Clause 23.1
+(ii). In the present case, the damages imposed upon the petitioner, is
+approximately 20% of the contract price, and thus, the Contract Agreement
+has validly been terminated, in consonance with the terms and conditions of
+the Contract Agreement.
+16. Having heard learned counsels for the parties, at the outset, this Court
+notes that as per Clause 23 of the Contract Agreement, both the parties had
+the right to terminate the Contract Agreement. Clause 23 of the Contract
+Agreement reads as under:
+ “xxx xxx xxx
+17. Thus, it is evident that as per the contractual terms, the respondent
+no.1 is entitled to terminate the Contract Agreement upon occurrence of a
+Contractor Default, by issuing an Intention to Terminate Notice, informing
+the contractor of its intention to issue a Termination Notice, and grant 15
+days to the contractor to make a representation. The respondent no.1, after
+expiry of such 15 days, whether or not, it is in receipt of any representation
+from the contractor, is entitled to issue the Termination Notice.
+18. At this stage, reference may also be made to Clause 10.3 (iii) of the
+Contract between the parties, which reads as under:
+“xxx xxx xxx
+xxx xxx xxx”
+19. Reference to the aforesaid Clause evidences that the respondent
+authority is within its right to terminate the agreement by issuing a
+Termination Notice in accordance with the provisions of Clause 23.1 (ii), if
+the damages exceeded 10% (ten percent) of the contract price, in which
+eventuality, the contractor shall be deemed to be in default of the agreement
+having no cure. This Court notes the submission made on behalf of
+respondent no. 1 that in the present case the damages imposed upon the
+petitioner are approximately 20% (twenty percent) of the contract price,
+attracting the provisions of Clause 10.3(iii) read with Clause 23.1(ii) of the
+Contract Agreement.
+20. It is an admitted fact that the Intention to Terminate Notice dated 15th
+December, 2025, was issued on the E-mail ID of the petitioner, i.e.,
+hr@kgkepl.com. It is to be noted that the said E-mail ID is reflected on the
+Letter Head of the petitioner as the sole E-mail ID in all its written
+communications to the respondent no.1 herein. Therefore, the contention of
+the petitioner that the service of Intention to Terminate Notice dated 15th
+December, 2025, was wrongly communicated on the aforesaid E-mail ID,
+cannot be accepted. Considering the documents on record, it is apparent that
+the Intention to Terminate Notice dated 15th December, 2025, was validly
+served upon the petitioner on 15th December, 2025 itself on the E-mail ID of
+the petitioner, as indicated on its Letter Head in all its communications to
+the respondent no.1 herein. Therefore, it is evident that the termination of
+the Contract Agreement on 31st December, 2025, was in consonance with
+the contractual terms as stipulated in Clause 23.1 (ii) of the Contract
+Agreement. Thus, no fault can be found in the procedure followed by the
+respondent no.1 in terminating the Contract Agreement of the petitioner.
+21. Perusal of the Contract Agreement between the parties makes it
+evident that the Contract Agreement is terminable at the instance of both the
+parties. Once a contract is determinable in nature, injunction cannot be
+granted in view of operation of the legal bar in this regard by virtue of
+Section 14(d) of the Specific Relief Act, 1963 (“Specific Relief Act”) read
+with Section 41(e) of the said Act. The relevant portions of Section 14 (d)
+and Section 41 (e) of the Specific Relief Act, read as under:
+“xxx xxx xxx
+14. Contracts not specifically enforceable.— The following contracts
+cannot be specifically enforced, namely-
+(a) ……
+(b)………
+(c) …….
+(d) a contract which is in its nature determinable.
+xxx xxx xxx
+41. Injunction when refused.— An injunction cannot be granted -
+(a) ……
+(b) ……
+(c) ……
+(d) ……
+(e) to prevent the breach of a contract the performance of which
+would not be specifically enforced;
+xxx xxx xxx”
+22. Holding that an injunction is statutorily prohibited with respect to a
+contract which is determinable in nature, the Division Bench of this Court in
+the case of Rajasthan Breweries Limited versus The Stroh Brewery
+Company, 2000 SCC OnLine Del 481, held as under:
+“xxx xxx xxx
+The effect of breach of a contract by a party seeking to specifically
+enforce the contract under the Indian law is enshrined in Section
+16(c) read with Section 41(e) of the Specific Relief Act, 1963. Clause
+(e) of Section 41 of the Specific Relief Act provides that injunction
+cannot be granted to prevent the breach of contract, the
+performance of which would not be specifically enforced. Clause (c)
+of Section 41 enumerates the nature of contracts, which could not be
+specifically enforced. Clause (c) to sub-section (1) of Section 14 says
+that a contract which is in its nature deter-minable cannot be
+specifically enforced. Learned Single Judge thus was justified in
+saying that if it is found that a contract which by its very nature is
+determinable, the same not only cannot be enforced but in respect of
+such a contract no injunction could also be granted and this is
+mandate of law. This, however, is subject to an exception, as provided
+in Section 42 that where a contract comprises an affirmative
+agreement to do a certain Act. coupled with a negative agreement,
+express or implied, not to do a certain Act, the circumstances that the
+Court is unable to compel specific performance of the affirmative
+agreement shall not preclude it from granting and injunction to
+perform the negative agreement.
+xxx xxx xxx
+Even in the absence of specific clause authorising and enabling either
+party to terminate the agreement in the event of happening of the
+events specified therein, from the very nature of the agreement, which
+is private commercial transaction, the same could be terminated even
+without assigning any reason by serving a reasonable notice. At the
+most, in case ultimately it is found that termination was bad in law
+or contrary to the terms of the agreement or of any understanding
+between the parties or for any other reason, the remedy of the
+appellants would be to seek compensation for wrongful termination
+but not a claim for specific performance of the agreements and for
+that view of the matter learned Single Judge was justified in coming
+to the conclusion that the appellant had sought for an injunction
+seeking to specifically enforce the agreement. Such an injunction is
+statutorily prohibited with respect of a contract, which is
+determinable in nature. The application being under the provisions
+of Section 9(ii)(e) of the Arbitration and Conciliation Act, relief was
+not granted in view of Section 14(i)(c) read with Section 41 of the
+Specific Relief Act. It was rightly held that other clauses of Section 9
+of the Act shall not apply to the contract, which is otherwise
+determinable in respect of which the prayer is made specifically to
+enforce the same.
+xxx xxx xxx”
+ (Emphasis Supplied)
+23. Likewise, in the case of Inter Ads Exhibition Pvt. Ltd. Versus
+Busworld International Cooperative Vennootschat Met Beperkte
+Anasprakelijkheid, 2020 SCC OnLine Del 351, it was held that once
+termination of contract takes effect, its operation cannot be stayed by an
+interim injunction. No direction amounting to specific performance or
+directing continuation of an arrangement which stood terminated can be
+passed, as a determinable contract cannot be enforced. Thus, it was held as
+follows:
+“xxx xxx xxx
+44. I am fortified in my view by the judgment of a Co-ordinate
+Bench of this Court in Jindal Steel and Power Ltd. v. SAP India Pvt.
+Ltd., (2015) 221 DLT 708 where one of the questions before the
+Court was whether in view of the agreement having been terminated
+an injunction could be granted against the operation of the
+termination notice. The Court held that the contract being
+determinable could not be enforced due to the legal bar under the
+SRA. It answered the question in the negative holding that no
+injunction on the termination order could be granted, the same
+having taken effect and damages was an adequate remedy.
+45. I may now refer to the judgment of a Division Bench of this Court
+in Indian Railway Catering and Tourism Corporation Ltd.
+(IRCTC) v. Cox and Kings India Ltd. and Arup Sen, (2012) 186 DLT
+552 which although has been relied upon by the petitioner, but in the
+opinion of this Court enures to the advantage of the respondent. The
+controversy in the said case was similar and the facts were very close
+to the present case. The issue was whether a direction in the nature of
+mandatory injunction amounting to specific performance or directing
+continuation of an arrangement which stood terminated, could be
+given.
+46. A Joint Venture Agreement was terminated by one party to the
+contract. The Division Bench relying on the judgment in the case
+of Rajasthan Breweries Ltd. (supra) as well as Section 14 of the SRA
+held that once the lease had been terminated, passing of mandatory
+injunction would amount to first creating an agreement between the
+parties and then enforcing the same. The Division Bench set aside
+the judgment of the learned Single Judge whereby the learned
+Single Judge had by way of an interim measure allowed the running
+of the train under the contract in question on the ground of
+irreparable loss to the Company and inconvenience to public. The
+Division Bench held that the interim arrangement was neither
+justified nor legally sustainable. Reliance was placed on para 19 of
+the judgment in the case of Rajasthan Breweries Ltd. (supra), which
+has been quoted in the earlier part of this judgment.
+47. It is clear that in law, once termination of contract takes effect
+the operation cannot be stayed by an interim injunction. Thus, the
+second relief sought in the present petition cannot be granted and is
+hereby rejected.
+xxx xxx xxx”
+ (Emphasis Supplied)
+24. Considering the established law that specific performance of a
+determinable contract/agreement cannot be enforced, it is clear that no
+injunction can be granted in favour of the petitioner to restrain the operation
+of the Termination Notice dated 31st December, 2025.
+25. The other prayer made by the petitioner is to restrain invocation of the
+Bank Guarantees by the respondents.
+26. Law with regard to invocation of Bank Guarantees is well settled that,
+in case of an unconditional Bank Guarantee, the beneficiary is entitled to
+realize such a Bank Guarantee in terms thereof, irrespective of any pending
+disputes. The bank issuing a Bank Guarantee is not concerned with the
+underlying dispute between the parties to the contract. Thus, when a Bank
+Guarantee is invoked in terms of the contract between the parties, the bank
+is bound to honor the same. Thus, the Supreme Court in the case of U.P.
+State Sugar Corporation Versus SUMAC International Ltd., (1997) 1 SCC
+568, held as follows:
+“xxx xxx xxx
+12. The law relating to invocation of such bank guarantees is by
+now well settled. When in the course of commercial dealings an
+unconditional bank guarantee is given or accepted, the beneficiary
+is entitled to realize such a bank guarantee in terms thereof
+irrespective of any pending disputes. The bank giving such a
+guarantee is bound to honour it as per its terms irrespective of any
+dispute raised by its customer. The very purpose of giving such a
+bank guarantee would otherwise be defeated. The courts should,
+therefore, be slow in granting an injunction to restrain the
+realization of such a bank guarantee. The courts have carved out
+only two exceptions. A fraud in connection with such a bank
+guarantee would vitiate the very foundation of such a bank
+guarantee. Hence if there is such a fraud of which the beneficiary
+seeks to take advantage, he can be restrained from doing so. The
+second exception relates to cases where allowing the encashment of
+an unconditional bank guarantee would result in irretrievable harm
+or injustice to one of the parties concerned. Since in most cases
+payment of money under such a bank guarantee would adversely
+affect the bank and its customer at whose instance the guarantee is
+given, the harm or injustice contemplated under this head must be of
+such an exceptional and irretrievable nature as would override the
+terms of the guarantee and the adverse effect of such an injunction
+on commercial dealings in the country. The two grounds are not
+necessarily connected, though both may coexist in some cases. In the
+case of U.P. Coop. Federation Ltd. v. Singh Consultants and
+Engineers (P) Ltd. [(1988) 1 SCC 174] which was the case of a works
+contract where the performance guarantee given under the contract
+was sought to be invoked, this Court, after referring extensively
+to English and Indian cases on the subject, said that the guarantee
+must be honoured in accordance with its terms. The bank which gives
+the guarantee is not concerned in the least with the relations
+between the supplier and the customer; nor with the question
+whether the supplier has performed his contractual obligation or
+not, nor with the question whether the supplier is in default or not.
+The bank must pay according to the tenor of its guarantee on
+demand without proof or condition. There are only two exceptions to
+this rule. The first exception is a case when there is a clear fraud of
+which the bank has notice. The fraud must be of an egregious
+nature such as to vitiate the entire underlying transaction.
+Explaining the kind of fraud that may absolve a bank from honouring
+its guarantee, this Court in the above case quoted with approval the
+observations of Sir John Donaldson, M.R. in Bolivinter Oil
+SA v. Chase Manhattan Bank [(1984) 1 All ER 351] (All ER at p.
+352): (at SCC p. 197)
+“The wholly exceptional case where an injunction may be
+granted is where it is proved that the bank knows that any demand
+for payment already made or which may thereafter be made will
+clearly be fraudulent. But the evidence must be clear both as to the
+fact of fraud and as to the bank's knowledge. It would certainly not
+normally be sufficient that this rests on the uncorroborated
+statement of the customer, for irreparable damage can be done to a
+bank's credit in the relatively brief time which must elapse between
+the granting of such an injunction and an application by the bank to
+have it charged.”
+This Court set aside an injunction granted by the High Court to
+restrain the realisation of the bank guarantee.
+xxx xxx xxx
+15. Our attention was invited to a number of decisions on this issue —
+among them, to Larsen & Toubro Ltd. v. Maharashtra SEB [(1995) 6
+SCC 68] and Hindustan Steel Workers Construction Ltd. v. G.S. Atwal
+& Co. (Engineers) (P) Ltd. [(1995) 6 SCC 76] as also to National
+Thermal Power Corpn. Ltd. v. Flowmore (P) Ltd. [(1995) 4 SCC 515]
+The latest decision is in the case of State of Maharashtra v. National
+Construction Co. [(1996) 1 SCC 735 : JT (1996) 1 SC 156] where this
+Court has summed up the position by stating: (SCC p. 741, para 13)
+“The rule is well established that a bank issuing a guarantee is
+not concerned with the underlying contract between the parties to
+the contract. The duty of the bank under a performance guarantee is
+created by the document itself. Once the documents are in order the
+bank giving the guarantee must honour the same and make payment
+ordinarily unless there is an allegation of fraud or the like. The
+courts will not interfere directly or indirectly to withhold payment,
+otherwise trust in commerce internal and international would be
+irreparably damaged. But that does not mean that the parties to the
+underlying contract cannot settle the disputes with respect to
+allegations of breach by resorting to litigation or arbitration as
+stipulated in the contract. The remedy arising ex contractu is not
+barred and the cause of action for the same is independent of
+enforcement of the guarantee.”
+The other recent decision is in Hindustan Steelworks Construction
+Ltd. v. Tarapore & Co. [(1996) 5 SCC 34: JT (1996) 6 SC 295]
+16. Clearly, therefore, the existence of any dispute between the parties
+to the contract is not a ground for issuing an injunction to restrain the
+enforcement of bank guarantees. There must be a fraud in connection
+with the bank guarantee. In the present case we fail to see any such
+fraud. The High Court seems to have come to the conclusion that the
+termination of the contract by the appellant and his claim that time
+was of the essence of the contract, are not based on the terms of the
+contract and, therefore, there is a fraud in the invocation of the bank
+guarantee. This is an erroneous view. The disputes between the
+parties relating to the termination of the contract cannot make
+invocation of the bank guarantees fraudulent. The High Court has
+also referred to the conduct of the appellant in invoking the bank
+guarantees on an earlier occasion on 12-4-1992 and subsequently
+withdrawing such invocation. The court has used this circumstance in
+aid of its view that the time was not of the essence of the contract. We
+fail to see how an earlier invocation of the bank guarantees and
+subsequent withdrawal of this invocation make the bank guarantees or
+their invocation tainted with fraud in any manner. Under the terms of
+the contract it is stipulated that the respondent is required to give
+unconditional bank guarantees against advance payments as also a
+similar bank guarantee for due delivery of the contracted plant within
+the stipulated period. In the absence of any fraud the appellant is
+entitled to realise the bank guarantees.
+xxx xxx xxx”
+ (Emphasis Supplied)
+27. It is equally well settled that a Bank Guarantee is an independent and
+a separate contract between the bank and the beneficiary. Existence of any
+dispute between the parties to the contract is not a ground for issuing an
+order of injunction to restrain enforcement of Bank Guarantees. Thus, in the
+case of Gujarat Maritime Board Versus Larsen and Toubro Infrastructure
+Development Projects Limited and Another, (2016) 10 SCC 46, the
+Supreme Court has held as follows:
+“xxx xxx xxx
+11. It is contended on behalf of the first respondent that the
+invocation of bank guarantee depends on the cancellation of the
+contract and once the cancellation of the contract is not justified, the
+invocation of bank guarantee also is not justified. We are afraid that
+the contention cannot be appreciated. The bank guarantee is a
+separate contract and is not qualified by the contract on
+performance of the obligations. No doubt, in terms of the bank
+guarantee also, the invocation is only against a breach of the
+conditions in the LoI. But between the appellant and the Bank, it
+has been stipulated that the decision of the appellant as to the
+breach shall be absolute and binding on the Bank.
+12. An injunction against the invocation of an absolute and an
+unconditional bank guarantee cannot be granted except in
+situations of egregious fraud or irretrievable injury to one of the
+parties concerned. This position also is no more res integra.
+In Himadri Chemicals Industries Ltd. v. Coal Tar Refining
+Co. [Himadri Chemicals Industries Ltd. v. Coal Tar Refining Co.,
+(2007) 8 SCC 110] , at para 14 : (SCC pp. 117-18)
+“14. From the discussions made hereinabove relating to the
+principles for grant or refusal to grant of injunction to restrain
+enforcement of a bank guarantee or a letter of credit, we find that
+the following principles should be noted in the matter of injunction
+to restrain the encashment of a bank guarantee or a letter of credit:
+(i) While dealing with an application for injunction in the course
+of commercial dealings, and when an unconditional bank guarantee
+or letter of credit is given or accepted, the beneficiary is entitled to
+realise such a bank guarantee or a letter of credit in terms thereof
+irrespective of any pending disputes relating to the terms of the
+contract.
+(ii) The bank giving such guarantee is bound to honour it as per
+its terms irrespective of any dispute raised by its customer.
+(iii) The courts should be slow in granting an order of injunction
+to restrain the realisation of a bank guarantee or a letter of credit.
+(iv) Since a bank guarantee or a letter of credit is an independent
+and a separate contract and is absolute in nature, the existence of
+any dispute between the parties to the contract is not a ground for
+issuing an order of injunction to restrain enforcement of bank
+guarantees or letters of credit.
+(v) Fraud of an egregious nature which would vitiate the very
+foundation of such a bank guarantee or letter of credit and the
+beneficiary seeks to take advantage of the situation.
+(vi) Allowing encashment of an unconditional bank guarantee or
+a letter of credit would result in irretrievable harm or injustice to
+one of the parties concerned.”
+xxx xxx xxx”
+ (Emphasis Supplied)
+28. Plain reading of the Bank Guarantees submitted by the petitioner
+show that the same are unconditional and irrevocable in nature, wherein, it is
+stipulated that a letter from the respondent no.1-authority, under the hand of
+an officer not below the rank of General Manager that the contractor has
+committed default in the due and faithful performance of all or any of its
+obligations under and in accordance with the Contract Agreement, shall be
+conclusive, final and binding on the bank. Further, the bank has agreed in
+the said Bank Guarantees that the respondent no.1-authority shall be the sole
+judge as to whether the contractor is in default in due and faithful
+performance of its obligations during and under the Contract Agreement,
+and its decision that the contractor is in default, shall be final and binding on
+the bank, notwithstanding any differences between the respondent no.1-
+authority and the contractor.
+29. Position of law is no more res integra that an injunction against the
+invocation of an absolute and an unconditional Bank Guarantee cannot be
+granted except in situations of egregious fraud or irretrievable injury to one
+of the parties concerned. However, no such facts of egregious fraud or
+irretrievable injury, have been pleaded, or brought forth before this Court.
+30. In view of the detailed discussion hereinabove, no merit is found in
+the present petition. The same is accordingly dismissed. The pending
+application also stands disposed of.

@@ -1,0 +1,295 @@
+COURT: Commercial Court, Delhi
+CASE_TYPE: Commercial Suit
+CASE_NO: FAO (COMM) 316/2025 and CM APPLs. 69747-748/2025
+DATE: 13.11.2025 
+PLAINTIFF: PERPETUAL VISION LLP & ANR.	 
+DEFENDANT: VAIBHAV S PINGALE & ORS
+JUDGE: Justice C. HARI SHANKAR & Justice OM PRAKASH SHUKLA 
+
+----JUDGMENT----
+
+This appeal under Section 13 of the Commercial Courts Act,
+2015 is directed against the following order passed by the learned
+District Judge (Commercial Court)-01, Saket.
+“03.11.2025
+Present: Counsel for plaintiff, Sh. Naseem and Sh. Rahul
+Singh.
+Submission heard. Record perused.
+Summons of the suit as well as notice to the application U/o
+39 Rule 1 and 2 CPC be issued to the defendants on taking steps
+within a week by all permissible modes including electronic mode,
+returnable by 19.11.2025. For service to be affected through
+electronic mode i.e. Whats App, e-mail address etc. of defendant,
+affidavit with regard to correctness of the same, be filed on record.
+
+Further, it be specifically mentioned on the summons that this is a
+commercial suit and the defendant is required to file the written
+statement alongwith statement of truth and affidavit of admission
+and denial of documents within the mandatory period of 30 days of
+service.”
+2. We have heard Mr. Anshuman Upadhyay, learned counsel for
+the appellants at length on whether such an order would be appealable.
+3. Mr. Upadhyay has, with all the persuasion at his command,
+attempted to convince us that the answer to the query has to be in the
+affirmative. He has placed reliance on the judgment of the Supreme
+Court in A. Venkatasubbiah Naidu v S. Chellappan and Ors1
+. to
+convince us that an order either granting or refusing an application for
+interim injunction under Order XXXIX Rules 12
+and 23 of the Code of
+Civil Procedure, 19084
+is relatable to the said provisions and therefore,
+an appeal would lie against the said order.
+1
+(2000) 7 SCC 695
+2 1. Cases in which temporary injunction may be granted. — Where in any suit it is proved by
+affidavit or otherwise—
+(a) that any property in dispute in a suit is in danger of being wasted, damaged or
+alienated by any party to the suit, or wrongfully sold in execution of a decree, or
+(b) that the defendant threatens, or intends, to remove or dispose of his property
+with a view to [defrauding] his creditors,
+[(c) that the defendant threatens to dispossess the plaintiff or otherwise cause injury
+to the plaintiff in relation to any property in dispute in the suit,]
+the Court may by order grant a temporary injunction to restrain such act, or make such other order
+for the purpose of staying and preventing the wasting, damaging, alienation, sale, removal or
+disposition of the property [or dispossession of the plaintiff, or otherwise causing injury to the
+plaintiff in relation to any property in dispute in the suit] as the Court thinks fit, until the disposal of
+the suit or until further orders.
+3 2. Injunction to restrain repetition or continuance of breach.—
+(1) In any suit for restraining the defendant from committing a breach of contract or other
+injury of any kind, whether compensation is claimed in the suit or not, the plaintiff may, at any time
+after the commencement of the suit, and either before or after judgment, apply to the Court for a
+temporary injunction to restrain the defendant from committing the breach of contract or injury
+complained of, or any breach of contract or injury of a like kind arising out of the same contract or
+relating to the same property or right.
+(2) The Court may by order grant such injunction, on such terms as to the duration of the
+injunction, keeping an account, giving security, or otherwise, as the Court thinks fit.
+4
+“CPC”, hereinafter
+
+4. Appeals under Section 13(1-A)5 of the Commercial Courts Act
+lie against the orders passed under Section 37 of the Arbitration and
+Conciliation Act, 19966 or under Order XLIII Rule 1 of the CPC.
+5. We are not concerned, in the present case, with the 1996 Act.
+6. In order to satisfy us on the maintainability of the present
+appeal, therefore, the appellants would have to pigeonhole the order
+under challenge within one of the clauses of Order XLIII Rule 1 of the
+CPC. Mr. Upadhyay’s contention is that the impugned order is
+appealable as it has been passed under Order XLIII Rule 1(r)7 of the
+CPC.
+7. Order XLIII Rule 1 (r) of the CPC covers orders passed under
+Order XXXIX Rules 1, 2, 2A, 4 or 10 of the CPC.
+8. Mr. Upadhyay’s contention, predicated, inter alia, on the
+judgment of the Supreme court in A. Venkatasubbiah Naidu is that
+the impugned order by merely issuing notice on the petitioner’s
+application under Order XXXIX of the CPC has, effectively rejected
+the petitioner’s prayer for ex parte ad interim relief and that such a
+5
+(1-A) Any person aggrieved by the judgment or order of a Commercial Court at the level of District Judge
+exercising original civil jurisdiction or, as the case may be, Commercial Division of a High Court may appeal
+to the Commercial Appellate Division of that High Court within a period of sixty days from the date of the
+judgment or order:
+Provided that an appeal shall lie from such orders passed by a Commercial Division or a
+Commercial Court that are specifically enumerated under Order XLIII of the Code of Civil Procedure, 1908
+(5 of 1908) as amended by this Act and Section 37 of the Arbitration and Conciliation Act, 1996 (26 of
+1996).]
+6
+“1996 Act”, hereinafter
+7 1. Appeals from orders.—An appeal shall lie from the following orders under the provisions of
+Section 104, namely:—
+*****
+(r) an Order under Rule 1, Rule 2, [Rule 2-A], Rule 4 or Rule 10 of Order XXXIX;
+
+rejection would necessarily be relatable to Order XXXIX Rule 1 of the
+CPC. Ergo, he submits that the order would be one of the orders
+envisaged under Order XLIII Rule 1(r) of the CPC and would,
+therefore, be appealable under Section 13 of the Commercial Courts
+Act.
+9. The issue stands covered against the appellants by the
+judgments of Division Benches of this Court in Sahil Singh
+Maniktala v Harpreet Singh8
+, and Nisha Raj v Pratap K. Kaula9
+,
+from which the relevant paragraphs may be culled out thus:
+From Sahil Singh Maniktala
+“7. The grant of a notice in an application for ad interim relief
+is covered by provisions of Order 39 Rule 310 CPC. This, however,
+is not appealable under Order 43 Rule 1(r) under which an appeal
+lies only against an order passed under Order 39 Rule 1, 2, 2A, 4
+and Rule 10. Rule 3 is specifically excluded and since no appeal is
+provided against an order under this rule, no appeal would
+consequently lie against the grant of notice in an ancillary
+application seeking temporary injunction.
+8. Such an appeal would also not lie under Section 10 of the
+Delhi High Court Act, 1966 which provides for an appeal to the
+Division Bench of the High Court against any judgment passed by
+the learned Single Judge while exercising original jurisdiction
+because an order issuing notice could not be said to be a judgment
+within the meaning of that word. The word “judgment” as is well
+established refers to adjudication which has the concept of finality
+attached to it and has also a direct and immediate adverse effect on
+the party. Every order, thus, is not a judgment, though there may
+be interlocutory orders which may have trappings and
+characteristics of a judgment and yet may not be covered by the
+provisions of Order 43 Rule (1)(a) to (w).
+8 118 (2005) DLT 350 (DB)
+9 57 (1995) DLT 490 (DB)
+10 3. Before granting injunction, Court to direct notice to opposite party.—The Court shall in all
+cases, except where it appears that the object of granting the injunction would be defeated by the
+delay, before granting an injunction, direct notice of the application for the same to be given to the
+opposite party:
+
+9. An appeal would surely lie against such orders, even
+though they are interim and interlocutory in nature and in respect
+of which right of appeal is not created under the CPC, because
+being a judgment these would be covered under Section 10 of the
+Delhi High Court Act. The same would hold good under Letters
+Patent also which again provides for the requirement of
+“judgment”.”
+From Nisha Raj
+“5. In the present, case before us we are not, however,
+concerned with procedural orders at the trial. We are here
+concerned with an interlocutory application under Order 39 Rule 1
+CPC by which the property or rights claimed in the suit are sought
+to be protected pending suit so that in case the suit is decreed in
+favour of the party claiming interim relief, the decree, can be
+effective and is not rendered otiose. In other words, matters arising
+under Order 39 Rule 1 are not procedural steps, in the trial. The
+test here is, as stated in Shah Babulal's case11 [para 112(3)],
+whether the order is an ‘intermediary’ or ‘interlucotry judgment’
+which affects a valuable right of the property. Before such an order
+can be a judgment, the adverse effect on the party must be direct
+and immediate, rather than indirect or remote, as stated by the
+Supreme Court in the same case.
+If that be test laid down by the Supreme Court in Shah Babulal's
+case in 1981, the question is whether an order of the trial Judge
+ordering ‘notice’ under Order 39 Rule 3 can be a ‘judgment’. A
+Division Bench of the Andhra Pradesh High Court consisting of
+Alladi Kuppuswami (as he then was) and P.A. Choudhary J. held
+in Dr. Gouri Shankar v Dy. Commissioner. Municipal
+Corporation of Hyderabad12 that an order of the learned Single
+Judge ordering ‘notice’ is not a ‘judgment’ under clause 15 of the
+Letters Patent. The same view was held by another Division Bench
+consisting of P. A. Choudhary and K. Ramaswamy, J; (as he then
+was) in K. Subba Rao v P. Nagaratoamma13. The Bench held:
+“Clearly, ordering, notice does not involve any adjudication
+of the rights of the parties, nor does it put an end to the
+proceedings......”. Ordering of notice can be nothing more
+than a step towards obtaining the final adjudication. Even
+where it might cause prejudice, it cannot be described as a
+judgment. It is a step in aid and such a step in aid is not a
+judgment within the meaning of Letters Patent.”
+11 Shah Babulal Khimji v Jayaben D. Kania, (1981) 4 SCC 8
+12 1980 (1)ALT 5 (NRC)
+13 AIR 1982 AP 443
+
+We shall next deal with certain further observations made in the
+last mentioned case. It was argued there that:
+“it is the substances of an order that must be looked into
+and not the form and that even ordering of notice can, at
+times amount to a rejection of the petitioner's prayer for
+relief.”
+On that basis, it was held. that an order of the learned Single Judge,
+ordering ‘notice’ is not a ‘judgment’. We are in entire agreement
+with this view, subject to the following exceptional class of cases.
+In the last case, the Andhra Pradesh High Court referred to another
+aspect relating to the possibility or otherwise of a retrieval or
+restitution, as follows:
+“There is scope for retrieving of the situation and there is
+scope for restituting. That would exclude the possibility of
+any adverse effects being produced. In our view, this
+substance theory of adverse effects has, therefore, no
+substance.”
+6. We want to explain this aspect a little more in detail which
+concerns some rare situations. There may be cases where there is
+absolutely no scope of retrieving the situation or no scope for
+restitution. Such cases, according to us, may be rarest of the rare
+but in those cases an order ordering ‘notice’ may indeed be a
+‘final’ order. We are having in mind cases where a person is being
+deported to a foreign country and seeks an injunction and where in
+such a situation, the Court orders ‘notice’. Again, goods might be
+in the process of being exported beyond the territorial waters. In
+these cases the Court may not be having any power to restitute.
+Take again a case of execution by a death sentence and an affected
+party seeking an injunction and the court ordering ‘notice’. Here
+too, restitution is impossible. There could also be other rare cases
+falling in this category. We are mentioning these rare category of
+cases for here the impact of the order is not only ‘direct’ or
+‘immediate’ as stated in Shah Babulal's case but there is no
+chance of any kind of restitution or retrieval. Nor is case of
+monetary compensation help. In this class of cases, the order
+issuing ‘notice’ in our opinion clearly amounts to a total refusal of
+relief and such orders alone could be appealable as ‘judgments’.
+Here we may make it clear that cases of demolition of buildings do
+not fall in this category. There monetary compensation is possible.
+Subject to the above reservation applicable only in very rare cases,
+we are in entire agreement with the decision of the Andhra
+Pradesh High Court.
+
+7. Coming to the case before us, an application for injunction
+to restrain the defendants from parting with possession or
+encumbering the property where ‘notice’ alone is issued, the said
+order cannot, by any stretch of imagination, fall within the
+category of rare exceptions mentioned by us above. Further if in
+the meantime, possession is lost or alienation is made by the
+defendant. Section 52 of the Transfer of Property Act protects.
+Further, at an later stage, restoration of status quo order is possible
+under Section 144 or 151 CPC while in other cases, compensation
+can be paid. For example if a building is constructed in the
+meantime on the property after “notice ‘and before grant of any
+injunction the Court has the power, if need be, to have it
+demolished. If possession is lost, it can be restored. If property is
+encumbered, the same can be held to be subject to result of the
+ultimate decree.
+8. We are therefore of the view that in the present case, that
+the order of the learned Judge ordering ‘notice’ under Order 43
+Rule 1(r) CPC is not a ‘judgment’ under Section 10 of the Delhi
+High Court Act and hence the appeal is not maintainable. The
+appeal fails and is dismissed.”
+(Emphasis supplied)
+10. We are in respectful agreement with the above decisions.
+11. On a bare reading of Order XXXIX of the CPC, the
+submissions of Mr. Upadhyay cannot be accepted. There is no doubt
+that an order whether of grant of injunction or of denial of injunction
+would be relatable to Order XXXIX Rule 1 of the CPC. However, a
+refusal to grant injunction ex parte would not be relatable to Order
+XXXIX Rule 1 of the CPC as Order XXXIX Rule 3 of the CPC
+specifically empowers the court in that regard. Order XXXIX Rule 3
+of the CPC specifically notes that ordinarily a Court would not pass
+any order of injunction without issuance of notice of the application to
+the opposite party. However, the proviso to Order XXXIX Rule 3 of
+the CPC empowers the Court, in an appropriate case and for reasons to
+
+be recorded in that regard, to pass an order of injunction without
+giving notice to the opposite party.
+12. As such, an order which issues notice on the application for
+injunction to the opposite party, is an order passed in terms of Order
+XXXIX Rule 3 of the CPC. Equally, were the Court to pass an order
+of injunction ex parte, without notice to the opposite party, for reasons
+to be recorded in writing, such an order would also be relatable to
+Order XXXIX Rule 3 of the CPC, albeit the proviso thereto.
+13. The impugned order neither grant nor rejects the appellant’s
+application for injunction. It merely issues notice to the opposite party
+to respond to the application. In doing so, therefore, the learned
+Commercial Court has exercised the power conferred on it by Order
+XXXIX Rule 3 of the CPC.
+14. The Legislature has consciously excepted Order XXXIX Rule 3
+of the CPC from Order XLIII Rule 1(r). The intent is obvious, which
+is to prevent every innocuous case of issuance of notice being made
+subject matter of an appeal.
+15. We have to respect the mandate of the legislature, and not pass
+orders which would defeat its intent.
+16. Mr. Upadhyay also sought in concluding to advance a faint
+submission that the use of the words “submissions heard” in the
+impugned order would make the impugned order appealable.
+
+17. We fail to understand how this can be so. This submission is
+rejected.
+18. As such, for the aforesaid reasons, and also following the
+judgments of the earlier Division Benches in Sahil Singh Maniktala
+and Nisha Raj, which are binding on us as a Coordinate Division
+Bench, we decline to entertain this appeal, which is not maintainable
+in terms of Section 13 of the Commercial Courts Act.
+19. The appeal is, accordingly, dismissed as not maintainable
+without entering into merits.
+

@@ -1,0 +1,380 @@
+COURT: Commercial Court, Delhi
+CASE_TYPE: Commercial Suit
+CASE_NO: FAO (COMM) 247/2024
+DATE: 22.12.2025
+PLAINTIFF: HARISH MITTAL 
+DEFENDANT: KISHAN GOPAL RATHI 
+JUDGE: Justice TUSHAR RAO GEDELA
+
+----JUDGMENT----
+
+1. The present appeal under Section 37 of the Arbitration and
+Conciliation Act, 19961
+read with Section 13 of the Commercial
+Courts Act, 2015 challenges the Order dated 20.07.20242
+passed by
+the learned District Judge (Comm), South East, Saket Courts3
+,
+Delhi, in CS (Comm) No.166/2024 titled as‘M/s Nishant Promoters
+Pvt. Ltd. vs. M/s Electro Mech Engineerand Ors.’.
+
+1 The Act
+2
+Impugned Order
+3
+learned District Judge
+BRIEF FACTS:
+2. The Appellant herein is a partnership firm and engaged in
+fabrication and erection work. The Respondent herein is a company
+incorporated under the Companies Act, 2013, and is engaged in a
+similar line of business.
+3. The parties came into contact through their involvement in the
+execution of certain structural works at Jamuria Industrial Area,
+Bardhaman, West Bengal, for which the Appellant had received a
+work order dated 15.11.2022 from one M/s Gridhan Metal Pvt.
+Ltd.4
+. In furtherance of the same, vide e-mail dated 20.12.2022, the
+Appellant-contractor, engaged the Respondent as a sub-contractor for
+undertaking the specified on-site activities forming part of the said
+work order.
+4. During the subsistence of this arrangement, various e-mail
+communications were exchanged as between the parties and, on
+occasion, with GMPL, with regard to the said work order and the
+terms and conditions that governed such work between the Appellant
+and GMPL, and the parties herein. Of particular significance are
+e-mails dated 19.10.2022 and 19.12.2022, as it is alleged by the
+Appellant that they disclose the terms and conditions which regulate
+the contract between the parties herein, which is disputed by the
+Respondent.
+5. The Respondent executed the works and raised invoices against
+the Appellant totalling to Rs. 72,47,805/-, of which Rs. 44,77,939/-
+was paid. The balance of Rs. 29,82,953/- remained unpaid. In view of
+the non-payment, the Appellant issued a legal notice dated 16.09.2023
+to the Respondent, claiming the outstanding sum. The Respondent
+
+4 GMPL
+acknowledged receipt of the said notice with a reply dated 10.10.2023
+through WhatsApp, but did not make payment of the said dues.
+6. Subsequently, the Respondent filed a commercial suit being CS
+(COMM) No. 166/2024, seeking recovery of Rs. 29,82,953/- along
+with pendente lite and interest. In the said suit, the Appellant filed an
+application under Section 8 of the Act, seeking reference of the
+dispute to arbitration, along with a written statement, an application
+for condonation of delay under Order VIII Rule 10 Code of Civil
+Procedure, 19085
+, and reply under Order XXXVIII Rule 5 CPC.
+However, by order dated 01.06.2024, the learned District Judge
+dismissed the application under Order VIII Rule 10 CPC as the same
+was not pressed for by the Appellant herein.
+7. With reference to application filed under Section 8 of the Act,
+by the order impugned herein, the learned District Judge rejected the
+Appellant’s application, on the ground that the arbitration clause
+sought to be invoked in the present case is enshrined in a contract as
+between GMPL and the Appellant, and since there is no privity of the
+terms in the said contract with the Respondent herein, therefore, the
+said clause could not be extended for the purpose of resolution of a
+dispute between the Appellant and the Respondent herein.
+8. Aggrieved by the said impugned order, the Appellant has
+preferred the present appeal before this Court.
+CONTENTIONS OF THE APPELLANT:
+9. The learned counsel for the Appellant would draw our attention
+to the communication dated 06.07.2023, from the Respondent to the
+said GMPL, which states as under:
+
+5 CPC
+“We would like to bring to your notice that we have been working
+at your organisation M/s Gridhan Metal Pvt. Ltd. (GMPL).
+Jamuriasite on your 900 TPD DRI project under sub-contract of
+M/s Electro Mech Engineers according to GMPL terms and
+conditions.”
+10. He would also seek to rely upon an e-mail dated 15.03.2023
+addressed to the Respondent from the Appellant stating therein that
+the terms and conditions were on a back to back basis as per GMPL
+Work Order No. WJ22D12-002 dated 12.12.2022. He would thus
+contend that since there is an express acknowledgement of work being
+performed by the Respondent on “GMPL Terms and Conditions”, the
+same would operate as a clear indication of the understanding that the
+arbitration clause in the agreement as between GMPL and the
+Appellant herein would also extend to the relationship as between the
+parties herein.
+11. In support of his contentions, the learned counsel appearing for
+the Appellant would rely upon the Judgment of the learned Single
+Judge of this Court in Ms. G. Kapoor vs. M/S Reacon Engineers Pvt.
+Ltd.6
+. Relying upon this Judgment, he would state that since the
+arrangement as between the parties was a back to back arrangement
+with the primary understanding being as between GMPL and the
+Appellant, the terms of the Appellant’s contract with GMPL and, in
+particular, the Arbitration Clause thereof would also be applicable as
+between the parties herein. He would further rely upon the Judgment
+of the Hon’ble Supreme Court in NBCC (India) Limited vs. Zillion
+Infraprojects Pvt. Ltd.7
+to contend that the Arbitration Clause, by
+reference, would have to necessarily be made applicable as between
+the parties herein.
+
+6
+2019 SCC OnLine Del 10667
+7
+(2024) 7 SCC 174
+CONTENTIONS OF THE RESPONDENT:
+12. Per contra, learned counsel for the Respondent would submit
+that there was no privity of the contract as between the parties and
+mere general reference to the terms and conditions between the
+Appellant and GMPL would not per se bind or even be applicable to
+the relationship between the Appellant and the Respondent.
+13. It is further submitted that the Appellant’s reliance on the
+alleged Work Order dated 12.12.2022 (WJ22D12-002), purportedly
+issued by GMPL to the Appellant, is untenable, as the existence of
+such a document is specifically denied. It is urged that even assuming
+such a document to exist, the arbitration clause therein governs only
+the relationship between GMPL and the Appellant, and cannot bind
+the Respondent, who is neither a signatory nor has ever consented to
+arbitrate disputes with the Appellant.
+14. It is contended that there was never any intention on the part of
+the Respondent to submit to arbitration, and in the absence of any
+signed, executed, or otherwise accepted arbitration agreement inter se
+the parties, the Appellant cannot compel the Respondent to arbitrate.
+The Respondent emphasises that no document has been produced to
+demonstrate a conscious acceptance by the Respondent of arbitration
+as the dispute resolution mechanism.
+15. Learned counsel for the Respondent would contend that the
+Appellant has failed to comply with Section 8(2) of the Act, which
+requires production of the original arbitration agreement or a duly
+certified copy. The documents relied upon by the Appellant are stated
+to be mere photocopies, lacking signatures or authentication, and
+therefore insufficient to meet the statutory requirement.
+16. It is further submitted by the learned counsel for the
+Respondent that the Appellant’s conduct indicates that the application
+filed under Section 8 of the Act was an afterthought. Reference is
+made to the recall of the order dated 01.06.2024, and the Legal Notice
+dated 16.09.2023 and the Appellant’s Reply to the same dated
+10.10.2023, wherein no arbitration agreement was asserted, to contend
+that the plea was introduced belatedly only to avoid the jurisdiction of
+the commercial court.
+ANALYSIS:
+17. We have considered the rival submissions of the parties and,
+with their able assistance, perused the relevant records, as well as the
+law that has been referred to and relied upon by the parties.
+18. At the outset, it would be appropriate to reproduce the analysis
+and findings of the learned Commercial Court in the Impugned Order
+with respect to the application as under Section 8 of the Act. The
+relevant excerpts of the Impugned Order are set out as below:
+“The page '45' of the Written Statement is the workorder between
+the plaintiff and GMPL and no privity of contract between plaintiff
+and defendant is shown. The defendant intends to argue that by
+"back to back" application suggested in email at page 34 (referred
+above), the intent must be dragged to arbitration clause also.
+However, this is a mis-placed submission as no clear consensus for
+referring the dispute to an arbitrator can be raised as natural or
+obvious inference from the reading. The defendant cannot make
+the Court to read between the lines of a contract to seek imposition
+upon plaintiff.
+The defendant hence has failed to satisfy any of therequisites ofthe
+provision, no ground is reflected in the application under Section 8
+of Arbitration and Conciliation Act, which stands rejected.”
+19. The short question, therefore, that arises for this Court’s
+consideration is whether in the facts and circumstances of the present
+case, the Arbitration Clause that forms part of the Commercial
+Agreement/Work Order as between the said GMPL and the Appellant
+can, by reference, also be extended to the commercial arrangement as
+between the parties herein, meaning thereby that the parties herein
+would stand governed by the Arbitration Clause as contained in the
+agreement between the GMPL and the Appellant.
+20. We are afraid we cannot agree with the contentions of the
+Appellant herein. As is apparent, there is absolutely no privity of the
+contract as between GMPL and the Respondent herein. In fact, by
+their communication dated 07.07.2023, GMPL has clearly disallowed
+any subcontractor performing any work and has termed the
+Respondent as a third party/sub-contractor.
+21. The reliance placed by the Appellant on the communication of
+the Respondent with GMPL too does not assist the Appellant since the
+said communication was never addressed to the Appellant or
+determinative of the relationship as between the parties herein. It is
+loosely worded communication adverting to the fact that the
+Respondent was performing the work on the contract entered into
+between the Appellant and GMPL. This correspondence does not
+constitute an unambiguous approval and acceptance of the terms and
+conditions of the agreement as between those parties, nor does it
+evidence an absolute and concrete acceptance of the settlement of
+disputes as between the parties herein, by resort to Arbitration.
+22. That said, we advert now to the principal issue that requires our
+attention. We refer to the judgment produced by the learned counsel
+appearing for the Appellant, namely NBCC (India) Limited vs.
+Zillion Infra projects Pvt. Ltd (Surpa), and consider it appropriate to
+extract the relevant paragraphs of the same as follows:
+“17. It could thus be seen that this Court has held that when the
+parties enter into a contract, making a general reference to another
+contract, such general reference would not have the effect of
+incorporating the arbitration clause from the referred document
+into the contract between the parties. It has been held that the
+arbitration clause from another contract can be incorporated into
+the contract (where such reference is made), only by a specific
+reference to arbitration clause. It has further been held that where a
+contract between the parties provides that the execution or
+performance of that contract shall be in terms of another contract
+(which contains the terms and conditions relating to performance
+and a provision for settlement of disputes by arbitration), then, the
+terms of the referred contract in regard to execution/performance
+alone will apply, and not the arbitration agreement in the referred
+contract, unless there is special reference to the arbitration clause
+also.
+18. This Court further held that where the contract provides that
+the standard form of terms and conditions of an independent trade
+or professional institution will bind them or apply to the contract,
+such standard form of terms and conditions including any
+provision for arbitration in such standard terms and conditions,
+shall be deemed to be incorporated by reference. It has been held
+that sometimes the contract may also say that the parties are
+familiar with those terms and conditions or that the parties have
+read and understood the said terms and conditions. It has also been
+held that where the contract between the parties stipulates that the
+conditions of contract of one of the parties to the contract shall
+form a part of their contract, the arbitration clause forming part of
+such general conditions of contract will apply to the contract
+between the parties.
+19. A perusal of sub-section (5) of Section 7 of the Arbitration Act
+itself would reveal that it provides for a conscious acceptance of
+the arbitration clause from another document, by the parties, as a
+part of their contract, before such arbitration clause could be read
+as a part of the contract between the parties.
+20. It is thus clear that a reference to the document in the contract
+should be such that shows the intention to incorporate the
+arbitration clause contained in the document into the contract.
+21. The law laid down in M.R. Engineers & Contractors [M.R.
+Engineers & Contractors (P) Ltd. v. Som Datt Builders Ltd.,
+(2009) 7 SCC 696 : (2009) 3 SCC (Civ) 271] has been followed
+by this Court in Duro Felguera, S.A. v. Gangavaram Port
+Ltd. [Duro Felguera, S.A. v. Gangavaram Port Ltd., (2017) 9
+SCC 729 : (2017) 4 SCC (Civ) 764] and Elite Engg.
+&Construction (Hyd.) (P) Ltd. v. Techtrans Construction India
+(P) Ltd. [Elite Engg. & Construction (Hyd.) (P) Ltd. v. Techtrans
+Construction India (P) Ltd., (2018) 4 SCC 281 : (2018) 3 SCC
+(Civ) 60]
+22. No doubt that this Court in Inox Wind Ltd. v. Thermocables
+Ltd. [Inox Wind Ltd. v. Thermocables Ltd., (2018) 2 SCC 519 :
+(2018) 2 SCC (Civ) 195] has distinguished the law laid down
+in M.R. Engineers & Contractors [M.R. Engineers & Contractors
+(P) Ltd. v. Som Datt Builders Ltd., (2009) 7 SCC 696 : (2009) 3
+SCC (Civ) 271] . In the said case (i.e. Inox Wind [Inox Wind
+Ltd. v. Thermocables Ltd., (2018) 2 SCC 519 : (2018) 2 SCC (Civ)
+195]), this Court has held that though general reference to an
+earlier contract is not sufficient for incorporation of an arbitration
+clause in the later contract, a general reference to a standard form
+would be enough for incorporation of the arbitration clause.
+Though this Court in Inox Wind [Inox Wind Ltd. v. Thermocables
+Ltd., (2018) 2 SCC 519 : (2018) 2 SCC (Civ) 195] agrees with the
+judgment in M.R. Engineers & Contractors [M.R. Engineers &
+Contractors (P) Ltd. v. Som Datt Builders Ltd., (2009) 7 SCC 696 :
+(2009) 3 SCC (Civ) 271] , it holds that general reference to a
+standard form of contract of one party along with those of trade
+associations and professional bodies will be sufficient to
+incorporate the arbitration clause. In the said case (i.e. Inox
+Wind [Inox Wind Ltd. v. Thermocables Ltd., (2018) 2 SCC 519 :
+(2018) 2 SCC (Civ) 195] ), this Court found that the purchase order
+was issued by the appellant therein in which it was categorically
+mentioned that the supply would be as per the terms mentioned
+therein and in the attached standard terms and conditions. The
+respondent therein by his letter had confirmed its acceptance. This
+Court found that the case before it was a case of a single contract
+and not two-contract case and, therefore, held that the arbitration
+clause as mentioned in the terms and conditions would be
+applicable.
+23. The present case is a “two-contract” case and not a “singlecontract” case.
+29. As already discussed hereinabove, when there is a reference in
+the second contract to the terms and conditions of the first contract,
+the arbitration clause would not ipso facto be applicable to the
+second contract unless there is a specific mention/reference thereto.
+30. We are of the considered view that the present case is not a
+case of “incorporation” but a case of “reference”. As such, a
+general reference would not have the effect of incorporating the
+arbitration clause. In any case, Clause 7.0 of the LoI, which is also
+a part of the agreement, makes it amply clear that the redressal of
+the dispute between NBCC and the respondent has to be only
+through civil courts having jurisdiction of Delhi alone.”
+23. As is apparent from a reading of the paragraphs extracted
+above, the Hon’ble Supreme Court has, in no uncertain terms, held
+that a mere general reference to the terms of another contract cannot,
+of and by itself, lead to the incorporation of the Arbitration Clause
+from the referred document into the contract/agreement as between
+other parties. In fact, as has been succinctly set out in Paragraph
+No. 16 of the afore-extracted judgment, the necessary conditions for
+coming to a conclusion that the Arbitration Clause would get
+incorporated are as follows:
+“24. The scope and intent of Section 7(5) of the Act may therefore
+be summarised thus—
+(i) An arbitration clause in another document, would get
+incorporated into a contract by reference, if the following
+conditions are fulfilled;
+(1) the contract should contain a clear reference to the documents
+containing arbitration clause,
+(2) the reference to the other document should clearly indicate an
+intention to incorporate the arbitration clause into the contract,
+(3) the arbitration clause should be appropriate, that is capable of
+application in respect of disputes under the contract and should not
+be repugnant to any term of the contract.
+(ii) When the parties enter into a contract, making a general
+reference to another contract, such general reference would not
+have the effect of incorporating the arbitration clause from the
+referred document into the contract between the parties. The
+arbitration clause from another contract can be incorporated into
+the contract (where such reference is made), only by a specific
+reference to arbitration clause.
+(iii) Where a contract between the parties provides that the
+execution or performance of that contract shall be in terms of
+another contract (which contains the terms and conditions relating
+to performance and a provision for settlement of disputes by
+arbitration), then, the terms of the referred contract in regard to
+execution/performance alone will apply, and not the arbitration
+agreement in the referred contract, unless there is special reference
+to the arbitration clause also.
+(iv) Where the contract provides that the standard form of terms
+and conditions of an independent trade or professional institution
+(as for example the standard terms and conditions of a trade
+association or architects association) will bind them or apply to the
+contract, such standard form of terms and conditions including any
+provision for arbitration in such standard terms and conditions,
+shall be deemed to be incorporated by reference. Sometimes the
+contract may also say that the parties are familiar with those terms
+and conditions or that the parties have read and understood the said
+terms and conditions.
+(v) Where the contract between the parties stipulates that the
+conditions of contract of one of the parties to the contract shall
+form a part of their contract (as for example the general conditions
+of contract of the Government where the Government is a party),
+the arbitration clause forming part of such general conditions of
+contract will apply to the contract between the parties.”
+24. Resultantly, unless and until it is found that there is a specific
+reference for the purpose of incorporation of the Arbitration Clause
+into the present agreement/arrangement as between the parties, it
+cannot be held that the Arbitration Clause from the agreement
+between GMPL and the Appellant would get extended. This is all the
+more, given the statutory need for a consensus ad idem for the purpose
+of reference of disputes to arbitration, absent clear expression of
+which, by mere implication, a reference to resolution of disputes by
+arbitration cannot be imputed.
+25. Furthermore, the said Judgment refers to the existence of two
+contracts between the same parties and not to a scenario wherein a
+contract between two parties could be extended to a rank
+outsider/third party. The Judgment in Inox Wind Ltd. v.
+Thermocables Ltd.8
+too, is clearly distinguishable as it pertains to a
+different fact scenario altogether and would not be applicable in the
+facts of the present case.
+26. As has already been extracted hereinabove, the alleged
+admission on the part of the Respondent herein of the extension of the
+
+8
+(2018) 2 SCC 519
+said Arbitration Clause is clearly nothing but a general reference to
+the agreement itself without, in any manner, expressly consenting to
+its application to the contract as between the parties herein and is
+clearly not in consonance with the scope and intent of Section 7(5) of
+the Act.
+27. In view of the clear judgment of the Hon’ble Supreme Court
+and in the facts and circumstances of the present matter, we are of the
+considered view that no interference is required and the present appeal
+stands dismissed.
+28. The present appeal, along with pending application(s), if any,
+disposed of in the above terms.
+29. No Order as to costs.

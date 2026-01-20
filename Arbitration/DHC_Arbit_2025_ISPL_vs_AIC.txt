@@ -1,0 +1,883 @@
+COURT: Commercial Court, Delhi
+CASE_TYPE: Arbitration
+CASE_NO: O.M.P. (T) (COMM.) 122/2022
+DATE: 07.01.2026 
+PLAINTIFF: INTERCODE SOLUTIONS PRIVATE LIMITED 
+DEFENDANT: ARMOR INDIA CODING AND IMAGING SUPPLIES PRIVATE LIMITED
+JUDGE: Justice PURUSHAINDRA KUMAR KAURAV
+
+----JUDGMENT-----
+
+“Everything is theoretically impossible, until it is done”, is a
+remarkable statement by Robert A. Heinlein, an author of American science
+fiction. It holds some relevance in the present case, as it involves an order of
+termination of the arbitral proceedings on the ground that the continuation of
+the proceedings has become „impossible‟.
+2. The present petition is filed under Sections 14 and 15 of the
+Arbitration and Conciliation Act, 1996 (hereinafter referred to as the „Act‟)
+assailing the order dated 02.09.2022 passed by the Arbitral Tribunal,
+whereby, the Tribunal terminated the arbitral proceedings invoking Section
+32(2)(c) of the Act. The impugned order has been challenged on various
+grounds, inter alia, that the statutory requirements of Section 32(2)(c) of the
+Act are not satisfied.
+FACTUAL MATRIX
+3. The dispute arises from a series of commercial arrangements between
+the parties culminating in a Business Transfer Agreement (hereinafter
+referred to as „BTA‟) executed on 03.05.2019, under which the respondent
+agreed to acquire the petitioner‟s thermal transfer ribbon business for a total
+consideration of INR 35 crores. The transaction was preceded by a Secrecy
+3
+Agreement dated 21.11.2017 and a Letter of Intent issued on 11.12.2018 by
+Armor SAS, the parent company of the respondent.
+4. Following the execution of the BTA and a mutually agreed extension
+of the closing date, the respondent, on 30.08.2019, paid INR 29.5 crores and
+took over the entire business undertaking, including all assets, records, and
+employees, in terms of Schedule H of the BTA. The petitioners assert that
+they fulfilled all pre-closing obligations as certified by the Closing
+Certificate under Schedule G of the BTA. Despite assuming full operational
+control of the business from the closing date, the respondent allegedly
+withheld the balance INR 5.5 crores.
+5. Conversely, after the takeover, as per the facts stated by the
+respondent, PwC was engaged by the respondent to conduct a forensic audit
+of the transaction between the parties. Through correspondence exchanged
+between October and December 2019, PwC levelled allegations of fraud,
+misrepresentation, and breach of the BTA against the petitioner.
+6. In the meantime, the petitioners sought interim protection by filing a
+petition under Section 9 of the Act, resulting in directions for disclosure of
+assets. On 09.03.2020, the petitioners formally invoked arbitration under
+Clause 9.6 of the BTA by filing an application to DIAC, but the respondent
+did not respond, prompting the petitioners to move a petition under Section
+11(6) of the Act.
+7. During the pendency of the Section 11 petition, the respondent, in its
+response to the petitioner's request for arbitration dated 09.03.2020 before
+DIAC, nominated its nominee arbitrator on 19.01.2021. Thereafter, a threemember Tribunal was constituted under the DIAC Rules, 2018.
+4
+8. Once the arbitral proceedings commenced, the respondent sought the
+joinder of several non-signatory parties under Rule 28.1 of the DIAC Rules,
+which the Tribunal rejected on 29.04.2021 while clarifying that the
+respondent was free to pursue remedies before a competent forum. The
+petitioners filed their Statement of Claim on 09.06.2021.
+9. Shortly thereafter, and before filing its defence in arbitration, the
+respondent instituted CS(COMM) 376/2021 on 13.08.2021 before this Court
+against the petitioners and multiple non-signatories on the same underlying
+cause of action forming the basis of its proposed counterclaims. The
+following day, the respondent filed its Statement of Defence and
+Counterclaims before the Tribunal, allegedly without disclosing the
+pendency of the newly instituted civil suit.
+10. Subsequent thereto, the petitioners challenged the maintainability of
+the counterclaims through an application under Section 16 of the Act, which
+the Tribunal dismissed on 12.02.2022. The parties then filed crossapplications under Section 32 of the Act. The petitioners sought termination
+confined to the counterclaims, while the respondent sought termination of
+the entire arbitral proceedings on the ground that the petitioners, by
+participating in the civil suit proceedings without invoking Section 8 of the
+Act, had elected the civil forum, thereby rendering continuation of
+arbitration impossible. After considering the rival submissions, the Tribunal,
+vide order dated 02.09.2022, allowed the respondent‟s application under
+Section 32(2)(c) of the Act and terminated the proceedings in their entirety,
+primarily citing multiplicity arising from the civil suit.
+5
+11. The petitioners, assailing the aforesaid order, filed the present petition
+seeking setting aside of the impugned order and restoration of the arbitral
+proceedings for adjudication of their claims under the BTA.
+SUBMISSIONS
+12. Mr. Rajshekhar Rao, learned counsel for the petitioners, has made the
+following submissions: -
+i) The present petition under Section 14 of the Act is maintainable in
+light of precedents, inter alia, Lalitkumar V. Sanghavi (Dead)
+through LRs. v. Dharamdas V. Sanghavi & Ors.
+1
+P, and CL
+Suncon v. National Highways Authority of India2
+, which
+recognize that termination of mandate under Section 32(2)(c) of
+the Act may be examined under Section 14 of the Act.
+ii) The impugned order is contrary to the principle of party autonomy
+and the statutory framework of the Act, as the Tribunal, despite
+acknowledging a valid arbitration agreement, directed the
+petitioners to seek a remedy before a Civil Court, contrary to dicta
+of the Supreme Court in Bharat Aluminium Co. v. Kaiser
+Aluminium Technical Services Inc.
+3
+, Centrotrade Minerals &
+Metal Inc. v. Hindustan Copper Ltd.,4
+and ONGC Ltd. v. Afcons
+Gunanusa JV5
+
+1
+(2014) 7 SCC 255
+2
+2021 SCC OnLine Del 313
+3
+(2016) 4 SCC 126
+4
+(2017) 2 SCC 228,
+5
+2022 SCC OnLine SC 1122
+6
+iii)The Arbitral Tribunal failed to appreciate that claims and
+counterclaims are distinct proceedings and erred in holding that an
+application under Section 8 of the Act before the Civil Court was
+necessary, despite arbitration already having been invoked.
+iv) The conduct of the respondent constitutes forum shopping and
+abuse of process. Such conduct is impermissible in view of the
+decision in Avitel Post Studioz Ltd. v. HSBC PI Holdings
+(Mauritius) Ltd.6
+, and A. Ayyasamy v. A. Paramasivam.
+7
+v) The Tribunal erred in invoking the absence of non-signatory
+parties as a ground for termination, particularly when the joinder
+request had already been rejected by Procedural Order dated
+29.04.2021 under Rule 28.1 of the DIAC Rules, which had
+attained finality.
+13. Per contra, Mr. Ashim Sood, learned counsel for the respondent,
+supporting the impugned order, made the following submissions: -
+i) The petitioners, by their consistent conduct, have waived their
+right to invoke arbitration. It is a trite law that where a party
+initiates or participates in civil proceedings without insisting on
+arbitration, the arbitration agreement becomes inoperative as a
+result of election.
+ii) A party cannot selectively rely upon the arbitration clause for
+certain claims while simultaneously pursuing civil remedies for
+
+6
+(2021) 4 SCC 713
+7
+(2016) 10 SCC 386
+7
+others. The principles of election and approbation reprobation
+preclude a party from taking inconsistent stands and prevent a
+party from approbating the contract for benefit while repudiating it
+when convenient.
+iii)A party seeking to enforce an arbitration clause must demonstrate
+an unequivocal intention to be bound by arbitration. Any
+participation in a civil suit without such assertion amounts to
+abandonment of the right to arbitrate. The petitioner, knowingly,
+did not file any application under Section 8 of the Act before the
+Civil Court, and this fact has been duly recorded and relied upon
+by the Tribunal.
+iv) Once parties have engaged in parallel litigation or invoked
+multiple Court proceedings, the arbitration clause stands rendered
+inoperative, and compelling arbitration thereafter defeats the
+legislative purpose of efficiency and finality.
+v) The respondent relied upon equitable doctrines, including waiver,
+estoppel, election, and the principle that no party may "blow hot
+and cold" or "sail in two boats at the same time." Reference was
+made to the decision of the Supreme Court in Food Corporation
+of India v. Yadav Engineer & Contractor,8
+to submit that once a
+party elects a forum and derives advantage from it, it cannot
+subsequently rely upon the arbitration clause.
+
+8
+(1982) 2 SCC 499
+8
+vi) The termination of arbitral proceedings under Section 32(2)(c) of
+the Act was justified as the petitioners, themselves, rendered
+continuation of the proceedings impossible by their contradictory
+conduct. A party guilty of such conduct cannot seek revival of the
+arbitral mandate under Section 14 of the Act.
+vii) Reliance is placed on the decisions of the Supreme Court in
+Sukanya Holdings (P) Ltd. v. Jayesh H. Pandya and Thomas
+Cook (India) Ltd. v. Beach Ark Hotels (P) Ltd, to assert that
+neither bifurcation of causes of action nor splitting of parties is
+permissible under the scheme of the Act. Reliance is further placed
+on Shri Chand Construction v. Tata Capital3
+, Tata Capital v.
+Shri Chand Construction4
+, Onyx Musicabsolute v. Yash Raj
+Films5
+, Rachappa Gurudappa Bijapur v. Gurudiddappa6
+, Food
+Corporation of India v. Yadav Engineer & Contractor7
+,
+Ramasamy Athappan v. ICC8
+and Union of India v. N.
+Murugesan9
+.
+14. I have heard learned counsel appearing for the parties and have
+perused the record.
+15. At this stage, it is apposite to note that after hearing the parties at
+length, judgment in the matter was reserved on 13.11.2025. However, in the
+interregnum, the Supreme Court authoritatively settled the legal position
+concerning the remedy available against an order of termination under
+Section 32 of the Act, holding in Harshbir Singh Pannu and Anr. v.
+9
+Jaswinder Singh 9
+that the appropriate remedy is to approach a tribunal in a
+review and then the Courts under Section 14 of the Act. In view of the said
+pronouncement, the parties were re-notified and afforded an opportunity to
+address further submissions on the issue, including as to whether the
+petitioners intended to seek recourse by way of review. However, Mr. Rao,
+placing reliance on the principles articulated by the Supreme Court in
+paragraph no. 415 of the aforenoted decision, contended that the Arbitral
+Tribunal has brought the proceedings to an end by adjudicating the matter
+on merits, and consequently, the impugned action cannot be characterised as
+falling within the limited ambit of a procedural correction or review. This
+position was fairly conceded by Mr. Sood. In view thereof, the matter was
+again reserved for consideration.
+ANALYSIS
+16. At the threshold, it is pertinent to note the scope and ambit of the
+jurisdiction of the Court under Section 14 of the Act. Section 14(1)(a) of the
+Act envisages termination of the mandate of the Arbitrator when the
+Arbitrator either becomes de jure or de facto incapable of functioning as an
+Arbitrator.
+17. In the context of termination of proceedings, the Supreme Court in
+Harshbir Singh Pannu has now clarified that Section 14(2) of the Act, and
+in particular the expression used therein “the Court to decide on the
+termination of the mandate,” must receive a purposive and expansive
+construction so as to encompass a challenge to an order simpliciter
+terminating arbitral proceedings. The Supreme Court reasoned that
+termination of arbitral proceedings, in substance and effect, results in the
+
+9
+2025 INSC 1400
+10
+arbitrator being discharged of the obligation to conduct and administer the
+arbitration. In view of this consequence, and until the legislative lacuna in
+the Act is addressed, the Court has held that a party aggrieved by an order
+terminating arbitral proceedings must be afforded a remedy by permitting a
+challenge to such an order before the Court under Section 14(2) of the Act.
+18. Herein, the fundamental controversy pertains to the invocation of the
+provision under Section 32(2)(c) of the Act. The petitioners assert that the
+preconditions of Section 32(2)(c) of the Act were not satisfied and that the
+Tribunal‟s decision amounted to a misapplication of law resulting in
+frustration of party autonomy and arbitral process, whereas, the respondent
+avers that the petitioners‟ conduct in pursuing parallel proceedings and
+failing to seek recourse under Section 8 of the Act resulted in waiver,
+abandonment, and rendering the arbitration agreement inoperative.
+19. Accordingly, the primary question that arises for consideration is
+whether the continuation of arbitration was rendered „impossible‟ or
+„unnecessary‟ in view of the provisions of Section 32(2)(c) of the Act. The
+consequential issue is whether the termination of the arbitral proceeding was
+justified and sustainable in the eyes of law?
+20. In limine, it is noted that the statutory text and scheme envisaged in
+Section 32(2) of the Act, confers upon an arbitral tribunal a narrow, residual
+power to terminate proceedings only in instances where (a) a claimant
+withdraws his claim, (b) the parties agree to termination, or (c) the tribunal
+finds that continuation of the proceedings has for any other reason become
+„unnecessary‟ or „impossible‟.
+11
+21. The Supreme Court in Srei Infrastructure Finance Ltd. v. Tuff
+Drilling (P) Ltd.,
+10 expounded that Section 32(2)(c) of the Act contemplates
+termination of arbitral proceedings only in narrowly circumscribed
+contingencies expressly enumerated in said provision, and that the grounds
+under Section 32(2)(c) of the Act operate in a domain wholly distinct from
+the scheme of Section 25(a) of the Act, which governs termination for
+default of the claimant. The Court, in the factual matrix therein, held that the
+expressions „unnecessary‟ or „impossible‟ cannot be conflated with or
+expanded to include situations of non-prosecution or absence of the
+claimant, as such defaults fall squarely within Section 25(a) of the Act.
+Accordingly, the Court also held that the scope of Section 32(2)(c) of the
+Act is confined to circumstances where the arbitral process cannot proceed
+for reasons extraneous to party default, and cannot be invoked as a substitute
+for the relevant procedure prescribed under the Act.
+22. In an almost similar factual matrix as Srei Infrastructure Finance
+Ltd., the Supreme Court in Dani Wooltex Corpn. v. Sheil Properties (P)
+Ltd.,11 held that Section 32(2)(c) of the Act sets out an exhaustive
+framework governing the termination of arbitral proceedings, which may
+occur only upon the rendering of a final award or in the limited
+circumstances expressly enumerated in Section 32(2)(c) of the Act.
+Specifically, the Court emphasised that the grounds under Section 32(2)(a)
+and (b) are confined to withdrawal by the claimant and consensual
+termination by the parties, whereas, clause (c) operates as a residuary
+
+10 (2018) 11 SCC 470
+11 (2024) 7 SCC 1
+12
+provision applicable only when the continuation of the proceedings has, for
+reasons independent of party default, become „unnecessary‟ or „impossible.‟
+23. More importantly, the Bombay High Court in Maharashtra State
+Electricity Board v. Datar Switchgear12
+, recognised that clause (c) to subsection 2 of Section 32 of the Act vests a residuary but exceptional power in
+an arbitral tribunal to terminate the mandate, where continuation is rendered
+infructuous or impossible.
+24. Pertinently, it was also observed that a party that has engaged in
+contumacious conduct cannot be permitted to derive advantage from such
+conduct so as to seek termination of arbitral proceedings. The Court further
+noted that it is neither feasible nor advisable to exhaustively enumerate the
+circumstances in which an arbitral tribunal may conclude that continuation
+of the proceedings has become unnecessary or impossible. Such
+determinations, the Court noted, must depend on the facts and equities of
+each case, guided by the overarching principle that a party cannot profit
+from its own wrongful acts. The relevant extract of the aforenoted decision
+reads as under: -
+46. Section 32 is entitled “Termination of proceedings” and subsection (1) provides that the arbitral proceedings shall be terminated
+by the final Arbitral Award or by an order of the Arbitral Tribunal
+under sub-section (2). Sub-section (2) of section 32 is important for the
+purposes of the present proceedings and provides as follows:
+“32(2) The Arbitral Tribunal shall issue an order for the termination of
+the arbitral proceedings where-
+(a) the claimant withdraws his claim, unless the respondent objects to
+the order and the Arbitral Tribunal recognises a legitimate interest on
+his part in obtaining a final settlement of the dispute,
+
+12 2002 SCC OnLine Bom 983
+13
+(b) the parties agree on the termination of the proceedings, or.
+(c) the Arbitral Tribunal finds that the continuation of the proceedings
+has for any other reason become unnecessary or impossible.”
+(emphasis supplied).
+47. Sub-section (2), therefore, contemplates three situations where the
+Arbitral Tribunal is vested with the power to terminate the arbitral
+proceedings, namely, (i) when the claimant withdraws his claim, (ii)
+when the parties agree and (iii) when the Tribunal finds that
+continuation of the proceedings has for any other reason become
+unnecessary or impossible. The mandate of the Arbitral Tribunal
+terminates with the termination of the arbitral proceedings. (Subsection (3) of section 32). Clause (c) of sub-section (2) of section 32 has
+vested a residuary power in the Arbitral Tribunal to terminate the
+proceedings where it finds that a continuation thereof has for any other
+reason become unnecessary or impossible. The legislature has
+advisedly left it to the Tribunal to determine as to when the
+continuation of the proceedings has become unnecessary or impossible.
+The expression “unnecessary” may for instance involve a situation
+where proceedings are rendered infructuous. A situation may have
+arisen as a result of which an adjudication into the dispute has become
+unnecessary either as a result of the fact that the dispute does not
+survive or for any other valid reason. Situations may also arise where a
+continuation of proceedings is rendered impossible. Impossibility is not
+merely to be viewed from the point of view of a physical impossibility of
+an adjudication, but may conceivably encompass a situation where a
+party by a consistent course of conduct renders the very continuation of
+the arbitral proceedings impossible. Then again a party which has been
+guilty of contumacious conduct cannot be heard to seek the benefit of
+its conduct to seek termination. It is impossible to catalogue the
+circumstances in which the Arbitral Tribunal may hold that it is either
+unnecessary or impossible to continue the arbitral proceedings.”
+25. Thus, by deploying the words in Section 32(2)(c) of the Act, the
+legislature has created a narrowly circumscribed gateway for premature
+termination of arbitral proceedings.
+26. Elaborating more on the legal position explicated in Datar
+Switchgear Ltd, it is apposite to observe that the terms „unnecessary‟ and
+„impossible‟ are elastic and they must, in the context that they are used,
+resist rigid, one-size-fits-all definitions. Depending on the factual matrix and
+14
+equities of each case, „unnecessary‟ may encompass instances where the
+arbitral process no longer serves any meaningful adjudicatory purpose; but
+what is „unnecessary‟ in one dispute may not be so in another. The tribunal
+must therefore assess, in light of the circumstances before it, whether further
+proceedings would be otiose.
+27. Similarly, „impossible‟ should not be confined to a narrow conception
+of physical inability alone. It may include circumstances that strike at the
+tribunal‟s ability to adjudicate. How and when such circumstances amount
+to „impossibility‟ will depend on the particular facts and on reasoned
+findings by the tribunal.
+28. Moreover, in order to protect the sanctity of the arbitral proceedings,
+the power to terminate under Section 32(2)(c) of the Act may ordinarily be
+treated as a measure of last resort. Before taking this step, a tribunal may
+consider whether reasonably proportionate and practicable alternatives exist.
+For example, staying proceedings, proceeding on narrowed issues in stages,
+or impleading a necessary party and whether those alternatives can preserve
+the tribunal‟s ability to render effective relief.
+29. Also, where a party‟s own contumacious or obstructive conduct has
+materially contributed to the impediment alleged, the tribunal must take that
+conduct into account and be cautious about permitting that party to obtain
+advantage from such conduct.
+13 Whether such conduct disentitles a party
+from seeking termination is a matter to be determined on the facts and the
+equities of the case.
+30. In short, an order of termination may be appropriate where the record,
+taken as a whole, supports a reasoned conclusion that continuation has
+15
+become either „unnecessary‟ or „impossible‟. But the precise contours of
+these conclusions will vary with the facts.
+31. It is, therefore, neither feasible nor desirable to attempt an exhaustive
+catalogue of circumstances in which Section 32(2)(c) of the Act will apply.
+Each application of the provision is fact-driven and must be guided by the
+tribunal‟s careful appraisal of the surrounding circumstances, the interests of
+justice, and the principle that a party should not profit from its own wrongful
+acts.
+32. The statutory architecture of the Act, as consistently reiterated by the
+Supreme Court, reflects the legislature‟s unwavering commitment to party
+autonomy and the principle of minimal judicial intervention. These
+foundational pillars are embedded throughout the Act‟s language and
+structure. Any interpretation of Section 32(2)(c) of the Act should also
+undoubtedly exemplify this commitment and, therefore, restricts the scope
+of termination of proceedings in an agreed forum.
+33. Turning to the facts of the instant case, it becomes apparent that the
+reasons referred to by the Tribunal, particularly those articulated in
+paragraph No. 32 of the impugned order and germane to the issues at hand,
+may be categorised as follows:
+(i) In view of the pending suit, there exists a clear likelihood of
+conflicting decisions and a resultant multiplicity of proceedings.
+(ii) Such multiplicity of proceedings, coupled with the potential for
+inconsistent outcomes, runs contrary to the principles of public policy.
+(iii) The continuation of the arbitral proceedings in respect of the
+
+13 Reference to Datar switchgear ltd
+16
+claims under reference, despite the pendency of the suit, does not
+offer an efficacious or workable remedy.
+(iv) It is, therefore, legally impossible to allow the arbitration to
+continue in these circumstances
+34. For the sake of clarity, paragraph no.32 of the award is extracted as
+under: -
+32. As discussed hereinabove, the continuation of the present arbitration
+proceeding, in the face of the suit, has resulted in multiplicity of proceedings
+with the likelihood of conflicting decisions in contravention of the rule of
+public policy. The termination of the proceedings qua the claims in the
+reference, in the face of the suit, does not remedy the situation. lt is
+therefore, legally impermissible to continue arbitration proceedings in the
+singular facts and circumstances. In other words, continuation of the instant
+arbitration proceeding has become impossible, warranting the invocation of
+Section 32(2)(c) of the Act. The present arbitration proceeding is therefore
+terminated as a whole under Section 32(2)(c) of the Act. The application
+under Section 32(2}(c) filed by the Petitioner is rejected and that filed by the
+Respondent is allowed”
+35. Insofar as the discussion contained in paragraphs no. 31 and 33 of the
+impugned order is concerned, it pertains to distinct aspects arising under
+Sections 32, 25A, and 38(2) of Act.
+36. A perusal of the reasons underlying the termination of the mandate
+indicates that while the Tribunal‟s exposition of the legal position in the
+preceding paragraphs is, in principle, unimpeachable, its application of the
+law to the facts of the present case is wholly impermissible. At its
+foundation, the principal basis for the invocation of the power of termination
+is, as per the Tribunal, the impossibility of the arbitral proceeding in view of
+the legal bar attracted due to the pendency of the civil suit.
+37. At this stage, it is pertinent to compare the prayers made in the
+statement of claim and the suit filed in the Court, so as to examine the aspect
+17
+of multiplicity of proceedings, which forms the basis of the conclusion
+reached by the Tribunal. The comparison is depicted in the table below: -
+RELIEF SOUGHT IN MATTER OF
+ARBITRATION DAC/2764D/03-2020
+RELIEF SOUGHT IN CS(COMM) NO.
+376/2021
+ Pass an award in favour of the
+Claimant No. 1 directing the
+Respondent to pay a sum of Rs.
+6,81,04,278/- (Rupees Six Crores
+Eighty-One Lakhs Four Thousand
+Two Hundred Seventy-Eight Only)
+towards the balance consideration
+under the Business Transfer
+Agreement dated 03.05.2019;
+ Pass an award in favour of the
+Claimant No.1 directing the
+Respondent to pay a sum of Rs. Rs.
+2,04,11,887/- (Rupees Two Crore
+Four Lakh Eleven Thousand Eight
+Hundred Eighty-Seven only)
+towards the amounts paid to the
+foreign creditors appearing in
+Schedule E of the Business Transfer
+Agreement dated 03.05.2019 on
+behalf of the Respondent; 253
+ Pass an award in favour of the
+Claimant No.1 directing the
+Respondent to pay a sum of Rs.
+1,04,35,468/- (Rupees One Crore
+Four Lakhs Thirty-Five Thousand
+Four Hundred Sixty-Eight only)
+towards the amounts to be paid to
+the foreign creditors appearing in
+Schedule E of the Business Transfer
+Agreement dated 03.05.2019 on
+behalf of the Respondent;
+ In the alternative to Prayer (c)
+above, pass an award in favour of
+the Claimant No.1 directing the
+Respondent to pay a sum of Rs.
+ Order and decree the Defendants
+to, jointly and severally, pay to the
+Plaintiffs an amount of INR
+19,02,91 ,000 (Rupees Nineteen
+Crores Two Lakh Ninety-One
+Thousand) or such other amounts
+as may be deemed appropriate by
+this Hon'ble Court, together with
+interest, as compensation for
+damages and losses suffered by the
+Plaintiffs;
+ Direct Defendant No. 6 to refund
+the amount of INR 2, 77,57,825
+(Rupees Two Crore Seventy-Seven
+Lakh Fifty-Seven Thousand Eight
+Hundred and Twenty-Five)
+received by it from various
+customers of the Undertaking as on
+July 20, 2021, and such further or
+other amounts as may be collected
+by it thereafter;
+ Direct the Defendants to deliver to
+Plaintiff No. 1 any and all
+confidential and other commercial
+information relating to the
+Undertaking that is in their
+possession, including those parts of
+the parts of the Undertaking not
+transferred by Defendant No. 6 to
+Plaintiff No. 1;
+ Award costs of the proceedings in
+favour of the Plaintiffs; and
+Pass any further or other order(s)/
+directions as this Hon'ble Court may deem
+18
+1,04,35,468/- (Rupees One Crore
+Four Lakhs Thirty-Five Thousand
+Four Hundred Sixty-Eight only)
+directly to the foreign creditors;
+ Pass an award in favour of the
+Claimant No.1 directing the
+Respondent to pay to a sum of USD
+30,000 towards cancellation of
+Purchase Order no. DLS
+2018050402 dated 04 May 2018 in
+terms of Clause 3.1.2 of the BTA in
+the designated bank account of the
+Claimant No.1 i.e.
+Bank Name Kotak Mahindra Bank
+Account CC
+Type
+Address Mira Bhayander Branch
+Account 3911186009
+Number
+IFSC Code KKBK0000649
+ Pass an award in favour of the
+Claimant No.1 directing the
+Respondent to pay pendente lite
+and future interest @ 18% p.a. on
+the amounts claimed under Claims
+No. 1-5 above, till the date of actual
+realization;
+ Pass an award in favour of the
+Claimant No.1 directing the
+Respondent to pay the cost of the
+present arbitration proceedings;
+and
+Pass an award in favour of the Claimants
+and against the Respondent for such other
+or further reliefs or amount(s) as this
+Hon'ble Tribunal may deem fit and proper
+in the facts and circumstances of this case.
+fit and proper in the facts and
+circumstances of the case
+19
+38. The above comparison would indicate that there may indeed be
+certain overlapping issues between the arbitration proceedings and the civil
+suit. However, the Court is of the opinion that the mere existence of such
+overlap cannot, by itself, justify the Tribunal terminating the proceedings
+midway under Section 32(2)(c) of the Act, on the apprehension that
+conflicting decisions may arise.
+39. At this stage, it is pertinent to extract the discussion of the Tribunal
+while terminating the proceedings. The said extract is reproduced
+hereinunder: -
+18. As the pleadings in the reference and the suit demonstrate, the
+Claimants‟ defence in the suit is their claims in the reference and the
+Respondent‟s claims in the suit are premised on its defence to the
+Claimants‟ claims in the present proceedings. To reiterate, the
+Tribunal and the Hon‟ble High Court would have to examine the same
+facts and issues. However, the adjudication in the suit would be more
+comprehensive, having regard to the involvement of additional parties
+and the cause of action pertaining to them. As indicated hereinabove,
+the Claimants in their written statement have adequately elaborated the
+facts on which their claims in the reference are founded and have also
+set out their claims in details. The necessary foundational facts to
+pursue their claims in the suit have thus been furnished in their written
+statement. As such, the Claimants would not be rendered remediless, if
+the present proceedings are terminated as a whole, and they would be
+in a position to raise counterclaims in the suitor file a cross suit.
+Indeed, it has not been argued on behalf of the Claimants that their
+remedies in the suit are barred by limitation, their only cavil being of
+delay in adjudication and denial of their right to pursue the present
+proceedings in terms of the BTA.
+19. The scope and purport of Section 8 of the Act prior to its
+amendment vide Arbitration and Conciliation (Amdt.) Act 2015 came to
+be examined by the Hon‟ble Apex Court in Sukanya Holdings (P) Ltd.
+(Supra). The appellant therein had filed an application under Section 8
+of the Act in a suit filed by the Respondent No.1, to refer the parties to
+arbitration. The application was resisted by the Respondent No.1
+contending that the subject matter of the suit was not between the
+contracting parties and the reliefs claimed were not only against the
+20
+contracting parties but also against other parties/defendants. The
+jurisdictional High Court before which the application had been filed,
+rejected the same. The Hon‟ble Apex Court observed that there was no
+provision that when the subject matter of the suit includes subject
+matter of the arbitration agreement as well as other disputes, the
+matter is required to be referred to arbitration. Further, there was no
+provision as well for splitting the cause of action or parties and
+referring the subject matter of the suit to arbitration. Having regard to
+the text of Section 8 as it stood then, it was held that the matter in the
+suit ought to be one which comes within the ambit of the arbitration
+agreement and which the parties have agreed to refer to arbitration. It
+was ruled consequently that, where a suit is as to a matter which lies
+outside the arbitration agreement and is also1064between some of the
+parties who are not parties to the arbitration agreement, Section 8
+would have no application. With reference to the poser whether a
+dispute can be partly referred to arbitration, their Lordships held the
+view that no interpretation of Section 8 is possible, permitting
+bifurcation of the subject matter or the cause of action or the parties.
+20. In Emaar MGF Land Limited (Supra), the Hon‟ble Apex Court in
+the context of the amended language of Section 8, consequent upon the
+2015amendment of the Act, held that the same limits the intervention by
+the judicial authority to the scrutiny of only one aspect i.e the prima
+facie existence of a valid arbitration agreement. It was held that the
+words „notwithstanding any judgement, decree or order of the Supreme
+Court or any court‟ added by the amendment were to give effect to the
+legislative intendment of minimizing the intervention of the judicial
+authority in the context of an arbitration agreement, registering a
+departure from the determinations made inter-alia in Sukanya
+Holdings(P) Ltd. (Supra).
+21. Having regard to the imputations made in the suit and reiterated by
+the Respondent in its statement of defence in the reference, about the
+involvement of the Claimants and the other Defendants in the alleged
+conspiracy and their liability for the fraud and the deceit said to have
+been perpetrated by them, the Tribunal would be rendered unable to
+adjudicate1065thereon in absence of the additional parties. The
+adjudication in the reference in this context, would result in bifurcation
+of the parties and the cause of action, which does not meet judicial
+approval. On the other hand, these imputations having been pleaded,
+are required to be adjudicated comprehensively in presence of all the
+Defendants, in the suit.
+22. To restate, adjudication of the claims in the reference, would
+involve examination of the statement of defence and likewise,
+adjudication of the claims in the suit would warrant assessment of the
+defence of the Claimants, resulting in mutual evaluation of common
+facts, leading to multiplicity of the proceedings with the possibility of
+21
+conflicting decisions. The cause of action for the suit though different
+from that of the claims in the reference to begin with, would essentially
+get interknit at the time of adjudication, as common facts and issues
+would be involved. There would be bifurcation of parties and cause of
+action in course of adjudication in the reference in absence of the
+additional parties and to that extent, the adjudication in the reference
+would be incomplete, being limited to the parties and the cause of
+action before the Tribunal. In this extraordinary fact situation, the
+arbitration agreement has to yield to the consideration of public policy,
+as the continuation of the reference in the attendant facts and
+circumstances would result in multiplicity of the proceedings and
+likelihood of conflicting decisions.
+23. In Aloys Wobben (Supra), Prem Kalia and Daryanani (Supra),
+Mangilal Rungta (Supra), Kirtika Mukesh Bura (Supra), Vishnu B.
+Mayekar (Supra)and Debashis Singha Roy (Supra), it has been
+consistently underlined that the rule of public policy and justice
+warrants avoidance of multiplicity of judicial proceedings requiring the
+Court to decide again in respect of the same subject matter resulting in
+conflicting decisions on the same point.
+24. The Hon‟ble Apex Court in Vidya Drolia (Supra), propounded that
+an arbitrator, like the Court is bound to resolve and decide disputes in
+accordance with the public policy of the law. This decision is to drive
+home the point, that this Tribunal ought to avoid multiplicity of
+proceedings, which is opposed to the rule of public policy.
+25. In re the contention of the Claimants, that as in terms of Clause 9.3
+of the BTA, the Claimants are liable to indemnify the Respondent, for
+the losses suffered by it due to their (Claimants) fraud, willful
+misconduct and gross negligence, the Respondent ought to have acted
+as per the BTA, if it had any grievance in that regard instead of
+instituting the suit, suffice it to state that Clause 9.3.2 of the BTA limits
+such claims resulting directly from the fraud, willful misconduct or
+gross negligence by the Claimant No.1 and not by the additional
+parties in the suit as alleged. The indemnity clause of the BTA thus does
+not include third parties who are not parties to the BTA but are
+allegedly active participants to the fraud and deceit. The1067claims in
+the suit against the additional parties, imputing fraud and deceit by
+them therefore, do not come within the purview of the BTA. The suit, in
+this factual premise, cannot be faulted to have been instituted in breach
+of the BTA. The plea of the Claimants to the contrary, is rejected.
+26. The fact that the Respondent had along with another, instituted the
+suit for realizing its counter claims in the reference, before filing its
+counterclaim in the present proceedings, per se does not merit an
+inference that it had waived its right to pursue the counter claims in the
+instant proceedings. The Claimants noticeably, did not file any
+application under Section 8 in the suit and instead filed their written
+22
+statement therein. The contention of the Claimants, that as at the time
+of institution of the suit and filing of the written statement, the disputes
+had already been referred to arbitration, such an application was
+inconsequential, lacks in persuasion. The pendency of the present
+reference notwithstanding, the Claimant sought to have filed such an
+application before the Hon‟ble High Court, apprising it of the
+pendency of the reference and seeking appropriate orders from it,
+before filing its written statement. The stand of the Respondent that the
+parties by their conduct, thus indicated that they were willing to seek
+resolution of their disputes before the Hon‟ble High Court, therefore
+cannot be lightly disregarded. The plea of the Claimants that they
+cannot be compelled to forego their remedies in the reference in terms
+of BTA, cannot be sustained in the exceptional facts and circumstances
+of the case as the continuation of the instant proceedings would signify
+multiplicity of proceedings with the possibility of conflicting decisions
+opposed to the rule of public policy.
+27. In the context of Section 34 of the Arbitration Act 1940, relating to
+stay of legal proceedings, the Hon‟ble High Court of Madras in
+Ramasamy Athappan (Supra), after a detailed survey of the renderings
+of the Hon‟ble Apex Court amongst others in F.C.I Vs Yadav Engineer
+& Contractor,(1982) 2 SCC 499 and General Electric Company Vs
+Renusagar Power Company, (1987) 4 SCC 137, enunciated that the
+action of the defendant in filing a written statement or taking other
+steps in the legal proceedings would tantamount to abandonment of the
+right to seek arbitration. Their Lordships held that this principle would
+apply even to a case covered by the Act and if the defendant did not
+apply under Section 8 thereof, to refer the parties to arbitration, before
+submitting its first statement on the substance of the dispute, he would
+be guilty of abandonment of the right to seek arbitration.
+28. The reservation expressed on behalf of the Claimants that the
+Respondent did not endeavour to seek the consent of the additional
+parties also does not merit acceptance. As per Rule 28.1 of the Rules,
+having regard to the stage at which the request was made by the
+Respondent for joinder of additional parties, such impleadment was not
+permissible unless all parties including the additional party agreed
+thereto in writing. Admittedly the Claimants, who are parties to the
+BTA, declined to give consent to such joinder. Rule 28.3 of the Rules
+enjoins that all parties to the arbitration agreement shall be required to
+give written consent to the joinder of parties in addition to the written
+consent of the party to be impleaded. In view of the refusal of the
+Claimants to give written consent to the joinder of the additional
+parties, sought for by the Respondent, asper the above provisions of the
+Rules, any consent by the additional party to be impleaded, would have
+been of no consequence.”
+23
+40. A perusal of the aforesaid findings indicates that the Tribunal appears
+to have proceeded on the premise that the petitioner's objections to the
+respondent‟s counterclaims, arising from the overlap between the issues
+involved in the arbitration and civil suit, somehow rendered the arbitration,
+as a whole, as impossible. This expansion of a limited and issue-specific
+concern into a general impossibility of the arbitral proceeding seems to be
+unwarranted. The petitioner consistently maintained that their own
+contractual claims remained amenable to arbitral resolution and notably had
+not been carried to any other forum. The crux of the reasoning given by the
+Tribunal is the overlapping issues in the arbitration. However, this aspect
+has also not been subjected to any close scrutiny. The Tribunal appears to
+have accepted the same in a summary and cursory manner, and on mere
+assertions. Even if the Tribunal deemed such overlapping to have created
+any practical impossibility, it must have examined this aspect so as to
+demonstrate such impossibility. Suffice to note that such a discussion is
+conspicuously missing.
+41. The Tribunal, however, relies on the decision of the Supreme Court in
+Sukanya Holdings. The said decision has also been reiterated by Mr. Sood.
+However, such reliance is misplaced. The decision in Sukanya Holdings
+arose in the context of an application under Section 8 of the Act, as it stood
+prior to the 2015 amendment. The Supreme Court, therein, was concerned
+with the limited jurisdiction of a civil Court at the threshold stage of
+considering whether a dispute ought to be referred to arbitration. In that
+context, it was held that Section 8 did not permit bifurcation of causes of
+action or parties, and that where the subject matter of the suit was not fully
+referable to arbitration, a partial reference could not be ordered. However,
+24
+the facts of the instant case would indicate that reference to arbitration
+preceded the filing of the suit. In such facts, the impermissibility of
+bifurcation of the arbitrable disputes and non-arbitrable disputes at the stage
+of Section 8 of the Act would have no application.
+42. The Tribunal further accepted the respondent‟s contention that the
+arbitration was incapable of meaningful continuation because additional
+parties, said to be necessary, could not be joined. This conflates procedural
+inconvenience with statutory impossibility. The Tribunal did not identify
+any legal or factual circumstance demonstrating that disputes between the
+signatories could not be adjudicated within the arbitral framework. Instead,
+it treated the civil suit as the more convenient and comprehensive platform
+and regarded this as a primary reason to terminate the arbitration. The
+termination of arbitral proceedings cannot rest on the Tribunal‟s assessment
+of which forum might be better placed to dispose of the entirety of the
+dispute, especially when the parties have already been ad idem as to the
+referability of arbitration for the disputes arising from the contract.
+43. Equally untenable is the Tribunal‟s conclusion that the petitioner had
+waived arbitration by not invoking Section 8 of the Act in the civil suit and
+filing a written statement. A party‟s decision not to move a Section 8
+application in a suit filed by the opposite party subsequent to the
+commencement of arbitration proceedings cannot be elevated into an
+abandonment of the arbitral process. Furthermore, the petitioner filed a
+written statement in the civil suit in response to allegations made by the
+respondent. In their written statement, they have explicitly reserved their
+right to pursue their remedies under the arbitration agreement.
+25
+44. Pertinent to also note herein that Section 8 of the Act provides a
+statutory option to a party to the arbitration agreement, or to any person
+claiming through or under such party, to apply before the judicial authority
+where a civil action is instituted. Mere failure of a party to invoke the option
+does not automatically confer jurisdiction upon the judicial authority. The
+non-exercise of the remedy under Section 8 of the Act would not deter the
+judicial authority, being this Court in the present case, from independently
+exercising its jurisdiction and inherent powers to examine whether the civil
+suit is barred under Section 9 of the Code of Civil Procedure, 1908 (CPC).
+Reference can be made to the decision of this Court in Master Abhishek
+Mehra & Ors. v. DLF Commercial Developers Ltd.14
+, wherein the Court
+examined the maintainability of the suit therein in view of the constitution of
+an Arbitral Tribunal and applied the bar under Section 5 of the Act and
+Section 9 of CPC.
+45. Importantly, merely because the petitioner participated in a suit that
+involves some apparently overlapping issues, as only one of the defendants,
+it does not mean that the petitioners‟ own claim under the contract has been
+abandoned. A conclusion inviting such drastic consequences cannot be
+drawn in a cursory manner. If the arbitration is terminated on mere
+institution of the civil suit by the opposite party, it would effectively render
+the arbitration mechanism at the mercy of the other side. Moreover, the
+petitioner would be prohibited from seeking a fresh referral to arbitration, in
+light of the termination of the mandate of the Tribunal, despite the Arbitral
+Tribunal being the mutual forum of choice. And not to forget, the petitioner
+would invite all these consequences solely because the opposite party chose
+
+14 CS(OS) No. 58/2008
+26
+to institute a civil suit after subjecting itself to arbitration, thereby,
+frustrating the very intent of the arbitration clause in the contract governing
+the parties.
+46. Moving on, the Tribunal further held that the pendency of parallel
+proceedings, the possibility of overlapping issues, or the interest of public
+policy justified termination under Section 32(2)(c) of the Act. In a robust
+legal system, there could be multiple avenues for a party to vindicate its
+rights, and more often than not, the law permits parallel proceedings when
+they are intended for different purposes. In such a scenario, mere pendency
+of parallel proceedings would not ipso facto render any proceeding as
+impossible unless it is affected by a legal bar. Reference can be made to the
+recent decision of this Court in Lata Yadav v. Shivakriti Agro Pvt. Ltd &
+Ors,
+15 wherein, upon a detailed examination of the impugned order passed
+by the Arbitral Tribunal therein, the Court reiterated the settled legal
+position that the mere pendency, existence, or progression of parallel
+criminal or statutory proceedings does not operate as a bar to the
+continuation of arbitral proceedings.
+47. The Court in Lata Yadav recognized the settled principle that a single
+transaction or set of underlying facts may legitimately give rise to multiple
+proceedings, civil and criminal, which may proceed simultaneously and
+independently within their respective statutory and jurisdictional confines. It
+was categorically observed that to accept the pendency of criminal
+proceedings, including those under the Prevention of Money Laundering
+Act, 2002, as a ground for termination of arbitration would undermine the
+arbitral process and enable parties to routinely defeat arbitral jurisdiction by
+27
+initiating or relying upon parallel proceedings, irrespective of their ultimate
+outcome. The Court further relied upon the decision of the Supreme Court in
+Swiss Timing Ltd. v. Commonwealth Games 2010 Organising Committee16
+to reaffirm that there is no rigid or inflexible rule mandating the stay of civil
+or arbitral proceedings merely because a criminal trial is pending,
+particularly since findings rendered by an arbitral tribunal are not binding on
+criminal Courts and, at best, may have only persuasive value. It is pertinent
+to note that parallel litigation involving overlapping issues could certainly be
+held as „undesirable‟ or „inconvenient‟, but it cannot be termed as
+„impossible‟ without there being a prohibition of law against it or there
+being a clear demonstration of practical impossibility.
+48. At this stage, it is also germane to note that the respondent‟s conduct
+also reveals an attempt to approbate and reprobate by first affirming the
+arbitral process and thereafter seeking to undermine it through the institution
+of a civil suit. Having participated in the arbitration and allowed the
+Tribunal to be constituted, the respondent cannot subsequently pivot to the
+civil forum and rely on the breadth of its own pleadings to contend that
+arbitration has lost efficacy. The respondent‟s assertion that the petitioner
+was "blowing hot and cold" goes against itself. It is the respondent who
+introduced the civil suit after arbitral proceedings were commenced.
+Notably, a party cannot resort to parallel forums and thereafter attempt to
+shift the allegation of inconsistency to the other side. Such conduct cannot
+be invoked to dilute or defeat the petitioner‟s legitimate invocation of
+arbitration under the contract.
+
+15 2025: DHC:3984
+16 (2014) 6 SCC 677
+28
+49. Thus, the Tribunal‟s reasoning falls short of the stringent standard
+mandated by Section 32(2)(c) of the Act. There is no identification of any
+factor that renders continuation of proceedings before the Arbitral Tribunal
+as impossible. Although the termination in question is based on
+impossibility, but for the clarity of reasoning and in terms of Section
+32(2)(c) of the Act, it may also be noted that there is no demonstration that
+the adjudication of the petitioner‟s claims had become unnecessary. Even
+otherwise, the lis between the parties is wholly alive, and adjudication is
+indeed necessary for putting the respective rights and liabilities to rest.
+50. What emerges, instead, is a preference for the civil forum in the
+interest of perceived comprehensiveness. As already reiterated hereinabove,
+this is insufficient to order termination under the provisions of Section
+32(2)(c) of the Act.
+51. The Tribunal‟s order, therefore, stands vitiated and is, hereby, set
+aside. Let further steps be taken by the parties in accordance with law. No
+order as to costs.
+52. The instant petition stands disposed of.

@@ -1,0 +1,356 @@
+COURT: High Court of Delhi at New Delhi
+CASE_TYPE: Commercial Suit
+CASE_NO: RFA(COMM) 331/2025
+DATE: 10.11.2025
+PLAINTIFF: M/s Sri Ram Plastochem Pvt. Ltd.
+DEFENDENT: M/s Aggarwal Polymers India & Anr.
+JUDGE: Hon'ble Mr. Justice C. Hari Shankar & Hon'ble Mr. Justice Om Prakash Shukla
+
+--------JUDGEMENT---------
+
+1. This application seeks condonation of an inordinate delay of
+780 days in filing RFA (Comm) 331/2025.
+2. On the aspect of delay in commercial matters, the Supreme
+Court has taken an extremely strict view, as is reflected from the
+following passages from the decision in Government of
+Maharashtra v Borse Bros. Engineers & Contractors (P) Ltd1:
+“63. Given the aforesaid and the object of speedy disposal
+sought to be achieved both under the Arbitration Act and the
+Commercial Courts Act, for appeals filed under Section 37 of the
+Arbitration Act that are governed by Articles 116 and 117 of the
+Limitation Act or Section 13(1-A) of the Commercial Courts Act,
+a delay beyond 90 days, 30 days or 60 days, respectively, is to be
+condoned by way of exception and not by way of rule. In a fit case
+in which a party has otherwise acted bona fide and not in a
+negligent manner, a short delay beyond such period can, in the
+discretion of the court, be condoned, always bearing in mind that
+the other side of the picture is that the opposite party may have
+acquired both in equity and justice, what may now be lost by the
+first party's inaction, negligence or laches.”
+3. We, therefore, cannot condone delay as inordinate as 780 days
+without cogent grounds having been made out by the appellants
+justifying such condonation.
+4. We have heard Ms. Ruchi Gupta, learned Counsel for the
+appellants at some length on this application. Ms. Gupta’s contention
+is that fraud had been committed by the respondent and that, where
+fraud is committed, limitation does not enter the picture. She relies,
+for this purpose, on the judgment of the Supreme Court in Vishnu
+Vardhan v State of UP2.
+5. We do not deem it necessary to advert to the relevant paragraph
+from the said decision, as the proposition mooted by Ms. Ruchi Gupta
+is unexceptional. There can be no doubt about the fact that fraud
+unravels everything, ecclesiastical as well as temporal, and that, where
+fraud is found to exist, all equities stand divested. If the respondent
+had committed a fraud, there can be no doubt about the fact that the
+appellants might not be hit by limitation.
+6. We, therefore, called upon Ms. Gupta to substantiate her
+argument that there was fraud committed by the respondent.
+7. Ms. Gupta’s only contention, on the basis of which she bases
+the allegation of fraud, is based on a “certificate of non-starter report”
+dated 3 December 2020 issued by the North District Legal Services
+Authority3, which reads as under:
+“Ref.334/mediation/comm.-dispute/north/2020 Dated 03.12.2020
+Certificate of Non-Starter Report
+Name of the applicant: M/s. Sri Ram Plastochem Pvt. Ltd
+Date of application for pre-Institution mediation:
+02.11.2020.
+Name of opposite party: M/s Aggarwal Polymers India &
+Ors!
+Date scheduled for obtaining consent of opposite party:
+19.11.2020, 03.12.2020.
+Report made under rule 3(4) or 3(6): Under Rule 3(6).
+Non Starter Report reason: Notice/Final Notice served to
+the respondent and the respondent failed to give consent
+before this Authority on the fixed date mentioned in the
+Notice/ Final Notice.
+It seems that respondent is not interested in the Pre-
+Institution Mediation Process.
+Sd.
+Harjeet Singh Jaspal
+Secretary- North District
+District Legal Services Authority
+Rohini Courts, Delhi.”
+8. We may note that the afore-extracted certificate was issued in
+view of the mandate of Section 12A of the Commercial Courts Act,
+2015, which requires pre-institution mediation before any commercial
+suit is instituted. The respondent relied on the aforesaid certificate of
+“non-starter report” issued by the North DLSA to contend that Section
+12A stood exhausted.
+9. Ms. Gupta submits that the statement, in the aforesaid
+certificate, that notice had been served on the appellants, and the
+appellants had failed to give consent to the North DLSA, is incorrect
+as no notice was sent or served on the appellant by any means known
+to law.
+10. That, however, if anything, can only be an error in the
+certificate of non-starter report dated 3 December 2020. It is not Ms.
+Gupta’s contention - as it cannot be – that there was any collusion
+between the North DLSA and the respondent.
+11. In that view of the matter, even if it were to be presumed, for
+the sake of argument, that Ms. Gupta’s contention regarding the
+reference to the notice having been served on the appellants in the
+certificate of non-starter report issued by the North DLSA is incorrect,
+that cannot translate into fraud having been committed by the
+respondent.
+12. We may, in this context, advert to certain authorities which
+13. S.P. Chengalvaraya Naidu v Jagannath4 defines “fraud” as
+“an act of deliberate deception with the design of securing something
+by taking unfair advantage of another” and “a deception in order to
+gain by another’s loss ... a cheating intended to get an advantage”.
+Ram Chandra Singh v Savitri Devi5 squarely addressed the concept
+of fraud in litigation, and held:
+“15. Commission of fraud on court and suppression of material
+facts are the core issues involved in these matters. Fraud as is well
+known vitiates every solemn act. Fraud and justice never dwell
+together.
+16. Fraud is a conduct either by letter or words, which induces
+the other person or authority to take a definite determinative stand
+as a response to the conduct of the former either by word or letter.
+17. It is also well settled that misrepresentation itself amounts
+to fraud. Indeed, innocent misrepresentation may also give reason
+to claim relief against fraud.
+18. A fraudulent misrepresentation is called deceit and consists
+in leading a man into damage by wilfully or recklessly causing him
+to believe and act on falsehood. It is a fraud in law if a party makes
+representations which he knows to be false, and injury ensues
+therefrom although the motive from which the representations
+proceeded may not have been bad.
+19. In Derry v Peek6 it was held:
+“In an action of deceit the plaintiff must prove actual fraud.
+Fraud is proved when it is shown that a false representation
+has been made knowingly, or without belief in its truth, or
+recklessly, without caring whether it be true or false.
+A false statement, made through carelessness and without
+reasonable ground for believing it to be true, may be
+evidence of fraud but does not necessarily amount to fraud.
+Such a statement, if made in the honest belief that it is true,
+is not fraudulent and does not render the person making it
+liable to an action of deceit.
+4 (1994) 1 SCC 1
+5 (2003) 8 SCC 319
+*****
+22. Recently this Court by an order dated 3-9-2003 in Ram
+Preeti Yadav v U.P. Board of High School & Intermediate
+Education7 held:
+“13. Fraud is a conduct either by letter or words, which
+induces the other person or authority to take a definite
+determinative stand as a response to the conduct of the
+former either by words or letter. Although negligence is not
+fraud but it can be evidence on fraud. (See Derry v Peek.)
+14. In Lazarus Estates Ltd. v Beasley8 the Court of
+Appeal stated the law thus:
+‘I cannot accede to this argument for a moment. No
+court in this land will allow a person to keep an
+advantage which he has obtained by fraud. No
+judgment of a court, no order of a minister, can be
+allowed to stand if it has been obtained by fraud.
+Fraud unravels everything. The court is careful not
+to find fraud unless it is distinctly pleaded and
+proved; but once it is proved it vitiates judgments,
+contracts and all transactions whatsoever;’
+15. In S.P. Chengalvaraya Naidu v Jagannath this
+Court stated that fraud avoids all judicial acts, ecclesiastical
+or temporal.”
+23. An act of fraud on court is always viewed seriously. A
+collusion or conspiracy with a view to deprive the rights of the
+others in relation to a property would render the transaction void ab
+initio. Fraud and deception are synonymous.
+24. In Arlidge & Parry on Fraud, it is stated at p. 21:
+“Indeed, the word sometimes appears to be virtually
+synonymous with ‘deception’, as in the offence (now
+repealed) of obtaining credit by fraud. It is true that in this
+context ‘fraud’ included certain kinds of conduct which did
+not amount to false pretences, since the definition referred
+to an obtaining of credit ‘under false pretences, or by means
+of any other fraud’. In Jones, for example, a man who
+ordered a meal without pointing out that he had no money
+was held to be guilty of obtaining credit by fraud but not of
+7 (2003) 8 SCC 311
+obtaining the meal by false pretences: his conduct, though
+fraudulent, did not amount to a false pretence. Similarly, it
+has been suggested that a charge of conspiracy to defraud
+may be used where a ‘false front’ has been presented to the
+public (e.g. a business appears to be reputable and
+creditworthy when in fact it is neither) but there has been
+nothing so concrete as a false pretence. However, the
+concept of deception (as defined in the Theft Act, 1968) is
+broader than that of a false pretence in that (inter alia) it
+includes a misrepresentation as to the defendant's
+intentions; both Jones and the ‘false front’ could now be
+treated as cases of obtaining property by deception.”
+25. Although in a given case a deception may not amount to
+fraud, fraud is anathema to all equitable principles and any affair
+tainted with fraud cannot be perpetuated or saved by the
+application of any equitable doctrine including res judicata.”
+14. Shrisht Dhawan v Shaw Brothers9 is also instructive in this
+regard:
+“20. Fraud and collusion vitiate even the most solemn
+proceedings in any civilised system of jurisprudence. It is a
+concept descriptive of human conduct. Michael Levi likens a
+fraudster to Milton's sorcerer, Comus, who exulted in his ability to,
+‘wing me into the easy-hearted man and trap him into snares’. It
+has been defined as an act of trickery or deceit. In Webster's Third
+New International Dictionary fraud in equity has been defined as
+an act or omission to act or concealment by which one person
+obtains an advantage against conscience over another or which
+equity or public policy forbids as being prejudicial to another.
+In Black's Legal Dictionary, fraud is defined as an intentional
+perversion of truth for the purpose of inducing another in reliance
+upon it to part with some valuable thing belonging to him or
+surrender a legal right; a false representation of a matter of fact
+whether by words or by conduct, by false or misleading
+allegations, or by concealment of that which should have been
+disclosed, which deceives and is intended to deceive another so
+that he shall act upon it to his legal injury. In Concise Oxford
+Dictionary, it has been defined as criminal deception, use of false
+representation to gain unjust advantage; dishonest artifice or trick.
+According to Halsbury's Laws of England, a representation is
+deemed to have been false, and therefore a misrepresentation, if it
+was at the material date false in substance and in fact. Section 17
+of the Contract Act defines fraud as act committed by a party to a
+contract with intent to deceive another. From dictionary meaning
+or even otherwise fraud arises out of deliberate active role of
+representator about a fact which he knows to be untrue yet he
+succeeds in misleading the representee by making him believe it to
+be true. The representation to become fraudulent must be of a fact
+with knowledge that it was false. In a leading English case
+[Derry v Peek] what constitutes fraud was described thus:
+“[F]raud is proved when it is shown that a false
+representation has been made (i) knowingly, or (ii) without
+belief in its truth, or (iii) recklessly, careless whether it be
+true or false.”
+But fraud in public law is not the same as fraud in private law. Nor
+can the ingredients which establish fraud in commercial transaction
+be of assistance in determining fraud in Administrative Law. It has
+been aptly observed by Lord Bridge in Khawaja v Secretary of
+State for Home Deptt.10, that it is dangerous to introduce maxims
+of common law as to effect of fraud while determining fraud in
+relation to statutory law. In Pankaj Bhargava v Mohinder
+Nath11, it was observed that fraud in relation to statute must be a
+colourable transaction to evade the provisions of a statute. “If a
+statute has been passed for some one particular purpose, a court of
+law will not countenance any attempt which may be made to
+extend the operation of the Act to something else which is quite
+foreign to its object and beyond its scope.” [Craies on Statute Law,
+7th edn., p. 79] Present day concept of fraud on statute has veered
+round abuse of power or mala fide exercise of power. It may arise
+due to overstepping the limits of power or defeating the provision
+of statute by adopting subterfuge or the power may be exercised
+for extraneous or irrelevant considerations. The colour of fraud in
+public law or administrative law, as it is developing, is assuming
+different shades. It arises from a deception committed by
+disclosure of incorrect facts knowingly and deliberately to invoke
+exercise of power and procure an order from an authority or
+tribunal. It must result in exercise of jurisdiction which otherwise
+would not have been exercised. That is misrepresentation must be
+in relation to the conditions provided in a section on existence or
+non-existence of which power can be exercised. But non-
+disclosure of a fact not required by a statute to be disclosed may
+not amount to fraud. Even in commercial transactions non-
+disclosure of every fact does not vitiate the agreement. “In a
+contract every person must look for himself and ensures that he
+acquires the information necessary to avoid bad bargain.”
+10 (1983) 1 All ER 765
+[Anson's Law of Contract] In public law the duty is not to deceive.
+For instance non-disclosure of any reason in the application under
+Section 21 of the Act about its need after expiry of period or
+failure to give reason that the premises shall be required by son,
+daughter or any other family member does not result in
+misrepresentation or fraud. It is not misrepresentation under
+Section 21 to state that the premises shall be needed by the
+landlord after expiry of the lease even though the premises in
+occupation of the landlord on the date of application or, after
+expiry of period were or may be sufficient. A non-disclosure of
+fact which is not required by law to be disclosed does not amount
+to misrepresentation. Section 21 does not place any positive or
+comprehensive duty on the landlord to disclose any fact except that
+he did not need the premises for the specified period. Even the
+Controller is not obliged with a pro-active duty to investigate.
+Silence or non-disclosure of facts not required by law to be
+disclosed does not amount to misrepresentation. Even in contracts
+it is excluded as is clear from explanation to Section 17 unless it
+relates to fact which is likely to affect willingness of a person to
+enter into a contract. Fraud or misrepresentation resulting in
+vitiation of permission in context of Section 21 therefore could
+mean disclosure of false facts but for which the Controller would
+not have exercised jurisdiction.”
+(Emphasis supplied)
+State of Maharashtra v Dr. Budhikota Subbarao12 defines “fraud”
+as “false representation by one who is aware that it was untrue with
+an intention to mislead the other who may act upon it to his prejudice
+and to the advantage of the representor”.
+15. In the present case, clearly, the respondent cannot be held to be
+guilty of any fraud as would enable the Court to close its eyes to the
+delay of 780 days in instituting the present appeal. The error in the
+“certificate of non-starter report”, assuming was an error, was by the
+DLSA, and not by the respondent. There is, thankfully, no allegation
+of collusion between the respondent and the DLSA – as, indeed, there
+cannot be.
+16. In fact, the primary ground advanced in the present application,
+for condonation of delay, is not of fraud on the respondent’s part, but
+that there was negligence on the part of the Counsel appearing for the
+appellants in prosecuting the matter.
+17. This aspect stands covered by the recent decision of the
+Supreme Court in Rajneesh Kumar v Ved Prakash13 as well as by a
+judgment of a Coordinate Bench of this Court, authored incidentally
+by one of us (C. Hari Shankar, J.) in Rahul Mavai v UOI14. The
+relevant paragraphs of the said decisions may be reproduced thus:
+From Rajneesh Kumar
+“10. It appears that the entire blame has been thrown on the head
+of the advocate who was appearing for the petitioners in the trial
+court. We have noticed over a period of time a tendency on the part
+of the litigants to blame their lawyers of negligence and
+carelessness in attending the proceedings before the court. Even if
+we assume for a moment that the concerned lawyer was careless or
+negligent, this, by itself, cannot be a ground to condone long and
+inordinate delay as the litigant owes a duty to be vigilant of his own
+rights and is expected to be equally vigilant about the judicial
+proceedings pending in the court initiated at his instance. The
+litigant, therefore, should not be permitted to throw the entire
+blame on the head of the advocate and thereby disown him at any
+time and seek relief.”
+From Rahul Mavai
+“3. The explanation in para 4 of the writ petition can hardly
+explain six years of delay in approaching the Court.
+4. We also disapprove the unwholesome practice of seeking to
+explain away inordinate delay and laches on approaching the Court
+on the mere ground that the Counsel who had been dealing with, or
+entrusted, the matter, was tardy, negligent, or indolent. At times,
+this assertion is sought to be supported by an assertion that the
+13 2024 SCC OnLine SC 3380
+litigant has approached the Bar Council concerned against the
+counsel.
+5. We emphatically disapprove of this practice of shifting, to
+the shoulders of the Counsel, the negligence in approaching the
+Court. It is easy, in such circumstances, to file a complaint before
+the Bar Council and seek to explain away the delay. We deprecate
+this. A litigant does not abandon all responsibility to keep track of a
+matter, once it is entrusted to Counsel.
+6. That said, if, in fact, the Counsel has been negligent, the
+litigant would have to place, on record, material to indicate that
+she, or he, has been in touch with the Counsel during the entire
+period of delay, and that the Counsel has been misleading her, or
+him. This material must be acceptable, and convincing. The Court
+has to be satisfied that, in fact, the Counsel has been misleading the
+client, and that this explains the entire period of delay in
+approaching the Court. Of course, if the Court is so satisfied, and
+an innocent litigant has been led up the garden path by an
+unscrupulous Counsel, the court would not allow injustice to be
+done, and would, in an appropriate case, condone the delay.”
+18. Mere allegations of laxity on the part of Counsel, therefore,
+cannot constitute a legitimate basis to condone a delay as inordinate as
+780 days, especially in a commercial matter.
+19. No other ground for condonation of delay having been
+advanced, we are constrained to hold that there is no sufficient cause
+to condone the delay in instituting the present appeal.
+20. The application for condonation of delay is dismissed.
+RFA(COMM) 331/2025, CM APPL. 34907/2025 & CM APPL.
+34908/2025
+21. In view of the dismissal of the application for condonation of
+also be dismissed on the ground of delay without going into the
+merits.
+22. Needless to say, as we are not entertaining the appeal, any
+amount deposited by the appellants would be returned to the
+appellants.
+C.HARI SHANKAR, J
+OM PRAKASH SHUKLA, J
+NOVEMBER 10, 2025/gunn

@@ -1,0 +1,479 @@
+COURT: High Court of Delhi at New Delhi
+CASE_TYPE: Commercial Suit
+CASE_NO: RFA(OS)(COMM) 14/2024 & 33/2025
+DATE: 27.11.2025
+PLAINTIFF: Shri Sanjeev Joon
+DEFENDENT: Shri Surender Basoya & Anr.
+JUDGE: Hon'ble Mr. Justice Anil Kshetrapal & Hon'ble Mr. Justice Harish Vaidhyanathan Shankar
+
+--------JUDGEMENT---------
+
+1. Through the present Appeals, the Appellants assail the
+correctness of common judgement dated 04.03.2024 [hereinafter
+referred to as „Impugned Judgement‟] passed by the learned Single
+filed by the Respondent [Plaintiff before the learned Single Judge],
+were decreed.
+2. Since, the parties to the disputes are common, as is the
+Impugned Judgement, this Court deems it appropriate to deliver a
+common judgement with bifurcation of both the Appeals wherever
+necessary, while referring to the parties in the same manner.
+3. For sake of convenience, the parties before this Court shall be
+referred to in accordance with their status before the LSJ.
+COMMON FACTUAL MATRIX:
+4. In order to comprehend the issues involved in the present case,
+it is imperative to cull out the relevant background facts, which are set
+forth hereinafter.
+5. While filing the suits and the interim applications under Order
+VIII Rule 10 of the Code of Civil Procedure, 1908 [hereinafter
+referred to as „CPC‟] the Plaintiffs, in brief, asserted as under:
+6.1 In the plot admeasuring 1600 Sq. Yds., there were three owners.
+One-half belonged to Ms. Anju Bansal, i.e., measuring 800 Sq. Yds.
+The Plaintiff claims that the aforesaid property belonged to him, as he
+had invested the amount. In the remaining 800 Sq. Yds., Mr. Ramesh
+Kumar was the owner of 1/4th share i.e. 400 Sq. Yds., whereas another
+person Mr. Akhil Jain was the owner of 400 Sq. Yds. [hereinafter
+collectively referred to as „Suit Properties‟].
+Yds. plot vide Sale Deed dated 02.07.2013 from Ms. Anju Bansal on
+payment of Rs. 1,47,00,000/-. With respect to the remaining 500 sq.
+Yds. from the Suit Properties, available in the name of Ms. Anju
+Bansal, there was a Settlement Agreement executed between the
+Plaintiff and Ms. Anju Bansal dated 12.06.2015, which was
+acknowledged in a Court Decree dated 17.07.2015. Therein, it was
+held that the Plaintiff will be owner of 80%, whereas Ms. Anju Bansal
+shall be owner of 20%.
+6.3 Mr. Ramesh Kumar, another co-sharer vide Sale Deed dated
+27.10.2014 sold 400 Sq. Yds. in favour of Defendant No.1, a builder,
+for a sum of Rs. 1,90,00,000/-.
+6.4 In the month of September 2016, the Defendant No.1 purchased
+an additional 270 sq. Yds. plot of the Suit Properties from the Plaintiff
+and Ms. Anju Bansal for a total sale consideration of Rs.1,58,00,000/-,
+out of which Rs.1,26,40,000/- was payable to the Plaintiff and
+remaining Rs.31,60,000/- was to be paid to Ms. Anju Bansal. The Sale
+Deed was duly registered on 15.10.2016 and the entire sale
+consideration was sought to be paid by the seven post-dated cheques
+of Rs.1,25,13,600/-, whereas Rs.1,26,400/- was deducted as TDS.
+6.5 All cheques issued by Defendant No.1, on presentation, were
+dishonoured. As per the terms of Sale Deed, the express recitals in
+Clause 6 of the said deed states, in the event of dishonour of the
+cheques, the sale would automatically stand cancelled. Clause 6 of the
+The said Clause 6 read as under:
+“That the VENDOR hereby further covenants with the
+VENDEE that in case said Property or any portion of the
+Property hereby sold is lost to the VENDEE on account of
+any legal defect in the title and right of the VENDOR to
+transfer the same or the possession or quite enjoyment of
+the said Property by the VENDEE in any manner
+disturbed on account of litigation started by anyone
+claiming title thereof or on account of some act and
+omission of the VENDOR then the VENDOR shall be
+liable and responsible for all the losses, damages, costs
+and expenses sustained by the VENDEE. Simultaneously,
+the VENDEE has also agreed and undertaken that since
+the payment of sale consideration is payable in future,
+the cheque issued in favour of the CONFIRMING
+PARTY shall be honoured/encashed on presentation and
+in the event of dishonour of any of cheques and/or nonpayment of amount thereof within seven days of such
+dishonour, the Sale shall stand cancelled automatically
+and whatsoever money paid by the VENDEE shall stand
+forfeited and the CONFIRMING PARTY exclusively
+shall have absolute right either to take possession of Said
+Property and/or to seek recovery of entire sale
+consideration from the VENDEE as agreed herein and
+in such eventuality, the VENDEE shall be liable to pay
+the entire sale consideration together with interest @
+18% per annum from the date of present Sale Deed till
+realization / payment to the CONFIRMING PARTY and
+the VENDEE shall exclusively be responsible and liable
+for all such action, liabilities and obligations as may be
+undertaken by him on the basis of present Sale Deed. It
+is also agreed that in such eventuality, the VENDOR shall
+not have any right either in the Property or the amount
+receivable by the CONFIRMING PARTY and the
+VENDOR shall also be bound to execute the Sale Deed in
+favour of the CONFIRMING PARTY or his Nominees, as
+the case may be for the remaining amount.
+6.6 The Plaintiff issued a demand notice to the Defendant No.1
+asking for the payment of sale consideration, resulting in an
+agreement dated 20.06.2017, whereby the Defendant No.1
+acknowledged his liability towards the sale consideration mentioned
+fresh cheques, amounting to Rs.1,26,40,000/- in favour of the Plaintiff
+and undertook that, in the event of default or dishonour of said
+cheques, the Defendant No.1 shall be liable to pay interest @ 18% per
+annum from the date of Sale Deed and the Plaintiff will additionally
+be entitled to seek cancellation of Sale Deed.
+6.7 Apart from that, on 20.06.2017 itself, an unregistered
+Agreement to Sell [hereinafter referred to as „ATS‟] was also executed
+between the Defendant No.1 and the Plaintiff, qua the remaining 230
+Sq. Yds. of the Suit Properties, for a sum of Rs.1,24,00,000/-, which
+forms the subject matter of CS (COMM) 720/2021. A post-dated
+cheque was issued by the Defendant No.1 in favour of the Plaintiff
+under this ATS. The aforesaid cheques issued by the Defendant No.1,
+were presented for encashment on 29.05.2018 and on 19.07.2018
+respectively, but were also dishonoured.
+6.8 In these circumstances, the Plaintiff issued demand notices to
+the Defendant No.1 and requested to pay requisite outstanding
+amounts and filed criminal complaints under Section 138 of the
+Negotiable Instruments Act, 1881 [hereinafter referred to as „NI Act‟]
+against the Defendant No.1.
+6.9 It also transpires that the Defendant No.1 has transferred some
+part of the Suit Properties, in favour of his wife, i.e., the Defendant
+No.2 by way of two registered Gift Deeds dated 14.03.2019.
+6.10 During the pendency of the aforesaid complaint case qua the
+seven post dated cheques issued by the Defendant No.1, a sum of
+6.11 Thus, the Plaintiff filed Civil Suit Nos. 719/2021 and 720/2021,
+claiming the following reliefs:-
+“1. CS(COMM) 719/202.1 has been filed by the plaintiff seeking the
+following reliefs:
+(a) to pass a Decree of recovery of sum of Rs. 2,27,42,104/- (Rupees
+Two Crores Twenty Seven lacs Forty Two Thousand One Hundred
+Four) together with interest @ 1.8% per annum since 22.12.2021 till
+realization of entire amount in favour of the Plaintiff and against the
+Defendants, jointly and severally;
+Or in alternate of Prayer (a), the Prayer (b) and (c)
+(b) to pass a Decree of Declaration thereby declaring that the Sale
+Deed dated 15.9.2016 executed by Plaintiff and in favour of
+Defendant No. 1 In respect of Plot of land measuring 270 sq. yards
+(225 sq. meters) out of Plots measuring 400 sq. yards (335 sq. meters)
+bearing Property No. 62 –A/1 and adjoining Plot measuring 400 sq.
+yards (335 sq. meters) of Khasra No. 136/1/2 (Min) at Village Garhi
+Jharia Maria, New Delhi -110065 is without consideration and is void
+ab initio and nullity and no title has transferred and passed in favour
+of Defendant No. 1 and also subsequent two Gift Deeds dated
+14.3.2019 executed by Defendant No. 1 in favour of Defendant No. 2
+and also ordering endorsement of cancellation on said Sale Deed and
+Gift Deeds by the concerned Sub-Registrar; and
+(c) to pass a Decree of Possession in favour of the Plaintiff and
+against the Defendants thereby directing the Defendants jointly and
+severally, their associates, successors, assign, attorney, representative
+or any other person claiming on their behalf to restore back the
+possession of the Property i.e. Plot of land measuring 270 sq. yards
+(225 sq. meters) out of Plots measuring 400 sq. yards (335 sq. meters)
+bearing Property No. 62-A/1 and adjoining Plot measuring 400 sq.
+yards (335 sq. meters) of Khasra No. 136/1/2 (Min) a, Village Garhi
+Jharia Maria, New Delhi- 110065 to the Plaintiff;
+(d) to pass a Decree of Permanent Injunction in favour of the Plaintiff
+and against the Defendants thereby restraining the Defendants, their
+family members, successor-in-interest, associates, assignee or any
+other person acting on his behalf from raising any construction,
+entering into any Agreement, transferring, alienating and/or parting
+with possession or creating third party interest in whatsoever manner
+in respect of Property i.e. Plot of land measuring 270 sq. yards (225
+sq. meters) out of Plots measuring 400 sq. yards (335 sq. meters)
+bearing Property No. 62-A/1 and adjoining Plot measuring 400 sq.
+yards (335 sq. meters) of Khasra No. 136/1/2 (Min) at Village Garhi
+(e) to award the costs· of the present suit throughout in favour of the
+Plaintiff and against the Defendants;
+(I) to pass any further or other order, relief or directions in favour of
+the Plaintiff and against the Defendant which this Hon‟ble Court, may
+deem just, fit and proper in the interest of justice and equity.''
+2. CS(COMM) 720/2021 has been filed by the plaintiff seeking the
+following reliefs:
+(a) to pass a Decree of recovery of sum of Rs. 2,07,70,000/- (Rupees
+Two Crores Seven Lacs Seventy Thousand; together with interest @
+15% per annum since 21.12.2021 till realization of entire amount in
+favour of the Plaintiff and against the Defendant.;
+Or in alternate of Prayer (a), the Prayer (b) and (c)
+(b) to pass a Decree of Declaration thereby declaring that the
+Agreement to Sell dated 20.6.2016 executed between Plaintiff and
+Defendant in respect of Plot of land measuring 230 sq. yards out of
+Plots measuring 400 sq. yards situated in Khasra No. 136/1/2 (Min)
+at Village Garhi Jharia Maria, New Delhi -110065 without
+consideration and is void ab initio and nullity and the Defendant has
+no title, right and interest of whatsoever nature in the said Plot of
+land; and
+(c) to pass a Decree of Possession or direction in favour of the
+Plaintiff and against the Defendant thereby directing the Defendant,
+his associates, successors, assign, attorney, representative or any
+other person claiming on his behalf to restore back the possession of
+the Property i.e. Plot of land measuring 230 sq. yards out of Plots
+measuring 400 sq. yards situated in Khasra No. 136/1/2] (Min) at
+Village Garhi Jharia Maria, New Delhi-110065 or any portion
+thereof:
+(e) to award the costs of the present suit throughout in favour of the
+Plaintiff and against the Defendant; and/or
+(j) to pass any further or other order, relief or directions in favour of
+the Plaintiff and against the Defendant which this Hon 'ble Court may
+deem just, fit and property in the interest of justice and equity.”
+6.12 The defence of the Defendant No.1was struck off, as he failed
+to file written statement within a period of 120 days. Ultimately, both
+the suits filed by the Plaintiff were decreed. CS (COMM) 719/2021
+CS(COMM)720/2021 was also decreed in terms of prayers (b), (c)
+and (d).
+7. After perusing the submissions made by the parties and the
+documents on record, the LSJ decreed the suits in favour of the
+Plaintiff in terms of prayers (b), (c) and (d). The LSJ granted a decree
+of cancellation of the Sale Deed, possession of the Suit Properties and
+held that subsequent transfers made vide gift deed in favour of
+Defendant No.2 is valid and legal. Lastly, a decree of permanent
+injunction was also passed.
+CONTENTIONS OF THE APPELLANTS/ DEFENDANTS
+8. Learned Counsel representing the Defendant No.1 submits that
+he has also filed supplementary grounds of Appeal, which have been
+taken on record. While controverting the findings of the LSJ, the
+Defendant No.1 has made the following submissions:
+8.1 The findings of the LSJ to the effect that the suit filed was a
+commercial suit within the ambit of Section 2(1)(c) of the Commercial
+Courts Act, 2015 [hereinafter referred to as „CCA‟], has also been
+challenged on the pretext that a simple Sale Deed executed for transfer
+of land for residential purpose cannot be construed as a commercial
+dispute. Neither the Sale Deed/the agreement is an infrastructure
+agreement nor the Sale Deed is in respect of premises used for
+commercial purposes, and as such, the Court ought not have adjudged
+the suit in terms of the CCA.
+cancellation of entire Sale Deed in favour of Ms. Anju Bansal,
+keeping in view the pleadings of the Plaintiff and the documents on
+record, where the vendor i.e. Ms. Anju Bansal, also the co-owner of
+20% shareholding has neither sought cancellation nor instituted any
+proceedings for the same. The said relief to a party who has neither
+approached the Court nor agitated for such right, is totally illegal and
+beyond jurisdiction.
+8.3 LSJ further failed to appreciate that even otherwise,
+cancellation of the sale deed at the behest of alleged 80% shareholder
+is bad in law as partial cancellation cannot be effected.
+8.4 Further, the Defendant No. 1 asserted that LSJ overlooked the
+settled principle that non-payment of sale consideration does not
+entitle either the vendor or even the confirming party to seek the relief
+of cancellation. At best, merely a relief of recovery could have been
+allowed.
+8.5 It is further contended that the Court failed to appreciate that a
+suit seeking cancellation of Sale Deed filed after more than 3 years
+from the date of cause of action is liable to be dismissed, being barred
+by limitation. It is asserted by the Defendant No.1 that the cheque
+stood dishonoured in January 2017 and the challenge to the Sale Deed
+is made in the year December 2021. The suit, being beyond the
+prescribed limitation period of three years, no decree without a fullfledged trial should have been passed in favour of the Plaintiff.
+8.6 In addition to the aforestated submissions, the Defendant No.1
+have been filed by Ms. Anju Bansal in favour of the Plaintiff. The
+filing of such an affidavit, without any direction of the Court and in a
+case where the Defendant No.1 had no defence on record, was totally
+illegal. Reliance on the affidavit of a stranger to litigation and granting
+relief based on the same, is an exercise without jurisdiction.
+8.7 The subsequent agreement dated 20.06.2017, in absence of
+registration, has no legal consequence and therefore granting the relief
+in terms of the said agreement is illegal.
+8.8 Moreover, LSJ further erred in applying section 92 of the Indian
+Evidence Act, 1872 [hereinafter referred to „IEA‟]/Section 95 of the
+Bharatiya Sakshya Adhiniyam [hereinafter referred to as „BSA‟] for
+rejecting the payment of Rs.1.3 crores in respect of the sale of suit
+property while failing to appreciate that payment of Rs. 1.3 crores was
+not based on oral agreement but were duly reflected in the accounts
+supported by the written receipt. Hence, exclusion of this evidence is
+contrary to law.
+8.9 Lastly, the Defendant No.1 submits that the LSJ erred in
+granting the alternative relief while the main relief has neither been
+abandoned nor given up by the Plaintiff. Granting of alternative relief
+without adjudication of the primary relief is impermissible in law.
+CONTENTIONS OF THE RESPONDENT/PLAINTIFF
+9. Per contra, the learned counsel for the Plaintiff has made the
+following submissions:
+have been filed without annexing the certified copy of the
+Judgement/Decree, despite the specific directions dated 31.5.2024,
+requiring the Defendant No.1 to file the same. In absence of the
+certified copy, the Appeal is incomplete and invalidly presented, thus
+not maintainable and deserves dismissal.
+9.2 It is contended that the Defendant No.1 undisputedly issued the
+post-dated cheques towards consideration of the Sale Deed. Clause 6
+of the Sale Deed expressly stipulates the consequences of dishonour of
+cheques and non-payment of sale consideration including the nullity
+of Sale Deed. The cheques having admittedly been dishonoured and
+despite demand and opportunity given by the court, Defendant No.1
+failed to pay the sale consideration as per Sale Deed. Thus, such wilful
+default has rendered the Sale Deed a nullity and void and hence, the
+suits have rightly been decreed.
+9.3 In consonance with the aforestated submissions, it is contended
+that, once no title was passed to Defendant No.1, the Gift Deeds dated
+14.03.2019 executed by him in favour of Defendant No.2 are
+fraudulent, void ab initio and have rightly been cancelled.
+9.4 Moreover, the Plaintiff asserts that once it has been admitted
+and came on record that Defendant No.1 has not paid the sale
+consideration amount as per Sale Deed, no issue was required to be
+framed under Order XV Rule 1 of the CPC and thus there was no
+embargo in passing the Judgement/Decree by the Court, particularly
+when the entire case is based on undisputed documentary evidence.
+is urged that since the foundation of the suit is the sale deed itself,
+containing clear recitals regarding post-dated cheques and
+consequences of default; no oral evidence contradicting the document
+is admissible. In absence of any document contrary to the admitted
+documents, Defendant No.1‟s oral plea cannot be looked into.
+9.6 The Plaintiff herein contends that since the fresh cheques issued
+in lieu of earlier dishonoured cheques were dishonoured on
+20.07.2018 and period from 15.3.2020 till 28.02.2022 is excluded as
+per order of the Supreme Court due to Covid-19, the suit is well
+within limitation.
+9.7 Further, as far as CS (COMM) 720/2021 is concerned, it is
+submitted that cheques issued under the ATS have been dishonoured,
+rendering the ATS void for want of consideration. It is pertinent to
+note herein that the Plaintiff has always been ready to execute the Sale
+Deed pertaining to Suit Properties at the Defendant No.1‟s
+convenience. But the Defendant No.1 has failed to evince any
+readiness and willingness in this regard.
+9.8 It is evident that Defendant No.1 is unwilling to tender the
+consideration as stipulated within the ATS yet continues to enjoy
+possession of the aforementioned property without any lawful
+authority. This untenable situation has effectively impeded the
+Plaintiff‟s ability to engage in any alternative transactions involving
+the property.
+9.9 Finally, the Plaintiff submits that no issue was required to be
+to pass a summary judgement, once it is found that there was no real
+prospect of Defendant No.1 succeeding in the defence.
+ANALYSIS AND FINDINGS
+10. This court has heard learned counsel for the parties at length
+and with their able assistance, perused the paper book along with the
+record of the Civil Suits.
+11. With respect to the contention as to when a suit is to be
+considered as a “commercial suit”, the law is very clear on this point.
+A suit qualifies as a „commercial suit‟if it falls within the definition of
+“commercial dispute” under Section 2(1)(c) of the CCA and if the
+pecuniary value of the suit satisfies the threshold prescribed for
+Commercial Courts.
+12. Pertinent to this objection of the Defendant No.1, that the suit is
+not a commercial suit, this Court finds no merit in the contention, as
+the materials on record indicate that the Plaintiff invested his hardearned money for commercial gain in the Suit Properties and the
+Defendant No.1 is also engaged in the business of construction,
+development and sale and purchase of immovable properties.
+Additionally, the suit also satisfies the pecuniary requirement of a
+Commercial Suit provided by the statutes. This Court has considered
+the submission, that the Defendant No.1 purchased the property for
+construction of flats for giving it on rent and sale. Additionally, as per
+Section 2 (1)(c) of the CCA, the statute, while defining „commercial
+dispute‟ under Clause VII (i) of the said Act include agreements
+commerce. In this case, the immovable property, purchased or
+proposed to purchase through Sale Deed and an Agreement to Sell, is
+exclusively for the purpose of trade and commerce because the
+Defendant No.1 is a builder, who has constructed flats. Hence, both
+the suits were correctly entertained as commercial suits and the
+submissions of the learned counsel representing the Defendant No.1
+lacks merit, and is found to be without substance.
+13. As regards CS (COMM) 719/2021, upon perusal of the Sale
+Deed, it is evident that Defendant No.1 had issued seven post-dated
+cheques amounting to Rs.1,25,13,600/- in favour of the Plaintiff towards
+the sale consideration. All the said cheques were dishonoured upon
+presentation. Thereafter, the parties executed an agreement dated
+20.06.2017 whereby Defendant No.1 acknowledged his liability and
+issued four fresh cheques for Rs.1,26,40,000/-. These cheques were also
+dishonoured. A demand notice dated 03.08.2018 was thereafter issued by
+the Plaintiff. It is further the case of the Plaintiff that only an amount
+of Rs.15 lakh has been paid by the Defendant No.1 to the Plaintiff in
+the year 2020 through bank transfer, during the pendency of the
+criminal proceedings.
+14. At the outset, there are two key issues attached in relation to the
+Cancellation of Sale Deed, firstly whether a sale deed can be cancelled
+on account of deficit payment of sale consideration; Secondly, whether
+partial cancellation of a sale deed is permissible.
+15. Pertinent to the first contention, it is manifestly clear that as per
+Deed, it was clearly agreed and mentioned that in the event of nonpayment of sale consideration or the dishonour of cheques, the
+Plaintiff has the right to get the Sale Deed cancelled.
+16. Section 31 of the Specific Relief Act, 1963 empowers a person
+to seek cancellation of a written instrument which is void or voidable
+and which, if left outstanding, may cause them serious injury.In the
+present case, the consideration under the sale deed stood unpaid on
+account of dishonour of cheques, rendering the sale incomplete and
+void.
+17. Moreover, as per Clause 6 of the Sale Deed dated 15.06.2016,
+the title under the Sale Deed would pass on to the Defendant no.1 only
+on encashment of all the cheques, which stood dishonoured. Hence,
+title did not pass in favour of the Plaintiff as stipulated in Clause 6,
+and consequently the Sale Deed stood cancelled. Thus, the contract is
+in consonance with the governing statutory provisions and hence, the
+Plaintiff is entitled to decree of cancellation of the Sale Deed.
+18. Furthermore, the Defendant No.1 claims that the partial
+cancellation of sale deed ought not to be done, as Ms. Anju Bansal is a
+co-owner of the suit properties and without impleading her as a party
+to the suit and without giving her the rights to claim her share, rights
+and title, the sale deed cannot be cancelled. This Court observes that
+once the sale itself is void ab initio due to non-payment of
+consideration, no right, title or interest ever passed to any subsequent
+transferee, consequently the sale deed and agreement to sell do not
+Anju Bansal is not required to file a separate suit. Therefore, the
+maxim „ubi jus ibi remedium‟ has no application in the absence of any
+vested right. Consequently, this is not a case of partial cancellation.
+19. Furthermore, with respect to the subsequent transfers made,
+vide two gift deeds, by the Defendant No.1 in favour of Defendant
+No.2, his wife, are invalid and illegal, as Defendant No.1 had no
+transferable title, so the Plaintiff is not bound by it.
+20. In terms of Section 55 of the Transfer of Property Act, 1882 the
+transfer of ownership on execution of the Sale Deed is as per the term
+provided in the Sale Deed. As is evident, Clause 6 of the Sale Deed
+dated 15.09.2016 specifically stipulates that in the event of dishonour
+of the cheques, the Sale Deed will become void and stand
+automatically cancelled. On 11.10.2022, the Defendant No. 1, who
+was present in the Court, admitted that only part of the sale
+consideration has been paid by him in respect of the Suit Property.
+Therein, the Defendant No. 1 was directed to place before the court, a
+calculation of the balance sale consideration payable according to the
+Defendant No.1. The Defendant No.1 did not comply with the said
+directions stricto sensu but only filed statement of payment made by
+the Defendant to the Plaintiff for the sum of Rs. 15,00,000/-.
+21. Moreover, with regard to CS (COMM) 720/2021, only an
+unregistered ATS dated 20.06.2017 was executed by the Plaintiff in
+favour of the Defendant No.1 on receipt of cheques of
+presentation. A Legal notice was issued and a criminal complaint
+under Section 138 of NI Act was initiated. However, the defence of
+the Defendant No.1 that the suit property of the ATS had already been
+sold to third parties is unsubstantiated, and he has neither sought
+cancellation nor specific performance of the ATS. The Defendant
+No.1 has taken over possession of the Suit Properties pursuant to
+execution of the ATS but has not paid any amount due under the ATS
+to the Plaintiff.
+22. The cheque given by the Defendant No.1 under the ATS has
+been dishonoured. The Defendant No.1 who is in the possession of the
+Suit-Properties pursuant to the ATS, is not willing to pay the amount
+due under the ATS to the Plaintiff. Hence, the Defendant does not get
+any right under the aforesaid agreement dated 20.06.2017.
+23. Learned counsel representing the Defendant No.1 has submitted
+that plot measuring 230 Sq. Yds. as referred to in the agreement dated
+20.06.2017, does not exist. He submits that the Defendant should be
+granted one more opportunity to file written statement and the suit
+should not have been decreed in this manner, particularly, when he
+has paid Rs. 15,00,000/-, out of the cheques of Rs.1,25,13,600/-
+handed over pursuant to Sale Deed dated 16.09.2016.
+24. The Defendant No.1 has not produced any material to prove
+that plot measuring 230 sq. yards does not exist. As already noticed
+that Ms. Anju Bansal was owner of 800 Sq. Yds. After sale of 300 Sq.
+Yds. vide Sale Deed dated 22.07.2013 in favour of the Defendant
+dated 17.07.2015, 400 Sq. Yds. belong to Plaintiff, whereas 100 Sq.
+Yds. belong to Ms. Anju Bansal. The Defendant No.1 purchased 270
+Sq. Yards vide Sale Deed dated 15.06.2016 from Plaintiff and Ms.
+Anju Bansal, whereas the remaining 230 Sq. Yards, he agreed to
+purchase vide Agreement to Sell dated 20.06.2017, hence, the
+Defendant No.1 cannot claim that 230 Sq. Yds. does not exists.
+25. In addition to the foregoing circumstances, this Court observes
+that the defence of the Defendant No.1 is in derogation of the explicit
+recitals of the registered sale deed. Thus, in terms of Section 92 of the
+IEA/Section 95 of the BSA, such plea cannot be entertained.
+26. The rules regarding the preference of documentary evidence
+over oral testimony are rooted in the principle of “best evidence”,
+which mandates that written content must be substantiated by written
+proof. Therefore, as it is well-settled that the sale deed is required to
+be registered, i.e., a document required by law to be reduced to the
+form of a document, no evidence of any oral agreement or statement
+shall be admitted for the purpose of contradicting, varying, adding or
+subtracting from its terms.
+27. Lastly, in relation to the contention, that the suit is barred by
+limitation, this Court is of the opinion that though the sale deed was
+registered in the year 2016, but due to non-payment of the
+consideration amount, a fresh agreement in consonance with the Sale
+Deed was entered into on 20.06.2017, wherein it was agreed to pay
+Rs.1,26,40,000/-. Further, it was agreed that,in the event of default in
+pay interest @ 18% per annum from the date of Sale Deed and even
+the Plaintiff will have right to seek cancellation of Sale Deed. In lieu
+of this agreement, the Defendant No.1 issued four cheques against the
+sale consideration, but on presentation, the said cheques dated
+10.03.2018 were dishonoured. Following this, a part payment was
+made in the year 2020 of amount Rs.15 lakhs. Thereafter, the Supreme
+Court extended the limitation period during the spread of COVID-19.
+Thus, the suits were well within the period of limitation.
+28. Therefore, in the light of the above findings, it becomes
+manifestly clear that the Defendant No.1 is escaping from his legal
+liability and he only wants to reap the benefits of the fruit without
+even paying consideration of it.
+CONCLUSION
+29. In light of the foregoing discussion, this Court finds no
+illegality, perversity or incorrect approach adopted or the conclusions
+arrived at by LSJ in the Impugned Judgment.
+30. Hence, having found no merit, the present Appeals along with
+pending application(s), stand dismissed.
+ANIL KSHETARPAL, J.
+HARISH VAIDYANATHAN SHANKAR, J.
+NOVEMBER 27, 2025
+s.godara/ra/sp

@@ -1,0 +1,602 @@
+COURT: Commercial Court, Delhi
+CASE_TYPE: Commercial Suit
+CASE_NO: FAO (COMM) 214/2025
+DATE: 17th November 2025
+PLAINTIFF: MTS PAPERS INDIA LIMITED
+DEFENDANT: SPENTO PAPERS INDIA LLP
+JUDGE: Justice NITIN WASUDEO SAMBRE & Justice ANISH DAYAL 
+
+----JUDGMENT----
+
+The instant appeal has been filed by the appellant/plaintiff under Section
+13(1A) of the Commercial Courts Act, 2015 read with Order XLIII and Section
+151 of the Civil Procedure, 1908 (‘CPC’) against the order dated 22nd March
+2025 passed by the learned District Judge, Commercial Court-02, North
+District, Rohini Court in CS(COMM) No. 519/2022, whereby the learned
+District Judge had allowed the application of the respondent/defendant under
+Order VII Rule 10 of CPC on the ground that the plaint does not disclose as to
+how the courts of Delhi have territorial jurisdiction to entertain and decide suit
+
+instituted by the appellant for recovery of Rs. 44,88,961/- (hereinafter referred
+as ‘impugned order’).
+Factual Matrix
+2. Appellant/plaintiff is engaged in the business of trading of various
+paperboards. Appellant/plaintiff had a customer based in Vietnam with whom
+he had brokered a deal with the defendant to supply duplex board grey back
+(subject goods) with the understanding that all the goods supplied to that
+customer the defendant shall pay a pre-agreed commission to the plaintiff.
+3. The role of the appellant was to communicate with respondent in respect
+of such supply of goods to the client including raising purchase orders,
+negotiating and finalizing price of goods, seeking proforma invoices,
+communicating the payment terms and issuance of letter of credit qua such
+supply to the respondent. Therefore, the respondent was never put in direct
+contact with the client and communication was carried out through the
+appellant.
+4. The appellant addressed emails dated 30th March 2021, and 13th July
+2021 to the respondent requesting respondent to clear the payment towards the
+pre-agreed commission; however, the same remain unpaid.
+5. Appellant on 18th September 2021, issued a legal notice to the
+respondent, in response to which vide reply dated 13th October 2021, the
+respondent denied liability to pay outstanding dues towards the pre-agreed
+commission. Appellant addressed a final communique dated 18th November
+
+2021 to respondent whereby final opportunity was given to respondent to clear
+the dues of appellant. However, the same were not cleared by respondent.
+6. Thereafter, appellant initiated legal action against the respondent by
+filing for pre-institution mediation under Section 12A of the Commercial
+Courts Act, 2015 on 07th February 2022. However, the respondent failed to
+appear for the pre-institution mediation.
+7. Upon non-fruition of pre-institution mediation, appellant filed
+commercial suit bearing no. CS(COMM) No. 519/2022 under the Commercial
+Courts Act for recovery of Rs. 44,88,961/- along with interest @ 12% per
+annum.
+8. On 22nd July 2023, Trial Court noted that the written statement along
+with application for return of plaint under order VII Rule 10 of CPC are on
+record.
+9. On 06th April 2024, the Trial Court prima facie noted that the plaint does
+not appear to contain detailed analysis regarding jurisdiction of Delhi Courts.
+10. Subsequently, an application for amendment of plaint under Order VI
+Rule 17 of CPC was moved by appellant on 19th June 2024. Upon hearing
+arguments of both the parties, District Judge rejected the application for
+amendment of plaint relying inter alia upon the judgment of HSIL Limited v.
+Imperial Ceramic, 2018 SCC OnLine Del 7185.
+
+11. The Trial Court decided the application of respondent under Order VII
+Rule 10 of CPC and returned the plaint of the appellant/plaintiff vide impugned
+order dated 22nd March 2025.
+12. In the impugned order, it was noted that appellant/plaintiff had moved
+the application under Order VI Rule 17 of CPC for amendment of plaint to
+demonstrate that the Court had territorial jurisdiction, during the pendency of
+the application under Order VII Rule 10.
+13. The Court, while deciding the application for amendment of the plaint
+under Order VI Rule 17 of the CPC, relied on the decisions in HSIL Limited
+v. Imperial Ceramic and Others (supra), Archie Comic Publications Inc. v.
+Purple Creation Pvt. Ltd. and Others, 172 (2010) DLT 234 (DB). The Court
+observed that when a plaint lacks pleadings establishing the necessary
+jurisdictional facts, the Court does not have jurisdiction to proceed with the suit
+or even to entertain an application for amendment.
+14. In the present case, upon examining paragraph 23 of the plaint, the Trial
+Court noted that under Section 20 of the CPC, a suit may be instituted either at
+the place where the defendant carries on business or where any part of the cause
+of action arises. However, plaintiff in paragraph 23 solely claimed jurisdiction
+on the ground that the plaintiff carries on business for profit in Delhi and was
+silent on whether any part of the cause of action arose within the territorial
+jurisdiction of the Trial Court. Consequently, the plaint was devoid of facts
+
+establishing territorial jurisdiction, and therefore, the Court was not competent
+to hear the application under Order VI Rule 17 of CPC.
+15. Trial Court also noted in the impugned order that “it has not been
+disclosed in the plaint how this court has territorial jurisdiction to entertain
+and decide the case.” In light of the above the Trial Court allowed the
+application of the respondent/defendant and retuned the plaint to plaintiff as
+per procedure.
+Submissions of counsel for appellant
+16. It was submitted that the Trial Court has failed to take into account
+replication and reply filed by appellant to respondent’s application under Order
+VII Rule 10 CPC. It was contended that both these documents, form part of the
+record, contained categorical averments demonstrating that part of the cause of
+action had arisen within the territorial jurisdiction of the Delhi Court in terms
+of Section 20(c) CPC.
+17. Counsel contended that once the replication is taken on record, it forms
+an integral part of the pleadings under Order VI Rule 1 CPC, and therefore
+must be considered by the Court while adjudicating respondent’s application.
+Reliance was placed on Kuldeep Singh Pathania v. Bikram Singh Jaryal
+(2017) 5 SCC 345, wherein the Hon’ble Supreme Court held that replication
+may be looked into under Order XIV Rule 2(2) to see whether the court has
+jurisdiction and whether there is a bar for entertaining the suit.
+
+18. It was further argued that although Order VII Rule 10 empowers a Court
+to return a plaint at any stage, such discretion must be exercised in light of the
+stage of the proceedings and the record available at that time. Since in the
+present case, replication had been filed and taken on record prior to
+adjudication of respondent’s application, the Trial Court ought to have
+considered the same instead of restricting its gaze only to the plaint.
+19. Appellant submitted that while Order VII Rule 11 confines the Court to
+the plaint alone, an application under Rule 10 stands on a different footing,
+being maintainable at any stage. Therefore, when additional material such as
+replication forms part of the record, it cannot be ignored while deciding the
+question of territorial jurisdiction.
+20. Appellant contended that pleadings clearly disclosed that enquiries for
+purchase of goods were initiated from New Delhi, the offer of the
+respondent/defendant was accepted in New Delhi, purchase orders and
+commission invoices were issued from New Delhi, and payments were to be
+made at New Delhi. Thus, a substantial part of the cause of action arose within
+Delhi, bringing the suit within the ambit of Section 20(c) CPC.
+21. It was argued that even though the plaint did not contain a dedicated
+paragraph specifically asserting jurisdiction, when read holistically, it
+adequately and implicitly demonstrated that the Trial Court had territorial
+jurisdiction. Furthermore, this position was expressly clarified and
+
+supplemented by the appellant in its replication and reply, which the Trial Court
+failed to consider.
+22. It was further contended that in absence of a specific mention of
+jurisdiction, the common law principle that ‘the debtor must find the creditor’
+applies, thereby conferring jurisdiction upon the court within whose territorial
+limits the creditor resides.
+23. Respondent, in its application under Order VII Rule 10 CPC, did not
+allege that the plaint lacked jurisdictional facts, but only questioned the vesting
+of territorial jurisdiction, an issue that is a mixed question of fact and law and
+ought to have been tried as such. The Trial Court, however, suo motu decided
+the issue of jurisdiction while considering the Respondent’s application, which
+was beyond the scope of the pleadings and unwarranted.
+Submissions of counsel for respondent
+24. It was submitted by counsel for respondent that as per the plaint the
+territorial jurisdiction of Court in Delhi is being claimed by the
+appellant/plaintiff on ground that plaintiff works for profit in Delhi. As per
+Section 20 of CPC, the place of business or residence of only the
+respondent/defendant is to be seen for the purpose of territorial jurisdiction.
+Admittedly, the respondent/defendant resides and carries out its business in
+Gujarat.
+25. As regards part of cause of action, the plaint is silent on any cause of
+action arising within the jurisdiction of this Court. The plaint is, therefore,
+
+bereft of any pleading constituting jurisdictional facts for the Courts at Delhi
+to entertain the present suit.
+26. As per the respondent, documents annexed with the plaint i.e. proforma
+invoice also show that invoices were issued by defendant in Gujrat for the
+goods supplied to customer in Vietnam. The products were shipped to
+Vietnamese customer from Gujrat. Payment was received from Vietnamese
+customer to the bank of the defendant/respondent in Gujrat. So, the whole cause
+of action had arisen in Gujrat therefore, the suit should have been instituted in
+Gujrat.
+27. Moreover, the appellant/plaintiff has not mentioned a single word in the
+plaint how the Delhi Courts has jurisdiction. The only averment with respect to
+territorial jurisdiction is made out in paragraph 23 of the plaint, is that
+appellant/plaintiff works for profit in Delhi and therefore, the Courts of Delhi
+have jurisdiction.
+28. As regards the question whether for adjudication of an application under
+Order VII Rule 10 only the plaint can be seen, the respondent argued that
+application under Order VII Rule 10 CPC has to be decided on demurrer
+looking into the plaint originally filed by the Plaintiff and the documents
+therewith.
+29. To buttress his submissions, the respondent relied on the judgment of
+HSIL Limited v. Imperial Ceramic and Others (supra) wherein it was held
+that if the plaint, as it exists, does not disclose how this Court has territorial
+
+jurisdiction, the only option for this Court is to return/reject the plaint and this
+Court would not have jurisdiction to even consider the application of the
+plaintiff for amendment of the plaint.
+30. Further, reliance was placed by respondent on the judgment of Archie
+Comic Publications Inc. v. Purple Creation Pvt. Ltd. and Others (supra)
+wherein it was held that a completely unconscionable plaint which does not
+reveal any fact which confers jurisdiction on a Civil Court to act may not vest
+the jurisdiction with the Civil Court to even allow the amendment of the same.
+Analysis
+31. Let us first examine the case put up by plaintiff (appellant herein) in its
+plaint relating to issue of territorial jurisdiction. This is imperative since it is
+settled law that objection to territorial jurisdiction in an application under Order
+VII Rule 10 of CPC is by way of demurrer and objections are to be considered
+taking all averments in the plaint to be correct. Reliance in this regard may be
+placed on Exphar SA and Another v. Eupharma Laboratories Ltd. and
+Another, (2004) 3 SCC 688, wherein the Supreme Court held:
+“9. Besides, when an objection to jurisdiction is raised
+by way of demurrer and not at the trial, the objection
+must proceed on the basis that the facts as pleaded by
+the initiator of the impugned proceedings are true. The
+submission in order to succeed must show that granted
+those facts the court does not have jurisdiction as a
+matter of law. In rejecting a plaint on the ground of
+jurisdiction, the Division Bench should have taken the
+allegations contained in the plaint to be correct.
+
+However, the Division Bench examined the written
+statement filed by the respondents in which it was
+claimed that the goods were not at all sold within the
+territorial jurisdiction of the Delhi High Court and also
+that Respondent 2 did not carry on business within the
+jurisdiction of the Delhi High Court. Having recorded
+the appellants' objections to these factual statements by
+the respondents, surprisingly the Division Bench said:
+“Admittedly, the goods are being traded outside India
+and not being traded in India and as such there is no
+question of infringement of trade mark within the
+territorial limits of any court in India what to say of
+Delhi.”
+10. Apart from the ex facie contradiction of this
+statement in the judgment itself, the Division Bench
+erred in going beyond the statements contained in the
+plaint.”
+ (emphasis supplied)
+32. The Division Bench of this Court, in M/s RSPL Limited v. Mukesh
+Sharma & Anr., 2016:DHC:5482-DB, reiterated the same principle. Relevant
+portions are reproduced below:
+“23. Upon a consideration of the law as explained by
+the Supreme Court, it is evident that Order 6 Rule 2
+requires every pleading, which includes a plaint, to
+contain, “and contain only”, a statement in concise
+form of the material facts on which the party pleading
+relies for his claim, but not the evidence by which they
+are to be proved.
+24. Coming back to the facts of the present case, the
+plaintiff/ appellant in paragraph 36 set out the nature of
+the cause of action, namely, the defendants/respondents
+were engaged in providing services under the impugned
+
+trade name ‗GHARI TRADEMARK COMPANY‘. In
+paragraph 37 of the plaint, it has been averred, first of
+all, that this Court has the territorial jurisdiction to try
+and adjudicate the present suit. But, this by itself, would
+not be sufficient because merely quoting the words of a
+section or the ingredients of a provision like the
+chanting of a mantra would not amount to stating
+material facts as noted by the Supreme Court in Hari
+Shanker Jain (supra). The material facts would, inter
+alia, have to include positive statement of facts. In the
+present case, paragraph 37 of the plaint contains the
+positive statement of fact that the defendants are
+committing the impugned acts within the jurisdiction of
+this Court by conducting, soliciting, rendering the
+impugned services under the impugned trade name‘.
+Further statements are made in the very same
+paragraph that the plaintiff has its corporate office in
+Delhi and carries out its business activity in Delhi under
+its trade mark/label through its dealers/ distributors
+located in Delhi. A specific averment has also been
+made that the plaintiff‘s goodwill and reputation is
+being tarnished by the alleged activities of the
+defendants, particularly in North-East Delhi as also in
+other parts of the country and that the
+plaintiff/appellant‘s proprietary rights are being
+prejudicially affected in the Delhi area due to the said
+activities. While considering an application under
+Order 7 Rule 10 CPC, these statements would have to
+be taken as correct. This would mean that this Court
+would have jurisdiction to try and adjudicate the present
+suit by virtue of Section 134(2) of the Trade Marks Act,
+1999 read with Section 20 CPC. The material fact that
+has been pleaded by the plaintiff is that the defendants/
+respondents are conducting, soliciting, rendering the
+impugned services under the trade name – GHARI
+
+TRADEMARK COMPANY – within the jurisdiction of
+this Court. In case the defendants/ respondents deny this
+averment (as they have done in their written statement
+but, which cannot be looked into at the stage of Order 7
+Rule 10 CPC), the issue would arise as to whether the
+respondents/defendants are conducting, soliciting,
+rendering the impugned services under the trade name–
+GHARI TRADEMARK COMPANY–within the
+jurisdiction of this Court? Obviously, the onus of proof
+would lie on the appellant/ plaintiff and at the stage of
+trial, evidence would have to be placed to substantiate
+this plea. But, at this stage, in our view, it is not
+necessary as Lord Denman, C.J. in Williams v. Wilcox
+(supra), to set out the subordinate facts which are the
+means of proving the material fact or the evidence to
+sustain the allegation contained in the material fact. We,
+therefore, do not agree with the view taken by the
+learned Single Judge that the plaint is bereft of any
+particulars with regard to territorial jurisdiction. We
+may observe that the learned Single Judge has also
+looked at the written statement and even at the
+replication in the course of arriving at his decision.
+This, in the context of an Order 7 Rule 10 CPC
+application, cannot be done as already pointed out by
+us above. Taking the objection of territorial jurisdiction
+raised in the Order 7 Rule 10 CPC application, by way
+of a demurrer, as it must, the facts pleaded by the
+appellant/plaintiff must be taken to be true. Therefore, if
+we take the statement of the appellant/plaintiff in
+paragraph 37 to the effect that the
+defendants/respondents are committing the impugned
+acts within the jurisdiction of this Court by conducting,
+soliciting, rendering the impugned services under the
+impugned trade name to be correct, then, it follows that
+this Court would have to proceed with the trial of the
+
+suit and cannot return the plaint under Order 7 Rule 10
+CPC.
+25. Once we hold that on the basis of the averments
+contained in the plaint, a part of cause of action has
+arisen in the territory over which this Court exercises
+jurisdiction, the condition prescribed in Section 20(c)
+CPC stands satisfied. In addition, the condition
+stipulated in Section 134(2) of the Trade Marks Act,
+1999 is also satisfied because the plaintiff has averred
+that it has a corporate office in Delhi and part of the
+cause of action has allegedly also arisen in Delhi.
+Therefore, either way, this Court, in our view, would
+have jurisdiction to entertain the present suit.
+observations and the findings of the learned Single
+Judge to the contrary, are wrong and are set aside.”
+ (emphasis supplied)
+33. Plaintiff has a registered office in Delhi while the defendant (respondent
+herein) has its registered office in Rajkot, Gujarat. The following elements are
+evident from a reading of the plaint:
+i. Plaintiff approached the defendant for supply of goods to
+plaintiff’s customer in Vietnam.
+ii. Agreement was arrived at through email and the defendant shared
+a proforma invoice on 4
+th March 2021.
+iii. Plaintiff issued Order Form dated 05
+th March 2021, claiming
+agreed commission from defendant.
+iv. Defendant shipped the first lot on 13th March 2021 to be delivered
+in Vietnam, basis letter of credit.
+
+v. Plaintiff's customers had quality issues and registered a complaint
+with the plaintiff. This, the plaintiff communicated to the
+defendant via email on 19th April 2021.
+vi. Resolution was attempted through a conference call and through
+various communications exchanged between the parties through
+email.
+vii. Second lot was cleared on 05
+th May 2021. However, there was still
+a problem relating to the quality of goods. Yet another
+communication was exchanged between the parties for
+compensation along with demurrage and detention charges.
+viii. Legal notice was issued by plaintiff on 18th September 2021 which
+was responded to by defendant on 13th October 2021.
+ix. In paragraph 23 of the plaint, the following was stated: “That this
+Hon’ble Court has got territorial jurisdiction to entertain and try
+the present suit as the Plaintiff works for profit in Delhi.”
+34. Apart from the above, there is no other averment or justification in the
+plaint explaining how the Courts at Delhi would have jurisdiction to entertain
+the suit. The learned Trial Court, in accordance with the settled law outlined
+above, confined itself to the averments in the plaint while deciding the
+application under Order VII Rule 10 of CPC. As is evident from the impugned
+order, the Trial Court did not examine the written submissions or the replication
+for this purpose. The Court allowed the application under Order VII Rule 10
+CPC and returned the plaint solely on the basis of the pleadings contained
+therein. It observed that the plaintiff had invoked the jurisdiction of the Delhi
+
+Courts on ground of paragraph 23 of the plaint, which merely stated that the
+plaintiff “worked for profit” in Delhi. The plaint, however, did not disclose the
+material facts necessary to establish the territorial jurisdiction of the Delhi
+Courts. In the absence of such jurisdictional facts, the Trial Court correctly
+concluded that the plaint did not disclose how the Court of Delhi could entertain
+the suit.
+35. Upon a plain reading and assessment of the plaint, it is evident that no
+part of the cause of action is shown to have arisen within Delhi, and jurisdiction
+cannot be conferred merely on the basis of the plaintiff’s place of business in
+Delhi.
+36. Such a plea is contrary to the statutory scheme embodied in Sections 15
+to 20 of the Code of Civil Procedure, 1908. No part of the cause of action is
+shown to have arisen in Delhi. The supply of goods admittedly took place from
+Gujarat, and the goods were received in Vietnam. The mere fact that plaintiff
+coordinated the transaction from its office in Delhi would not, by itself, confer
+territorial jurisdiction upon the Delhi Courts. In such circumstances, Section
+20(a) of CPC would clearly mandate that the suit ought to have been instituted
+in Gujarat, where the defendant carries on business.
+37. The plaintiff, however, sought to overcome this objection in their
+replication in parawise reply (vi) by asserting that the inquiry for the purchase
+of goods had been initiated from New Delhi, that the offer was accepted at New
+Delhi, and that both the purchase order and invoice for commission were issued
+from New Delhi. It was further contended that the payment was to be made to
+
+the plaintiff at New Delhi and, therefore, a substantial part of the cause of action
+had arisen within the territorial jurisdiction of Delhi Courts.
+38. Yet another attempt by the plaintiff to amend the plaint was rejected by
+the Trial Court vide order dated 17th December 2024. In doing so, the Trial
+Court relied upon the decisions in HSIL Limited (supra) and Archie Comic
+Publications Inc. (supra), holding that an amendment to the plaint cannot be
+permitted where the averments in the plaint, as originally filed, do not disclose
+any facts conferring territorial jurisdiction upon the Court. The Trial Court
+observed that jurisdiction must be determined on the basis of the averments
+contained in the plaint as presented, and once it is found that the Court lacks
+territorial jurisdiction based on the plaint, such a defect cannot be cured by way
+of an amendment.
+39. In HSIL Limited (supra), the suit had been instituted seeking a decree
+of permanent injunction restraining the defendants from using the plaintiff’s
+trademark. The defendants filed applications under Order VII Rule 10 of the
+CPC, seeking return of the plaint on the ground that it did not disclose any facts
+conferring territorial jurisdiction upon the Court.
+40. Thereafter, plaintiff filed an application seeking amendment of the plaint
+to introduce additional paragraphs intended to establish the existence of a cause
+of action within the territorial jurisdiction of the Court. This amendment was
+opposed by the defendants therein. Reliance by the defendants was placed on
+Marvel Ceramics 2017 SCC OnLine Delhi 11571 (DB and on Archie Comic
+Publications Inc (supra) and Just Lifestyle Pvt. Ltd. v. Advance Magazine
+
+Publishers Inc. (2013) 198 DLT 306 (DB). The defendant also relied upon
+Pandit Rudranath Mishir v. Pandit Sheo Shankar Missir, AIR 1983 Patna 53
+DB and Mst. Zohra Khatoon v. Janab Mohammad Jane Alam, AIR 1978
+Calcutta 133 (DB).
+41. Assessing these decisions, the Court in HSIL Limited (supra) observed
+as under:
+“14. The Division Bench of the Calcutta High Court
+in Mst. Zohra Khatoon supra held that granting an
+amendment postulates an authority of the Court to
+entertain the suit and making an order for amendment
+therein; but where the Court inherently lacks
+jurisdiction to entertain the suit, it cannot make any
+order for amendment to bring the suit within its
+jurisdiction; in that case, the court will be exercising
+jurisdiction which it has not. Reliance was placed on
+earlier judgment of Madras, Nagpur, Assam and
+Allahabad High Courts. The Division Bench of the High
+Court of Patna in Pandit Rudranath Mishir supra also
+held to the same effect and further held that in such a
+case, the Court is bound to return the plaint to be
+presented to the proper Court in which the suit ought to
+have been instituted and after the plaint is returned for
+presentation to the proper Court, the plaintiff can
+amend the plaint and represent it to the same Court.
+Reliance was also placed on earlier judgments of the
+Calcutta High Court.
+15. The Division Bench of this Court in Archie Comic
+Publications Inc. supra held that if a plaint is completely
+bereft of any pleading which are the jurisdictional facts,
+the Court will not have jurisdiction to proceed in that
+suit or even to allow an application seeking amendment;
+
+thus, a completely unconscionable plaint which does not
+reveal any fact which confers a jurisdiction on a Court
+may not vest the jurisdiction with the Court to even
+allow an amendment of the same. It was however further
+held that if it is a case of unclear or ambiguous pleading,
+the same may be allowed to be amended to clarify the
+earlier pleaded facts till the same does not give rise to
+addition of a new cause of action or pleading new facts.
+In Just Lifestyle Pvt. Ltd. supra also, amendment of the
+plaint inter alia to vest the Courts at Delhi with
+territorial jurisdiction was refused inter alia holding
+that the issue of jurisdiction of the Court, as
+per Mohannakumaran Nair v. Vijayakumaran
+Nair (2007) 14 SCC 426, is required to be determined
+with reference to the date on which the suit is filed and
+entertained and not with reference to a future date and
+that the amendment sought would not clothe the Court
+with territorial jurisdiction to try the suit; the counsel
+for the plaintiff is however right in his contention that
+other reasons for denying the amendment were also
+stated.”
+ (emphasis supplied)
+42. The Court went on to draw a distinction between an application under
+Order VII Rule 10 CPC, on the grounds of territorial jurisdiction and under
+Order VII Rule 11 CPC, on the grounds of claims not disclosing a cause action
+or some other technical defect. In HSIL Limited (supra), the Court further
+considered whether a Court lacking territorial jurisdiction on basis of the
+averments made in the plaint as originally filed, could entertain an application
+for amendment of the plaint. On this issue, the Court held as under:
+“20. I have however wondered whether an application
+under Order VII Rule 11 of the CPC on the ground of
+
+the plaint not disclosing a cause of action or suffering
+from some other technical defect viz. of valuation, court
+fee paid or the claim therein being barred by any law,
+can be equated with an application under Order VII
+Rule 10 of the CPC on the ground of the Court not
+having territorial jurisdiction. This becomes important
+because of the consistent view of the High Courts
+mentioned above including of this Court that when the
+Court lacks territorial jurisdiction, it cannot even
+entertain an application for amendment of the plaint
+and which amendment would vest territorial jurisdiction
+in the Court. Reference may also be made to Hans Raj
+Kalra v. Kishan Lal Kalra ILR (1976) II Delhi 745
+and Anil Goel v. Sardari Lal (1998) 75 DLT 641 though
+in the context of pecuniary jurisdiction.
+21. Having considered the matter, I am of the opinion
+that the judgments holding that application for
+amendment of plaint, even if filed to defeat the pending
+application under Order VII Rule 11 of the CPC, has to
+be heard first, will not extend to a case where averments
+contained in the plaint as existing does not disclose the
+Court to be having territorial jurisdiction and
+amendment is sought to incorporate the pleas to
+disclose the Court to be having territorial jurisdiction. I
+have reached the said conclusion relying on the dicta of
+the Supreme Court in Harshad Chiman Lal
+Modi v. DLF Universal Ltd. (2005) 7 SCC 791 holding
+that a Court has no jurisdiction over a dispute in which
+it cannot give an effective judgment and even an
+agreement between the parties vesting jurisdiction in the
+Court which it otherwise does not have, is void as being
+against public policy. It was further held that where a
+Court has no jurisdiction over the subject matter of the
+suit by reason of any limitation imposed by statute, it
+cannot take up the cause or the matter and an order
+
+passed by a Court having no jurisdiction is a nullity. It
+was yet further held that neither waiver nor
+acquiescence can confer jurisdiction upon a Court,
+otherwise incompetent to try the suit. It was yet further
+held that where a Court takes upon itself to exercise a
+jurisdiction it does not possess, its decision amounts to
+nothing and a decree passed by a Court having no
+jurisdiction, is non est and its invalidity can be set up
+whenever it is sought to be enforced as a foundation for
+a right, even at the stage of execution or in collateral
+proceedings; a decree passed by a Court, without
+jurisdiction is a coram non judice.
+22. Thus, if the plaint in these suits as it exists, does not
+disclose this Court to be having territorial jurisdiction,
+then the only option for this Court is to return/reject the
+plaint and this Court would not have jurisdiction to even
+consider the application of the plaintiff for amendment
+of the plaint and which amendment, if allowed, would
+disclose the plaint as having the necessary averments
+for this Court to have jurisdiction to entertain the suit.”
+ (emphasis supplied)
+43. While the decision in HSIL Limited (supra) was rendered by a Single
+Judge of this Court, since reliance had been placed on Archie Comic
+Publications Inc. (supra) rendered by Division Bench, it would be apposite to
+examine that judgment as well.
+44. In Archie Comic Publications Inc. (supra), a challenge was made to the
+dismissal of Order VI Rule 17 CPC application for amendment of the plaint,
+while an application under Order VII to 11 CPC moved by the defendant had
+been allowed for return of plaint. The application had been moved for rejection
+
+of plaint on account of no jurisdiction and subsequent application under order
+VI Rule 17 CPC for amendment had been moved it.
+45. The Court arrived to the following conclusion, as opined in the following
+paragraphs:
+“23… in our view if a plaint is completely bereft of any
+pleading which are the ‘jurisdictional facts’, the civil
+Court in that case will not have the jurisdiction to
+proceed in that suit or even to allow an application
+seeking amendment under Order 6 Rule 12, CPC. Thus
+a completely unconscionable plaint which does not
+reveal any fact which confers a jurisdiction on a civil
+Court to act may not vest the jurisdiction with the Civil
+Court to even allow an amendment of the same….
+24… In our view, if the plaint discloses some facts,
+which may however, be incomplete to vest territorial
+jurisdiction in the Court, the Court would entertain an
+Application for amendment of the pleadings. This is
+more so, as such an amendment would not set up a new
+case. However, if no facts are disclosed qua territorial
+jurisdiction then the defect cannot be even cured by
+amendment and in such a case an Application for
+amendment cannot be entertained.”
+46. In the opinion of this Court, there cannot be any doubt with regards to
+the settled position of law as interpreted by both Single and Division Benches
+of this Court. The plaint, as presented, was bereft of any facts and
+circumstances that would confer jurisdiction upon the Courts in Delhi. To hold
+otherwise would be to disregard the express provisions contained in Sections
+15 to 20 of the CPC and would effectively permit a plaintiff to drag a defendant
+
+before any Court merely on the basis of the plaintiff’s residence or place of
+work which is impermissible in law.
+47. It is axiomatic that, while considering whether a plaint is maintainable,
+the Trial Court must necessarily examine whether it has territorial jurisdiction.
+For this purpose, the Court is required to look only at the averments made in
+the plaint. Where the plaint is bereft of any material facts or assertions that
+could justify the assumption of territorial jurisdiction, the Court would be
+justified in declining to entertain the plaint. Such an approach would, in fact,
+be in consonance with settled law.
+48. Reliance of appellant on Kuldeep Singh Pathania (supra) would not be
+relevant since it applies to issue under Order XIV for settlement of issues and
+the scope of a preliminary issue under Order XIV Rule 2 (2) of CPC. In
+Kuldeep Singh Pathania (supra), Supreme Court held that the Court can look
+into entire pleadings and materials available on record for the purpose of
+deciding a preliminary issue on jurisdiction.
+49. Reliance placed by appellant on this decision is, therefore, misplaced.
+The issue under consideration therein was distinct and does not pertain to the
+question presently before this Court, namely, the competence of the Trial Court
+to take into account subsequent pleadings for the purpose of determining its
+territorial jurisdiction, when the plaint itself is bereft of requisite material facts
+in that regard.
+
+50. Other judgments relied upon by the appellant namely Arun Khanna v.
+Vinod Kumar Khanna., 2011: DHC:1684., Dabur India Ltd. v. Alka
+Ayurvedic Pvt. Ltd., 240(2017) DLT 703, Moti Ram vs Baldev Krishnan.,
+15(1979) DLT 90 and Sugandhi (Dead) by L.Rs. and Ors. vs P Rajkumar.,
+(2020) 10 SCC 706, also do not relate to the issue at hand and are decisions
+regarding accommodating of a replication, which is altogether a different
+context.
+51. In this view of the matter, the Court is not inclined to entertain this appeal
+and, therefore, the same stands dismissed. Pending applications, if any, are
+rendered infructuous.
+52. Judgement be uploaded on the website of this Court. 

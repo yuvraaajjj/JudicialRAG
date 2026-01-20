@@ -1,0 +1,197 @@
+COURT: High Court of Delhi at New Delhi
+CASE_TYPE: Commercial Suit
+CASE_NO: 1213/2024
+DATE: 08.12.2025
+PLAINTIFF: Pawan Gupta & Anr.
+DEFENDENT: Miton Credentia Trusteeship Services Limited & Ors.
+JUDGE: Hon'ble Mr. Justice Purushaindra Kumar Kaurav
+
+--------JUDGEMENT---------
+
+1. Mr. Arvind Nayar, learned senior counsel for the plaintiff has taken
+the Court through the decision dated 27.10.2025 of the Supreme Court in the
+case of Novenco Building & Industry v. Xero Energy EngineeringThis is a digitally signed order.
+The authenticity of the order can be re-verified from Delhi High Court Order Portal by scanning the QR code shown above.
+The Order is downloaded from the DHC Server on 17/12/2025 at 12:35:52Solutions (P) Ltd.1, and another decision dated 24.03.2025 in case of Sabita
+Jha v. Aaone Developers (P) Ltd.2,.
+2. Mr. Nayar, avers that the merits of the application under Order
+XXXIX Rule 1 and 2 of the Code of Civil Procedure, 1908 (CPC) may not
+be required to be looked into at this stage and the Court has to consider the
+immediacy of the peril, irreparable harm, risk of losing rights/assets,
+statutory timelines, perishable subject-matter etc. and to consider whether
+delay would render eventual relief ineffective. Therefore, pressing urgency
+now, Mr. Nayar contends that the debentures in question are being sold off
+and if the relief is not considered appropriately, the same may possibly
+render infructuous. He, therefore, tries to emphasise that under the facts and
+circumstances in the instant case, the exemption under Section 12A of the
+Commercial Courts Act, 2015 (hereinafter ‘the CCA’) deserves to be
+granted.
+3. I have considered the aforesaid submissions and have perused the
+record.
+4. The prayer for grant of interim relief in the instant case has been
+extensively considered by the Court vide judgment dated 27.12.2024. Vide
+the said judgment, the Court noted that the dispute arose from ongoing
+family and corporate conflicts governed by a Family Settlement, with related
+issues already pending with the Sole Arbitrator, who had earlier restrained
+the parties from dealing with the subject properties. The Court further
+observed that the plaintiffs had not demonstrated immediate urgency and
+that an application under Section 12A of the CCA was still pending. The
+1 2025 SCC OnLine SC 2278
+2 2025 SCC OnLine SC 1822This is a digitally signed order.
+The authenticity of the order can be re-verified from Delhi High Court Order Portal by scanning the QR code shown above.
+The Order is downloaded from the DHC Server on 17/12/2025 at 12:35:52relevant extract of the afore-noted judgment dated 27.12.2024 is extracted as
+under :-
+“30. firstly, the application under section 12a of the commercial courts
+act is yet to be adjudicated. the cause of action as narrated in the suit
+itself reflects that there is no immediate urgency. secondly, the issue of
+maintainability of the suit by the plaintiffs to question the acts of the
+companies, which can be done under the provisions of the companies
+act before nclt, have also been raised.”
+5. It is, thereafter, that the matter was taken up on various dates and the
+applicability of Section 12A of the CCA was also considered. During the
+pendency of the suit, attempts were made for post institution mediation on
+14.01.2025 and 04.08.2025.
+2. All the aforesaid dates, events and the circumstances however, clearly
+collectively indicate that there were no attempts for pre-institution
+mediations in the instant case.
+3. The Court in Mr. Rakesh Mediratta v. Asian Hotels (North) Ltd. and
+Anr3., while relying upon the decision of the Supreme Court in Patil
+Automation (P) Ltd. v. Rakheja Engineers (P) Ltd4 and of this Court in M/s
+Exclusive Capital Limited v. Clover Media Private Limited.5 has held that
+in cases where no urgent interim relief is contemplated, post-institution
+reference to mediation cannot be held to be substantial compliance of the
+requirements under the Act. The relevant extract of the afore-noted decision
+reads as under: -
+“15. It is also pertinent to note that the legislative intent behind
+Section 12A of the Act has also been discussed in extenso in the said
+decision. The Court has considered the phraseology of Section 12A of
+the Act and has given due emphasis to each of the words used therein.
+3 2025: DHC: 7310
+4 2022 SCC OnLine SC 1028
+5 2025:DHC:6513This is a digitally signed order.
+The authenticity of the order can be re-verified from Delhi High Court Order Portal by scanning the QR code shown above.
+The Order is downloaded from the DHC Server on 17/12/2025 at 12:35:52In paragraph No.38, the term ‘urgent’ has been discussed and it has
+been held that the Court must remain vigilant against attempts to
+circumvent the legislative intent through a superficial plea of urgency,
+and is duty bound to assess whether the claimed exigency with respect
+to rigours of the judicial scrutiny is a bona fide invocation of the
+proviso rather than an attempt to evade compliance with the mandatory
+pre-institution mediation framework. The invocation of the term
+‘urgent’ within the proviso of Section 12A of the Act is held to
+contemplate a narrow class of situations where the plaintiff is
+confronted with such imminent and irreparable peril to their rights or
+interests that adherence to the pre-institution mediation process would
+be not only unreasonable or unjust but might also defeat the ends of
+justice. The narrow scope of exemption has also to be understood from
+an inherent understanding that all interim reliefs are primarily
+premised on a sense of urgency. Although the Court held that desire for
+an urgent relief is implicit in any prayer for interim relief, it further
+held that the legislative usage of the word ‘urgent’ along with ‘interim
+relief’ is intended to indicate an immediate threat to the rights of the
+plaintiff, something that could potentially defeat the right, if the
+intervention of the Court is not made at the earliest opportunity. This
+may not always be the case with other interim reliefs.
+16. In Patil Automation, the Supreme Court examined whether any
+attempt at mediation between the parties to a commercial suit, post its
+institution would satisfy the mandate under Section 12 A of the Act. In
+paragraph No.88 of the decision, the Court held as under:
+“88. We may immediately draw a parallel between
+Sections 80(1)CPC and 12-A of the Act. In Section
+12-A also, the bar of institution of the suit is
+applicable only in a case in which plaintiff does not
+contemplate urgent interim relief. The situation is
+akin to what is contemplated in Section 80(1)CPC. In
+other words, the suit under the Act which does not
+contemplate urgent interim relief is like a suit covered
+by Section 80(1)CPC which does not project the need
+for any urgent or interim relief. In regard to a suit
+covered under Section 12-A of the Commercial
+Courts Act, namely, in a suit where interim relief is
+not contemplated, there can be no substantial
+compliance by way of post institution reference to
+mediation. The argument of the plaintiff overlooks the
+object apart from the language used besides the
+design and scheme of the law. It will, if accepted, lead
+to courts also spending their invaluable time on such
+matters which follow from adjournments, objections
+and hearings. There is no need to adopt such aThis is a digitally signed order.
+The authenticity of the order can be re-verified from Delhi High Court Order Portal by scanning the QR code shown above.
+The Order is downloaded from the DHC Server on 17/12/2025 at 12:35:52course.”
+17. A bare reading of the said paragraph would indicate that in
+cases where no urgent interim relief is contemplated, post-institution
+reference to mediation cannot be held to be substantial compliance of
+the requirements under the Act.
+18. The law in respect of exemption from pre-institution mediation
+under Section 12A of the Act, upon appreciation of the aforesaid
+decisions, can be summarised as follows:
+18.1. Pre-institution mediation is the rule in respect of commercial
+suits, and exemption from the same is the exception.
+18.2. Such exemption from pre-institution mediation may only be
+sought where the suit contemplates urgent immediate relief under the
+Act.
+18.3. While a formal application for exemption from pre-institution
+mediation is not necessary, the Court must necessarily be satisfied that
+the suit contemplates urgent interim relief under the Act.
+18.4. In determining whether a suit contemplates urgent interim relief,
+one pertinent consideration is whether the failure to grant such relief
+would render the plaintiff's application for injunction or the suit itself
+infructuous, or would create an irreversible or unalterable situation,
+thereby disabling the Court from restoring status quo ante at the stage
+of adjudication of such application.
+18.5. Other factors that the Court must keep in mind for the said
+purpose include, but are not restricted to (i) the origin and the timeline
+of the cause of action, ii) the timing and the manner of the plaintiff's
+approach to the Court, and iii) whether adherence to the pre-institution
+mediation mechanism under Section 12A of the Act would operate to
+the detriment or prejudice of the plaintiff.
+18.6. Courts must be cautious when determining whether a suit
+contemplates urgent relief, keeping in mind the legislative intent behind
+the Act and Section 12A therein.
+18.7. Courts are duty bound to assess whether the claimed exigency
+with respect to rigours of the judicial scrutiny is a bona fide invocation
+of the proviso rather than an attempt to evade compliance with the
+mandatory pre-institution mediation framework.
+18.8. Post-institution mediation is not contemplated under Section 12A
+of the Act, and thus, does would not satisfy the mandate under the said
+provision.
+6. The Supreme Court in the case of Dhanbad Fuels (P) Ltd. v. Union
+of India6, has held that Section 12A of CCA mandates pre-institution
+6 (2025) 9 SCC 424This is a digitally signed order.
+The authenticity of the order can be re-verified from Delhi High Court Order Portal by scanning the QR code shown above.
+The Order is downloaded from the DHC Server on 17/12/2025 at 12:35:52mediation. The post-institution mediation has not been recognised therein.
+7. The cut-off date for allowing post-institution mediation as sufficient
+compliance of Section 12A of CCA, has been recognised in the case of M/s
+Dhanbad Fuels Private Limited, to be 20.08.2022. Thus, only suits
+instituted before the afore-noted date can be kept in abeyance, and the
+parties can be referred to post-institution mediation.
+8. A mere prayer for interim relief would not be sufficient to absolve the
+mandate under Section 12A of the CCA, the Court has to be satisfied that
+the suit, actually, contemplates certain urgent relief that would be frustrated
+if the parties are relegated first to pre-institution mediation.
+9. Upon perusal of the plaint on the anvil of the aforesaid legal position,
+it is seen that the suit is essentially directed towards obtaining final
+declaratory and injunctive reliefs. The plaintiffs seek declarations that the
+Debenture Trust Deed dated 30.03.2022, the Memorandums dated
+19.04.2022 recording equitable mortgage, and the pledge of shares are null
+and void, along with a permanent injunction restraining the defendants from
+acting in furtherance of the said instruments and directions for delivery of
+original title deeds.
+10. It is seen that the transactions sought to be impugned pertain to the
+year 2022 and do not disclose any immediate or imminent action requiring
+urgent intervention of this Court. The reliefs claimed would necessarily
+require adjudication after a full consideration of pleadings and evidence, and
+are not in the nature of emergent or urgent reliefs. In these circumstances,
+the plaint does not disclose any urgent interim relief so as to warrant
+exemption from the requirement of pre-institution mediation under Section
+12A of the CCA.This is a digitally signed order.
+The authenticity of the order can be re-verified from Delhi High Court Order Portal by scanning the QR code shown above.
+The Order is downloaded from the DHC Server on 17/12/2025 at 12:35:5211. Accordingly, the application stands dismissed.
+CS(COMM) 1213/2024 and I.A. 49931/2024, I.A. 49935/2024, I.A.
+50003/2024, I.A. 50004/2024, I.A. 11027/2025, I.A. 21074/2025
+12. Consequent to the order passed in I.A. 49934/2024, the instant civil
+suit, along with pending applications, also stands dismissed.
+PURUSHAINDRA KUMAR KAURAV, J
+DECEMBER 8, 2025
+aks/mjThis is a digitally signed order.
+The authenticity of the order can be re-verified from Delhi High Court Order Portal by scanning the QR code shown above.
+The Order is downloaded from the DHC Server on 17/12/2025 at 12:35:52

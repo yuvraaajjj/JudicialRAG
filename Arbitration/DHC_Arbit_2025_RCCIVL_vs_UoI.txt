@@ -1,0 +1,391 @@
+COURT: Commercial Court, Delhi
+CASE_TYPE: Arbitration
+CASE_NO: OMP (ENF.) (COMM.) 68/2023 & EX.APPL.(OS) 1123/2023
+DATE: 6th January, 2026
+PLAINTIFF: RCCIVL-LITL (JV)
+DEFENDANT: UNION OF INDIA
+JUDGE: Justice AMIT BANSAL
+
+----JUDGMENT-----
+
+The present petition has been filed under Section 36 of the Arbitration
+and Conciliation Act (‘Act’) seeking enforcement of the final award dated
+7
+th November, 2022 (‘Award’) passed by an Arbitral Tribunal comprising a
+Sole Arbitrator (‘Arbitral Tribunal’).
+2. RCCIVL-LITL (JV), the claimant in the arbitration proceedings, is
+hereinafter referred to as the ‘decree holder’ and the Union of India, the
+respondent in the arbitration proceedings, is hereinafter referred to as the
+‘judgment debtor’.
+3. The Arbitral Tribunal allowed certain claims of the decree holder
+along with interest and costs of arbitration. The counter claims filed by the
+respondent were rejected by the Arbitral Tribunal.
+4. The judgment debtor filed a petition under Section 34 of the Act
+seeking setting aside of the Award, which was dismissed on 29th May, 2023.
+An appeal filed against the said dismissal order under Section 37 of the Act
+was also dismissed by the Division Bench on 8th July, 2024. Subsequently,
+an SLP filed by the judgment debtor was also dismissed on 20th December,
+2024. Therefore, the Award has attained finality.
+5. The judgment debtor deposited a sum of ₹17,79,65,167.54 with the
+Registrar General of this Court on 7th February, 2024, which has since been
+released in the favour of decree holder.
+6. The decree holder claims that it is entitled to sums beyond the
+deposited amount before this Court whereas judgment debtor opposes the
+same. In these circumstances, both sides were directed to file their respective
+calculation details.
+7. This Court vide order dated 9th July, 2025 directed that the
+discrepancies in the calculation table be mutually reconciled by the officials
+of the parties. However, the differences with regard to the calculation details
+could not be reconciled. At the hearing on 11th November, 2025, it was noted
+that the disputes between the parties only persist in respect of claim no.
+2(K), claim no.2(L), claim no.2(O), claim no.2(N) and the future interest.
+8. Submissions on behalf of counsel were heard on 9th December, 2023
+and the judgment was reserved.
+9. At first, I will consider the differences between the parties in relation
+to claim nos.2(K) and 2(L). For the ease of reference, the said claims are set
+out below:-
+“Claim No. 2 (K): Ser No 11 of “Disputed” part of Final Bill:
+Reimbursement of compensation on Short/ Less payment of RARs amount
+amounting to Rs.5,77,19,935.40
+Claim No. 2 (L): Ser No 12 of “Disputed” part of Final Bill:
+Reimbursement of compensation on delayed payment of RARs amounting
+to Rs 3,24,69,263.12”
+10. In respect of the aforesaid claims, the Arbitral Tribunal held that the
+claimant (decree holder) did not bring any evidence to prove that it had
+actually suffered any losses. However, it was noted that there was
+unjustifiable delay in payments and therefore, the decree holder would be
+entitled to interest.
+11. Accordingly, the Arbitral Tribunal awarded interest at the rate of 8%
+on the delayed payments. The operative paragraph 144 of the Award is set
+out below:-
+“144. It is noted that except for the calculations referred to in Appendix
+‘A’, the Claimant has not brought on record any evidence to prove that it
+had actually suffered any losses to be entitled to justify its claims under
+Section 73 of the Contract Act. However, unjustifiably delayed payments
+which have already fallen due would attract grant of interest. Since the
+Respondent has not led any evidence to show that the payments were
+made on time or were delayed for a genuine reason, the Tribunal
+considers it just to grant compensation by way of interest. The Claimant
+has claimed interest at the rate of 12 percent per annum on which its
+calculations are based. The Tribunal is of the view that 8 percent
+interest on the delayed payments would be just and reasonable. It is so
+awarded. The Claimant will recalculate its claim accordingly.”
+[emphasis supplied]
+12. Next, a reference may be made to claim 2(O) which is set out below:-
+“Claim No. 2 (O): Ser No 15 of “Disputed” part of Final Bill:
+Reimbursement of Extra recovery of VAT at source amounting to Rs
+6,73,77,744.84 (Amended to Rs 1,79,09,829.49)”
+13. In relation to the aforesaid claim, the Arbitral Tribunal granted interest
+on the extra deduction of VAT effected by the respondent (judgment debtor)
+at the rate of 8% per annum. The dispositive paragraph 170 of the Award is
+set out below:
+170. The Claimant has claimed 18% interest on the additional recovery
+made by the Respondent. The Respondent's contention that the interest, if
+any, ought to be claimed from the concerned Authorities is devoid of any
+merit. The Respondent was aware of the elucidatory judgment passed by
+the Hon'ble High Court of Punjab & Haryana. Therefore, the conduct of
+the Respondent in effecting recovery of VAT at 6 percent was not correct.
+The Tribunal appreciates that the excess deduction has not gone into the
+coffers of the Respondent. However, the judgment of the Hon'ble Punjab
+& Haryana High Court had already clarified the position prior to the
+Respondent making this deduction. It must therefore be burdened with the
+losses which inexorably were suffered by the Claimant. It is also noted
+that the Respondent has not challenged the assertion of the Claimant that
+it suffered losses. In any event, the suffering of losses is self-evident. In
+the facts and circumstances of this case, the Tribunal considers it
+appropriate to grant interest on the extra deduction of VAT effected by
+the Respondent (i.e. 6% minus 3.5% = 2.5%) at the rate of 8 percent per
+annum instead of 18 percent claimed by the Claimant.”
+[emphasis supplied]
+14. In respect of claim no.3, ‘Interest Past, Pendente Lite and Future’, the
+Arbitral Tribunal returned the following findings:-
+“194. The Claimant has been awarded appropriate interest while
+deciding the individual claims. Any other claim qua interest (past and
+pendente-lite) stands rejected.
+15. The ‘Relief’ section of the Award (paragraph 203) details the amounts
+awarded by the Arbitral Tribunal in respect of each of the individual claims.
+The relevant extracts in respect of claim nos.2(K), 2(L) and 2(O) are set out
+below:-
+Claim No. Brief description of
+claim
+Amount Claimed
+(In INR)
+Awarded amount (In
+INR)
+2K Ser No 11 of
+“Disputed” part of
+Final Bill:
+Reimbursement of
+compensation on
+Short/ Less payment
+of RARs
+5,77,19,935.40/- The Claimant is
+granted 8 percent
+interest on the
+delayed payments.
+2L Ser No 12 of 3,24,69,263.12/- The Claimant is
+“Disputed” part of
+Final Bill:
+Reimbursement of
+compensation on
+delayed payment of
+RARs
+granted 8 percent
+interest on the
+delayed payments.
+2O Ser No 15 of
+“Disputed” part of
+Final Bill:
+Reimbursement of
+Extra recovery of
+VAT at source
+1,79,09,829.49 The Claimant is
+awarded interest on
+the extra deduction
+of VAT effected by
+the Respondent (i.e.
+6% minus 3.5% =
+2.5%) at the rate of
+8 percent per annum
+instead of 18 percent
+claimed by the
+Claimant.”
+16. There is no difference between the parties as regards the
+quantification of the amounts awarded under the aforesaid claims 2(K), 2(L)
+and 2(O) which are as follows:-
+Claim No. Amount Awarded
+2(K) Rs. 3,07,83,965.54
+2(L) Rs. 1,73,16,940.33
+2(O) Rs. 79,59,924.22
+17. The decree holder claims pendente lite interest on the amounts
+awarded under claim nos.2(K), 2(L) and 2(O), whereas it is the contention of
+the judgment debtor that in terms of the Award no pendente lite interest has
+been awarded in respect of aforesaid claims.
+18. A perusal of paragraph 194 of the Award set out above, clearly
+indicates that the Arbitral Tribunal has awarded interest in respect of some
+of the individual claims and any other claim qua interest whether past or
+pendente lite has been rejected in light of paragraph 194.
+19. A reading of paragraphs 144 and 170 of the Award along with the
+paragraph 203 (‘Relief’) makes it clear that the Arbitral Tribunal, in respect
+of the aforesaid claim nos. 2(K), 2(L) and 2(O), has awarded 8% interest on
+the delayed payments. Pertinently, the Arbitral Tribunal has not awarded any
+pendente lite interest. This is in contradistinction with some of other claims,
+such as claim no. 2(A), claim no.2(C), claim no.2(E), claim no.2(F), claim
+no.2(G) and claim no.2(H), where the Arbitral Tribunal has specifically
+awarded pendente lite interest. Illustratively, a reference may be made to
+paragraph 203 in relation of claim no. 2(A) and 2(E), where specifically
+pendente lite interest has been awarded, as referred to below:-
+Claim No. Brief description of
+claim
+Amount Claimed
+(In INR)
+Awarded amount (In
+INR)
+2A SerNo 1 of
+“Disputed” part of
+the Final Bill:
+Reimbursement extra
+expenditure on
+account of change in
+location of site office,
+site store and labour
+camps
+2,61,21,111.10/- 1,00,00,000/-
+with interest at the
+rate of 8 percent per
+annum from 26th
+August 2019 to 7th
+
+November 2022.
+2E 4,86,787.97/- 4,86,787.97/-
+with interest at the
+rate of 8 percent per
+annum from 26th
+August 2019 to 7th
+November 2022.
+[emphasis supplied]
+20. Therefore, in terms of the Award, no pendente lite interest has been
+awarded in respect of claim nos. 2(K), 2(L) and 2(O).
+21. Now, I will consider the differences with regard to claim no.2(N). For
+ease of reference, claim no.2(N) is set out below:-
+“Claim No. 2 (N): Ser No 14 of "Disputed" part of Final Bill:
+Reimbursement of extra expenditure incurred on extension of BGs
+amounting to Rs.1,74,14,257.50”
+22. The Arbitral Tribunal held that the decree holder is entitled to recover
+the actual cost incurred in keeping the bank guarantees alive. The relevant
+extract from the relief granted in relation to claim 2(N) is set out below:-
+Claim No. Brief description of
+claim
+Amount Claimed
+(In INR)
+Awarded amount (In
+INR)
+2N Ser No 14 of
+“Disputed” part of
+Final Bill:
+Reimbursement of
+extra expenditure
+incurred on extension
+of BGs
+1,74,14,257.50 The Claimant is
+awarded the actual
+costs incurred by it in
+keeping the Bank
+Guarantees alive.
+23. A perusal of the aforesaid extract from the Award would show that the
+Arbitral Tribunal has not quantified the amount of cost of keeping the bank
+guarantees alive that was granted in favour of decree holder. Neither has the
+Arbitral Tribunal awarded any pendente lite interest in respect of the
+aforesaid claim, as was the case in respect of claim nos. 2(K), 2(L) and 2(O).
+24. Whereas the decree holder claims a sum of ₹2,83,96,120/- towards the
+cost of keeping the bank guarantees alive, as per the judgment debtor the
+amount due is ₹84,80,594/-.
+25. The judgment debtor called upon the decree holder to furnish
+documentary evidence in respect of the actual cost incurred by the decree
+holder in keeping the bank guarantees alive vide letter dated 7th October,
+2025.
+26. The undisputed amount of ₹84,80,594/- has already been paid by the
+judgment debtor to the decree holder. It is further stated on behalf of the
+judgment debtor in the aforesaid letter dated 7th October, 2025 that it is
+willing to pay any further sum to the decree holder upon the decree holder
+furnishing proof of actual amount incurred by the decree holder if any.
+27. Therefore, at this stage, no additional amounts are payable by
+judgment debtor to the decree holder under claim no 2(N). However, the
+judgment debtor shall remain bound by the statement made above. Further,
+in terms of the Award, no pendente lite interest has been granted in respect
+of claim no.2(N).
+28. Yet another difference between the parties is with regard to the fact on
+what components of the Award would future interest be payable.
+29. It is the contention of the decree holder that future interest would be
+payable on the entire amounts awarded, whereas the judgment debtor
+contends that future interest would be payable only on the claims that were
+granted i.e. ₹8,26,97,491/-.
+30. Counsel for the judgment debtor submits that from a reading of
+paragraph 204 of the Award, it can be seen that the Arbitral Tribunal has
+granted future interest at the rate of 10.5% per annum “on the claims
+granted”. Therefore, future interest is payable only on the total amount of
+Rs.8,26,97,491/-.
+31. I am unable to accept the aforesaid submission of the judgment
+debtor. In terms of paragraph 204 of the Award, future interest of 10.5 % has
+been awarded on “all the claims granted”. The claims granted are
+individually detailed in paragraph 203 of the Award. While some of the
+claims have been quantified in the paragraph 203 of the Award, the
+remaining claims such as claim nos. 2(K), 2(L), 2(N) and 2(O) have not
+been quantified. In the calculation sheet filed on behalf of judgment debtor
+and the decree holder, there is no dispute with regard to quantum awarded
+under claim nos. 2(K), 2(L) and 2(O) as also the costs of arbitration.
+32. As noted above, in respect of some of the claims, the Arbitral Tribunal
+has awarded pendente lite interests at rate of 8% per annum from 26th
+August, 2019 to 7th November, 2022. However, in respect of claim nos.
+2(K), 2(L), 2(N) and 2(O), pendente lite interest has not been awarded.
+33. At this stage, it may be relevant to refer to Section 31(7) of the Act
+which provides for award of interest in an arbitral award. The same is set out
+below for the sake of convenience:
+“31. Form and contents of arbitral award. –
+(7) (a) Unless otherwise agreed by the parties, where and in so far as an
+arbitral award is for the payment of money, the arbitral tribunal may
+include in the sum for which the award is made interest, at such rate as it
+deems reasonable, on the whole or any part of the money, for the whole
+or any part of the period between the date on which the cause of action
+arose and the date on which the award is made.
+(b) A sum directed to be paid by an arbitral award shall, unless the
+award otherwise directs, carry interest at the rate of two per cent higher
+than the current rate of interest prevalent on the date of award, from the
+date of award to the date of payment.”
+[emphasis supplied]
+34. A reference may be made to the judgment of the Supreme Court in In
+Hyder Consulting (UK) Limited v. Governor, State of Orissa1
+(Hyder
+Consulting). The relevant observations made by the Supreme Court in
+Hyder Consulting (supra) are set out below:
+“4. Clause (a) of sub-section (7) provides that where an award is made for
+the payment of money, the Arbitral Tribunal may include interest in the
+sum for which the award is made. In plain terms, this provision confers a
+power upon the Arbitral Tribunal while making an award for payment of
+money, to include interest in the sum for which the award is made on either
+the whole or any part of the money and for the whole or any part of the
+period for the entire pre-award period between the date on which the
+cause of action arose and the date on which the award is made. To put it
+differently, sub-section (7)(a) contemplates that an award, inclusive of
+1
+(2015) 2 SCC 189.
+interest for the pre-award period on the entire amount directed to be paid
+or part thereof, may be passed. The “sum” awarded may be the principal
+amount and such interest as the Arbitral Tribunal deems fit. If no
+interest is awarded, the “sum” comprises only the principal. The
+significant words occurring in clause (a) of sub-section (7) of Section 31 of
+the Act are “the sum for which the award is made”. On a plain reading,
+this expression refers to the total amount or sum for the payment for which
+the award is made. Parliament has not added a qualification like
+“principal” to the word “sum”, and therefore, the word “sum” here
+simply means “a particular amount of money”. In Section 31(7), this
+particular amount of money may include interest from the date of cause of
+action to the date of the award.
+*** *** ***
+7. Thus, when used as a noun, as it seems to have been used in this
+provision, the word “sum” simply means “an amount of money”; whatever
+it may include — “principal” and “interest” or one of the two. Once the
+meaning of the word “sum” is clear, the same meaning must be ascribed
+to the word in clause (b) of sub-section (7) of Section 31 of the Act,
+where it provides that a sum directed to be paid by an arbitral award
+“shall … carry interest …” from the date of the award to the date of the
+payment i.e. post-award. In other words, what clause (b) of subsection (7)
+of Section 31 of the Act directs is that the “sum”, which is directed to be
+paid by the award, whether inclusive or exclusive of interest, shall carry
+interest at the rate of eighteen per cent per annum for the post-award
+period, unless otherwise ordered.
+8. Thus, sub-section (7) of Section 31 of the Act provides, firstly, vide
+clause (a) that the Arbitral Tribunal may include interest while making
+an award for payment of money in the sum for which the award is made
+and further, vide clause (b) that the sum so directed to be made by the
+award shall carry interest at a certain rate for the post-award period.”
+[emphasis supplied]
+35. In light of the above, all the amounts that have been awarded by the
+Arbitral Tribunal including the claims which have not been specifically
+quantified in the Award such as claim nos. 2(K), 2(L), 2(N) and 2(O), would
+be ‘sum directed to be paid by an arbitral award’ in terms of section
+31(7)(b) of the Act and would have to be included for the purposes of
+calculating future interest. Similarly, wherever pendente lite interest has
+been awarded, the same would be included for the purposes of calculating
+future interest.
+36. In respect of claims granted under claim nos.2(K), 2(L), 2(O) and
+2(N) even though the decree holder is not entitled to pendente lite interest,
+the decree holder would be entitled to future interest at the rate of 10.5% per
+annum.
+37. The next point of difference between the parties is with regard to the
+date from which the future interest would run. In this regard reference may
+be made to paragraph 204 of the Award which is set out below:-
+“204. The Claimant is granted a total amount of Rs. 8,26,97,491/- (Eight
+Crores Twenty-Six Lacs Ninety-Seven Thousand Four Hundred Ninety
+One only) along with interest granted under the respective heads and the
+cost of litigation and arbitration which shall be payable by the
+Respondent to the Claimant, within a period of two (2) months from the
+day following the date of Award, failing which the Claimant is granted an
+interest at the rate of 10.5 percent per annum (on the claims granted) for
+the period from the day following the date of the Award till realization”
+38. It is the contention of the decree holder that the future interest at the
+rate of 10.5% per annum would run from 8th November, 2022 to 7
+th
+February, 2024 the date on which the amount was deposited by the judgment
+debtor in Court, whereas it is the contention of the judgment debtor that the
+future interest would run from 24th January, 2023 to 7
+th February, 2024.
+39. The reading of the aforesaid extract from paragraph 204 the Award
+makes it abundantly clear that the respondent/judgment debtor was granted
+a period of two months form the date of award, i.e. 7
+th November, 2022 to
+make the due payments and it was further provided that if the judgment
+debtor fails to make the due payments under the Award within two months,
+the claimant would be entitled to interest at the rate of 10.5% per annum
+from the day following the date of Award till date of realisation. Had the
+judgment debtor paid the awarded amount within two months, there would
+have been no future interest. However, since the judgment debtor did not
+pay the awarded amount within the two months granted, the future interest
+would be payable from 8th November, 2022.
+40. Based on the above, the judgment debtor shall file its revised
+calculation of the amounts due to the decree holder within four weeks from
+today. Further, the amounts due to the decree holder in terms of the revised
+calculation shall be paid within six weeks from today.
+41. The present enforcement petition is disposed of in light of the
+discussion above.
+42. All pending applications stand disposed of.

@@ -1,0 +1,911 @@
+COURT: High Court of Delhi at New Delhi
+CASE_TYPE: Arbitration
+CASE_NO: O.M.P. (COMM) 548/2020 & O.M.P. (COMM) 128/2021
+DATE: 20.12.2025
+PLAINTIFF: Technology Information Forecasting and Assessment Council (TIFAC) / Strategic Engineering Pvt. Ltd.
+DEFENDENT: Strategic Engineering Pvt. Ltd. & Anr. / Technology Information Forecasting and Assessment Council (TIFAC)
+JUDGE: Hon'ble Mr. Justice Jasmeet Singh
+
+--------JUDGEMENT---------
+
+1. These are cross petitions filed under Section 34 of the Arbitration and
+Conciliation Act, 1996 (“1996 Act”) seeking to set aside the Arbitral
+Award dated 14.12.2019 passed in the matter of “Technology
+Information, Forecasting and Assessment Council v. M/s Strategic
+Engineering P. Ltd.” wherein some claims of both contesting parties
+were allowed and some claims were disallowed. Both the parties have
+filed their respective petition to challenge the said Award.
+FACTUAL BACKGROUND
+2. Technology Information Forecasting and Assessment Council
+(“TIFAC”), claimant before the Arbitrator, is a registered society under
+the administrative control of the Department of Science & Technology,
+Ministry of Science & Technology, Government of India.
+3. M/s Strategic Engineering Pvt. Ltd. (“SEPL”), respondent before the
+Arbitrator, is a company involved in the business of manufacture and
+trade of engineering equipment.
+4. The parties along with Madras Institute of Technology (“MIT”),
+executed a Tripartite Agreement dated 22.12.1999 being Technology
+Development Assistance Agreement (“TDA”), whereby SEPL sought
+the support of TIFAC to design and develop the composite refill
+cylinders for Compressed Natural Gas (“Project”).
+5. The approximate cost of the project was Rs. 5.78 crores out of which
+the share of SEPL was Rs. 2.98 crores and the financial assistance to be
+contributed by TIFAC was to be upto Rs. 2.80 crores.
+6. The said TDA contained an arbitration clause being Clause No. XVI.
+“a. If any dispute or difference arises between the Parties
+hereto as to the construction, interpretation, effect and
+implication of any provision of this Agreement including the
+rights or liabilities or any claim or demand of any Party
+against other or in regard to any matter under these presents
+but excluding any matters, decisions of determination of which
+is expressly provided for in this Agreement, such disputes or
+differences shall be referred to the sole arbitration of the
+Secretary of the Department of Science &Technology,
+Government of India, or that of his nominee and his decision
+will be final and shall be binding on all the Parties. A
+reference to the arbitration under this Clause shall be deemed
+to be submission within the meaning of the Arbitration Act,
+1940, and the rules framed there under for the time being in
+force.
+b. If the “COMPANY” does not make any claim or demand or
+raise any dispute of difference in terms of Sub Clause “a” of
+this Clause within six months from the date on which such
+claim or demand arises, the “COMPANY” shall deem to have
+waived and abandoned such claim or demand or the right to
+raise such dispute or difference against “TIFAC”.
+c. The venue of the Arbitration shall be at Delhi.”
+7. Pursuant to the execution of TDA, a Hypothecation Agreement was
+entered into between the parties, wherein the financial Assistance
+provided by TIFAC was secured by a second charge by way of
+8. In terms of the TDA, the Advisory and Monitoring Committee
+(“AMC”) was constituted with Prof. S.C. Lakkad of IIT- Mumbai as the
+Chairman and comprising of technical experts like engineers,
+professors, scientists having the knowledge and expertise in the field of
+science and technology. The said Committee was constituted to assess
+the progress of the project from time to time.
+9. Facts as per TIFAC (Petitioner in O.M.P. (COMM.)548/2020)
+9.1 During the 5th meeting of AMC dated 24.08.2001, upon examining
+the progress of the project, and on observation of one of the AMC
+members, the AMC declared the project a success and remarked that
+SEPL would have to repay the financial assistance received by it as
+per the TDA.
+9.2 SEPL during the 6th AMC meeting submitted 12 post dated cheques
+in favour of TIFAC which were towards the repayment of financial
+assistance received by it. The AMC also accepted SEPL’s request
+for restructuring the repayment process.
+9.3 The said post dated cheques delivered by SEPL were dishonoured.
+Thereafter, SEPL made a few repayments by way of demand drafts
+to the tune of Rs. 4,00,000/-.
+9.4 SEPL vide various letters dated 19.02.2003, 25.02.2003, 23.04.2003
+and 06.05.2003 requested TIFAC to reschedule the repayment from
+time to time. SEPL also gave assurance for repayment in its letter
+dated 10.10.2003. SEPL also admitted its liability to repay even in
+its balance sheet dated 31.03.2006 mentioning that the sum of Rs.
+2,76,00,000 was due to TIFAC. SEPL also admitted its liability to
+Court.
+9.5 TIFAC filed a civil suit for recovery of money bearing CS (OS)
+2265/2007. The same was disposed of vide Consent Order dated
+29.09.2008 and the parties were referred to arbitration.
+10. Facts as per SEPL (Petitioner in O.M.P. (COMM.) 128/2021)
+10.1 TIFAC disbursed a sum of Rs. 2.80 crores for the said project to
+SEPL by UBI cheques dated 22.12.1999, 14.03.2000 and
+29.11.2001.
+10.2 The time for completion of the said project was 24 months which
+was extended by the AMC for a further period of 2 months for
+procurement of the 3 Axis Filament Winding Machine
+(“Machine”).
+10.3 In the 5th AMC meeting SEPL was informed that Type II composite
+CNG Cylinders had been successfully developed using two axis
+filament winding system. However, the ultimate aim of the said
+project was successful commercial production of Type III cylinders
+and not Type II cylinders. The project was still incomplete merely at
+the design of Type II cylinder. The AMC in the same meeting
+recommended the release of Rs. 1.85 crore by TIFAC for
+procurement of the Machine.The project could have achieved
+commercial viability only upon successful commercial production
+of Type III cylinders for which the Machine was an essential
+requirement and hence the declaration that the project was a success
+by the AMC in the fifth meeting was wrong.
+10.4 Pursuant to the AMC meeting, TIFAC paid the sum of Rs. 1.85
+the project was nowhere complete. Thereafter, SEPL placed an
+order for procurement of the Machine on M/s Entech USA on
+19.10.2001. The whole amount of Rs. 1.85 crore was paid by SEPL
+to M/s Entech, USA towards sale consideration for the Machine.
+However, due to reasons beyond the control SEPL, the said machine
+was taken back by the US Custom Authorities after it had reached
+Singapore due to its dual Application possibility to cater to the
+requirement in the field of space and defence.
+10.5 SEPL fought a legal battle in the courts of USA and consequently,
+the Machine was finally released in August, 2003. However, while
+releasing the Machine, the Axis of the Machine was removed by the
+Custom Authorities and only a 2 Axis Filament Winding Machine
+could be received. The entire project was based on the 3 Axis
+Filament Winding Machine and hence the ultimate objective of the
+project, that is, successful production and commercialization of
+Type III Cylinders was never achieved.
+10.6 However, SEPL herein, in bonafide interest and utmost good faith
+with the intention of securing relationship for the successful
+completion of Phase-V of the project, issued 12 Post Dated cheques
+on the assurance of TIFAC that the same were only for the purpose
+of audit records and will not be presented for seeking payment at any
+time. TIFAC, with malafide intentions, presented the said cheques
+despite repeated requests made by SEPL not to present them.
+Therefore, the cheques were returned with an endorsement
+“insufficient funds”
+hope that the Machine would be procured soon and thereafter when
+project succeeds, the repayment process can be started. Since, the
+required Machine was never procured, consequently, the project
+could not become a success and therefore, the question of repayment
+did not arise.
+10.8 TIFAC preferred Complaints under Section 138 of the Negotiable
+Instruments Act, 1881 against SEPL and its Directors. In the Civil
+Suit filed by TIFAC, vide consent order dated 29.09.2008, the
+matter was referred to the Sole Arbitrator, who made and
+pronounced the Award dated 14.12.2019.
+11. The Arbitrator adjudicated the dispute between the parties and held as
+under-
+“1. Since the project was not taken to a fruitful conclusion,
+SEPL need not contribute funds to TIFAC as per the TDA
+Agreement.
+2. While SEPL need not contribute funds to TIFAC as per the
+TDA Agreement, it is logical that TIFAC recovers a part of
+its investments on the project by selling/auctioning plant and
+machineries acquired under the project and distributing the
+proceeds as per the TDA and Hypothecation Agreements.
+This action may be completed within three months of passing
+of this award.
+3. In case SEPL wants to retain the set of plant and
+machineries acquired under the project, they may do so after
+paying Rs 28 lakhs minus Rs 4 lakhs already paid by SEPL
+4. SEPL may immediately pay Rs 5 lakhs for wrongly
+securing TIFAC investment through a guarantor - company
+(PCACPL) whose management functionaries were same as
+that of SEPL, and for failing to bring these management
+functionaries to appear in the Arbitration proceedings in
+spite of repeated orders of the Arbitrator. This amount of Rs
+5 lakhs may be paid as contribution to the Prime Minister's
+Relief Fund within three months and copies of the receipt
+may be sent to Arbitrator and TIFAC.
+5. TIFAC may also pay Rs 5 lakhs penalty for casually
+accepting such a guarantor - company (PCACPL) whose
+management functionaries were same as that of SEPL, in
+order secure its investments. This amount of Rs 5 lakhs may
+be paid as contribution to the Prime Minister's Relief Fund
+within three months and copies of the receipt may be sent to
+Arbitrator and SEPL.
+6. SEPL could have utilized plant and machineries acquired
+under the project to manufacture some products of their own
+business interest and thereby contributing to the national
+economy as well. They did not do so. SEPL is asked to pay
+back 10% of Rs 280 lakhs of tax-payers money (channelized
+through TIFAC) that is Rs 28 lakhs to TIFAC in two
+three-monthly instalments.
+7. Further, TIFAC may pay another Rs 5 lakhs penalty for so
+casually formulating, and managing such a project of
+contribution to the Prime Minister's Relief Fund within three
+months and copies of the receipt may be sent to Arbitrator
+and SEPL.”
+SUBMISSIONS ON BEHALF OF TIFAC
+12. Mr. D Bhattacharya, learned counsel appearing on behalf of TIFAC,
+vehemently challenges the Award.
+13. Mr. Bhattacharya, learned counsel states that as per the Clauses V, VIII
+and IX the repayment of the amount was dependent upon the success in
+development of the technology and not on any commercial outcome.
+He challenges the said reasoning of the Arbitrator wherein he holds that
+the success of the project is dependent upon the commercial outcome of
+the said project. He places reliance on Union of India v. Selan
+Exploration Technology Ltd., 2010 SCC OnLine Del 3872, wherein it
+was held that “no clause of the contract can be given a go-bye and an
+interpretation which goes contrary to an express term of the contract
+can certainly not be adopted.”and states that the Arbitrator has all
+together ignored the material clauses of the contract.
+14. He submits that the impugned Award itself records that no reliance has
+been placed on any document prepared with the assistance or guidance
+of the MIT, ostensibly to avoid any confusion. Therefore, it is clear that
+the Arbitrator has erroneously held that SEPL is not liable to repay the
+financial assistance on the grounds that there was no “commercial
+success”, or that there was no application or utilisation of the
+technology by SEPL, or that the project was not taken to its logical and
+fruitful conclusion. It is contended that such findings are wholly
+in law.
+15. It is submitted by the learned counsel that the Arbitrator did not have
+the jurisdiction to decide whether the project was a failure or a success.
+The same came under the purview of the AMC.
+16. He submits that the Award fails to take note of the fact that, pursuant to
+the AMC’s meetings dated 05.11.2002 and 06.11.2002, SEPL
+deposited cheques towards repayment of the financial assistance on
+21.10.2002, under cover of a letter dated 21.10.2002. Even thereafter,
+SEPL continued to deposit additional cheques towards repayment, vide
+letters dated 19.02.2003, 25.02.2003, 25.02.2003, 23.04.2003 and
+06.05.2003.
+17. He draws my attention to the categorical findings of the Arbitrator that
+the AMC had declared the project as a “success” and that SEPL never
+raised any objection to such declaration at any point of time and,
+therefore, the said declaration should be relied upon and argues that
+Arbitrator erroneously declined to hold that the project was
+“successful” by introducing extraneous considerations such as
+“commercialisation” and “market acceptance”. The Award further
+proceeds on an incorrect assumption that a declaration of “success”
+could only be made upon the so-called commercialisation of the
+project. These conclusions are directly contrary to the express terms of
+the contract, which was “successful development of the technology”.
+The development of technology was not dependent either on
+commercial exploitation or market acceptability. These two factors are
+extraneous to the terms of the contract and by relying upon
+judging the project as successful, the Arbitrator has re-written the terms
+of the Contract and hence, the findings are perverse to the evidence on
+record. He places reliance on Dyna Technologies (P) Ltd. v. Crompton
+Greaves Ltd.1
+SUBMISSIONS ON BEHALF OF SEPL
+18. Mr. A.K. Thakur, learned counsel for SEPL, opposes the challenges
+posed by learned counsel of TIFAC and he further challenges the
+Award only to the extent of finding No. 6 on the ground of the same
+being perverse and contradictory to the findings of the Award itself.
+19. He states that the AMC could not have been treated as the final
+authority, since its very decision constituted the subject matter of
+dispute which was referred to arbitration. Once the decision of the
+AMC was under challenge before the Arbitrator, the decision of the
+AMC could not have attained finality or bind the parties. The minutes
+of the 5th AMC meeting are contradictory in itself and hence TIFAC has
+wrongly placed reliance on the same.
+20. He points out that the issue of repayment would only arise after the
+project was declared as successful, which was wrongly done by the
+AMC. Therefore, the subject matter of the dispute was the said report.
+Moreover, the Arbitrator, himself was a senior scientist and technocrat,
+has independently examined the decision taken by the AMC and
+rendered his findings thereon. The submission of TIFAC that the AMC
+is the final authority cannot be accepted as then there would be no
+disputes between the parties to be referred to Arbitration.
+21. He further states that the decision in the 5th AMC meeting dated
+24.08.2001 cannot be relied upon as it is in itself contradictory. It is
+apparent upon the bare reading of the minutes of the meeting. On one
+hand AMC declared the project as successful and on the other hand it
+was directed to TIFAC to release the money to SEPL for procurement
+of the Machine.
+22. It is emphasised that the contention of TIFAC that the cheques were
+given in the form of repayment is absolutely erroneous. The cheques
+were provided by SEPL in good faith and only upon the procurement of
+the Machine and aluminium linear, the project would become a success.
+As per the terms envisaged under the TDA the repayment would only
+begin at the successful completion of the said Project and its
+commercial utilisation. Since, the project was neither successful nor
+attained commercial viability therefore the question of repayment did
+not arise.
+23. He points out that the cheques were issued on October, 2002 which is a
+year prior to the arrival of the Machine. TIFAC illegally and arbitrarily
+encashed the said cheques more than six months prior to the arrival of
+the Machine. The Machine arrived on 05.09.2003, which is evident
+from the bill of entry as stamped by the Chennai Custom Authorities
+whereas the cheque was presented for repayment by TIFAC in January,
+2003.
+24. He submits that the cheques were submitted by SEPL to TIFAC as
+SEPL wanted to continue the work. The same is evident from the fact
+that an amount of Rs. 4,00,000 was also paid by SEPL. This amount
+was not in pursuance of repayment obligation, as the same would have
+evident from the findings of the Arbitrator that the project was not
+successfully completed.
+25. Challenging the finding No. 6 of the Award, Mr. Thakur submits that
+Arbitrator himself has observed that the declaration of the project as
+“successful” after the 5th AMC meeting was erroneous, particularly in
+view of the fact that the funds for procurement of the Machine were
+released only after the said meeting. In such circumstances, the project
+could not, in any manner, have been declared successful. Therefore, the
+finding of the Arbitrator directing SEPL to pay a sum of Rs. 28,00,000/to TIFAC as SEPL could have utilized plant and machineries acquired
+under the project to manufacture some products of their own business
+interest and thereby contributing to the national economy as well and
+they did not do so, is contrary to the evidence and material placed on
+record. He places reliance on SBP and Co. vs Patel Engineering and
+Anr.2
+ANALYSIS AND FINDINGS
+26. I have heard the learned counsels for the parties and perused the
+material on record.
+27. Before proceedings with the objections raised by the parties, it is
+pertinent to reiterate the scope of interference under Section 34 of the
+1996 Act. The scope under section 34 of the 1996 Act is very limited
+and narrow as the Court does not sit in appeal over the Award or
+reviews the Award passed by the Arbitral Tribunal or re-appreciates the
+evidence. Further, it is the prerogative of the Arbitral Tribunal to
+interpret the term of the Contract and if the Arbitral Tribunal has
+adopted a view which is plausible, the Court is not required to interfere
+even if an alternate view is possible. To set aside the Award, the Award
+must fall under any of the grounds as mentioned in section 34 of the
+1996 Act. One of the grounds, amongst other, pertains to patent
+illegality. Section 34 (2A) of the 1996 Act provides that if the Award is
+patently illegal then it is liable to be set aside. The Award is said to be
+patently illegal if it is contrary to substantive provisions of law of India,
+or provisions of the 1996 Act or the terms of the contract.3 Reliance is
+placed on OPG Power Generation (P) Ltd. v. Enexio Power Cooling
+Solutions (India) (P) Ltd.4.
+28. With these principles, I shall now consider the rival contentions of the
+parties.
+TIFAC’s Challenge to the Award (O.M.P (COMM) 548/2020)
+29. TIFAC’s primary challenge to the Award is based on the finding of the
+AMC that the Project was successful and the same was declared by the
+5th AMC meeting. Therefore, in terms of Clause No. IX of the TDA,
+SEPL is liable to pay Rs. 3.36 crores.
+30. It is the contention of TIFAC that the repayment is dependent upon
+success in development of the technology and not its commercial
+outcome. The finding of the Arbitrator that the project needs to attain
+commercial viability for repayments to begin, is misplaced. Further, the
+SEPL never objected to the said certification of AMC in the 5th and 6th
+meeting, that the technology has been developed successfully. The
+Arbitrator also supported the said contention and gave a finding that
+3Associate Builders v. DDA, (2015) 3 SCC 49.
+SEPL never objected to the declaration in AMC’s 5th and 6th meeting. In
+terms of Clause No. VIII before declaring the project as successful,
+TIFAC was required to take into consideration any objections raised by
+SEPL or MIT. Since no such objections were raised by SEPL or MIT,
+there was no hinderance in declaring the project as successful. On the
+issue of submitting the cheques, it is the contention of TIFAC that the
+cheques were submitted for repayment in terms of Clause IX of the
+TDA.
+31. On the contrary it is the contention of SEPL that the obligation of
+repayment does not arise until the project has achieved commercial
+viability. The AMC in 5th meeting has erroneously held that the project
+is a success whereas only Type II cylinders were developed and not
+Type III cylinders.
+32. Before delving into analysis of the facts and terms of the TDA, it is
+pertinent to highlight some important recitals and terms and conditions
+of the TDA. The “Company” here refers to SEPL. The same reads as
+under:
+“WHEREAS the “COMPANY” is also desirous of further
+work with the assistance of “MIT” in the up-scaling of the
+“PRODUCT”/“PROCESS” to acquire the capability for
+commercialization.
+xxxx
+“WHEREAS the “COMPANY” is convinced about the
+·viability of “PRODUCT”/“PROCESS” after having
+discussions with “MIT” and has expressed confidence in
+WHEREAS “TIFAC” and the “COMPANY” are willing to
+support financially and technically the “PROJECT” for the
+development of the “PRODUCT”/“PROCESS” for the
+ultimate commercial exploitation.
+xxxx
+I. DEFINITIONS
+....
+C. “PROJECT” means and includes the work
+involving development of total technology package of
+“PRODUCT”/“PROCESS” for ultimate
+commercialization...
+II. PROJECT AND SCHEDULES
+The "PROJECT" covered under this Agreement aims at:
+a. Designing of high pressure composite cylinders for
+storage of Compressed Natural Gas by analysis of CNG
+cylinder designs using FEM for various size and
+pressure, for optimum fibre orientation and lay-up
+sequences for fabrication purposes.
+b. Development of design data and detailed procedures for
+the fabrication of composite refill Gas cylinder for
+CNG.
+c. Testing of the cylinders for typical load applications like
+pressure, impact, fatigue, crashworthiness and
+vibration.
+d. To pave the way for a closer Industry and Institute
+e. To develop a commercially viable technology to
+indigenously produce CNG Cylinder.
+Details of the activities envisaged and the approximate
+schedules are provided in the Project Document
+submitted by the "COMPANY" to "TIFAC" which is
+appended herewith (ANNEXURE - I).”
+(emphasis supplied)
+33. In this respect, it is important to shed light upon the relevant clauses of
+TDA. The clauses read as under:
+“VIII. SUCCESSFUL DECLARATION OF THE
+PROJECT
+Successful development of technology shall be deemed to be
+completed when the Advisory and Monitoring Committee
+certifies to the effect in writing and is accepted by “TIFAC”.
+The views of “MIT” and the “COMPANY” shall also be
+considered by “TIFAC”. The decision of “TIFAC” in this
+regard shall be final and binding on all the Parties.”
+“IX CONTRIBUTION OF FUNDS TO “TIFAC” BY
+“COMPANY”
+If the development of technology is successful as declared by
+the Advisory & Monitoring Committee, the company shall
+contribute funds without any condition to “TIFAC” by way
+of an amount not exceeding Rs.336.00 lakhs (Rupees Three
+Hundred and Thirty-six lakhs only) in five yearly instalments,
+each instalment being Rs.67.20 lakhs (Rupees Sixty-seven
+[NB : The total repayment amount would be 1.2 times the
+financial assistance extended by TIFAC to the Company.]
+....”
+(emphasis supplied)
+34. On perusal of the minutes of the 5th AMC meeting dated 24.08.2001, it
+is evident that the AMC declared that project to be successful. Even Mr.
+Vishwanath, Managing Director of SEPL informed the committee
+about the successful development of Type II cylinders. Based on the
+said statement the further discussion in the meeting took place and Mr.
+Biswas commented about the success of the project. The minutes of the
+meeting dated 24.08.2001 are reproduced as under:
+“Advanced Composites Mission
+Fifth Advisory & Monitoring Committee meeting for
+project on „Composite CNG Cylinders for Automobiles‟
+Date: August 24, 2001
+Venue: Strategic Engineering Pvt. Ltd., Manamadurai
+The list of the Advisory & Monitoring Committee (AMC)
+members and other participants is given as Annexure-1.
+At the outset, Mr. Viswanath welcomed all the AMC
+members especially Shri K L Agrawal of Global Composites
+International, USA & overseas consultant for the project and
+Mr. Steven Hutchinson of Authorised Testing Inc., USA. Mr.
+Viswanath informed the Committee that under the guidance
+of Dr. Agrawal, SEPL has designed the carbon composite
+cylinders with aluminium liners - the same has been
+production. He further remarked that the presence of Mr.
+Steven Hutchinson was mandatory for witnessing the
+composite cylinder fabrication and testing for pressure
+cycling test & hydrostatic burst test for DOT approval.
+Mr. Viswanath informed the Committee at Strategic
+Engineering has successfully developed composite CNG
+cylinder (Type-2) for cars. Type-2 cylinders comprise a steel
+liner hoop wrapped with glass fibre by filament winding over
+the cylindrical portion of the liner so that the filaments
+provide additional strength only in the hoop direction and
+not in the longitudinal direction of cylinder. A typical steel
+liner with - 65 L capacity with wall thickness of 4.5mm and
+dome thickness of 12mm was „hoop wrapped‟ with 8-9 Kgs.
+of FRP. The total weight of such FRP CNG cylinder was
+around 58 Kgs. as against of 68-72 Kgs of all steel cylinder.
+The hoop wrapped cylinders were successfully tested for
+pressure cycling test & hydrostatic burst test. Mr. Viswanath
+further informed that two such cylinders would be shipped to
+Authorized Testing Inc., USA for carrying out the bonfire
+test.
+Mr. Hutchinson described various tests required to be
+carried out on the composite CNG cylinder for DOT
+approval. Under Pressure Cycling Test, the cylinder is
+pressurized to not more than 10 percent of the service
+pressure for 13,000 cycles and up to 125 percent of the
+to be tested to withstand 2.25 times the service pressure for
+Hydrostatic Burst Test. Mr. Hutchinson informed the
+Committee that the Bonfire Test could only be done at their
+laboratory in USA and would require two cylinders. For
+bonfire test, the cylinder (equipped with a pressure release
+device) filled with CNG is placed horizontally. Three
+thermocouples are attached at the container's bottom
+(midpoint) and one at each end where the dome end meets the
+container sidewall. The entire cylinder is then subjected to
+the flame (temperature between 850°-900° C for 20 minutes
+duration or till its contents are completely vented). If the test
+container is 165 cm in length or less, it needs to be placed in
+the upright position.
+Mr. Hutchinson further informed the Committee that
+cylinders to qualify as per NGV2-2 standards, they are tested
+more stringently. NGV2-2 standards clearly specify the
+chemical composition of the liner material, its mechanical
+properties, pressure cycle, burst test, composite flaw
+tolerance test, drop test, bonfire test, accelerated stress
+rupture test and penetration test. While for DOT approval as
+per code # 571.304, the cylinders are required to be tested
+for pressure cycle test, burst test and bonfire test only. Mr.
+Hutchinson observed that the composite CNG cylinders have
+been tested successfully as per DOT code # 571.304. He was
+quite hopeful that the cylinders would also qualify in the
+of compliance for composite cylinders, manufactured by
+SEPL, with DOT standards by end September 2001.
+Mr. Ramakrishnan informed the Committee that chemical
+& mechanical properties of the liner have been ascertained.
+The liner was subjected to hydrostatic burst pressure test.
+The liner passed the requirement of withstanding 125 percent
+of the service pressure.
+Mr. Balakrishnan remarked that every CNG cylinder is
+permanently labeled with a serial no. and a certificate is
+issued by the Chief Controller of Explosives (CCOE), Govt.
+of India. The vehicle fitted with a CNG cylinder has to be type
+approved by ARAI, Pune. ARAI does a comprehensive test of
+the CNG cylinder, fixing arrangement of the cylinder, safety
+valve etc. before clearing the vehicle for regular production
+by the automobile manufacturer. He informed that all steel
+cylinders are inspected/tested after 5 years of service life.
+Mr. Biswas informed that a meeting has been arranged
+with the Chief Controller of Explosives at Nagpur on 29th
+August for discussion regarding approval. Prof. Lakkad
+advised that we should go prepared with all relevant
+standards on the subject.
+Mr. Hutchinson informed that steel lined composite
+cylinders needs to be inspected/tested after every 3 years of
+service life and aluminum lined composite cylinder are
+Mr. Viswanath remarked that Strategic Engineering
+would be placing an order for procuring 3-axis filament
+winding machine and would simultaneously interact with
+CCOE for necessary approval. He requested the AMC to
+extend the project period up to February 2002, to enable
+SEPL carry out a market seeding of Type-2 cylinders in
+India.
+The Committee was satisfied with the technical progress
+& recommended an extension of project period by two
+months i.e. up to February 2002. The Committee advised
+SEPL for sourcing suitable steel liners from
+domestic/overseas market for production of Type-2 CNG
+cylinders. The Committee also desired that SEPL should
+identify sources for procuring aluminium liners for Type-3
+CNG cylinders as the next step. The Committee
+recommended the release of final TDA instalment amounting
+to Rs.185.00 lakhs by TIFAC for procurement of 3-axis
+filament winding machine subject to the satisfactory progress
+in CCOE's approval
+Mr. Biswas commented that the project has achieved the
+stipulated objectives as stated in the project proposal. The
+Advisory & Monitoring Committee declared the project as a
+success and remarked that Strategic Engineering would
+repay technology development assistance as per the
+The Committee while noting the progress of activities
+finalized the following action-plan to be complied with by
+SEPL before the next AMC meeting to be held sometime in
+February 2002:
+a. Certificate for Bonfire test from Authorised Testing Inc.,
+USA by Sept 21, 2001.
+b. Certificate for Type-2 CNG cylinder from Authorised
+Testing Inc., USA manufactured as per DOT standards by
+September 30, 2001.
+c. 3-axis filament winding machine required for large-scale
+production of Type-2 FRP CNG cylinders to be procured by
+mid February 2002.
+The Committee members also witnessed a hydrostatic
+burst test carried out on type-2 CNG cylinder after the
+cylinder had been subjected to pressure cycling test. The
+cylinder withstood 8000 bar of hydrostatic pressure before
+bursting at the cylindrical portion.”
+35. The only requirement, as per the terms of the Clause No. VIII of the
+TDA for completion of the successful development of technology, is
+the certification of the AMC and acceptance of the same by TIFAC.
+The decision of the AMC, being the competent authority to declare the
+project to be successful, is binding on the parties in terms of the said
+Clause of the TDA.
+36. It is also pertinent to note that as per Clause No. VIII itself, before
+TIFAC arrives on the decision that the project is successful, the views
+37. The 6th AMC meeting dated 21.10.2002 records that the cheques were
+submitted to TIFAC in the meeting so as to ensure the repayment as per
+the terms of the TDA, more specifically Clause No. IX. The minutes of
+the AMC meeting read as under:
+“Advanced Composites Programme
+Sixth Advisory & Monitoring Committee meeting for
+project on 'Composite CNG Cylinders for Automobiles'
+Date: October 21, 2002
+Venue: Strategic Engineering Pvt. Ltd. (SEPL),
+Manamadurai
+The list of the Advisory & Monitoring Committee (AMC)
+members and other participants is given as Annexure-1.
+At the outset, Mr. GS Viswanath, Managing
+Director-SEPL welcomed all the AMC members and
+informed that CNG cylinder (Type 2-steel liners hoop
+wrapped with FRP) for cars had been successfully developed
+and tested for hydrostatic test, leak test, burst test, pressure
+cycle test etc. as mentioned in the last AMC meeting. The
+cylinder was subsequently tested successfully for bonfire test
+by the US agency accredited by the Department of
+Transportation (DOT), US Federal Govt. as per their
+specifications.
+Mr. Viswanath further informed that SEPL planned to
+with FRP) for Samtel International Inc., California, USA and
+Pressed Steel Tank Co., Inc of USA based on steel liners
+sourced from USA as per the specs provided by them. The
+Companies agreed to supply the steel liners for the cylinders.
+The cylinders would be marketed by the US Companies in
+East Europe, south-east Asia & Australia. SEPL would also
+proceed with getting the cylinders tested as per newly
+finalized ISO standards. Exporting to US Companies and
+conformity to ISO standards would further help SEPL to get
+the cylinders subsequently approved by Chief Controller of
+Explosives (Govt. of India), Nagpur for introducing FRP
+CNG cylinders to Indian market.
+With the aforesaid action plan, SEPL placed an order for
+the procurement of 3-axis filament winding system from
+Entec, USA for the production of FRP CNG cylinders in as
+early as October 2000. The last instalment of advance
+payment to Entec was made in March 2001 after the release
+of last and final TDA instalment of Rs.185 lakhs from TIFAC
+in November 2000. The 3-axis system was expected to be
+delivered by early May 2001. Mr. Viswanath informed the
+Committee that the despatch of the filament winding system
+was delayed considerably due to the protracted clearance
+from the Federal Department of Commerce, US Govt. SEPL
+had to engage a lawyer for representation to US Govt. After a
+lot of deliberations and detailed assessment of SEPL by Dun
+had recently been cleared by the US Govt. and the system
+would be shipped shortly. SEPL was confident of starting the
+commercial production of FRP CNG cylinder by February
+2003.
+The prototype cylinders fabricated on Entec's 2-axis
+machine were tested successfully as per the DOT
+specifications. Hence, SEPL wanted to procure 3-axis system
+from Entec for better confidence among US Companies for
+sourcing hoop wrapped cylinders from SEPL.
+Mr. Balakrishnan remarked that Ashok Leyland was
+looking for a bigger diameter CNG cylinder (450 mm dia.)
+for buses. This would help in the reduction of cost towards
+fitting of three cylinders as well as providing
+inter-connectors.
+The Committee advised SEPL for ensuring the earliest
+possible delivery of 3-axis filament winding system, its
+installation and commissioning. The procurement of liners
+should also be taken up simultaneously.
+Mr. Biswas remarked that a visit would be called
+sometime in February 2003 after the commissioning of 3-axis
+filament winding system for witnessing the commercial
+production of FRP CNG cylinders.
+As per the tripartite agreement, SEPL was required to
+repay TDA to TIFAC commencing in January 2003. A total
+amount of Rs.336 lakhs would be reimbursed by SEPL as per
+been an inordinate delay in the shipment of 3-axis filament
+winding machine due to export license formalities by US
+Govt., SEPL would be in a position to manufacture & supply
+composite CNG cylinders commercially starting from
+February 2003.
+On request from SEPL, AMC agreed to accept TDA
+repayment for the first year in four instalments @ Rs. 16.80
+lakhs starting from January 2003. The subsequent
+instalments @ Rs 33.60 lakhs for the balance four years
+would be paid half-yearly. Accordingly, SEPL submitted 12
+post-dated cheques for the aforesaid TDA repayment.”
+38. SEPL never objected to the said finding of AMC in the 5th and 6th
+meeting. The Arbitrator also supported the said contention and
+recorded a finding which reads as under:
+“AMC had six meetings. In the 5thmeeting, the technology
+development was declared "successful". SEPL did not object
+to the decision in the 5th meeting itself, did not send any
+communication objecting to the decision after the meeting,
+or, did not raise the issue in the 6th meeting. Therefore, the
+decision regarding success of the project taken in the 5th
+meeting of the AMC may be taken as confirmed.
+....
+Given the Situation, Arbitrator observes the following:
+• For reasons best known to them, the AMC declared the
+project "successful" in its 5th meeting.
+is the final authority to assess whether a project is successful.
+AMC declared "success" in its 5th Meeting. This was duly
+recorded in the minutes of the said meeting. Chairperson
+AMC Prof Lakkad had also confirmed the same on two
+occasions he participated in the instant arbitration
+proceedings.
+• After declaration of success, SEPL had not gone on record
+to appeal to AMC to revisit the decision taken by AMC.
+• Therefore, Arbitrator is left with no other alternative but to
+respect the declaration of “success” by AMC.
+• However, the action of AMC/TIFAC as recorded in the
+same 5th meeting minutes is confusing. Through this AMC
+directed TIFAC to release funds for the most significant
+piece of equipment: 3-axis filament winding machine for the
+project.
+• Arbitrator questions the logic of said action after declaring
+success of the project
+• TIFAC stated that this was done to facilitate SEPL to do
+commercial operations. Arbitrator does not accept this
+explanation given by TIFAC since TIFAC is not afinancial
+institution in the business of providing financial support for
+setting up a commercial entity.
+• Even if it were so, there is no evidence to show that the
+project had ever reached the large - scale production
+/commercial stage. Based only on positive results of
+development is complete; the product is to be tested for
+market acceptance by end-users.
+• Therefore, declaration of "success" did not imply
+declaration of "conclusion" or "end" of the project.
+Arbitrator finds the "hurry" in declaring "success" baffling.”
+(emphasis supplied)
+39. Three things emerge from the above:
+a. The recitals reproduced above as well as definition in the TDA show
+that the aim of the project, amongst others, is to achieve commercial
+viability of the technology developed.
+b. The word “technology” is not defined in the TDA.
+c. The final authority as per the terms of Clause VII to determine
+whether the development of technology is successful or not, is the
+AMC.
+40. Upon perusal of the detailed technical description of the activities to be
+carried out in the project, as given under the TIFAC project proposal
+under TPMM on advanced composites, it can be established that the
+project was divided into 5 stages being consolidation of design
+literature and data to determine various parameters, analysis of the data
+consolidated, fabrication of sample cylinders, testing of the equipment
+and lastly, commercial production. The same is reproduced as below:
+“4. DETAILED TECHNICAL DESCRIPTION OF THE
+ACTIVITIES: A WRITE-UP WITH RESPECT TO
+OBJECTIVES AND MAJOR TARGETS
+Design literature and data on Pressure Vessel design &
+analysis, already gathered by MIT and SEPL will be
+consolidated, analysed and final design parameters like
+diameter, thickness & length will be decided based on market
+demand and usage.
+STAGE II-ANALYSIS BY MIT:
+Based on the parameters decided in the design phase,
+analysis will be carried out for the given internal pressure
+using Finite Element Methods. Standard packages like
+CSA-NASTRAN, SOLID MODELLING will be used for the
+analysis. The optimum fibre orientation, lay-up sequence and
+cylinder geometry will be determined.
+STAGE 111-FABRICATION AT NAL, BANGALORE
+Polar filament winding machine at NAL is suitable to
+fabricate sample cylinders. The facilities at NAL will be hired
+for fabrication of 50 prototype cylinders designed by MIT. 30
+aluminium liners will be imported and 20 steel liners will be
+procured locally.
+STAGE IV-TESTING AT SEPL'S SITE AT MANAMADURAI
+Critical equipment to carry out acceptance test as per
+international standard will be installed. The prototype
+cylinders fabricated at NAL will be tested as per standards
+and norms of DoT, USA, TUV, Germany and HSE, UK to
+arrive at the ideal prototype of the CNG refill cylinder for
+commercial production.
+Install complete plant and machinery for commercial
+production at SEPL's site at Manamadurai and produce
+stipulated batches of cylinders for acceptance test as per
+international standards...”
+41. Even though the completion of aim of the Project depends on
+commercialisation of the same, the “development of technology” is not
+dependent upon the same. Development of the technology is a separate
+stage, prior to, the commercial production. Once the AMC has declared
+the development of technology as successful in terms of the Clause VIII
+of the TDA, the repayment becomes due to the TIFAC in terms of
+Clause IX of the TDA.
+42. The contention of SEPL that the AMC could not have been treated as a
+final authority to decide the successful completion of development of
+technology, to my mind does not hold merit. Upon perusal of the terms
+of the TDA above, more specifically Clause VIII, it is clear that it was
+the AMC that had the sole jurisdiction to certify whether the
+development of technology was a success or not. The same was decided
+in favour of TIFAC in the 5th AMC meeting and never challenged by
+SPEL.
+43. Moreover, SPEL submitted the cheques which were for the repayment
+in terms of Clause IX of the TDA. The same is evident from the
+findings of the AMC in the 6th meeting. It was clearly noted by the
+AMC that SEPL would be able to supply the composite cylinders
+commercially only from February 2003 but the repayment had to begin
+from January 2003. In furtherance of the said findings, SEPL submitted
+and 6th meeting rather submitted the cheques. It was by conduct that
+SEPL has acquiesced to the same.
+44. As per the list of machinery given in the TIFAC project proposal under
+TPMM on advanced composites, the machine was an important part of
+completion of project, but the same cannot be seen in isolation. The
+conjoint reading of the minutes of the meeting and the terms of the
+TDA and proposal, it is evident that the technology had been developed
+and the said machinery was important for the commercialisation of the
+cylinders.
+45. The Arbitrator has totally ignored Clause IX. The 5 stages of the Project
+as stated in the detailed technical description, can be bifurcated into 3
+parts. Firstly, development of technology, secondly, testing and thirdly,
+commercialisation. Clause IX has mandated repayment to be made at
+the stage to the technology being declared as successful by the AMC.
+Commercialisation may not have been achieved but mandate of Clause
+IX has squarely been achieved. The technology has been declared
+successful by AMC on the statement of Mr. Vishwanath, Managing
+director of SEPL. The Arbitrator, by holding that commercialisation
+has not been achieved hence no payment is to be made has totally
+ignored the ambit and scope of Clause IX of the TDA.
+46. In view of the above analysis, I am of the considered opinion that, the
+finding of the Arbitrator that the development of technology is not
+successful until the commercial viability is achieved is contrary to the
+specific terms of the TDA. The interpretation that the repayment
+obligation becomes due only when the commercialisation of the project
+TDA.
+47. No doubt the Arbitrator has the power to interpret the terms and
+conditions of the contract, but, the Arbitrator being the creature of the
+contract, does not have the power to substitute, supplement, alter or
+modify the terms of the contract. It is the solemn responsibility of the
+Arbitrator to adjudicate and decide the disputes while staying in the
+circumscribing limits of the provisions of the contract between the
+parties while also upholding the terms of the contract. Reliance is
+placed on Sepco Electric Power Construction Corpn. v. Kamalanga
+Energy Ltd.5 The relevant paragraphs read as under:
+“91. Numerous precedents laid down by this Court have
+often emphasised that an arbitrator lacks the power to
+deviate from or to reinterpret the terms of the contract while
+making an award. The awards must be within the parameters
+of the agreement entered between the parties.
+92. This Court in Saw Pipes (supra) has reiterated that any
+deviation from the mandate of Section 28 Sub-Section 3 of the
+1996 Act is a valid ground for lambasting an arbitral award.
+Commenting on the duty of the arbitrators, this Court
+observed as follows:
+“73. It is to be reiterated that it is the primary duty of
+the arbitrators to enforce a promise which the parties
+have made and to uphold the sanctity of the contract
+which forms the basis of the civilized society and also
+the jurisdiction of the arbitrators. Hence, this part of the
+award passed by the Arbitral Tribunal granting interest
+on the amount deducted by the appellant from the bills
+payable to the respondent is against the terms of the
+contract and is, therefore, violative of Section 28(3) of
+the Act.”
+....
+94. Further clarification of this proposition is brought about
+through observations of this Court in a further decision by
+3-Judge Bench in Union of India v. Bharat Enterprise
+wherein it was underlined that the existence and powers of an
+arbitrator are a creature of the agreement between the
+parties, and it is the terms of the contract which serves as a
+fundamental basis for the procedure to be adopted by the
+arbitral tribunal. Therefore, the concerned arbitrator is
+restricted to the terms of the contract thereof and cannot go
+outside its scope or what is, per se, specified. In words of the
+Bench, “A disregard of the specific provisions of the contract
+would incur wrath of the Award being imperiled. This
+position cannot be in the region of dispute.”
+48. As per Section 34 (2A) of the 1996 Act, the Award can be set aside if
+the Award is vitiated by patent illegality. An Award contrary to the
+terms of the contract falls within the preview of patent illegality.
+49. A bare perusal of the above discussion clearly brings out the following:
+i. Under the TDA the Arbitrator the could not sit in Appeal over the
+decision of the AMC. The AMC was the competent authority to
+not.
+ii. The project was for successful development of technology for
+composite refill cylinders for compressed natural gas.
+Commercialisation was an incidence of successful development of
+technology.
+iii. The contract aimed at commercial viability of the project for
+which the machine was an important requirement.
+iv. The repayment obligation of SEPL in terms of Clause IX
+commenced from the date of declaration of successful
+development of technology.
+50. Hence, it would be apposite to conclude that the Award is vitiated by
+patent illegality. The Arbitrator has gone behind the terms of the TDA
+and rewritten the contract. Reliance is placed on PSA Sical Terminals
+(P) Ltd. v. V.O. Chidambranar Port Trust6, wherein it was held that
+the Award is liable to be set aside on the ground of patent illegality if
+the Arbitrator has rewritten the terms of the contract. The relevant
+paragraphs read as under:
+85. As such, as held by this Court in Ssangyong Engg. &
+Construction Co. Ltd. [(2019) 15 SCC 131: (2020) 2 SCC
+(Civ) 213], the fundamental principle of justice has been
+breached, namely, that a unilateral addition or alteration of
+a contract has been foisted upon an unwilling party. This
+Court has further held that a party to the agreement cannot
+be made liable to perform something for which it has not
+entered into a contract. In our view, rewriting a contract for
+the parties would be breach of fundamental principles of
+justice entitling a court to interfere since such case would be
+one which shocks the conscience of the court and as such,
+would fall in the exceptional category.
+86. We may gainfully refer to the following observations of
+this Court in Bharat Coking Coal Ltd. v. Annapurna
+Construction [(2003) 8 SCC 154]: (SCC pp. 161-62, para
+22)
+“22. There lies a clear distinction between an error
+within the jurisdiction and error in excess of
+jurisdiction. Thus, the role of the arbitrator is to
+arbitrate within the terms of the contract. He has no
+power apart from what the parties have given him under
+the contract. If he has travelled beyond the contract, he
+would be acting without jurisdiction, whereas if he has
+remained inside the parameters of the contract, his
+award cannot be questioned on the ground that it
+contains an error apparent on the face of the record.”
+87. It has been held that the role of the arbitrator is to
+arbitrate within the terms of the contract. He has no power
+apart from what the parties have given him under the
+contract. If he has travelled beyond the contract, he would be
+acting without jurisdiction.
+89. It has been held that an Arbitral Tribunal is not a court of
+law. Its orders are not judicial orders. Its functions are not
+justitiae. It has been held that the jurisdiction of the
+arbitrator being confined to the four corners of the
+agreement, he can only pass such an order which may be the
+subject-matter of reference.
+90. In that view of the matter, we are of the considered view,
+that the impugned award would come under the realm of
+“patent illegality” and therefore, has been rightly set aside
+by the High Court.”
+51. The various directions to make payments by TIFAC and SEPL are
+based out of a common finding that the Project had not achieved
+success as the technology was not commercialised and hence no
+repayment is required to be made. In view of my discussion above, the
+said finding is patently illegal as it is contrary to the terms of the TDA.
+All the other findings given by the Arbitrator are interconnected and not
+severable in nature. Hence, the Award is set aside.
+SEPL’S Challenge to the Award (O.M.P (COMM) 128 /2021)
+52. Though in the prayer, SEPL challenged finding Nos. 3,4, and 6, in the
+arguments, the challenge was restricted to finding No. 6, which reads as
+under:
+“6. SEPL could have utilized plant and machineries acquired
+under the project to manufacture some products of their own
+business interest and thereby contributing to the national
+economy as well. They did not do so. SEPL is asked to pay
+back 10% of Rs 280 lakhs of tax-payers money (channelized
+through TIFAC) that is Rs 28 lakhs to TIFAC in two
+53. Since the Award itself is set aside, the finding No. 6 also is set aside and
+O.M.P. (COMM.) 128 of 2021 becomes infructuous.
+CONCLUSION
+54. Consequently, the petitions are allowed and Arbitral Award dated
+14.12.2019 is set aside.
+55. Pending applications, if any, also stand disposed of.
+JASMEET SINGH, J
+DECEMBER 20th , 2025/(MU)

@@ -1,0 +1,1364 @@
+COURT: High Court of Delhi at New Delhi
+CASE_TYPE: Arbitration
+CASE_NO: FAO (COMM) 210/2025 & connected matters (FAO (COMM) 204/2025, 211/2025, 237/2025, 238/2025, 239/2025)
+DATE: 24th December, 2025
+PLAINTIFF: Rahul Bhargava & Anr.; Harmeet Singh Kapoor & Anr.; M/s Jagmohan Enterprises LLP
+DEFENDENT: M/s Neo Developers Pvt. Ltd.
+JUDGE: Hon'ble Ms. Justice Prathiba M. Singh & Hon'ble Mr. Justice Shail Jain
+
+--------JUDGEMENT---------
+
+1. This hearing has been done through hybrid mode.
+2. Present Appeals have been filed by six Appellants under Section 13
+(1A) of the Commercial Courts Act, 2015, read with Section 37(1)(b) of
+the Arbitration and Conciliation Act of 1996 (herein after referred to as
+the Act of 1996), inter-alia,, challenging the Final Orders passed by the
+District Judge (Commercial Court), Central Delhi, Tis Hazari Courts, Delhi,
+by which the Petitions filed under Section 9 of the Act of 1996, were
+dismissed by the concerned Commercial Courts.
+3. FAO (COMM) NO. 210/2025, titled “Rahul Bhargava &Anr. vs.
+Neo Developers Pvt. Ltd.”, has been treated as the lead matter in the present
+bunch of Appeals.
+BRIEF FACTS:
+4. The brief background of cases leading to these Appeals is as follows-
+A. In the year 2015, the Appellants entered into a commercial
+transaction with the Respondent, Neo Developers Pvt. Ltd., for the
+purchase of commercial units in a project titled "Neo Square",
+situated at Sector 109, Dwarka Expressway, Gurugram,
+Haryana.
+B. Pursuant thereto, the Appellants executed a Builder Buyer
+Agreement ("BBA") and a Memorandum of Understanding ("MoU")
+with the Respondent in respect of Unit No. 21, Third Floor,
+admeasuring 250 sq. ft., at the rate of Rs. 4,500/- (Rupees Forty Five
+Hundred) per sq. ft. for a total consideration of Rs.11,66,715/-
+(Rupees Eleven Lakh Sixty-Six Thousand Seven Hundred Fifteen
+(CHART 1)
+BELOW IS A FACTUAL CHART OF ALL APPEALS
+APPEAL
+NO.
+NAME OF
+THE
+APPELLANT
+PRIORITY
+UNIT NO.
+AMOUNT OF
+SALE
+CONSIDERATION
+ASSURED
+RETURNS
+FIXED
+PER
+MONTH
+UNSPECIFIED
+DEMANDS
+AND FIT-OUT
+CHARGES
+FAO
+(COMM)
+204/2025
+Harmeet Singh
+Kapoor
+&
+Satvinder
+Kapoor
+58C
+(Commercial
+Shop, Ground
+Floor,
+measuring
+275 sq. ft. at
+Rs. 8,250/-
+per sq. ft. )
+Rs. 23,70,844/- Rs. 35,035/- Rs. 6,75,679/-
+Rs. 11,35,750/-
+FAO
+(COMM)
+210/2025
+Rahul
+Bhargava
+&
+Ragini Bhargava
+21
+(Restaurant,
+Third Floor,
+measuring
+250 sq. ft. at
+Rs. 4,500/-
+per sq. ft)
+Rs. 11,66,715/- Rs. 22,500/- Rs. 5,13,941/-
+Rs. 10,32,500/-
+FAO
+(COMM.)
+211/2025
+Rahul
+Bhargava
+&
+Ragini Bhargava
+23
+(Restaurant,
+Third Floor,
+measuring
+250 sq. ft. at
+Rs. 4,500/-
+per sq. ft)
+Rs. 11,66,715/- Rs. 22,500/- Rs. 5,14,474/-
+Rs. 10,32,500/-
+FAO
+(COMM.)
+237/2025
+Harmeet Singh
+Kapoor
+&
+Satvinder
+Kapoor
+58A
+(Commercial
+Shop, Ground
+Floor,
+measuring
+505 sq. ft. at
+Rs. 8,250/-
+per sq. ft.)
+Rs. 43,53,732/- Rs. 64,337/- Rs. 12,35,362/-
+Rs. 20,85,650/-
+FAO
+(COMM.)
+238/2025
+Jagmohan
+Enterprises LLP
+22
+(Commercial
+Shop, Ground
+Floor,
+measuring
+583 sq. ft. at
+Rs. 4,100/-
+per sq. ft.)
+Rs. 24,76,460/- Rs. 49,555/- Rs. 4,57,748/-
+FAO
+(COMM.)
+239/2025
+Rahul
+Bhargava
+&
+Ragini Bhargava
+25
+(Restaurant,
+Third Floor,
+measuring
+250 sq. ft. at
+Rs. 4,500/-
+per sq. ft)
+Rs. 11,66,715/- Rs. 22,500/- Rs. 5,14,393/-
+Rs. 10,32,500/-
+C. The entire sale consideration was duly paid by all the Appellants at
+the time of execution of the said agreements.
+D. As per the terms of the MoU, the Respondent assured the Appellants
+of Assured Monthly Returns amounting to Rs. 22,500/- (Rupees
+Twenty-Two Thousand Five Hundred Only). The Respondent was
+contractually bound to disburse the said assured returns, beginning
+from the date of execution of the MoU and BBA, i.e., 31.01.2015,
+until the commencement of the first lease in respect of the said unit.
+The obligation to pay assured returns was unconditional and
+unequivocal under the MoU.
+E. However, beginning from the year 2019, disputes arose between the
+parties, inter alia, on account of the following acts and omissions on
+the part of the Respondent –
+a. The unilateral cessation of payment of assured monthly returns
+with effect from July 2019;
+b. Issuance of a Final Notice dated 07.06.2021 by the Respondent,
+raising vague, unexplained dues, coupled with an intimation of
+cancellation of allotment in the event of non-payment of the
+c. Unjustified delay in construction, and failure to hand over
+possession of the allotted commercial units within the stipulated
+time.
+F. Aggrieved thereby, all the Appellants approached the Economic
+Offences Wing, Delhi Police, which culminated in the registration of
+a common F.I.R. No. 46/2022 under Sections 406, 420, and 120B
+of IPC dated March 16, 2022, against the Respondent. In addition,
+all the Appellants instituted proceedings before the Haryana Real
+Estate Regulatory Authority (hereinafter, ‘HARERA’), by filing
+various Complaints, including one titled "Rahul Bhargava and
+Ragni Bhargava vs. Neo Developers Pvt. Ltd.” dated 24.03.2023.
+Other Appellants also filed similar proceedings in their respective
+matters.
+G. The Complaints of the Appellants in FAO (COMM.) 210/2025, FAO
+(COMM.) 211/2025, FAO (COMM.) 238/2025, FAO (COMM.)
+239/2025, and in FAO (COMM.) 204/2025, FAO (COMM.)
+237/2025 were adjudicated by HARERA vide Orders dated
+14.08.2024 and 14.05.2025, respectively.
+● Vide Order dated 14.08.2024, HARERA was pleased to grant
+reliefs in favour of the Appellants, mainly in Petitions filed by
+Appellants bearing FAO (COMM) 210/2025, FAO (COMM)
+211/2025, FAO (COMM) 238/2025, and FAO (COMM)
+239/2025. The said order reads as under-
+“H. Directions of the authority
+41. Hence, the Authority hereby passes this order and
+issues the following directions under section 37 of the
+promoter as per the function entrusted to the authority
+under section 34(f):
+i. The cancellation dated 07.06.2021 is hereby set aside
+and the respondent is directed to pay the arrears of
+amount of assured return at the rate i.e., Rs.22,500/- per
+month from the date i.e., 31.01.2015 till the
+commencement of the first lease on the said unit as per
+the memorandum of understanding, after deducting the
+amount already paid by the respondent on account of
+assured return to the complainants.
+ii. The respondent is directed to pay arrears of accrued
+assured return as per MOU dated 31.01.2015 till date at
+the agreed rate within 90 days from the date of this
+order after adjustment of outstanding dues, if any, from
+the complainants and failing which that amount would
+be payable with interest @9% p.a. till the date of actual
+realization.
+iii. The respondent is directed to offer possession of the
+unit within 2 months from the date of obtaining
+occupation certificate from the concerned authorities.
+iv. The respondent is directed to execute conveyance
+deed in favour of the complainants within 3 months after
+obtaining the occupation certificate.
+v. The respondent shall not charge anything from the
+complainants which is not the part of the agreement of
+sale.”
+● Vide Order dated 14.05.2025, HARERA was pleased to grant reliefs
+in favour of other Appellants in FAO(COMM.) 204/2025, FAO
+(COMM.) 237/2025. The said order reads as follows:
+“H. Directions of the authority
+50. Hence, the authority hereby passes this order and issue
+the following directions under section 37 of the Act to
+ensure compliance of obligations cast upon the promoter as
+per the function entrusted to the authority under section
+3(f)
+i. The demand letter dated 22.01.2020 as well as final notice
+dated 07.06.2021 is hereby set aside.
+ii. The respondent is directed to pay assured return to the
+complainants at the agreed rate per month from the date,
+i.e., 01.11.2018 till notice of possession is issued to the
+complainants as per the memorandum of understanding
+dated 01.11.2016, after deducting the amount already paid
+on account of assured return to the complainants.
+iii. The respondent is directed to pay the outstanding
+accrued assured return amount till date at the agreed rate
+within 90 days from the date of this order after adjustment
+of outstanding dues, if any, from the complainants and
+failing which that amount would be payable with interest @
+9.10% pa. till the date of actual realization.
+iv. The respondent is directed to handover possession of the
+unit to the complainants in terms of the MoU as well as
+buyer's agreement executed between them, on payment of
+outstanding dues if any, within 60 days. The respondent is
+further directed to get the conveyance deed of the allotted
+unit executed in their favour in terms of Section 17(1) of the
+Act of 2016 on payment of stamp duty and registration
+charges as applicable within three months from the date of
+this order.
+v. The respondent shall not charge anything from the
+complainants which is not the part of the BBA/MoU dated
+01.11.2016.
+vi. A period of 90 days is given to the respondent to comply
+with the directions given in this order and failing which
+legal consequences would follow.”
+H. It is also contended by the Appellants herein that no Appeal has
+been filed by the Respondent against the Final Orders of HARERA
+dated 14.08.2024 and 14.05.2025.
+I. Subsequent to the passing of the said Order by HARERA, the
+Respondent, vide communications dated 27.02.2025, in FAO
+Occupation Certificate (OC) had now been obtained and the
+possession was now being offered, subject to the clearance of
+outstanding dues and completion of documentation. The Respondent
+raised further demands upon the Appellants towards the alleged
+dues and certain fit-out charges, pertaining to the respective
+commercial unit, amounting to Rs. 5,13,941/- (Rupees Five Lakh
+Thirteen Thousand Nine Hundred and Forty One only) and Rs.
+10,32,500/- (Rupees Ten Lakh Thirty Two Thousand and Five
+Hundred only), respectively, without furnishing any contractual or
+factual basis for the same.
+Similar unexplained demands and fit-out charges were also raised in
+respect of the units allotted to the other Appellants, particulars
+whereof are reflected in the Chart 1, set out hereinabove.
+J. It is, further, submitted by the Appellants that in the said letter
+dated 27.02.2025, the Respondent also communicated to the
+Appellants that the units purchased by the Appellants had already
+been leased out to the prospective lessor for the second time since the
+same could not be finalised due to the Appellants’ failure to sign the
+relevant documents. Further, the Respondent stated that if the
+payment demanded was not made, the allotment of the units to the
+Appellants would stand cancelled.
+K. In the meantime, the Appellants in FAO (COMM.) 210/2025
+initiated Execution Proceedings in April 2025, for the enforcement
+of the Order dated 14.08.2024 before HARERA, registered as
+HARERA-GRG-2235-2025, which is stated to be pending. The
+being OMP (I) (Comm.) No. 470/2025, titled “Rahul Bhargava &
+Anr. v. M/s Neo Developers Pvt. Ltd.”, before the Commercial Court,
+Central District, Tis Hazari Courts, Delhi.
+The said Petition was dismissed vide Order dated 09.06.2025, passed
+by the Ld. Commercial Court, wherein the following order has been
+passed against the Petitioner:
+“This Court does not have territorial jurisdiction to try and
+entertain the present Petition, and hence, the present
+Petition is disposed of for want of territorial jurisdiction.”
+L. Similarly, the corresponding Petitions filed by the other
+Appellants were also dismissed vide separate orders, primarily on the
+ground that the Appellants, having already availed remedies under the
+Real Estate (Regulation and Development) Act, 2016 (hereinafter,
+“RERA Act”), and therefore, were precluded from maintaining the
+Petitions under Section 9 of the Act of 1996. The reasoning adopted
+in the impugned judgments proceeds on the premise that the
+Appellants cannot be permitted to seek identical reliefs before
+multiple fora.
+M. Being aggrieved by the aforesaid Impugned Orders in Section 9
+Petition under the Act of 1996, present Appeals have been preferred
+by the Appellants, inter alia, seeking the following reliefs.-
+1. Set aside the Impugned Order dated 31.07.2025 passed
+under Section 9 of the Arbitration and Conciliation Act,
+1996 in OMP(I)(COMM) No. 470 of 2025, titled “Rahul
+Bhargava vs. M/s Neo Developers Pvt. Ltd.”, by the Ld.
+District Judge (Commercial), Tis Hazari Courts, New
+2. Grant the interim reliefs as prayed for in OMP (I)
+(COMM.) No. 470 of 2025 under Section 9 of the
+Arbitration and Conciliation Act, 1996.
+“i. Pass an interim order of injunction in favour of
+the Petitioner and against the Respondent, thereby
+restraining the Respondent and their agents,
+servants, attorneys, heirs, contractors, labourers,
+representatives, etc. from leasing out the property or
+creating any third-party interests till the
+commencement of arbitration, and
+ii. Pass an interim order of injunction in favour of
+the Petitioner and against the Respondent, thereby
+restraining the Respondent from cancelling the
+Unit/BBA or MOU till the commencement of the
+Arbitration, and
+iii. Pass such other and further orders in the
+Interest of Justice as this Hon'ble Court deems
+necessary in the facts and circumstances of the
+present case.”
+N. Appeals seeking similar reliefs have been filed by all the
+Appellants. The Petitions under Section 9 of the Act of 1996 were
+basically dismissed on one ground that, since the Appellant has
+already availed of his remedy under the RERA Act, he cannot seek a
+simultaneous remedy under the Arbitration & Conciliation Act,1996.
+Except in the case of Rahul Bhargava bearing OMP (I) (COMM.)
+470/2025, where it was dismissed on the ground that the Commercial
+Courts of the Central District have no jurisdiction, as the seat of
+Arbitration provided in the MOU is ‘New Delhi’, hence the ‘Delhi’
+Court cannot have jurisdiction. Thus, except for FAO (COMM)
+can be allowed to avail a simultaneous remedy of Arbitration after
+availing the remedy under the RERA Act.
+O. All the present Appeals are against the Orders of dismissal of
+the Section 9 Petitions by different Ld. District Judges (Commercial
+Court) on two major grounds.
+The present chart provides the details of different OMPs filed and the
+order/ reasoning thereof passed in those OMPs, which led to the filing
+of the present Appeals.
+(CHART 2)
+A CHART OF ALL THE SECTION 9 PETITIONS FILED
+APPEAL
+NO.
+ARISING OUT
+OF
+IMPUGNED
+ORDER DATE
+AND PASSED
+BY
+DECISION AND REASONS
+FAO
+(COMM)
+210/2025
+OMP (I) (COMM.)
+No. 470/2025, titled
+“Rahul Bhargava
+&Anr. Vs. M/s Neo
+Developers Pvt.Ltd.
+”
+Order dated
+09.06.2025
+Passed by Ld.
+District Judge,
+Commercial Court
+-01, Central
+District, THC,
+Delhi
+The Petition was dismissed by the Ld.
+Commercial Court on the ground that the Court
+did not have the territorial jurisdiction to try and
+entertain the Petition, by technically
+differentiating between ‘Delhi' and ‘New Delhi’
+as the seat of Arbitration.
+FAO
+(COMM)
+204/2025
+OMP (I) (COMM.)
+No. 485/2025, titled
+“Harmeet Singh
+Kapoor &Anr. Vs.
+M/s Neo Developers
+Pvt. Ltd.”
+Order dated
+10.07.2025
+Passed by Ld.
+District Judge,
+Commercial-11
+Central District,
+THC, Delhi
+The Petition was dismissed by the Ld.
+Commercial Court on the ground that the reliefs
+sought by the Appellant/Petitioner in the
+Section 9 Petition were already sought before
+HARERA, and the grievances of the
+Appellant/Petitioner were duly heard and
+adjudicated vide Order dated 14.05.2025 of
+HARERA.
+FAO
+(COMM.)
+211/2025
+OMP (I) (COMM.)
+No. 486/2025,
+titled
+“Rahul Bhargav
+&Anr. Vs. M/s Neo
+Developers Pvt.
+Order dated
+10.07.2025
+Passed by Ld.
+District Judge,
+Commercial-11,
+The Petition was dismissed by the Ld.
+Commercial Court on the ground that the reliefs
+sought by the Appellant/Petitioner in the
+Section 9 Petition were already sought before
+HARERA, and the grievances of the
+Ltd.” Central District,
+THC, Delhi
+adjudicated vide Order dated 14.08.2024 of
+HARERA.
+FAO
+(COMM.)
+237/2025
+OMP (I) (COMM.)
+No. 487/2025, titled
+“Harmeet Singh
+Kapoor &Anr Vs.
+M/s Neo Developers
+Pvt. Ltd.”
+Order dated
+31.07.2025.
+Passed by Ld.
+District Judge,
+Commercial Court
+-04, Central
+District, THC,
+Delhi
+The Petition was dismissed by the Ld.
+Commercial Court on the ground that the
+Appellants/Petitioners already availed their
+remedy before Haryana RERA, seeking similar
+relief and their grievances were heard and
+adjudicated vide order dated 14.05.2025.
+Herein, the Ld. Judge applied the Doctrine of
+Election.
+FAO
+(COMM.)
+238/2025
+OMP (I) (COMM.)
+No. 489/2025, titled
+“M/s Jagmohan
+Enterprises LLP Vs.
+M/s Neo Developers
+Pvt. Ltd.”
+Order dated
+31.07.2025.
+Passed by Ld.
+District Judge,
+Commercial
+Court-04, Central
+District, THC,
+Delhi
+The Petition was dismissed by the Ld.
+Commercial Court on the ground that the
+Appellants/Petitioners already availed their
+remedy before Haryana RERA, seeking similar
+relief and their grievances were heard and
+adjudicated vide order dated 14.05.2025.
+Herein, the Ld. Judge applied the Doctrine of
+Election.
+FAO
+(COMM.)
+239/2025
+OMP (I) (COMM)
+No. 488/2025, titled
+“Rahul Bhargav
+&Anr. Vs. M/s Neo
+Developers Pvt.
+Ltd.”
+Order dated
+31.07.2025.
+Passed by Ld.
+District Judge
+Commercial Court
+-04, Central
+District, THC,
+Delhi
+The Petition was dismissed by the Ld.
+Commercial Court on the ground that the
+Appellants/Petitioners already availed their
+remedy before Haryana RERA, seeking similar
+relief and their grievances were heard and
+adjudicated vide order dated 14.05.2025.
+Herein, the Ld. Judge applied the Doctrine of
+Election.
+5. Thus, for these impugned orders, it is clear that the OMP (I)
+(COMM.) 485 /2025 and OMP (I) (COMM.) 486/2025 were dismissed on
+the ground that the relief sought in RERA and Section 9 are the same.
+Though perusal of the Impugned Orders shows that the orders lack proper
+consideration of the relief sought in the two Petitions and the effect thereof.
+6. Also, the Impugned Order in OMP (I) (COMM.) 470/2025 appears
+to be on a hyper-technical ground. If the Court was of the opinion that it did
+consideration by the appropriate Court under Order 7 Rule 10 of the Code of
+Civil Procedure,1908, and therefore, the dismissal of the Petition on this
+ground is not valid.
+7. The other three OMPs, particularly OMP (I) (COMM.) 487/2025,
+OMP (I) (COMM.) 488/2025, & OMP (I) (COMM.) 489/2025, have been
+dismissed by a detailed order on the ground that since the Petitioners have
+chosen their remedies under the RERA Act, they cannot seek relief under
+Section 9 of the Arbitration Act, 1996. The Court, in these Petitions,
+discussed the Doctrine of Election of Remedy.
+GROUNDS OF APPEAL:
+8. Present Appeals have been preferred by the Appellants on the following
+grounds in respect to the reliefs claimed by them -
+a. The cause of action for invoking jurisdiction under Section
+9 of the Arbitration and Conciliation Act, 1996, is distinct
+from the proceedings before HARERA.
+b. The coercive threat to lease out the Appellants’ unit unless
+baseless fit-out and other charges were paid was never the
+subject matter before HARERA.
+c. The remedies under the RERA Act and the Arbitration and
+Conciliation Act are concurrent, as Section 88 of the RERA
+Act expressly provides that its provisions are in addition to, and
+not in derogation of, any other law.
+d. Denial of interim protection defeats the object of Section 9,
+Court being required only to assess a prima facie case, balance
+of convenience, and irreparable injury.
+e. The Impugned Order is non-speaking and devoid of reasons,
+as the learned District Judge (Commercial) failed to disclose
+the basis for concluding that it lacked territorial jurisdiction
+under Section 9 of the Arbitration and Conciliation Act, 1996.
+9. The issues before this Court in all six Appeals are more or less
+similar, i.e., whether the Commercial Courts had the jurisdiction to decide
+Section 9 Petition under the Act of 1996, or in other words, whether the
+Section 9 Petition was maintainable in the light of the orders passed by
+HARERA.
+10. During the course of proceedings of these Appeals, both parties
+vehemently argued about the terms of the Banning of Unregulated Deposit
+Schemes Act, 2019 (BUDS Act), the MoU, the existence of the units, the
+creation of third-party interest by the Respondent, and other rights &
+liabilities of the Parties.
+11. Subsequent to oral submissions, parties were directed to file short
+affidavits giving the exact facts. Further, a Local Commissioner (LC) was
+appointed vide Order dated 18.09.2025, to present a Report regarding the
+present status of units in question. The LC submitted its Report dated
+05.10.2025, stating that:
+a. The construction/labour work is being carried out in relation to the
+iron partition. The work is raw as of now and is in its initial stages.
+b. The fourth floor was pitch dark without any source of
+Additionally, the lift portion on the fourth floor is also incomplete
+as of now.
+c. On Respondent being requested to provide the copies of the leases
+and sub–leases (if any) executed with respect to the premises in
+question, the Respondent provided only a copy of the Lease Deed
+executed between M/s Neo Developers Pvt. Ltd. and M/s Vexto
+Commercials Pvt. Ltd.
+12. Since, before this Court, in the present Appeals, only the short point
+of maintainability of the Section 9 Petition is concerned, considering the
+orders of RERA and also, when the Appellants are seeking interim relief of
+protection before initiating the Arbitration, this Court is not to consider the
+rights & liabilities of parties under the MoU, as it is the subject-matter of
+Arbitration.
+ISSUES INVOLVED :
+13. The Questions before this Court at present are the following:
+a. Whether the reliefs sought by the Appellants under Section 9 of
+the Arbitration and Conciliation Act, 1996, were distinct from,
+and not a duplication of, the reliefs granted or adjudicated upon
+by HARERA?
+b. Whether the Commercial Court failed to appreciate the limited
+and protective nature of jurisdiction exercised under Section 9 of
+the Arbitration and Conciliation Act, 1996, which is intended to
+preserve the subject-matter of arbitration and secure the ends of
+ARGUMENTS ON BEHALF OF PARTIES :
+14. As for the submissions of the parties, Mr Tanmay Mehta, ld. Counsel
+for the Appellants vehemently urged that vide order dated 14th August,
+2025, whereby HARERA has directed the Respondents herein to offer
+possession to the Appellants and also has held that the demand against
+Appellants for fit-out has no basis. The present Lease, dated 30.06.2025, is
+a complete sham, as it is a company with which the promoters of the
+Respondent are intrinsically linked. The incorporation of the said company
+was itself on 06.05.2025. Further, the Local Commissioner’s (LC) Report
+dated 05.10.2025 is referred to by the ld. Counsel for the Appellants to
+demonstrate that the character of the floor has also been changed from a
+double-heighted restaurant, which is recognised in the sanctioned plan by
+splitting the floor and inserting beams in the floor to create a floor of
+different measures.
+15. Further, the submissions of Mr Mehta are that the LC’s Report and
+the photographs therein show, without any doubt, that there is no tenant
+presently in the property. It is also submitted by the Appellants that the Mall
+is yet to be finished for occupation. The ld. Counsel for the Appellants
+further submits that, except for one small shop on the ground floor, no tenant
+is occupying the entire premises, which is about 17 floors.
+16. Mr. Chaudhary, ld. Counsel for the Respondent, on the other hand,
+has made detailed submissions as under:-
+a. Since the Appellants’ allotment of the units is only on the third floor,
+no submissions can be made in respect of the fourth floor. He has
+double-heighted. There are only a few areas which are areas of double
+height. According to him, no area of the third floor is double-
+heighted. The allottees in these floors do not have any identified space
+which is to be given to them. In fact, the rent has to be negotiated by
+the Company as a whole, and the only entitlement of the allottees is
+for the assured returns and nothing more. He further submits that six
+allottees who are before this Court have an allotment of only 1500 sq.
+feet, whereas the total super area of the third floor is 46036.63 sq.
+feet. The Appellants form a very small minority, according to Mr.
+Chaudhary.
+b. Furthermore, it is submitted that the allottees are bound by the BBA
+as well as the MOU. The MOU is different in all the cases, and the
+allottees do not take any escalation benefit. It is merely in the form of
+an investment, which is recognised as per the BBA and MOU. The
+RERA which was only dealing with the BBA and not MoU, but the
+MOU is sought to be enforced before the Commercial Court. Once
+the remedy of RERA was availed of by the Appellants and the order
+was passed by RERA, the Petition under Section 9 of the Act of 1996
+cannot be filed.
+c. The submission is that once the RERA has passed the order, the
+Commercial Court under Section 9 Petition cannot be approached to
+enforce and execute the RERA’s order for which the execution is
+already pending before RERA. It is further submitted that the amounts
+paid by the Respondent up to June 2019 clearly demonstrate that the
+total assured returns paid to each of the parties exceed the amounts
+concerned, the assured returns paid exceed the amount received;
+however, in the case of the remaining two allottees, the returns paid
+may be less. Nevertheless, for the purpose of amicably resolving the
+dispute, the Company is willing to pay the assured returns to them as
+well. This is without prejudice to the submissions on behalf of the
+respondent.
+d. Mr. Chaudhary, ld. Counsel for the Respondent also highlighted that
+the dispute arose only in respect of fit-out amounts, which were
+demanded in 2019, and recently, the RERA in respect of the same
+Mall has recognised that the Respondent can demand fit-out amounts.
+The clauses in the MOU are broad enough to permit the Respondent
+to negotiate the terms of the lease, and that would include demanding
+of the fit-out amounts from the allottees. Finally, it is submitted that
+Clause 9 (b) also makes it clear that any condition and agreement
+which are agreed to by the Respondent with the tenants would also be
+binding on the allottees. Mr. Chaudhary highlights Section 9 Petition,
+which is only in the nature of the injunction and nothing more.
+17. Further, Clauses 9 (a), 10 (i), (ii) and 13 are referred to and relied
+upon to argue that the MOU overrides the BBA. In addition, the
+consequences of not leasing within two years period have also been
+provided in the MoU. If those conditions are satisfied, then the possession
+can be granted. Further, the submission was made that in these cases, it is a
+normal practice not to give allottees any specific identified space; only a
+proportionate right is given, and the possession is symbolic.
+18. In the rejoinder, Mr. Mehta, ld. Counsel for the Petitioner submits that
+charges, would have no application in the present case as in the said case
+there was a clause, namely Clause 8 (d) which was a specific clause to the
+MOUs which were the subject matter of the RERA order dated 16.09.2025,
+and such a clause does not exist in the present agreements and there is a
+difference in the terms. The demand for fit-out is completely arbitrary. The
+RERA has already directed the Respondent to hand over the possession of
+the unit along with assured returns. The order of RERA has not been
+challenged finally. The lease deed, which has been entered into with M/s
+Vexto Commercials Pvt. Ltd for a period of 9 years, is also an unregistered
+lease, and it is not enforceable in law.
+DISCUSSION :
+A. First Issue pertains to relief sought before RERA and Section 9.
+19. At the outset, it is stated here that the complaints instituted by the
+Appellants before the Haryana Real Estate Regulatory Authority were in
+exercise of their statutory rights under the Real Estate (Regulation and
+Development) Act, 2016. The reliefs sought therein included the following:
+“1. A direction to the Respondent to comply with its contractual
+and statutory obligations, including completion of construction and
+handing over possession of the allotted commercial units in
+accordance with the agreed timelines, including appropriate
+directions, compensation, and/or interest as contemplated under the
+RERA Act, along with the execution of the sale deed;
+2. A direction for payment of assured monthly returns as
+stipulated under the Memorandum of Understanding, along with
+Relief against the Respondent creating any third-party rights until the
+completion of the project and handing over of the possession to the
+Appellants;
+3. A declaration that the demands raised by the Respondent were
+illegal, arbitrary, and contrary to the Builder Buyer Agreement and
+MoU, insofar as they were unexplained or not contractually
+payable.”
+20. In addition, the reliefs therein pertained mainly to substantive
+adjudication of rights, including issues of delay in construction, non-
+payment of assured returns, and other violations falling squarely within the
+regulatory jurisdiction of the Authority. HARERA, while exercising its
+statutory mandate, rendered determinations which are final in character,
+subject, of course, to remedies available under the RERA Act.
+21. In contradistinction, the Petitions filed before the Commercial Court
+under Section 9 of the Act of 1996 were limited to seeking interim and
+protective measures, pending initiation and commencement of arbitral
+proceedings, and therefore, were instituted in a materially different
+context. The reliefs sought were not adjudicatory and included:
+“A. Pass an interim order of injunction in favour of the
+Petitioner and against the Respondent, thereby restraining the
+Respondent and their agents, servants, attorneys, heirs,
+contractors, labourers, representatives, etc. from leasing out
+the property or creating third-party interest till the
+commencement of arbitration; and
+B. Pass an interim order of injunction in favour of the
+Petitioner and against the Respondent, thereby restraining the
+Respondent from cancelling the Unit/BBA or MoU till the
+C. Pass such other and further orders in the Interest of
+Justice as this Hon'ble Court deems necessary in the facts and
+circumstances of the present case.”
+22. The Appellants did not seek adjudication of disputes on the merits,
+nor did they invite the Commercial Court to sit in Appeal over the orders
+passed by HARERA. The jurisdiction invoked under Section 9 was purely
+interim and protective, intended to secure the subject-matter of the
+arbitration and to prevent the Respondent from taking steps which could
+irreversibly prejudice the Appellants’ rights pending arbitral adjudication.
+23. A principal error that disseminates the impugned orders is the
+assumption that the Appellants, by approaching different fora, sought the
+same reliefs arising out of the same cause of action, thereby engaging in
+impermissible parallel proceedings. A closer scrutiny of the pleadings and
+the nature of reliefs sought, however, reveals that the proceedings before
+HARERA and those under Section 9 of the Act of 1996 occupy distinct legal
+terrains and were invoked for different and well-defined purposes.
+24. The Court would like to mention that a perusal of the complaint filed
+before HARERA shows that the relief sought was in respect of payment of
+assured returns and for restraining the Respondent from entering into any
+lease deed with the third party till the completion of the project and
+handing over of possession to the Appellants. On the other hand, the
+prayer in the Petitions under Section 9 of the Arbitration and Conciliation
+Act, 1996, is for restraining the Respondents from leasing out the property
+to any third party after the occupation certificate is issued and also for
+restraining the cancellation of the unit till the commencement of
+25. In the present case, reliance has been placed upon the Judgment of the
+Supreme Court in ‘IREO Grace Realtech (P) Ltd. v. Abhishek Khanna,
+(2021) 3 SCC 241’, wherein the Scope of alternative remedies available to
+the Petitioner was discussed. The relevant extract from the Judgement reads
+as follows :
+“..
+[..............]
+37. We will now consider the provisions of the RERA Act,
+which was brought into force on 1-5-2016. The Statement of
+Objects and Reasons of the RERA Act, 2016, reads as
+follows:
+“The Statement of Objects and Reasons.—The real estate
+sector plays a catalytic role in fulfilling the need and
+demand for housing and infrastructure in the country. While
+this sector has grown significantly in recent years, it has
+been largely unregulated, with the absence of
+professionalism and standardisation, and lack of adequate
+consumer protection. Though the Consumer Protection Act,
+1986 is available as a forum to the buyers in the real estate
+market, the recourse is only curative and is not adequate to
+address all the concerns of buyers and promoters in that
+sector. The lack of standardisation has been a constraint to
+the healthy and orderly growth of industry. Therefore, the
+need for regulating the sector has been emphasised in
+various forums. In view of the above, it becomes necessary
+to have a Central legislation, namely, the Real Estate
+(Regulation and Development) Bill, 2013 in the interests of
+effective consumer protection, uniformity and
+standardisation of business practices and the transactions
+in the real estate sector. The proposed Bill provides for the
+establishment of the Real Estate Regulatory Authority (the
+Authority) for regulation and promotion of real estate sector
+and to ensure sale of plot, apartment or building, as the
+case may be, in an efficient and transparent manner and to
+protect the interest of consumers in real estate sector and
+from the decisions, directions or orders of the Authority.”
+(emphasis supplied)
+37.3. Section 79 of the RERA Act bars the jurisdiction only
+of civil Courts in respect of matters which an authority
+constituted under the RERA Act is empowered to adjudicate
+on. Section 79 reads as:
+“79. Bar of jurisdiction.—No civil Court shall have
+jurisdiction to entertain any suit or proceeding in
+respect of any matter which the Authority or the
+adjudicating officer or the Appellate Tribunal is
+empowered by or under this Act to determine and no
+injunction shall be granted by any Court or other
+authority in respect of any action taken or to be
+taken in pursuance of any power conferred by or
+under this Act.
+37.5. An allottee may elect or opt for one out of the
+remedies provided by law for redressal of its injury or
+grievance. An election of remedies arises when two
+concurrent remedies are available, and the aggrieved party
+chooses to exercise one, in which event he loses the right to
+simultaneously exercise the other for the same cause of
+action.
+38. The doctrine of election was discussed in A.P. State
+Financial Corpn. v. Gar Re-Rolling Mills [A.P. State
+Financial Corpn. v. Gar Re-Rolling Mills, (1994) 2 SCC
+647], in the following words : (SCC pp. 660-61, paras 15-
+16)
+15. The doctrine of election clearly suggests that
+when two remedies are available for the same
+relief, the party to whom the said remedies are
+available has the option to elect either of them but
+that doctrine would not apply to cases where the
+different. To hold otherwise may lead to injustice
+and inconsistent results. ... Since, the Corporation
+must be held entitled and given full protection by the
+Court to recover its dues it cannot be bound down to
+adopt only one of the two remedies provided under
+the Act. In our opinion, the Corporation can initially
+take recourse to Section 31 of the Act but withdraw
+or abandon it at any stage and take recourse to the
+provisions of Section 29 of the Act, which section
+deals with not only the rights but also provides a
+self-contained remedy to the Corporation for
+recovery of its dues. If the Corporation chooses to
+take recourse to the remedy available under Section
+31 of the Act and pursues the same to the logical
+conclusion and obtains an order or decree, it may
+thereafter execute the order or decree, in the manner
+provided by Sections 32(7) and (8) of the Act. The
+Corporation, however, may withdraw or abandon
+the proceedings at that stage and take recourse to
+the provisions of Section 29 of the Act. A “decree”
+under Section 31 of the Act not being a money
+decree or a decree for realisation of the dues of the
+Corporation, as held in Gujarat State Financial
+Corpn. v. Natson Mfg. Co. (P) Ltd. [Gujarat State
+Financial Corpn. v. Natson Mfg. Co. (P) Ltd.,
+(1979) 1 SCC 193] , SCC at p. 198, AIR at p. 1768
+recourse to it cannot debar the Corporation from
+taking recourse to the provisions of Section 29 of the
+Act by not pursuing the decree or order under
+Section 31 of the Act, in which event the order made
+under Section 31 of the Act would serve in aid of the
+relief available under Section 29 of the Act.
+16. The doctrine of election, as commonly
+understood, would, thus, not be attracted under the
+Act in view of the express phraseology used in
+Section 31 of the Act viz. ‘without prejudice to the
+Corporation cannot simultaneously pursue the two
+remedies, it is under no disability to take recourse to
+the rights and remedy available to it under Section
+29 of the Act even after an order under Section 31
+has been obtained but without executing it and
+withdrawing from those proceedings at any stage.
+The use of the expression “without prejudice to the
+provisions of Section 29 of the Act” in Section 31
+cannot be read to mean that the Corporation after
+obtaining a final order under Section 31 of the Act
+from a Court of competent jurisdiction, is denuded
+of its rights under Section 29 of the Act. To hold so
+would render the above-quoted expression
+redundant in Section 31 of the Act and the Courts do
+not lean in favour of rendering words used by the
+Legislature in the statutory provisions redundant.
+The Corporation which has the right to make the
+choice may make the choice initially whether to
+proceed under Section 29 of the Act or Section 31 of
+the Act, but its rights under Section 29 of the Act are
+not extinguished, if it decides to take recourse to the
+provisions of Section 31 of the Act. It can abandon
+the proceedings under Section 31 of the Act at any
+stage, including the stage of execution, if it finds it
+more practical, and may initiate proceedings under
+Section 29 of the Act.”
+[.....]
+41. In Transcore v. Union of India [Transcore v. Union of
+India, (2008) 1 SCC 125 : (2008) 1 SCC (Civ) 116], this
+Court considered the provisions of the Securitisation and
+Reconstruction of Financial Assets and Enforcement of
+Securities Interest Act, 2002 (“the Sarfaesi Act”) and the
+Recovery of Debts due to Banks and Financial Institutions
+Act, 1993 (“the RDDB Act”), wherein it was held that there
+are three elements of election viz. existence of two or more
+choice of one of them. If any one of the three elements is not
+there, the doctrine will not apply. The judgment in
+Transcore was subsequently followed in Mathew Varghese
+v. M. Amritha Kumar [Mathew Varghese v. M. Amritha
+Kumar, (2014) 5 SCC 610 : (2014) 3 SCC (Civ) 254] ,
+where it was held that : (SCC p. 641, para 46)
+“46. A reading of Section 37 discloses that the
+application of the Sarfaesi Act will be in addition to
+and not in derogation of the provisions of the RDDB
+Act. In other words, it will not in any way nullify or
+annul or impair the effect of the provisions of the
+RDDB Act. We are also fortified by our above
+statement of law as the heading of the said section also
+makes the position clear that application of other laws
+are not barred. The effect of Section 37 would,
+therefore, be that in addition to the provisions
+contained under the Sarfaesi Act, in respect of
+proceedings initiated under the said Act, it will be in
+order for a party to fall back upon the provisions of the
+other Acts mentioned in Section 37, namely, the
+Companies Act, 1956, the Securities Contracts
+(Regulation) Act, 1956, the Securities and Exchange
+Board of India Act, 1992, the Recovery of Debts Due to
+Banks and Financial Institutions Act, 1993, or any
+other law for the time being in force.
+.....
+[..........] ”.
+26. From a bare perusal of the judgement in IREO (supra), it is clear that
+if the Petitioner has two remedies, which are not identical and are not
+concurrent, then the Doctrine of Election will have no application. It is
+clearly laid down herein above that this doctrine would not apply if the
+27. In the present Appeals, the Appellants are challenging the orders
+passed by the Ld. Commercial Court, by which the Petitions under Section 9
+of the Act of 1996 were dismissed on the ground that since Petitioners have
+already availed a remedy under the RERA Act, they cannot claim relief
+under Section 9 of the Act of 1996, as the doctrine of election would apply.
+However, this Court is of the opinion that the ld. Commercial Court
+dismissed the Petitions without proper application of law and facts. In all the
+Petitions adjudicated under Section 9 of the Act of 1996, no Commercial
+Court below examined or compared the reliefs sought before the RERA
+authorities with those prayed for in the proceedings instituted under Section
+9. In the absence of any analysis of the character, scope, timing, and
+surrounding circumstances governing the remedies pursued in the two
+distinct fora, it was legally impermissible for the concerned Courts to
+conclude that the Section 9 petitions were non-maintainable on the ground
+that an alternative remedy had already been invoked. Specifically, in light of
+facts that there is an arbitration clause in the MOU between the parties,
+which requires them to proceed to the arbitration in case of dispute. The bare
+reading of the reliefs claimed by Petitioners shows that the remedies sought
+by them in two different proceedings are distinct and separate.
+SCOPE OF SECTION 9 - INTERIM MEASURES
+28. In the present matter, the interim measures sought before the
+Commercial Courts were confined to preservation of the allotted
+commercial units, restraint on coercive actions such as cancellation of
+allotment or creation of third-party rights, and protection against
+HARERA’s Orders. These reliefs are ancillary in nature and are designed
+to ensure that the arbitral proceedings, once initiated, are not rendered in
+vain or illusory.
+29. Section 9 of the Arbitration and Conciliation Act reads as follows -
+“ 9. Interim measures, etc., by Court.—(1) A party may,
+before or during arbitral proceedings or at any time after
+the making of the arbitral award but before it is enforced in
+accordance with section 36, apply to a Court—
+(i) for the appointment of a guardian for a minor or person
+of unsound mind for the purposes of arbitral proceedings;
+or
+(ii) for an interim measure of protection in respect of any of
+the following matters, namely:—
+(a) the preservation, interim custody or sale of any
+goods which are the subject-matter of the arbitration
+agreement;
+(b) securing the amount in dispute in the arbitration;
+(c) the detention, preservation or inspection of any
+property or thing which is the subject matter of the
+dispute in arbitration, or as to which any question
+may arise therein and authorising for any of the
+aforesaid purposes any person to enter upon any
+land or building in the possession of any party, or
+authorising any samples to be taken or any
+observation to be made, or experiment to be tried,
+which may be necessary or expedient for the
+purpose of obtaining full information or evidence;
+(d) interim injunction or the appointment of a
+receiver;
+(e) such other interim measure of protection as may
+appear to the Court to be just and convenient,
+and the Court shall have the same power for making orders
+as it has for the purpose of, and in relation to, any
+(2) Where, before the commencement of the arbitral
+proceedings, a Court passes an order for any interim
+measure of protection under sub-section (1), the arbitral
+proceedings shall be commenced within a period of ninety
+days from the date of such order or within such further time
+as the Court may determine.
+(3) Once the arbitral tribunal has been constituted, the
+Court shall not entertain an application under sub-section
+(1), unless the Court finds that circumstances exist which
+may not render the remedy provided under section 17
+efficacious.”
+30. This Court is of the view that under Section 9 of the Act of 1996, the
+Court can pass various interim measures of protection, including –
+● Preservation of the subject matter of the agreement
+● Securing the amount in dispute in arbitration
+● As also such other interim measures of protection as it appears to the
+Court to be just and convenient.
+● The Court is also empowered to appoint receivers or grant an interim
+injunction.
+31. Thus, the power of the Court under Section 9 of the Act of 1996, is
+quite broad and would permit the grant of relief in cases where, prima facie,
+a balance of convenience and irreparable injury is made out in favour of the
+Petitioner.
+32. A Division Bench of the ‘Andhra Pradesh High Court in Vijayawa
+Transport, Hyderabad v. A.P. State Civil Supplies Corpn. Ltd., 1982 SCC
+OnLine AP 256’ has discussed the scope of granting Interim measures of
+the Civil Courts. The relevant extract from the judgment reads as follows :
+“The arguments of Sri S. Ranga Reddy, for the
+Corporation that power under S. 41(b) of the Arbitration
+an arbitrator has been appointed does not appear to be
+correct. S. 41 of the Arbitration Act is worded very widely
+and empowers a Court to exercise the powers of passing
+interim orders and mentioned in the II Schedule not only for
+the purpose of an arbitration proceeding, but also in
+relating to an arbitration proceeding. An arbitration
+proceeding may not be the same thing as an arbitration. An
+arbitration proceeding covers a much wider area than an
+arbitration in strict sense. In the context of the Arbitration
+Act, arbitration proceedings need not necessarily be held to
+commence only from the point of time when an arbitration
+proper is commenced with the appointment of an Arbitrator
+by the Court. Arbitration proceeding would take in a
+proceeding taken for the appointment of an Arbitrator.
+Construing the language of S. 41 of the Arbitration Act and
+considering its purpose, we find no justification to give that
+Section such a restricted interpretation that would deny a
+civil Court the necessary adjunctive authority and
+jurisdiction to entertain any application and grant of any
+interim relief so essential for administration of justice. In
+many cases obtaining of interim relief is no less important
+than obtaining of final relief. Whether we are dead or not in
+the long run as Kenyes predicted, many of us may not be
+alive to see the fruits of our Court litigation. The fruits of
+Court litigation are not oft interred with our bones. It
+follows, therefore, that Court jurisdiction to grant an
+interim relief should not be lightly denied by interpretation
+unless the language used by the Statute is intra table. We
+not only find that there is no such clear words of limitation
+used in S. 41 of the Arbitration Act compelling us to deny
+the Court jurisdiction to grant an interim relief till an
+arbitrator is appointed, but on the contrary we also find the
+phrase ‘arbitration proceeding’ is wide enough to justify the
+granting of interim relief even before an arbitrator is
+appointed. The judgment of the Kerala High Court reported
+in Baby Paul v. Hindustan Paper Corporation Ltd., AIR
+1978 Kerala 223 no doubt supports the view which is
+holds that arbitration proceedings commence only on the
+arbitrator getting authority to arbitrate and act on that
+behalf. According to this view, the applicability of S. 41 of
+the Arbitration Act would be postponed till the Court
+appoints an arbitrator under S. 20 of the Act. This view of
+the law would create a vacuum to meet the situation that
+might arise from the time an application for the
+appointment of an arbitrator has been made to the Court
+and till that application has been disposed of by the Court
+by appointing an arbitrator. Considering the fact that S. 41
+of the Arbitration Act is a remedial section and provides for
+a machinery of justice, we consider it proper not to clog its
+operational efficiency and functional effectiveness by such a
+restricted interpretation. The language used in the section
+also does not compel us to take that view and deny the
+Court jurisdiction to exercise this power. For these reasons,
+we do not think that we can accept the judgment of the
+Kerala High Court in Baby Paul v. Hindustan Paper
+Corporation (supra).”
+33. In addition, it is established that the jurisdiction under Section 9 of the
+Arbitration and Conciliation Act, 1996, is not an adjudicatory substitute for
+the final determination of rights, but a supportive mechanism to facilitate
+effective dispute resolution through arbitration. The mere fact that a party
+has availed a statutory remedy under a special enactment does not, by itself,
+denude the Court of jurisdiction to grant interim protection, particularly
+where the reliefs sought do not overlap in substance or effect. In the opinion
+of this Court, there can be no doubt that persons like the Appellants are
+forced to avail of remedies at different stages before different Authorities.
+34. Before proceeding further, this Court finds it necessary to refer to the
+‘International Commercial Arbitration in UNCITRAL Model Law
+“It is not incompatible with an arbitration agreement for a
+party to request, before or during arbitral proceedings,
+from a Court an interim measure of protection and for a
+Court to grant such measure.”
+It is further stated:
+“In certain circumstances, especially where the Arbitral
+Tribunal has not yet been established, the issuance of
+interim measures by the Court is the only way assets can be
+saved for a future arbitration. Otherwise, the claimant could
+end up with a worthless arbitral award due to the fact that
+the losing party has moved his attachable assets to a ‘safe’
+jurisdiction where they are out of reach of the claimant's
+seizure. The importance of such a provision in an
+arbitration law is therefore evident, and a comparison of the
+adopting jurisdictions shows that all jurisdictions include
+some kind of provision on the issue, all granting the parties
+permission to seek Court-ordered interim measures.”
+35. The Courts exercising such jurisdiction under Section 9 of the Act do
+not determine the merits of the underlying dispute, but intervene to ensure
+that the arbitral process is not rendered futile by unilateral or irreversible
+acts of one party. This supportive role of the Court is integral to the arbitral
+framework and is premised on the recognition that arbitration, unlike
+traditional civil litigation, lacks coercive powers to immediately restrain
+actions that may cause irreparable harm.
+36. In disputes involving immovable property, particularly in the real
+estate sector, the need for interim protection assumes heightened
+significance. Property, once alienated, encumbered or subjected to third-
+party rights, may become impossible to restore to its original position. The
+law, therefore, recognises that preservation of the same is central to
+ensuring that the final adjudication, whether by an arbitral tribunal or a
+37. On the same lines, in all these Appeals, the Appellants have been
+running from pillar to post for the last several years, as is evident from the
+proceedings before the HARERA and the Petitions under Section 9 of the
+Arbitration and Conciliation Act, 1996, in order to secure their units, which
+they have booked. They have made substantial payments to the Respondent
+and have not enjoyed any fruits of the said payment.
+38. In cases where one party is in a position of dominance, such as a
+developer exercising control over possession, allotment, or documentation,
+the absence of interim restraint may permit actions that effectively foreclose
+the other party’s remedies. Section 9 enables the Court to neutralise such an
+imbalance, ensuring procedural fairness and preserving the sanctity of the
+arbitral process.
+39. Reference may also be made to ‘The Law and Practice of
+Commercial Arbitration in England by Mustill and Boyd’, wherein it was
+discussed that:
+“(b) Safeguarding the subject-matter of the dispute
+The existence of a dispute may put at risk the property
+which forms the subject of the reference, or the rights of a
+party in respect of that property. Thus, the dispute may
+prevent perishable goods from being put to their intended
+use, or may impede the proper exploitation of a profit-
+earning article, such as a ship. If the disposition of the
+property has to wait until after the award has resolved the
+dispute, unnecessary hardship may be caused to the parties.
+Again, there may be a risk that if the property is left in the
+custody or control of one of the parties, pending the
+hearing, he may abuse his position in such a way that even
+if the other party ultimately succeeds in the arbitration, he
+will not obtain the full benefit of the award. In cases such as
+this, the Court (and in some instances the arbitrator) has
+quo until the award is made. The remedies available under
+the Act are as follows:
+(i) The grant of an interlocutory injunction.
+(ii)The appointment of a receiver.
+(iii) The making of an order for the preservation, custody or
+sale of the property.
+(iv) The securing of the amount in dispute.”
+INJUNCTION TO PRESERVE THE PROPERTY
+40. Moreover, interim injunctions under Section 9 serve multiple
+protective functions. They maintain the status quo, prevent dissipation or
+alienation of property, restrain coercive actions such as cancellation of
+allotment, and ensure that disputed claims are not enforced in a manner that
+would cause irreversible prejudice. Such injunctions are not granted as a
+matter of course, but are guided by well-established principles of prima facie
+case, balance of convenience, and irreparable harm, adapted to the arbitral
+context.
+41. The importance of injunctions in this context also flows from the
+principle that ‘equity intervenes to prevent irreparable injury’. Monetary
+compensation may not always be an adequate remedy where immovable
+property is involved, particularly when the property is unique, commercially
+significant, or forms the core of the contractual relationship. Injunctive
+relief, therefore, operates as a means of preventing harm rather than
+compensating for it after the fact.
+42. The Supreme Court in ‘Adhunik Steels Ltd. v. Orissa Manganese
+and Minerals (P) Ltd., (2007) 7 SCC 125’ has observed as under :
+“18. The approach that at the initial stage, only the
+justified. In Siskina (Cargo Owners) v. Distos Compania
+Navieria SA (The Siskina) [1979 AC 210 :(1977) 3 WLR
+818 : (1977) 3 All ER 803 (HL)] Lord Diplock explained
+the position: (All ER p. 824f-g)
+“A right to obtain an interlocutory injunction is not a cause
+of action. It cannot stand on its own. It is dependent on
+there being a pre-existing cause of action against the
+defendant arising out of an invasion, actual or threatened,
+by him of a legal or equitable right of the plaintiff for the
+enforcement of which the defendant is amenable to the
+jurisdiction of the Court. The right to obtain an
+interlocutory injunction is merely ancillary and incidental
+to the pre-existing cause of action. It is granted to preserve
+the status quo pending the ascertainment by the Court of the
+rights of the parties and the grant to the plaintiff of the relief
+to which his cause of action entitles him, which may or may
+not include a final injunction.”
+43. A full Bench of the Supreme Court in Wander Ltd. v. Antox India (P)
+Ltd., 1990 Supp SCC 727, while discussing the scope of an interlocutory
+injunction, has held as under :
+“9. Usually, the prayer for grant of an interlocutory
+injunction is at a stage when the existence of the legal right
+asserted by the plaintiff and its alleged violation are both
+contested and uncertain and remain uncertain till they are
+established at the trial on evidence. The Court, at this stage,
+acts on certain well-settled principles of administration of
+this form of interlocutory remedy which is both temporary
+and discretionary. The object of the interlocutory
+injunction, it is stated
+“...is to protect the plaintiff against injury by
+violation of his rights for which he could not
+adequately be compensated in damages recoverable
+in the action if the uncertainty were resolved in his
+favour at the trial. The need for such protection must
+be weighed against the corresponding need of the
+from his having been prevented from exercising his
+own legal rights for which he could not be
+adequately compensated. The Court must weigh one
+need against another and determine where the
+‘balance of convenience’ lies.”
+The interlocutory remedy is intended to preserve in status
+quo, the rights of parties which may appear on a prima
+facie case. The Court also, in restraining a defendant from
+exercising what he considers his legal right but what the
+plaintiff would like to be prevented, puts into the scales, as a
+relevant consideration whether the defendant has yet to
+commence his enterprise or whether he has already been
+doing so in which latter case considerations somewhat
+different from those that apply to a case where the
+defendant is yet to commence his enterprise, are attracted.”
+44. Also, in the case of ‘Sir Ganga Ram and Sons v. Punjab State
+Electricity Board, 1973 SCC OnLine P&H 87, it was observed that:
+“6. It is true that the main dispute between the parties
+would be settled by the arbitrators if the application under
+section 34 succeeds and it is held that the matter in dispute
+has been agreed to be referred to arbitration. But we are
+concerned with a situation where the matter in dispute has
+not yet gone to the arbitrators and one of the parties wants
+an injunction from the dun regarding the preservation of the
+property in dispute. Among the five items mentioned in the
+Second Schedule, the power of the Court is also regarding
+the preservation and the interim custody of any goods which
+are the subject-matter of the reference vide item No. 1 in the
+said schedule. Item No. 3 thereof deals with the detention,
+preservation or inspection of any property and item No. 4
+specifically deals with interim injunctions. In my opinion,
+therefore, the Court had the power to make an order of a
+temporary injunction regarding the preservation of the
+property in dispute. The reason for this also seems to be
+quite simple, because, if ultimately the dispute is referred to
+the award will become meaningless if, in the meantime, the
+property in dispute is wasted or disposed of by any of the
+parties to the litigation. It is precisely for that reason that
+the Court has been empowered under section 41 of the
+Arbitration Act to pass interim orders in respect of the
+matters, which have been set out in the Second Schedule
+irrespective of the fact whether one of the parties had
+already made an application under section 34 of the
+Arbitration Act before the said Court. It perhaps might have
+been a different matter if the power to issue temporary
+injunctions regarding the preservation of the property had
+also been specifically agreed to be referred to arbitration in
+the contract between the parties, but that is not the position
+in the instant case.”
+45. Thus, in the present Appeals, the reliefs before HARERA were
+regulatory and determinative, whereas the reliefs under Section 9 were
+preventive and preservative. The failure of the Commercial Court to
+appreciate this vital distinction has resulted in a conflation of jurisdictions
+and an erroneous conclusion on maintainability.
+B. Second Issue pertains to the limited and protective nature of
+jurisdiction exercised under Section 9
+46. Impugned Orders in FAO (COMM.) 204/2025, FAO (COMM.)
+211/2025, FAO (COMM.) 237/2025, FAO (COMM.) 238/2025, and FAO
+(COMM.) 239/2025, however, proceed on a broad proposition that
+invocation of remedies under the RERA Act constitutes an absolute bar to
+the maintainability of proceedings under Section 9. Such an approach
+overlooks the settled position that concurrent remedies may coexist,
+vexatious or oppressive. The test is not the identity of parties or transactions,
+but the identity of reliefs and the nature of jurisdiction exercised.
+47. However, as regards the reasoning adopted in the Impugned Judgment
+dated 09.06.2025 in FAO (COMM.) 210/2025 on the issue of territorial
+jurisdiction, it is noted that the Ld. District Judge appears to have adopted an
+unduly technical approach by drawing a distinction in the venue of
+Arbitration between “Delhi” and “New Delhi”, as reflected in Paragraph 14
+of the said order (CHART 2) (supra). In proceedings under Section 9 of the
+Act of 1996, such a narrow territorial distinction was not warranted.
+48. On consideration being made to CHART 2 (supra), in:-
+• OMP (I) (COMM.) No. 485/2025 & OMP (I) (COMM.) No.
+486/2025, no reasoning has been given as to how the reliefs sought
+before HARERA and under Section 9 Petition are the same.
+• OMP (I) (COMM.) No. 487/2025, OMP (I) (COMM.) No.
+488/2025 & OMP (I) (COMM.) No. 489/2025,
+a. The court did not consider the judgment relied upon by
+Petitioner in Priyanka Taksh Sood & Ors. Vs Sunworld Residency
+Pvt. Ltd & Anr., 2022 SCC Online Delhi 4717.
+b. Also prayers of both the Petitions were not compared and
+applied the ‘Doctrine of Election of Remedy’ without considering it
+properly.
+c. The Court held that ‘Respondent’ had the right to let out the
+property in dispute, hence no relief can be granted to Petitioner. But,
+the Petitioner herein was not seeking relief before the Court to get the
+adjudication of his rights, but to protect the property until the
+and decide upon the rights & liabilities of the parties, in case there is
+an arbitration clause in the Agreement. Whether the property was
+rightly or wrongly let out could not have been decided by Ld.
+Commercial Court, and even this Court is not to pass any order on the
+merits of the case, while considering the grant of interim relief only.
+49. In ‘Priyanka Taksh Sood & Ors. Vs Sunworld Residency Pvt. Ltd &
+Anr., 2022 SCC Online Delhi 4717’, the following was observed by the
+Apex Court-
+“32. From the foregoing, there is no doubt in the mind of
+this Court that, giving a purposive interpretation to
+Sections 79, 88 and 89 of the RERA Act, there is no bar
+under the RERA Act from application of concurrent
+remedy under the A&C Act, and thus, there is no clash
+between the provisions of the RERA Act and the A&C
+Act, as the remedies available under the former are in
+addition to, and not in supersession of, the remedies
+available under the A&C Act.”
+50. The Ld. Commercial Court failed to appreciate the judgment rendered
+in Priyanka Taksh Sood (supra), which was relied upon by the Appellant
+before the Court below. The said order ought to have been duly considered,
+as the reasoning therein directly supports the Appellant’s case on the
+maintainability of the Petition under Section 9 of the Act of 1996, in terms
+of the provisions of the Real Estate (Regulation and Development) Act,
+2016 and the Arbitration and Conciliation Act, 1996.
+51. Accordingly, this Court is of the view that the dismissal of the Section
+9 Petitions on the ground of overlap of reliefs is unsustainable in law and
+52. At this stage, it is also worth mentioning that the Respondent has laid
+considerable emphasis on the alleged execution of a Lease Deed dated
+30.06.2025 in favour of M/s Vexto Commercials Pvt. Ltd., purportedly in
+respect of the entire Third Floor of Neo Square Building, Sector-109,
+Gurugram, Haryana, comprising multiple units, for a period of nine years.
+The very existence of the said Lease Deed is vehemently denied by the
+Appellants. It is the specific case of the Appellants that M/s Vexto
+Commercials Pvt. Ltd. is a sham and bogus entity, whose promoters are
+intrinsically and inextricably linked to the Respondent. It has further been
+pointed out that the said company itself came to be incorporated only on
+06.05.2025, casting serious doubt on the genuineness and bona fides of the
+alleged transaction.
+53. On the basis of the submissions made by the ld. Counsel for the
+Respondent, in order to balance the competing claims, the Court vide order
+dated 18.09.2025, directed as under:
+“i) The Respondent shall, deposit the entire lease
+amount being earned qua each of the Appellants
+and in respect of each of the units which belong to
+the Appellants with the worthy Registrar General
+of this Court. The date of lease entered into by the
+Respondent is stated to be from 30th June, 2025,
+therefore, from 1st July, 2025 onwards, the entire
+rent amount, without any deduction, applicable to
+the units of Appellants shall be deposited by 30th
+September, 2025 by Respondent with the worthy
+Registrar General of this Court. Going forward, the
+said rent from 1st October, 2025 onwards shall be
+deposited by the Respondent by 15th of each month
+with the worthy Registrar General. The entire
+amount received shall be kept in a fixed deposit on
+ii) The Appellants and the Respondent shall file
+computations of all the amounts which are due to
+them in respect of each of the units by at least one
+week before the next date of hearing.
+[...]”
+54. As per the above order, the lease amount was to be deposited before
+the Court which was not done.
+55. Thereafter, the Report of the Local Commissioner dated 05.10.2025
+was received by this Court, along with the photographs annexed thereto. The
+Report of the Local Commissioner clearly demonstrate that the mall in
+question is neither fully complete nor occupied. The photographs reveal that
+renovation and construction activities are still being carried out on the Third
+Floor, thereby rendering the said premises uninhabitable and unfit for any
+commercial use as on date.
+56. Prima facie, therefore, the alleged execution of the Lease Deed, as
+projected by the Respondent, appears to be a sham transaction, seemingly
+brought into existence with the sole object of defeating the purpose and
+intent of the Memorandum of Understanding and to unlawfully deny the
+Appellants their legitimate rights, thereby causing undue hardship to them.
+57. Having regard to the legal position crystallised by the precedents
+discussed and the findings recorded herein, this Court is of the considered
+view that the Appellants have made out a fit case for interference.
+Accordingly, and in consequence of the foregoing reasons, the present
+Appeals are allowed to the effect that:-
+a. The Respondent and their agents, servants, attorneys, heirs,
+contractors, labourers, representatives, etc., are restrained
+not limited to, that of leasing out the property till the
+commencement of Arbitration proceedings;
+b. The Respondent is further directed to maintain status quo in
+relation to the respective Units under the BBA or MOU till the
+commencement of the Arbitration proceedings;
+c. Once the Arbitral tribunal is constituted, either of the parties
+may seek modification of this order from the Arbitral
+Tribunal.
+58. All Appeals are allowed. Pending applications, if any, are disposed of.
+SHAIL JAIN
+JUDGE
+PRATHIBA M. SINGH
+JUDGE
+DECEMBER 24, 2025
+HP/MM/CK

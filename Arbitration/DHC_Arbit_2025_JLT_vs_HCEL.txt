@@ -1,0 +1,809 @@
+COURT: Commercial Court, Delhi
+CASE_TYPE: Arbitration
+CASE_NO: O.M.P.(I) (COMM.) 464/2025, I.A. 27581/2025, I.A. 30059/2025
+DATE: 06.01.2026
+PLAINTIFF: JLT ENERGY 9 SAS
+DEFENDANT: HINDUSTAN CLEAN ENERGY LIMITED, PERIDOT POWER VENTURES PRIVATE LIMITED, SOLITAIRE BTN SOLAR PRIVATE LIMITED
+JUDGE: Justice PURUSHAINDRA KUMAR KAURAV
+
+----JUDGMENT-----
+
+The petitioner has filed the instant petition under Section 9 of the
+Arbitration and Conciliation Act, 1996 (hereinafter ―the Act‖) seeking a
+prohibitory injunction restraining the respondents from creating any thirdparty rights or interest in the assets or securities of respondent nos. 3 and 4,
+except as expressly permitted under the Securities Purchase Agreements
+dated 31.12.2024 (‗SPAs‘) and with the petitioner‘s prior written consent.
+I. FACTUAL MATRIX
+2. The petitioner JLT Energy 9 SAS is a company incorporated under
+the laws of France, belonging to a multinational group Technique Solaire,
+engaged in the business of developing renewable energy projects. The
+respondent no. 1 and 2 are Hindustan Cleanenergy Ltd. and Peridot Power
+Ventures Ltd. respectively, and they own 100% shareholding of respondent
+no. 3 and 4 companies, which own and operate ground-mounted solar power
+projects in the State of Tamil Nadu and Bihar respectively.
+3. The dispute between the parties emanates from the execution of two
+SPAs dated 31.12.2024 (hereinafter ―said SPAs‖) between the petitioner
+and respondents for the acquisition of the said solar power projects in the
+State of Tamil Nadu (hereinafter ―said Agreement‖/―Tamil Nadu SPA‖)
+and Bihar (hereinafter ―Bihar SPA‖). Importantly, the said SPAs are
+intrinsically interconnected. Schedule VII of the Bihar SPA stipulates that
+the Closing of the Tamil Nadu SPA constitutes a Condition Precedent
+(―CP‖) to the Closing of the Bihar SPA. Effectively, therefore, the lis
+between the parties pertains to the Tamil Nadu SPA.
+5
+4. The said SPAs entered into between the parties contain an arbitration
+clause at 16.2(b)-(c), which provides that if parties are unable to resolve
+their dispute within a period of 30 business days, the same shall be resolved
+by arbitration administered by the Singapore International Arbitration
+Centre (‗SIAC’) in accordance with the Arbitration Rules of SIAC
+(hereinafter ―SIAC Rules‖) for the time being in force. The said arbitration
+clause has been invoked by the petitioner, on 07.08.2025 by filing of an
+Emergency Relief Application before the SIAC, which ultimately
+culminated into the order dated 27.08.2025, containing the dispositive
+section of its award, with the detailed award having been passed on
+28.08.2025. The prayer made therein was granted by the learned emergency
+arbitrator.
+5. Learned senior counsel appearing for the petitioner Mr. Rajshekhar
+Rao has apprised this Court that the said award has been extended from time
+to time, and continues to be in force till date. However, he submits that the
+said award would require enforcement proceedings in Indian courts for the
+respondents to be meaningfully bound by it, thus the reliefs in the present
+Section 9 petition are prayed for.
+6. The learned senior counsel were then heard on 03.12.2025,
+09.12.2025 and 17.12.2025, and the judgements relied upon by them were
+also carefully perused. The submissions advanced by them could be summed
+up as under.
+6
+II. SUBMISSIONS OF THE PARTIES
+7. Mr. Rajshekhar Rao, learned senior counsel contends that the
+petitioner is ready and willing to perform its obligations under the said
+SPAs, and in furtherance of it, is willing to make any payments required, to
+display its bona fides. He submits that a strong prima facie case exists in
+favour of the petitioner as respondents deliberately caused the nonfulfilment of the CPs, breached their good faith obligations under the said
+SPAs, and evidently caused the said SPAs to collapse owing to their own
+fault, of which they cannot be allowed to take benefit.
+8. It is further argued that despite the said SPAs, today, having stood
+terminated, the same does not prevent an injunctive protective relief from
+being granted. It is also contended by Mr. Rao that in actuality the CP
+concerning the change of land use, became a condition subsequent (―CS‖)
+owing to — (1) a meeting between parties dated 30.01.2025; and/or (2) the
+amendment to the Tamil Nadu SPA.
+9. Per contra, Mr. Jayant Mehta, learned senior counsel, and for a brief
+time Mr. Atul S. Mathur, learned counsel, appearing for the respondents
+submit that the said SPAs contain a self-collapsing mechanism under Clause
+5.6, by the operation of which the SPAs stood terminated. Learned senior
+counsel contends, that there is no prima facie case which the petitioner can
+establish, inter alia, owing to the petitioner seeking specific performance of
+an agreement which does not subsist as on date. Mr. Mehta submits that the
+fate of the SPAs was contingent upon the concerned government authorities
+granting permission under the relevant State Act and the Rules made
+7
+thereunder, and if the same did not fructify, specific performance in relation
+to it cannot be granted.
+10. Learned senior counsel submits that the CP pertaining to change of
+land use was not converted into a CS, and further that it could not have been
+converted into the same as the Foreign Exchange Management Act, 1999
+(hereinafter ―FEMA‖) prohibits purchase of agricultural land by a nonresident.
+III. ANALYSIS
+11. At the outset, it may be considered that though there is an interim
+award passed by the emergency arbitrator appointed by SIAC, Mr. Rao
+fairly submitted that the petitioner has to independently satisfy the Court of
+it being entitled to interim protection. In support of this proposition, the
+decision of this Court in Raffles Design International (India) (P) Ltd. v.
+Educomp Professional Education Ltd.1
+assumes significance. Para. 105
+thereof reads as under:
+―105. However, in my view, a party seeking interim measures cannot
+be precluded from doing so only for the reason that it had obtained a
+similar order from an arbitral tribunal. Needless to state that the
+question whether the interim orders should be granted under section
+9 of the Act or not would have to be considered by the Courts
+independent of the orders passed by the arbitral tribunal. Recourse
+to Section 9 of the Act is not available for the purpose of enforcing the
+orders of the arbitral tribunal; but that does not mean that the Court
+cannot independently apply its mind and grant interim relief in cases
+where it is warranted.‖
+(Emphasis supplied)
+
+1
+2016 SCC OnLine Del 5521.
+8
+12. In light of the nature of controversy, it becomes necessary to begin
+with an examination of the relevant clauses of the said Agreement. Clause 5
+of the Tamil Nadu SPA, entered into between the parties, is titled
+―Conditions Precedent and Pre-Closing Actions‖ and provides that the
+obligations of the petitioner/purchaser and the respondents/sellers to
+purchase/sell securities are subject to the fulfillment of each of the
+conditions set out in Part A and Part B of Schedule VII (Conditions
+Precedent), respectively. Clause 11 of Part A of Schedule VII (Conditions
+Precedent) provides the requirement of the respondents converting the
+project land into the non-agricultural category (hereinafter ―NA Conversion
+Condition‖) and it reads as under:
+―The Company shall have obtained: (a) the definitive and final
+conversion order for the Project Land to non-agricultural from the
+Local Town Panchayat under Section 47 of the Tamil Nadu Town and
+Country Planning Act 1971, and (b) a confirmation from the Local
+Town Panchayat that all applicable fines and penalties in connection
+with utilisation of agricultural land for non-agricultural purposes
+have been paid by the Company (collectively, the NA Conversion
+Condition).‖
+13. The consequence of the non-fulfilment of this condition precedent is
+provided for under Clause 5.6 of the said Agreement, which reads as under:
+―5.6 It is hereby agreed between the Parties, that in the event the
+Conditions Precedent are not fulfilled by: (a) the Sellers and/or the
+Company to the Purchaser’s satisfaction (acting reasonably in its sole
+discretion) or (b) the Purchaser to the Sellers’ satisfaction (acting
+reasonably in its sole discretion) on or before the Closing Long Stop
+Date, then this Agreement shall automatically terminate.‖
+14. A bare perusal of the aforenoted clause would reveal that in the event
+the CPs are not fulfilled, to the other party‘s satisfaction, on or before the
+Closing Long Stop Date, the Agreement shall automatically terminate. The
+9
+parties are ad idem that the NA Conversion Condition has not been fulfilled.
+However, Mr. Rao seeks to overcome this non-fulfilment on two grounds—
+first, by claiming that the said CP effectively became a CS and, therefore,
+Clause 5.6 does not apply; and second, the non-fulfilment of the NA
+Conversion Condition is owing to the fault of the respondents, and they
+cannot take advantage of their own wrong. Both the contentions require a
+careful consideration.
+A. THE ARGUMENT OF THE NA CONVERSION CONDITION
+PRECEDENT BECOMING A CONDITION SUBSEQUENT
+15. The rationale for arguing this point is to exclude the NA Conversion
+Condition from the lists of CPs, and, therefore, to seek an escape from the
+consequence of its non-fulfilment under Clause 5.6. The claim of the said
+condition becoming a CS rests on two submissions. First, that in a meeting
+of the parties dated 30.01.2025, the said condition became a CS; and second,
+that vide an amendment to the SPA dated 03.06.2025, the said condition
+became a CS. Therefore, the submission primary suggests towards a
+modification/amendment of the relevant clause of the said Agreement to
+convert the CP regarding NA Land Conversion into a CS.
+16. Before delving into the documents filed by the parties, the
+requirement associated with amendment, modification or waiver of, the
+terms of the SPAs may be considered. Clause 17.5 of the said Agreement
+requires a modification, amendment, or waiver of any of the provisions of
+the contract to be made in writing specifically referring to the contract and
+duly signed by each of the parties to the agreement. Further, Clause 17.10
+10
+titled ―No waiver‖ provides that the rights of the parties under the contract
+may be waived only in writing and specifically. The said clauses read as
+under:
+“17.5 Amendments
+No modification, amendment or waiver of any of the provisions of this
+Agreement shall be effective unless made in writing specifically
+referring to this Agreement and duly signed by each of the Parties.
+…
+17.10 No waiver
+(a) The rights of each Party under this Agreement:
+(i) may be exercised as often as necessary;
+(ii) except as otherwise expressly provided in this Agreement,
+are cumulative and not exclusive of rights and remedies provided by
+the Applicable Law; and
+(iii) may be waived only in writing and specifically.
+(b) Delay in exercising or non-exercise of any such right is not a
+waiver of that right.
+(c) No forbearance, indulgence or relaxation of any Party at any
+time to require performance of any provision of this Agreement shall
+in any way affect, diminish or prejudice the right of such Party to
+require performance of the same provision, and any waiver or
+acquiescence by any Party of any breach of any provision of this
+Agreement shall not be construed as a waiver or acquiescence of any
+continuing or succeeding breach of such provisions, a waiver of any
+right under or arising out of this Agreement or acquiescence to or
+recognition of rights and/or position other than as expressly stipulated
+in this Agreement.‖
+(Emphasis supplied)
+17. The only document attached by the petitioner pertaining to the alleged
+meeting dated 30.01.2025 is an email dated 30.01.2025 sent by the petitioner
+to the respondents containing a minutes of meeting, the same reads as under:
+―Dear Ratul,
+Thank you for your time earlier today for the meeting.
+I am stating out the minutes for everyone’s reference.
+1. Hindustan power team is arranging an NA document from
+Tehsildar which should (i) satisfy the Lender (REC) condition on
+compliance [1% additional penalty as well as continuation of
+11
+Hindustan power corporate guarantee has to continue until NA
+condition is satisfied] (ii) serve as an additional interim document
+for us to proceed with the closing.
+2. As a CS, Vacant land tax demand issue will be settled by
+Hindustan power and then Hindustan power team will approach
+the Town planning department for further issuance of the NA
+order under Section 47 of the Tamil Nadu Town and Country
+Planning Act 1971. Technique Solaire will go ahead with the
+holdback amount in escrow as contemplated in the SPA and
+proceed with the closing.
+3. In case closing can be done before the REC compliance condition
+is fulfilled then the hold back amount has to be topped up with the
+potential FY2024-25 lender penalty (1% penalty of outstanding).
+If REC compliance condition is satisfied before closing then there
+is no need for penalty holdback.
+With above points in mind, looking forward to receiving the draft
+closing documents and escrow bank introduction from your team so as
+to take the process forward to closing.‖
+18. The said minutes reflect, not an agreement between the parties, but a
+proposal made by the petitioner during the course of its interaction with the
+respondents. Further, agreement if any, is not in writing, nor is signed by the
+parties to the said Agreement. The purported amendment whereby the CP is
+claimed/asserted to have been converted into a CS does not comply with the
+requirement of Clause 17.5 of the said Agreement, and to that extent, it is
+not a modification which can be recognized in the eyes of law.
+19. The petitioner further relies upon an alleged acceptance by the
+respondent of a draft dated 03.06.2025 to contend that the NA Conversion
+Condition became an CS. The facts, at this stage become rather interesting.
+20. The parties have admitted that the Closing Long Stop Date (‗CLSD‘)
+under the said SPAs, which originally stood at 30.04.2025 was extended to
+31.05.2025 with mutual consent. There is, however, a dispute whether the
+CLSD was extended till 30.06.2025. The said extension was provided for in
+12
+a draft incorporating an amendment to the said Agreement (hereinafter ―said
+Amendment‖), which also as per the petitioner provided for, inter alia, the
+NA Conversion Condition to become an CS. Specifically, under the said
+Amendment, it may be seen that Clause 2.1(a) provided that the CLSD was
+to mean 30.06.2025 under the said Agreement. Further, Clause 2.1(e)
+deleted the erstwhile Clause 5.7 of the said Agreement, and substituted it
+with a new Clause 5.7, which made the NA Conversion Condition a CS. The
+material parts of said Amendment read as under:
+―2. AMENDMENTS TO THE SPA
+2.1. The amendments to the provisions of the SPA as set out
+hereinafter are reflected in italicised typeface.
+(a) The definition of Closing Long Stop Date under Clause 1.1 of
+the SPA shall be deleted in its entirety and substituted as follows:
+“Closing Long Stop Date means 30 June 2025;”
+…
+(e) Clause 5.7 of the SPA shall be deleted in its entirety and
+substituted as follows:
+“5.7 NA Conversion Condition
+5.7.1. Subject to completion of all other Conditions Precedent, in
+case the Sellers are unable to satisfy the NA Conversion Condition
+after completion of the Restructuring Exercise, then in such case
+the Purchaser shall notify the Sellers of their intention to proceed
+with Closing (NA Conversion Event Notice).
+5.7.2. Upon receipt of the NA Conversion Event Notice and
+subject to compliance with Clause 5.5, the Parties shall proceed
+with Closing of the Transaction and the NA Conversion Condition
+shall become a Conditions Subsequent which shall be completed
+on or before expiry of the Escrow Period (NA Conversion
+Extended Period) and holdback an amount of INR 100,000,000
+(Indian Rupees One Hundred million only) less any amount paid or
+deposited by the Sellers with the Governmental Authority towards
+the NA Conversion Conditions (NA Conversion Holdback Amount)
+from the Purchase Consideration shall be deposited in the Escrow
+Account and shall be payable to the Sellers in the manner and
+upon the occurrence of the events specified in Clause 4.4.4(b).
+Provided that in case the relevant Governmental Authority reduces
+the amount of vacant land tax or other levy payable by the
+Company for complying with the NA Conversion Conditions (“NA
+13
+Reduction Amount”) then such NA Reduction Amount shall stand
+reduced from the NA Conversion Holdback Amount and only such
+amount remaining after deduction of the NA Reduction Amount
+shall be deemed to constitute the NA Conversion Holdback Amount
+hereunder.
+5.7.3. If the Sellers are unable to procure completion of the NA
+Conversion Condition to the reasonable satisfaction of the
+Purchaser within the time period specified in Clause 5.7.2, then:
+(a) the Purchaser shall have no obligation to pay, and the Sellers
+shall not be entitled to receive, the NA Conversion Holdback
+Amount; (b) the Purchaser shall be entitled to pursue the NA
+Conversion Condition in the manner determined in its sole
+discretion, and the Sellers shall reasonably cooperate with the
+Purchaser with respect to the completion of the NA Conversion
+Condition; and (c) other than as specified in this Clause 5.7.3, the
+Sellers shall have no further obligation or liability with respect to
+completion of the NA Conversion Condition.‖
+21. Before delving into the communication between the parties pertaining
+to the said Amendment. A few aspects of the amendment document itself
+may be considered.
+22. The first page of the said Amendment bears an endorsement at the top
+right the following words–―Draft for discussion purposes only RS Revised
+Draft – 2 June 2025‖. Subsequently, every page of the said Amendment
+contains the words ―Draft for discussion purposes only‖. Internal page 2,
+which comes after the opening/cover page of the said amendment, begins
+with the words ―To be executed on stamp paper of adequate value‖. Internal
+page 7 of the said Amendment then provides the signature page for the
+petitioner/purchaser which evinces that the said Amendment was to be
+signed by one Mr. Manu Bishnoi, the authorized signatory of the petitioner.
+The date importantly, has been left blank. Similarly, internal pages 8, 9, 10
+of the said Amendment then provide the signature pages for respondent nos.
+1, 2, and 3, to be signed by their respective authorised directors. Again, the
+14
+signature dates are left empty. Notably, the said Amendment is also left
+undated.
+23. In terms of the communication between the parties, it appears that on
+03.06.2025 at 6:12 PM one Bhavik Oza, from the legal department of
+respondent no. 1, sent an email to the petitioner which contained the said
+Amendment document. The said email reads as under:
+―From: bhavik.oza
+Date: Tuesday, 3 June 2025 at 6:12 PM
+To: Prashant SHAH
+Cc: ashok.gupta, deepshikha.singh, sandeep.kaushik, lalit.s, Manu
+BISHNOI, punit.agrawal
+Subject: RE: Sanctions from REC- Amendment in SPA
+Dear Prashant,
+Please find attached the final draft of the Agreement.
+Bhavik Oza
+Legal
+Hindustan Power‖
+24. The said email was replied to on the very same day at 6:17 PM by one
+Manu Bishnoi, the representative of the petitioner, stating that the
+amendment is acceptable and that the petitioner await the respondents‘
+instructions to sign. The said email reads as under:
+“From: Manu BISHNOI
+Sent: Tuesday, June 3, 2025 6:17 PM
+To: bhavik.oza; deepshikha.singh; Prashant SHAH
+Cc: ashok.gupta; sandeep.kaushik; lalit.jain; punit.agrawal; Gautier
+FRANTZ
+Subject: RE: Sanctions from REC- Amendment in SPA
+Hello Bhavik,
+Thanks for sharing the final amendment draft. We confirm the
+15
+amendment is good to go from our side. Based on my call with
+Deepshikha, we further await your instructions to sign.
+Best Regards/Cordialement
+Manu Bishnoi
+Director, India”
+(Emphasis supplied)
+25. Thereafter, on 05.06.2022 i.e., about two days after the last email, the
+petitioner, through its legal counsel one Prashant Shah sent an email to the
+respondents attaching a revised draft of the amendment agreement to the
+said Agreement. The said email reads as under:
+―From: Prashant SHAH
+Sent: 05 June 2025 16:22
+To: Manu BISHNOI; bhavik.oza; deepshikha.singh
+Cc: ashok.gupta; sandeep.kaushik; lalit.jain; punit.agrawal; Gautier
+FRANTZ
+Subject: Re: Sanctions from REC- Amendment in SPA
+Attachments: First Amendment Agreement (Solitaire SPA) 5 June
+2025 VPS Revised.docx
+Dear all,
+Please see attached the revised draft of the Amendment Agreement for
+Tamil Nadu basis our discussions yesterday.
+Please do let us know should you wish to discuss. Look forward to
+hearing from you soon.
+Best regards,
+Prashant‖
+26. Notably, in the legal notice dated 23.06.2025 (hereinafter ―said Legal
+Notice‖), the petitioner called upon the respondents to, inter alia, sign the
+said Amendment, thereby, admitting to its non-execution till then. The
+material portion of the said notice reads as under:
+―24. …Given Our Client’s continued intent and willingness to
+complete the transactions agreed upon, Our Client calls upon the
+16
+Sellers to undertake the following actions in compliance with their
+obligations under the Agreements:
+…
+(iv) Sellers shall execute the final form amendment agreements (as
+attached) as agreed by the Parties on June 03, 2025 inter alia
+extending the CLSD to June 30, 2025 within three [3] business days of
+receiving this Notice.‖
+27. The trailing discussion noted above leads to the prima facie
+conclusions that — first, the said Amendment document was non-binding,
+and contained sufficient textual indications of it being a mere discussion
+draft; and second, the parties to the said Agreement have not till date
+signed/executed the said Amendment or any other document which
+modifies/amends the said SPAs so as to extend the CLSD to 30.06.2025 and
+make the NA Conversion Condition a CS. Thus, the draft never attained
+finality and assumed binding value, which was contingent upon a specified
+procedure. Importantly, the signature pages at internal pages 7-10 of the said
+Amendment, appear to have been put to comply with the procedure provided
+for under Clause 17.5, which requires each of the parties to the said
+Agreement, to sign a given amendment, for it to have effect. The rationale
+for the said Legal Notice seeking the execution of the said Amendment, was
+again, to comply with the requirements of Clause 17.5. Notably, also, the
+email dated 03.06.2025 from the petitioner, by using the expression ―we
+further await your instructions to sign‖ further evinces the intention of the
+petitioner to be bound by, the mechanism for amendment provided for under
+Clause 17.5.
+28. Reliance on any other document/conduct as amending the said SPAs
+would fall ill of the mechanism provided for under the said Agreement for
+17
+amendment, and naturally, the will of the parties expressed through the said
+Agreement.
+29. At this stage, two specific arguments of Mr. Rao may be considered.
+First, while relying on Clause 5.8.3 read with Clause 1.2(f) of the said
+Agreement, it is contended by the learned senior counsel that the CLSD can
+be extended by way of written email exchange, and there is no need for an
+amendment to the said Agreement. The said clauses provide, inter alia, that
+―the parties may discuss in good faith, to extend the Closing Long Stop Date
+by such number of days as may be agreed by the Parties in writing‖. While a
+bare perusal of Clause 5.8.3 would reveal its inapplicability, even if for the
+sake of analysis, the argument was to be accepted, and the CLSD was
+deemed to have been extended till 30.06.2025, it is rather obvious that the
+said date has also passed. This argument, in particular, does not relate to the
+NA Conversion Condition becoming a CS, and in the absence of that, even
+if CLSD was extended till 30.06.2025, the automatic termination provided
+for under Clause 5.6 of the said Agreement, would naturally apply. In the
+absence of any material supporting the formal conversion of the CP into a
+CS, termination would have its intended effect.
+30. Secondly, learned senior counsel argued that the NA Conversion
+Condition CP was waived by the procedure provided for under the said
+Agreement. At the outset, there is no ―specific‖ waiver of the NA
+Conversion Condition as is required by Clause 17.10 of the said Agreement.
+There is but a purported amendment, which also, falls ill of the procedure
+provided for under the said Agreement. Even if it is assumed that a waiver
+18
+was provided for under the said Agreement, it was to be governed by Clause
+17.5 which deals with amendments, and includes within it the act of waiver.
+31. Further, independent of the above analysis, it could be observed that
+the NA Conversion Condition also does not appear to be a CP which could
+be simplicitor waived. Clause 5.3 is the general provision which allows a
+party to waive a CP or to treat it as a CS. A waiver of a CP is fundamentally
+different from its fulfilment being deferred and it being treated as a CS; and
+the said Agreement also takes note of the said distinction in its clauses.
+32. Importantly, the NA Conversion Condition is the only CP which is
+specifically dealt with in the substantive part of the contract. While the
+treatment of other CPs seems to be governed by Clauses 5.3 and 5.5 read
+with the VIIth Schedule. Clause 5.7 titled ―NA Conversion Condition‖, on
+the other hand, is the specific Clause dealing with the manner in which the
+said CP could be converted into an CS.
+2
+There is no clause that deals with a
+waiver of the said Condition.
+33. The NA Conversion Condition being governed by Clause 5.7 would
+not fall within the scope of Clause 5.3, as the specific clause would prevail
+over the general clause.3
+The lack of a provision dealing with the waiver of
+the NA Conversion Condition, also appears to be deliberate.4
+It is, therefore,
+the case that the NA Conversion Condition could not have been waived, but
+
+2 The said procedure has also not been followed.
+3 Generalia non specialibus derogant, see The Interpretation of Contracts, Sir Kim Lewison, 5th Ed.,
+Sweet and Maxwell, Chapter 7, ‗The Canons of Construction‘, Pg. 350 – 352.
+4 Expressio unius est exclusio alterius, see The Interpretation of Contracts, Sir Kim Lewison, 5th Ed.,
+Sweet and Maxwell, Chapter 7, ‗The Canons of Construction‘, Pg. 352-358.
+19
+only converted into a CS as per the mechanism provided for under Clause
+5.7.
+34. It is possible to also contend that the requirement under the said
+Agreement, for an amendment to be signed by the parties, could itself be
+amended through the conduct of the parties. However, the petitioner‘s email
+dated 03.06.2025 as also the said Legal Notice, evince the petitioner not
+having amended/waived such a requirement, assuming such an
+amendment/waiver is possible in law.
+35. It is important to clarify that the finding qua the NA Conversion
+Condition not being capable of being waived is an independent and
+additional ground, which in exclusion to the findings detailed in paras 29
+and 30, which assumes the said CP to be capable of being waived, but
+ultimately not complying with the requirements of a waiver under the said
+Agreement. Be that as it may, either way the grounds of waiver or
+amendment is not made out.
+36. Further, it also appears that the decision of the respondents to not
+extend the CLSD to 30.06.2025 was a conscious commercial decision
+undertaken by them. The scheme of the transaction, as it bears from the
+Agreement, appears to be a fast paced acquisition of shares contingent upon
+the NA Conversion Condition being granted, and but for that happening, the
+SPA collapsing. For this reason the purchase price under the said Agreement
+was fixed as on 01.01.2024 and no advance money was paid to the
+respondents. Naturally, a given party may want to get out of a deal which
+has lasted its course, and which did not ultimately fructify.
+20
+37. The reliance placed by Mr. Rao on Trimex International FZE Ltd. v.
+Vedanta Aluminium Ltd.5
+is also misplaced as the said case related to the
+issue of whether an arbitration agreement has come into existence owing to
+email exchanges. The said case did not deal with the issue of an amendment
+undertaken in violation of the express procedure provided for in the contract
+itself.
+38. From the discussion above, it could prima facie be concluded that the
+NA Conversion Condition neither became a CS nor was the CLSD extended
+to 30.06.2025. In light of the this finding, the issue as to whether the NA
+Conversion Condition could have ever become a CS owing to it seeking
+non-compliance with FEMA need not be gone into. However, if the same is
+considered appropriate, the learned arbitrator, if he is called upon to
+determine, may adjudicate upon it without being influenced by this Court‘s
+observations.
+B. THE ARGUMENT OF CP REMAINING UNFULFILLED OWING
+TO THE RESPONDENTS’ FAULT
+39. The other ground taken by the petitioner to overcome the rigours of
+Clause 5.6 of the said Agreement may now be considered. It is submitted by
+the learned senior counsel for the petitioner that the said clause has no
+application as the NA Conversion Condition remained unfulfilled owing to
+the respondents‘ own fault, and they cannot be allowed to take advantage of
+their own wrong.
+
+5
+(2010) 3 SCC 1.
+21
+40. The respondents have issued on 30.01.2025, 12.02.2025, 16.03.2025,
+16.05.2025 letters (hereinafter ―said Letters‖) to the Executive Officer,
+Gangavarpatti Town Panchayat, Theni District, which is the appropriate
+―Local Authority‖ under Rule 2(v) read with Rule 9 of the Tamil Nadu
+Change of Land Use (From Agricultural to Non Agricultural Purposes in
+Non Planning Areas) Rules, 2017, for the purposes of obtaining a change of
+land use for satisfying the NA Conversion Condition.
+41. The petitioner contends more was to be done, to which the
+respondents have put on record flight tickets of their officers visiting the
+office of the concerned authority; the veracity of the intended purpose of the
+visits is then doubted by the petitioner. The Court is a bit unsure what really
+would satisfy the petitioner. If there was in fact a particular form of effort
+that was required on the part of the respondents, the same should have been
+provided for in the said Agreement. Additionally, on the respondents bona
+fides, it may also be noted that without there being an obligation, in good
+faith, the respondents extended the CLSD from 30.04.2025 to 31.05.2025.
+42. Thus, at the stage of this Section 9 petition, in the absence of evidence
+having been led, strictly on the basis of the material on record, a prima facie
+conclusion regarding the respondents‘ bad faith cannot be made out.
+Assuming, however, that bad faith is indeed made out, the consequences
+may be analysed.
+43. Clause 5.6 of the said Agreement, does not in itself, create a
+distinction between cases where non-fulfilment of CP is due to a party‘s
+fault and where it is as a consequence of no-fault. The said clause
+22
+categorically provides that in the event a CP is not fulfilled by the sellers
+and/or the company (i.e., the respondents), to the purchaser‘s satisfaction
+(acting reasonably in its sole discretion), on or before the CLSD, the
+agreement shall automatically terminate. The clause resembles the classic
+condition of satisfaction. Chitty on Contracts6
+has dealt with such clauses in
+the following words:
+―Condition of “satisfaction”
+The possibility of excluding the implied term discussed in para. 2-162
+above by an express contrary provision⁸⁸⁹ is further illustrated by a
+provision making the operation of a contract depend on the
+“satisfaction” of one of the parties with the subject-matter or other
+aspects relating to the other’s performance.⁸⁹⁰ Thus it has been held
+that there was no contract where a house was bought “subject to
+satisfactory mortgage”,⁸⁹¹ and where a boat was bought “subject to
+satisfactory survey”⁸⁹² it was held that the buyer was not bound if he
+expressed his dissatisfaction,⁸⁹³ in spite of the fact that such
+expression was a deliberate act on his part which prevented the
+occurrence of the condition. The same is true where goods are
+bought on approval and the buyer does not approve them,⁸⁹⁴ and
+where an offer of employment is made “subject to satisfactory
+references”, and the prospective employer does not regard the
+references as satisfactory.⁸⁹⁵ There is some apparent conflict in the
+authorities on the question whether the law imposes any restriction on
+the freedom of action of the party on whose satisfaction the operation
+of the contract depends. In one case⁸⁹⁶ a proposed royalty agreement
+relating to the use by a manufacturer of an invention was “subject to
+detailed evaluation of production and marketing feasibility” by the
+manufacturer. It was held that his discretion whether to enter into the
+contract was “unfettered by any obligation to act reasonably or in
+good faith”⁸⁹⁷ and that, as his satisfaction had not been
+communicated⁸⁹⁸ to the other party, the agreement had not acquired
+contractual force. On the other hand, where a ship was sold “subject
+to satisfactory completion of two trial voyages” it was said that such a
+stipulation was to be construed as “subject to bona fides”.⁸⁹⁹ The
+distinction between the two lines of cases turns, ultimately, on the
+construction of the agreement. Even if this requires the discretion to
+be exercised in good faith, it does not follow that it must be exercised
+reasonably; the matter may be left to the relevant party’s “subjective
+
+6 Chitty on Contracts, 33rd Ed., Sweet and Maxwell, Volume 1, Pg. 305-306, para. 2-164.
+23
+decision”.⁹⁰⁰ It has also been held that the party on whose satisfaction
+the operation of the contract depends must at least provide facilities
+for, or not impede, the inspection referred to in the agreement.⁹⁰¹ Of
+course if the result of the inspection is unsatisfactory, the principal
+obligation of the contract will not take effect.⁹⁰² ‖
+(Emphasis supplied)
+44. Evidently, the CP relating to the NA Conversion Condition has not
+been fulfilled to the purchaser/petitioner‘s satisfaction, and resultantly, the
+other obligations under the contract did not come into effect, and the said
+Agreement automatically terminated. Effect must be given to the word
+―automatic‖ as it appears in Clause 5.6. If contingencies and carve-outs were
+to be read between the stage of a CP(s) not being fulfilled on CLSD, and
+that of termination of the said Agreement, the word ―automatic‖ would lose
+its meaning. It would be unwise to re-write the terms of the contract, or to
+read into it an implied term, where a CP‘s non-fulfilment, owing to the fault
+of the other party, would act as an exception to the automatic termination
+under Clause 5.6. The court, especially while dealing with matters based on
+written contracts, must adopt a hands-off approach from such creative
+indulgence which could frustrate the contractual wisdom of the parties.
+45. The argument of the respondent not complying with Clause 5.3 may
+also be considered at this stage, the said clause reads as under:
+―5.3 The Seller and/or the Purchaser (as the case maybe) shall, upon
+becoming aware of anything which shall or may prevent any of its
+respective Conditions Precedent from being satisfied, shall forthwith
+notify the other Party in writing as soon as practicable. The other
+Party may, in its sole discretion (acting reasonably) and to the extent
+permitted under Applicable Law, waive any or all such Conditions
+Precedent in whole or in part, or defer the completion of such
+Conditions Precedent by a later date as a Conditions Subsequent,
+subject to any indemnification obligation in relation to breach or noncompletion of any such Conditions Precedent as deemed necessary by
+24
+such other Party.‖
+It is contended that the respondents‘ did not inform the petitioner of the
+circumstances which would or could have prevented the fulfilment of the
+CP, which is a breach of Clause 5.3. Further, under Clause 5.7.1, if the
+respondents were unable to satisfy the NA Conversion Condition, they were
+to notify, not earlier than 28.02.2025, the petitioner of the same.
+46. The respondents‘ case is not that they were prevented by anything, or
+they could not, owing to their own disability, obtain the permissions
+required to satisfy the NA Conversion Condition. Rather, it is that despite
+their efforts, the said permissions could not be obtained. Assuming,
+however, that there was in fact a breach of the said Clauses, the consequence
+does not appear to be Clause 5.6 becoming infructuous or non-applicable.
+Rather, it is the ability of the petitioner to treat the CP as a CS which gets
+compromised owing to the conscious drafting of the parties.
+47. Clause 5.6, it must be stressed, is without any qualification, caveat, or
+proviso. It is, read with Clause 15, a mechanism through which the said
+Agreement, would automatically terminate. To use Mr. Mehta‘s words, the
+said clause is a self-collapsing mechanism agreed to by the parties to the
+contract. Therefore, even assuming there has been a breach of Clauses 5.3
+and 5.7.1 of the said Agreement, the same would not prevent the application
+of Clause 5.6, as first there is no contractual stipulation which makes Clause
+5.6 subject to a compliance with Clauses 5.3 and 5.7.1, and second, the said
+Agreement when read as a whole, evinces the primacy of Clause 5.6.
+25
+48. Having said so, it does not imply that the petitioner is remediless. The
+petitioner could have, certainly, sought enforcement of its rights, upon there
+being a breach of Clauses 5.3 and 5.7.1, but the said action ought to have
+been initiated before Clause 5.6 was triggered. For the purposes of Clause
+5.7.1, in light of the findings that the CLSD was extended only till
+31.05.2025, there were effectively, three long months with the petitioner to
+approach a court of law, and pray for appropriate reliefs. Admittedly, the
+same was not done. The petitioner waited for the CLSD to arrive, the
+automatic termination to happen, and then ask this Court to resurrect a dead
+contract from its ashes. The same reasoning applies to an argument of the
+respondents‘ breaching their general obligations, under Clauses 5.4 and 17.9
+of the said Agreement, to act in good faith towards each other, to comply
+with obligations, including fulfilments of CPs, and refrain from acts which
+could damage the lawful rights and interests of the parties, under the said
+Agreement.
+49. From the discussion above, it can be safely concluded that owing to
+the NA Conversion Condition CP not being satisfied to the petitioner‘s
+satisfaction, the said Agreement automatically terminated on the CLSD i.e.,
+31.05.2025. Before analysing the effect of this conclusion on the reliefs
+sought in the instant petition, it would also be apposite to analyse whether,
+assuming Clause 5.6 of the said Agreement did not apply, and there was in
+fact a breach/fault on the part of the respondents‘, specific performance
+could be granted in such a scenario or not.
+C. SPECIFIC PERFORMANCE OF THE SAID AGREEMENT
+26
+50. Specific performance entails a claimant insisting upon, and the Court
+in turn directing, the defendant to perform a contract in accordance with its
+terms.7
+In the instant case a decree for specific performance of the said
+Agreement would naturally, owing to the conclusion reached above that the
+NA Conversion Condition did not become a CS, require the said CP to be
+satisfied. The respondents‘ would have to satisfy the said condition and get a
+conversion order from the Local Town Panchayat, as also a confirmation
+from the Local Town Panchayat that all applicable fines and penalties in
+connection with the utilisation of agricultural land for non-agricultural
+purposes have been paid.
+51. It does not, however, appear that specific performance could ever be
+granted for such a condition. Reliance may be placed on the decision of the
+Supreme Court in Nandkishore Lalbhai Mehta v. New Era Fabrics Pvt.
+Ltd. and Ors.8
+, para. 43 of which reads as under:
+―43. The submission that the appellant has waived the condition
+regarding taking of consent from the labour for the proposed sale and,
+therefore, this could not be a ground for cancelling the contract is
+misconceived. In the agreement dated 19-10-1977, it was specifically
+mentioned that the sale also be subject to your (the defendants) being
+able to settle with your labour and your labour agreeing to the sale
+contemplated herein and if you are not able to settle with your labour
+and to get them to agree to the sale herein contemplated you will not
+be bound to complete the sale. The moment labour do not agree to the
+sale contemplated, under the terms of the contract, the respondents
+were not bound to complete the sale. The maximum period of nine (9)
+months does not mean that once the labour had declined to give their
+consent for the proposed sale, the contract subsists for a period of
+nine (9) months and it cannot be terminated before that period. The
+agreement for sale is a contingent agreement depending upon
+obtaining permission under Section 22 and Section 27 of the ULC Act,
+property being converted from industrial zone to residential use and
+settlement with the labour and the labour agreeing to the sale
+contemplated therein. If any of the conditions are not fulfilled, the
+respondents were not bound to complete the sale and the appellant
+was only entitled for return of the money with interest @ 18% p.a.
+from the date of refusal of any of the permission or consent or
+agreement mentioned above. As in the present case we find that the
+Mill Mazdoor Sabha has not given its consent to the proposed sale,
+agreement for sale could not have been performed and had ceased.
+The appellant is only entitled to refund of the amount along with
+interest @ 18% p.a. stipulated therein.‖
+Further, in Chitty on Contracts9
+under the heading ―Conditional contracts‖,
+the following position of law has been taken note of:
+―Conditional contracts
+On a principle similar to that stated in para. 27-058 above, an
+obligation which, under the contract alleged to give rise to it, is
+subject to a condition precedent not within the control of the party
+seeking the remedy will not be specifically enforced before the
+condition has occurred; here too the making of the order could turn
+out to be nugatory if the condition were not satisfied. The occurrence
+of the condition removes this obstacle to specific performance.‖
+(Emphasis supplied)
+52. Granting specific performance of such a contract, and particularly the
+NA Conversion Condition, also, effectively amount to compelling the
+government authorities, who are not privy to the said Agreement, to grant
+the change of land use permission. It is but obvious that such a decree
+cannot be granted by a Court. Reliance may be placed on para. 25 of
+Puravankara Projects Ltd. v. Hotel Venus International and Ors.10 which
+reads as under:
+―25. Government by a contract cannot be compelled to grant
+permission. The statutory parameters have to be kept in view. A
+condition may be there, as appears to be in present case, to take steps
+to obtain permission. An agreement may fail because of absence of
+permission. Then it becomes unenforceable.‖
+53. Cumulatively, since the petitioner has not been able to overcome the
+application of Clause 5.6 of the said Agreement, and the contract between
+the parties as on date stands terminated, specific performance for it cannot
+be granted. The reason being that there is no breach, as such of the contract,
+which would inhere in the petitioner the right to insist upon the performance
+of the contract. The automatic termination clause being paramount, shall be
+enforced, and the contract would meet a peaceful death.
+54. Even otherwise, assuming Clause 5.6 was not attracted, the Court
+cannot lose sight of the fact that the satisfaction of NA Conversion
+Condition was dependent upon the government authorities granting an
+approval, which is beyond the control of the respondents‘, and it is trite that
+specific performance for such a contract, cannot be granted.
+55. Reverting to the authorities cited by Mr. Rao, the decisions in K.S.
+Manjunath v. Moorasavirappa,
+11 Narendra Hirawat and Co. v. Sholay
+Media Entertainment Pvt. Ltd.,
+12 Narendra Hirawat & Co. v. Sholay
+Media Entertainment (P) Ltd.,
+13 and A. Murugan v. Rainbow Foundation
+Ltd.14 pertain to the determinability of the contract. The said issue did not
+really arise in the present case. The findings relating to the said Agreement
+not being capable of specific performance is not because of there being an
+inherent flaw in the contract,15 or it being in the nature of a determinable
+contract, but rather because the terms of the contract, particularly Clause 5.6,
+are such that the very enforcement of the terms of the said Agreement would
+prevent, post its automatic termination, the re-birth of the contract. The
+contract has come to an end on its own strength in the manner contemplated
+therein, and not due to any factor attributable to either side.
+56. The discussion in Annamalai v. Vasanthi16 at para. 33, was in the
+context of whether the plaintiff therein was required to seek a declaratory
+relief, and the same has no bearing to the facts of the instant case. Similarly,
+DLF Home Developers Limited v. Shipra Estate Limited17 involved a
+clause fundamentally different from those in the said Agreement. The
+decision of Global Music Junction (P) Ltd. v. Shatrughan Kumar18 was
+also delivered in the context of the plaintiff therein approaching the Court
+during the subsistence of the agreement.
+57. The decision of the Bombay High Court in Sekura Roads Ltd. v.
+IL&FS Transportation Networks Ltd.,
+19 is also distinguishable on facts. In
+para. 14 of the judgement, it narrates that there was no provision for an
+automatic termination in the agreement in issue; and the observations made
+by the learned judge at para. 29 are to be appreciated in that very context.
+58. Lastly, while the principle in Upma Khanna v. Tarun Sawhney,
+20
+that no person can be allowed to take benefit of their own wrong is not
+doubted, the same does not really apply to the instant case. In Upma
+Khanna (supra), the agreement to sell therein required the sellers to convert
+the land, subject matter of the agreement, from leasehold to freehold under
+L&DO. In para 7, the said judgement records that L&DO would not have
+executed the conveyance deed unless the demand outstanding in its records
+was cleared. This was, unequivocally, not been done by the sellers. It, thus,
+allowed the Court, to conclusively arrive at the finding of fault qua the
+sellers. In the instance case, as is noted in paras 40-42 of this judgement,
+such a view at this stage cannot be taken.
+59. Further, even if fault is attributed on the part of the respondents, the
+consequence of the fault appears to be provided for in the agreement itself.
+Specific performance to enforce the said Agreement, in any case, will not
+lie. In light of the discussion above, it is clear that out of the triple test which
+a claimant needs to satisfy for an interim injunction, it being a prima facie
+case in its favour, balance of convenience, and irreparable injury, the
+petitioner has faltered on the very first step. There is no prima facie case
+made out for the grant of an interim injunction.
+60. However, since the present dispute would be the subject matter of
+arbitration to be conducted before the arbitral tribunal. It would be
+appropriate to secure the interest of the petitioner insofar as its investment in
+securing a credit line is concerned. The petitioner, if in case it succeeds
+
+20 2012 SCC OnLine Del 2716
+31
+before the tribunal, depending upon the satisfaction of the learned
+arbitrators, may be awarded either a decree for specific performance or
+damages, but in either case, it becomes important to secure the monies spent
+by it in maintaining the credit line to close the SPAs. The amount so spent as
+interest payments in maintaining the credit line is, as per the petition,
+€208,532/- which is equivalent to INR 2,20,85,783.52/-. The respondents
+are, therefore, directed to deposit a lump sum amount of INR 3,00,00,000/-,
+or furnish a bank guarantee of an equivalent amount with the arbitral
+tribunal, so constituted, within a period of 15 days from today.
+61. In light of the submission made by Mr. Mehta in O.M.P. (I) (Comm.)
+489/2025, that the fate of their petition is contingent on the outcome of
+O.M.P. (I) (Comm.) 464/2025, and that their petition would be infructuous if
+the latter petition is dismissed, O.M.P. (I) (Comm.) 489/2025 also, deserves
+to be, dismissed.
+IV. ORDER
+62. Accordingly, the present petition O.M.P. (I) (Comm.) 489/2025 is
+disposed of. O.M.P. (I) (Comm.) 464/2025 is hereby dismissed as having
+been rendered infructuous. Pending applications, if any, in the said petitions,
+also stand disposed of. 
