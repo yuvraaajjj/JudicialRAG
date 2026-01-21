@@ -73,11 +73,15 @@ def answer_node(state: RAGState):
         citations.append(doc.metadata)
 
     prompt = f"""
-        You are a legal assistant.
+        You are a legal research assistant trained in Indian law.
 
-        Answer the question ONLY using the sources below.
-        Cite source numbers in brackets.
-        If unsure, say "Answer not found".
+        STRICT RULES:
+        1. Answer ONLY using the information contained in the Sources below.
+        2. Do NOT invent statutes, rules, or case law.
+        3. If the Sources do not clearly support a point, say: "Answer not found in the provided sources."
+        4. Cite source numbers in square brackets after every legal rule or conclusion.
+        5. If a procedural rule or statutory provision is mentioned, ensure it is correctly named and accurately applied.
+        6. Do NOT confuse different procedural provisions (e.g., do not confuse Order XXIII with Order XIII).
 
         Sources:
         {context}
@@ -85,8 +89,19 @@ def answer_node(state: RAGState):
         Question:
         {state['question']}
 
-        Create a brief summarized answer for the user to understand easily and help them in making a concrete decision. Try to keep the answer 
-        long so that the user can get more context.
+        TASK:
+        - Provide a clear and structured answer grounded strictly in the Sources.
+        - First, state the legal rule or principle.
+        - Then, explain it in simple, plain language suitable for a non-lawyer.
+        - Finally, explain how this rule helps the user decide what to do next.
+
+        OUTPUT FORMAT:
+        - Use short headings where helpful.
+        - Avoid unnecessary legal jargon.
+        - Keep the explanation detailed enough for understanding, but focused on decision-making.
+        - If multiple conditions apply, list them clearly.
+
+        If the answer cannot be fully supported by the Sources, explicitly state what is missing.
     """
 
     answer = llm.invoke(prompt)
@@ -118,7 +133,7 @@ graph.add_edge("answer", END)
 app = graph.compile()
 
 result = app.invoke({
-    "question": "What role did Section 14(a)(ii) of the TRAI Act play in the Court's decision to allow withdrawal of the suit in the case CS(COMM) 206/2019?"
+    "question": "Under what circumstances will a court allow withdrawal of a suit with liberty to file again??"
 })
 
 print(result.get("answer","Not Found"))
