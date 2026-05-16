@@ -27,6 +27,8 @@ class RAGState(TypedDict):
     verified: bool
     answer: str
     citation: List[Dict[str, Any]]
+    validation: str
+    approved: bool
 
 def retrive_node(state: RAGState):
     docs = retriever.invoke(state["question"])
@@ -111,11 +113,82 @@ def answer_node(state: RAGState):
         "citation": citations
     }
 
+def judge_node(state: RAGState):
+    source = ""
+
+    for i,meta in enumerate(state["document"]):
+        source += f"\nSource{i+1} = {meta.page_content}\n"
+    
+    prompt = f"""
+
+        You are a Judge-Mode Legal Validator.
+
+        ROLE:
+        You are acting as a senior judge and procedural law expert in Indian civil law.
+
+        STRICT OBJECTIVES:
+        1. Verify that all legal provisions cited are correct and accurately applied.
+        2. Detect doctrinal errors, including:
+        - Wrong CPC / Limitation Act provisions
+        - Confusion between jurisdiction, maintainability, and merits
+        - Misuse of limitation law
+        - Overstatement of judicial discretion
+        3. Identify statements that could mislead a litigant.
+        4. Decide whether the answer is safe to show to a user.
+
+        DO NOT:
+        - Add new law or case law
+        - Rewrite the answer
+        - Assume facts not present in the sources
+
+        INPUTS:
+
+        User Question:
+        {state['question']}
+
+        Generated Answer:
+        {state['answer']}
+
+        Sources:
+        {source}
+
+        TASKS:
+        A. List all legal provisions referenced.
+        B. Verify correctness and application of each.
+        C. Identify doctrinal errors or ambiguities.
+        D. Decide safety for end-user consumption.
+
+        FINAL OUTPUT FORMAT (MANDATORY):
+
+        VALIDATION RESULT:
+        - Status: APPROVED / APPROVED WITH WARNINGS / REJECTED
+        - Confidence Score: (0–100)
+
+        ERRORS (if any):
+        - [Provision / Concept]: Explanation
+
+        WARNINGS (if any):
+        - Explanation
+
+        RECOMMENDATION:
+        - Show as-is / Show with disclaimer / Regenerate answer
+    """
+
+    validation = llm.invoke(prompt)
+
+    approved = "STATUS: APPROVED" or "STATUS: APPROVED WITH WARNINGS"in validation.upper()
+
+    return {
+        "validation": validation,
+        "approved": approved
+    }
+
 graph = StateGraph(RAGState)
 
 graph.add_node("retrieve", retrive_node)
 graph.add_node("verify", verify_node)
 graph.add_node("answer", answer_node)
+graph.add_node("judge",judge_node)
 
 graph.set_entry_point("retrieve")
 graph.add_edge("retrieve", "verify")
@@ -128,7 +201,8 @@ graph.add_conditional_edges(
     route_after_verify
 )
 
-graph.add_edge("answer", END)
+graph.add_edge("answer", "judge")
+graph.add_edge("judge", END)
 
 app = graph.compile()
 
@@ -136,13 +210,19 @@ result = app.invoke({
     "question": "Under what circumstances will a court allow withdrawal of a suit with liberty to file again??"
 })
 
-print(result.get("answer","Not Found"))
-print("\nCITATIONS")
-for i, meta in enumerate(result.get("citation", []), start=1):
-    print(f"\n[Citation {i}]")
-    print(f"Court: {meta.get('court')}")
-    print(f"Case No: {meta.get('case_numbers')}")
-    print(f"Date of Decision: {meta.get('date_of_decision')}")
-    print(f"Judge(s): {meta.get('judges')}")
-    print(f"Source File: {meta.get('source_file')}")
-    print(f"Chunk ID: {meta.get('chunk_id')}")
+if result.get("approved"):
+    print(result.get("approved"))
+    print(result.get("answer","Not Found"))
+    print("\nCITATIONS")
+    for i, meta in enumerate(result.get("citation", []), start=1):
+        print(f"\n[Citation {i}]")
+        print(f"Court: {meta.get('court')}")
+        print(f"Case No: {meta.get('case_numbers')}")
+        print(f"Date of Decision: {meta.get('date_of_decision')}")
+        print(f"Judge(s): {meta.get('judges')}")
+        print(f"Source File: {meta.get('source_file')}")
+        print(f"Chunk ID: {meta.get('chunk_id')}")
+else:
+    print("⚠️ Answer withheld due to legal validation issues.")
+    print("\nJUDGE MODE FEEDBACK:\n")
+    print(result.get("validation"))
