@@ -1,0 +1,38 @@
+from flask import Flask, request, jsonify
+from flask_cors import CORS
+import os
+from retriever.langgraph_retriever import app as app
+
+app = Flask(__name__)
+CORS(app, supports_credentials=True,origins=["http://localhost:5173"])
+app.secret_key = os.urandom(24)
+app.config.update(
+    SESSION_COOKIE_SAMESITE='None',
+    SESSION_COOKIE_SECURE=True
+)
+
+@app.route("/check", methods=["GET"])
+def check():
+    return jsonify({"status": "ok"})
+
+@app.route("/ask", methods=["POST"])
+def ask():
+    data = request.json_data()
+
+    if not data or "question" not in data:
+        return jsonify({"error": "Require a question"}), 400
+    
+    question = data["question"]
+
+    try:
+        result = app.invoke({
+            "question": question
+        })
+
+        return jsonify(result)
+    except Exception as e:
+        return jsonify({"error": f"Error processing question: {str(e)}"}), 500
+    
+
+if __name__ == "__main__":
+    app.run(host="0.0.0.0", port=5000)
