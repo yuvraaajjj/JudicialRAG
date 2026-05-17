@@ -5,9 +5,10 @@ from langgraph.graph import StateGraph, END
 from langchain_community.vectorstores import FAISS
 from langchain_ollama import OllamaEmbeddings, OllamaLLM
 import os
+from pathlib import Path
 
-curr_dir = os.path.dirname(os.path.abspath(__file__))
-db_dir = os.path.join(curr_dir, "db", "faiss")
+BASE_DIR = Path(__file__).resolve().parent.parent
+db_dir = BASE_DIR / "db" / "faiss"
 
 embeddings = OllamaEmbeddings(model="embeddinggemma")
 
@@ -22,20 +23,28 @@ retriever = vector.as_retriever(
     search_kwargs = {"k": 5}
 )
 
-class RAGState(TypedDict):
+class RAGState(TypedDict, total=False):
     question: str
-    document: List[Document]
+    document: List[Dict[str, Any]]
     verified: bool
     answer: str
-    citation: List[Dict[str, Any]]
+    citations: List[Dict[str, Any]]
     validation: str
     approved: bool
 
 def retrive_node(state: RAGState):
     docs = retriever.invoke(state["question"])
-    return {
-        "document": docs
-    }
+
+    serializable_docs = []
+    for doc in docs:
+        serializable_docs.append({
+            "page_content": doc.page_content,
+            "metadata": doc.metadata
+        })
+
+    new_state = dict(state)
+    new_state["document"] = serializable_docs
+    return new_state
 
 llm = OllamaLLM(model="nemotron-3-nano:30b-cloud")
 
@@ -43,7 +52,7 @@ def verify_node(state: RAGState):
     if not state["document"]:
         return {"verified": False}
     
-    joined_text = "\n".join(doc.page_content for doc in state["document"])
+    joined_text = "\n".join(doc["page_content"] for doc in state["document"])
 
     prompt = f"""
         You are verifying whether a legal question can be answered
@@ -62,18 +71,18 @@ def verify_node(state: RAGState):
 
     result = llm.invoke(prompt).strip().upper()
 
-    return{
-        "verified": result == "YES"
-    }
+    new_state = dict(state)
+    new_state["verified"] = (result == "YES")
+    return new_state
 
 def answer_node(state: RAGState):
     context = ""
     citations = []
     for i, doc in enumerate(state["document"]):
-        context += f"\nSource{i+1}: {doc.page_content}\n"
+        context += f"\nSource{i+1}: {doc['page_content']}\n"
 
     for i, doc in enumerate(state["document"]):
-        citations.append(doc.metadata)
+        citations.append(doc["metadata"])
 
     prompt = f"""
         You are a legal research assistant trained in Indian law.
@@ -109,16 +118,17 @@ def answer_node(state: RAGState):
 
     answer = llm.invoke(prompt)
 
-    return {
-        "answer": answer,
-        "citation": citations
-    }
+    new_state = dict(state)
+    new_state["answer"] = answer
+    new_state["citations"] = citations
+
+    return new_state
 
 def judge_node(state: RAGState):
     source = ""
 
     for i,doc in enumerate(state["document"]):
-        source += f"\nSource{i+1} = {doc.page_content}\n"
+        source += f"\nSource{i+1} = {doc['page_content']}\n"
     
     prompt = f"""
 
@@ -176,32 +186,34 @@ def judge_node(state: RAGState):
     """
 
     validation = llm.invoke(prompt)
+    val = validation.upper()
 
-    approved = "STATUS: APPROVED" or "STATUS: APPROVED WITH WARNINGS"in validation.upper()
+    approved = (
+        "STATUS: APPROVED" in val or
+        "STATUS: APPROVED WITH WARNINGS" in val
+    )
 
-    return {
-        "validation": validation,
-        "approved": approved
-    }
+    new_state = dict(state)
+    new_state["validation"] = validation
+    new_state["approved"] = approved
+
+    return new_state
 
 def api_node(state: RAGState):
-    citations = []
+    clean_citations = []
 
     for meta in state["citations"]:
-        citations.append({
+        clean_citations.append({
             "court": meta.get("court"),
-            "case_number": meta.get("case_number"),
-            "date_of_judgment": meta.get("date_of_judgment"),
+            "case_numbers": meta.get("case_numbers"),
+            "date_of_decision": meta.get("date_of_decision"),
             "judges": meta.get("judges"),
-            "source_file": meta.get("source_file")
+            "source_file": meta.get("source_file"),
         })
-    
-    return {
-        "approved": state["approved"],
-        "answer": state["answer"],
-        "citaions": citations,
-        "validation": state["validation"]
-    }
+
+    new_state = dict(state)
+    new_state["citations"] = clean_citations
+    return new_state
 
 graph = StateGraph(RAGState)
 
@@ -214,19 +226,28 @@ graph.add_node("api", api_node)
 graph.set_entry_point("retrieve")
 graph.add_edge("retrieve", "verify")
 
-def route_after_verify(state: RAGState):
-    return "answer" if state["verified"] else END
+# def route_after_verify(state: RAGState):
+#     return "answer" if state["verified"] else END
 
-graph.add_conditional_edges(
-    "verify",
-    route_after_verify
-)
-
+# graph.add_conditional_edges(
+#     "verify",
+#     route_after_verify
+# )
+graph.add_edge("verify", "answer")
 graph.add_edge("answer", "judge")
 graph.add_edge("judge", "api")
 graph.add_edge("api", END)
 
 app = graph.compile()
+
+def state_to_dict(state):
+    return {
+        "question": state.get("question"),
+        "answer": state.get("answer"),
+        "approved": state.get("approved"),
+        "validation": state.get("validation"),
+        "citations": state.get("citations"),
+    }
 
 
 # if result.get("approved"):

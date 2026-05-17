@@ -1,7 +1,7 @@
 from flask import Flask, request, jsonify
 from flask_cors import CORS
 import os
-from retriever.langgraph_retriever import app as app
+from retriever.langgraph_retriever import app as rag_app, state_to_dict
 
 app = Flask(__name__)
 CORS(app, supports_credentials=True,origins=["http://localhost:5173"])
@@ -17,7 +17,7 @@ def check():
 
 @app.route("/ask", methods=["POST"])
 def ask():
-    data = request.json_data()
+    data = request.get_json()
 
     if not data or "question" not in data:
         return jsonify({"error": "Require a question"}), 400
@@ -25,11 +25,11 @@ def ask():
     question = data["question"]
 
     try:
-        result = app.invoke({
+        result = rag_app.invoke({
             "question": question
         })
 
-        return jsonify(result)
+        return jsonify(state_to_dict(result))
     except Exception as e:
         return jsonify({"error": f"Error processing question: {str(e)}"}), 500
     
