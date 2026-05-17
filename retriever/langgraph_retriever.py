@@ -33,17 +33,13 @@ class RAGState(TypedDict, total=False):
     approved: bool
 
 def retrive_node(state: RAGState):
-    docs = retriever.invoke(state["question"])
-
-    serializable_docs = []
-    for doc in docs:
-        serializable_docs.append({
-            "page_content": doc.page_content,
-            "metadata": doc.metadata
-        })
-
-    new_state = dict(state)
-    new_state["document"] = serializable_docs
+    docs = retriever.invoke(state["question"]) 
+    serializable_docs = [] 
+    for doc in docs: serializable_docs.append(
+        { "page_content": doc.page_content, "metadata": doc.metadata }
+    ) 
+    new_state = dict(state) 
+    new_state["document"] = serializable_docs 
     return new_state
 
 llm = OllamaLLM(model="nemotron-3-nano:30b-cloud")
@@ -123,6 +119,7 @@ def answer_node(state: RAGState):
     new_state["citations"] = citations
 
     return new_state
+
 
 def judge_node(state: RAGState):
     source = ""
@@ -215,28 +212,22 @@ def api_node(state: RAGState):
     new_state["citations"] = clean_citations
     return new_state
 
+
 graph = StateGraph(RAGState)
 
 graph.add_node("retrieve", retrive_node)
 graph.add_node("verify", verify_node)
 graph.add_node("answer", answer_node)
-graph.add_node("judge",judge_node)
+graph.add_node("judge", judge_node)
 graph.add_node("api", api_node)
 
 graph.set_entry_point("retrieve")
 graph.add_edge("retrieve", "verify")
-
-# def route_after_verify(state: RAGState):
-#     return "answer" if state["verified"] else END
-
-# graph.add_conditional_edges(
-#     "verify",
-#     route_after_verify
-# )
 graph.add_edge("verify", "answer")
 graph.add_edge("answer", "judge")
 graph.add_edge("judge", "api")
 graph.add_edge("api", END)
+
 
 app = graph.compile()
 
@@ -248,21 +239,3 @@ def state_to_dict(state):
         "validation": state.get("validation"),
         "citations": state.get("citations"),
     }
-
-
-# if result.get("approved"):
-#     print(result.get("approved"))
-#     print(result.get("answer","Not Found"))
-#     print("\nCITATIONS")
-#     for i, meta in enumerate(result.get("citation", []), start=1):
-#         print(f"\n[Citation {i}]")
-#         print(f"Court: {meta.get('court')}")
-#         print(f"Case No: {meta.get('case_numbers')}")
-#         print(f"Date of Decision: {meta.get('date_of_decision')}")
-#         print(f"Judge(s): {meta.get('judges')}")
-#         print(f"Source File: {meta.get('source_file')}")
-#         print(f"Chunk ID: {meta.get('chunk_id')}")
-# else:
-#     print("⚠️ Answer withheld due to legal validation issues.")
-#     print("\nJUDGE MODE FEEDBACK:\n")
-#     print(result.get("validation"))
